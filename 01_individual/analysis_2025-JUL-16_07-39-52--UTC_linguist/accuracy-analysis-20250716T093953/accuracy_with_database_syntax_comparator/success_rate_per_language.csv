@@ -1,0 +1,679 @@
+,ground-truth,linguist
+1C Enterprise,100.0,100.0
+2-Dimensional Array,100.0,100.0
+4D,100.0,100.0
+ABAP CDS,100.0,100.0
+ABAP,100.0,100.0
+ABNF,100.0,100.0
+AGS Script,100.0,100.0
+AIDL,100.0,100.0
+AL,100.0,100.0
+AMPL,100.0,100.0
+API Blueprint,100.0,100.0
+APL,100.0,100.0
+ASL,100.0,100.0
+ASN.1,100.0,100.0
+ASP.NET,100.0,100.0
+ATS,100.0,100.0
+ActionScript,100.0,100.0
+Adblock Filter List,100.0,100.0
+Adobe Font Metrics,100.0,100.0
+Agda,100.0,100.0
+Alloy,100.0,100.0
+Alpine Abuild,100.0,100.0
+Altium Designer,100.0,100.0
+AngelScript,100.0,100.0
+Ant Build System,100.0,100.0
+Antlers,100.0,100.0
+ApacheConf,100.0,100.0
+Apex,100.0,100.0
+Apollo Guidance Computer,100.0,100.0
+AppleScript,100.0,100.0
+AsciiDoc,100.0,100.0
+AspectJ,100.0,100.0
+Assembly,100.0,100.0
+Astro,100.0,100.0
+Asymptote,100.0,100.0
+AutoHotkey,100.0,100.0
+Avro IDL,100.0,100.0
+Awk,100.0,100.0
+B4X,100.0,100.0
+BASIC,100.0,100.0
+BQN,100.0,100.0
+Ballerina,100.0,100.0
+Beef,100.0,100.0
+Befunge,100.0,100.0
+Berry,100.0,100.0
+BibTeX,100.0,100.0
+Bicep,100.0,100.0
+Bikeshed,100.0,100.0
+BitBake,100.0,100.0
+Blade,100.0,100.0
+BlitzBasic,100.0,100.0
+BlitzMax,100.0,100.0
+Bluespec BH,100.0,100.0
+Bluespec,100.0,100.0
+Boogie,100.0,100.0
+Brainfuck,100.0,100.0
+BrighterScript,100.0,100.0
+Brightscript,100.0,100.0
+Browserslist,100.0,100.0
+C#,100.0,100.0
+C++,100.0,100.0
+C,100.0,100.0
+CAP CDS,100.0,100.0
+CIL,100.0,100.0
+CLIPS,100.0,100.0
+CMake,100.0,100.0
+COBOL,100.0,100.0
+CODEOWNERS,100.0,100.0
+CSON,100.0,100.0
+CSS,100.0,100.0
+CSV,100.0,100.0
+CUE,100.0,100.0
+CWeb,100.0,100.0
+Cabal Config,100.0,100.0
+Caddyfile,100.0,100.0
+Cadence,100.0,100.0
+Cairo Zero,100.0,100.0
+Cairo,100.0,100.0
+CameLIGO,100.0,100.0
+Carbon,100.0,100.0
+CartoCSS,100.0,100.0
+Ceylon,100.0,100.0
+Chapel,100.0,100.0
+Charity,100.0,100.0
+Checksums,100.0,100.0
+Circom,100.0,100.0
+Cirru,100.0,100.0
+Clarion,100.0,100.0
+Clarity,100.0,100.0
+Classic ASP,100.0,100.0
+Clean,100.0,100.0
+Click,100.0,100.0
+Clojure,100.0,100.0
+Closure Templates,100.0,100.0
+Cloud Firestore Security Rules,100.0,100.0
+CoNLL-U,100.0,100.0
+CodeQL,100.0,100.0
+CoffeeScript,100.0,100.0
+ColdFusion CFC,100.0,100.0
+ColdFusion,100.0,100.0
+Common Lisp,100.0,100.0
+Common Workflow Language,100.0,100.0
+Component Pascal,100.0,100.0
+Cool,100.0,100.0
+Coq,100.0,100.0
+Creole,100.0,100.0
+Crystal,100.0,100.0
+Csound Document,100.0,100.0
+Csound Score,100.0,100.0
+Csound,100.0,100.0
+Cuda,100.0,100.0
+Cue Sheet,100.0,100.0
+Curry,100.0,100.0
+Cycript,100.0,100.0
+Cylc,100.0,100.0
+Cypher,100.0,100.0
+D,100.0,100.0
+D2,100.0,100.0
+DIGITAL Command Language,100.0,100.0
+DM,100.0,100.0
+DNS Zone,100.0,100.0
+DTrace,100.0,100.0
+Dafny,100.0,100.0
+Dart,100.0,100.0
+DataWeave,100.0,100.0
+Debian Package Control File,100.0,100.0
+DenizenScript,100.0,100.0
+Dhall,100.0,100.0
+Diff,100.0,100.0
+DirectX 3D File,100.0,100.0
+Dockerfile,100.0,100.0
+Dogescript,100.0,100.0
+Dotenv,100.0,100.0
+Dune,100.0,100.0
+E-mail,100.0,100.0
+E,100.0,100.0
+EBNF,100.0,100.0
+ECL,100.0,100.0
+ECLiPSe,100.0,100.0
+EJS,100.0,100.0
+EQ,100.0,100.0
+Eagle,100.0,100.0
+Earthly,100.0,100.0
+Easybuild,100.0,100.0
+Ecmarkup,100.0,100.0
+Edge,100.0,100.0
+EdgeQL,100.0,100.0
+EditorConfig,100.0,100.0
+Edje Data Collection,100.0,100.0
+Eiffel,100.0,100.0
+Elixir,100.0,100.0
+Elm,100.0,100.0
+Elvish,100.0,100.0
+Emacs Lisp,100.0,100.0
+EmberScript,100.0,100.0
+Erlang,100.0,100.0
+Euphoria,100.0,100.0
+F#,100.0,100.0
+FIGlet Font,100.0,100.0
+FIRRTL,100.0,100.0
+FLUX,100.0,100.0
+Fantom,100.0,100.0
+Faust,100.0,100.0
+Fennel,100.0,100.0
+Filebench WML,100.0,100.0
+Filterscript,100.0,100.0
+Fluent,100.0,100.0
+Formatted,100.0,100.0
+Forth,100.0,100.0
+Fortran,100.0,100.0
+FreeBASIC,100.0,100.0
+FreeMarker,100.0,100.0
+Frege,100.0,100.0
+Fstar,100.0,0.0
+Futhark,100.0,100.0
+G-code,100.0,100.0
+GAML,100.0,100.0
+GAMS,100.0,100.0
+GAP,100.0,100.0
+GCC Machine Description,100.0,100.0
+GDB,100.0,100.0
+GDScript,100.0,100.0
+GEDCOM,100.0,100.0
+GLSL,100.0,100.0
+GN,100.0,100.0
+GSC,100.0,100.0
+Game Maker Language,100.0,100.0
+Gemfile.lock,100.0,100.0
+Gemini,100.0,100.0
+Genero 4gl,100.0,100.0
+Genero per,100.0,100.0
+Genie,100.0,100.0
+Gerber Image,100.0,100.0
+Gherkin,100.0,100.0
+Git Attributes,100.0,100.0
+Git Config,100.0,100.0
+Git Revision List,100.0,100.0
+Gleam,100.0,100.0
+Glimmer JS,100.0,100.0
+Glimmer TS,100.0,100.0
+Glyph Bitmap Distribution Format,100.0,100.0
+Gnuplot,100.0,100.0
+Go Checksums,100.0,100.0
+Go Module,100.0,100.0
+Go Workspace,100.0,100.0
+Go,100.0,100.0
+Godot Resource,100.0,100.0
+Golo,100.0,100.0
+Gosu,100.0,100.0
+Grace,100.0,100.0
+Gradle Kotlin DSL,100.0,100.0
+Gradle,100.0,100.0
+Grammatical Framework,100.0,100.0
+Graph Modeling Language,100.0,100.0
+GraphQL,100.0,100.0
+Graphviz (DOT),100.0,100.0
+Groovy Server Pages,100.0,100.0
+Groovy,100.0,100.0
+HAProxy,100.0,100.0
+HCL,100.0,100.0
+HLSL,100.0,100.0
+HOCON,100.0,100.0
+HTML+ECR,100.0,100.0
+HTML+EEX,100.0,100.0
+HTML+ERB,100.0,100.0
+HTML+Razor,100.0,100.0
+HTML,100.0,100.0
+HXML,100.0,100.0
+Hack,100.0,100.0
+Haml,100.0,100.0
+Handlebars,100.0,100.0
+Hare,100.0,100.0
+Haskell,100.0,100.0
+HiveQL,100.0,100.0
+HolyC,100.0,100.0
+Hosts File,100.0,100.0
+Hy,100.0,100.0
+HyPhy,100.0,100.0
+IDL,100.0,100.0
+IGOR Pro,100.0,100.0
+INI,100.0,100.0
+Idris,100.0,100.0
+Ignore List,100.0,100.0
+ImageJ Macro,100.0,100.0
+Imba,100.0,100.0
+Inform 7,100.0,100.0
+Ink,100.0,100.0
+Inno Setup,100.0,100.0
+Ioke,100.0,100.0
+Isabelle ROOT,100.0,100.0
+Isabelle,100.0,100.0
+J,100.0,100.0
+JAR Manifest,100.0,100.0
+JCL,100.0,100.0
+JFlex,100.0,100.0
+JSON with Comments,100.0,100.0
+JSON,100.0,100.0
+JSON5,100.0,100.0
+JSONLD,100.0,100.0
+JSONiq,100.0,100.0
+Janet,100.0,100.0
+Jasmin,100.0,100.0
+Java Properties,100.0,100.0
+Java Template Engine,100.0,100.0
+Java,100.0,100.0
+JavaScript+ERB,100.0,100.0
+JavaScript,100.0,100.0
+Jest Snapshot,100.0,100.0
+JetBrains MPS,100.0,100.0
+Jinja,100.0,100.0
+Jison Lex,100.0,100.0
+Jison,100.0,100.0
+Jolie,100.0,100.0
+Jsonnet,100.0,100.0
+Julia,100.0,100.0
+Jupyter Notebook,100.0,100.0
+Just,100.0,100.0
+KRL,100.0,100.0
+Kaitai Struct,100.0,100.0
+KakouneScript,100.0,100.0
+KerboScript,100.0,100.0
+KiCad Layout,100.0,100.0
+KiCad Legacy Layout,100.0,100.0
+KiCad Schematic,100.0,100.0
+Kickstart,100.0,100.0
+Kit,100.0,100.0
+Kotlin,100.0,100.0
+Kusto,100.0,100.0
+LFE,100.0,100.0
+LOLCODE,100.0,100.0
+LSL,100.0,100.0
+LTspice Symbol,100.0,100.0
+LabVIEW,100.0,100.0
+Lark,100.0,100.0
+Lasso,100.0,100.0
+Latte,100.0,100.0
+Lean 4,100.0,100.0
+Lean,100.0,100.0
+Less,100.0,100.0
+Lex,100.0,100.0
+LigoLANG,100.0,100.0
+Limbo,100.0,100.0
+Linker Script,100.0,100.0
+Linux Kernel Module,100.0,100.0
+Liquid,100.0,100.0
+Literate Agda,100.0,100.0
+Literate CoffeeScript,100.0,100.0
+LiveCode Script,100.0,100.0
+LiveScript,100.0,100.0
+Logos,100.0,100.0
+Logtalk,100.0,100.0
+LookML,100.0,100.0
+LoomScript,100.0,100.0
+Lua,100.0,100.0
+Luau,100.0,100.0
+M,100.0,100.0
+M4,100.0,100.0
+M4Sugar,100.0,100.0
+MATLAB,100.0,100.0
+MAXScript,100.0,100.0
+MDX,100.0,100.0
+MLIR,100.0,100.0
+MQL4,100.0,100.0
+MQL5,100.0,100.0
+MTML,100.0,100.0
+MUF,100.0,100.0
+Macaulay2,100.0,100.0
+Makefile,100.0,100.0
+Markdown,100.0,100.0
+Marko,100.0,100.0
+Mask,100.0,100.0
+Mathematica,100.0,100.0
+Maven POM,100.0,100.0
+Max,100.0,100.0
+Mercury,100.0,100.0
+Mermaid,100.0,100.0
+Meson,100.0,100.0
+Metal,100.0,100.0
+Microsoft Developer Studio Project,100.0,100.0
+Microsoft Visual Studio Solution,100.0,100.0
+MiniYAML,100.0,100.0
+Mint,100.0,100.0
+Modelica,100.0,100.0
+Modula-2,100.0,100.0
+Modula-3,100.0,100.0
+Module Management System,100.0,100.0
+Mojo,100.0,100.0
+Monkey C,100.0,100.0
+Monkey,100.0,100.0
+Moocode,100.0,100.0
+MoonBit,100.0,100.0
+MoonScript,100.0,100.0
+Motoko,100.0,100.0
+Motorola 68K Assembly,100.0,100.0
+Move,100.0,100.0
+Muse,100.0,100.0
+Mustache,100.0,100.0
+NASL,100.0,100.0
+NCL,100.0,100.0
+NEON,100.0,100.0
+NL,100.0,100.0
+NMODL,100.0,100.0
+NPM Config,100.0,100.0
+NSIS,100.0,100.0
+NWScript,100.0,100.0
+Nasal,100.0,100.0
+Nearley,100.0,100.0
+Nemerle,100.0,100.0
+NetLinx+ERB,100.0,100.0
+NetLinx,100.0,100.0
+NetLogo,100.0,100.0
+NewLisp,100.0,100.0
+Nextflow,100.0,100.0
+Nginx,100.0,100.0
+Nim,100.0,100.0
+Nit,100.0,100.0
+Nix,100.0,100.0
+Noir,100.0,100.0
+Nu,100.0,100.0
+Nunjucks,100.0,100.0
+Nushell,100.0,100.0
+OASv2-json,100.0,100.0
+OASv2-yaml,100.0,100.0
+OASv3-json,100.0,100.0
+OASv3-yaml,100.0,100.0
+OCaml,100.0,100.0
+Oberon,100.0,100.0
+Object Data Instance Notation,100.0,100.0
+ObjectScript,100.0,100.0
+Objective-C++,100.0,100.0
+Objective-C,100.0,100.0
+Objective-J,100.0,100.0
+Odin,100.0,100.0
+Omgrofl,100.0,100.0
+Opa,100.0,100.0
+Opal,100.0,100.0
+Open Policy Agent,100.0,100.0
+OpenCL,100.0,100.0
+OpenEdge ABL,100.0,100.0
+OpenQASM,100.0,100.0
+OpenRC runscript,100.0,100.0
+OpenSCAD,100.0,100.0
+OpenStep Property List,100.0,100.0
+Option List,100.0,100.0
+Org,100.0,100.0
+Ox,100.0,100.0
+Oxygene,100.0,100.0
+Oz,100.0,100.0
+P4,100.0,100.0
+PDDL,100.0,100.0
+PEG.js,100.0,100.0
+PHP,100.0,100.0
+PLSQL,100.0,100.0
+PLpgSQL,100.0,100.0
+POV-Ray SDL,100.0,100.0
+Pact,100.0,100.0
+Pan,100.0,100.0
+Papyrus,100.0,100.0
+Parrot Assembly,100.0,100.0
+Parrot Internal Representation,100.0,100.0
+Pascal,100.0,100.0
+Pawn,100.0,100.0
+Pep8,100.0,100.0
+Perl,100.0,100.0
+Pic,100.0,100.0
+Pickle,100.0,100.0
+PicoLisp,100.0,100.0
+PigLatin,100.0,100.0
+Pike,100.0,100.0
+Pip Requirements,100.0,100.0
+Pkl,100.0,100.0
+PlantUML,100.0,100.0
+Pod 6,100.0,100.0
+Pod,100.0,100.0
+PogoScript,100.0,100.0
+Polar,100.0,100.0
+Pony,100.0,100.0
+Portugol,100.0,100.0
+PostCSS,100.0,100.0
+PostScript,100.0,100.0
+PowerBuilder,100.0,100.0
+PowerShell,100.0,100.0
+Praat,100.0,100.0
+Prisma,100.0,100.0
+Processing,100.0,100.0
+Procfile,100.0,100.0
+Proguard,100.0,100.0
+Prolog,100.0,100.0
+Promela,100.0,100.0
+Propeller Spin,100.0,100.0
+Protocol Buffer Text Format,100.0,100.0
+Protocol Buffer,100.0,100.0
+Public Key,100.0,100.0
+Pug,100.0,100.0
+Puppet,100.0,100.0
+PureBasic,100.0,100.0
+PureScript,100.0,100.0
+Pyret,100.0,100.0
+Python,100.0,100.0
+Q#,100.0,100.0
+QML,100.0,100.0
+QMake,100.0,100.0
+Qt Script,100.0,100.0
+Quake,100.0,100.0
+QuickBASIC,100.0,100.0
+R,100.0,100.0
+RAML,100.0,100.0
+RBS,100.0,100.0
+RDoc,100.0,100.0
+REXX,100.0,100.0
+RMarkdown,100.0,100.0
+RON,100.0,100.0
+RPC,100.0,100.0
+RPGLE,100.0,100.0
+RPM Spec,100.0,100.0
+RUNOFF,100.0,100.0
+Racket,100.0,100.0
+Ragel,100.0,100.0
+Raku,100.0,100.0
+Rascal,100.0,100.0
+ReScript,100.0,100.0
+Readline Config,100.0,100.0
+Reason,100.0,100.0
+ReasonLIGO,100.0,100.0
+Rebol,100.0,100.0
+Record Jar,100.0,100.0
+Red,100.0,100.0
+Redirect Rules,100.0,100.0
+Regular Expression,100.0,100.0
+RenPy,100.0,0.0
+RenderScript,100.0,100.0
+Rez,100.0,100.0
+Rich Text Format,100.0,100.0
+Ring,100.0,100.0
+Riot,100.0,100.0
+RobotFramework,100.0,100.0
+Roc,100.0,100.0
+Roff Manpage,100.0,100.0
+Roff,100.0,100.0
+RouterOS Script,100.0,100.0
+Ruby,100.0,100.0
+Rust,100.0,100.0
+SAS,100.0,100.0
+SCSS,100.0,100.0
+SELinux Policy,100.0,100.0
+SMT,100.0,100.0
+SPARQL,100.0,100.0
+SQF,100.0,100.0
+SQL,100.0,100.0
+SQLPL,100.0,100.0
+SRecode Template,100.0,100.0
+SSH Config,100.0,100.0
+STAR,100.0,100.0
+STON,100.0,100.0
+SWIG,100.0,100.0
+Sage,100.0,100.0
+SaltStack,100.0,100.0
+Sass,100.0,100.0
+Scala,100.0,100.0
+Scaml,100.0,100.0
+Scenic,100.0,100.0
+Scheme,100.0,100.0
+Scilab,100.0,100.0
+ShaderLab,100.0,100.0
+Shell,100.0,100.0
+ShellCheck Config,100.0,100.0
+ShellSession,100.0,100.0
+Shen,100.0,100.0
+Sieve,100.0,100.0
+Simple File Verification,100.0,100.0
+Singularity,100.0,100.0
+Slash,100.0,100.0
+Slice,100.0,100.0
+Slim,100.0,100.0
+Slint,100.0,100.0
+SmPL,100.0,100.0
+Smali,100.0,100.0
+Smalltalk,100.0,100.0
+Smithy,100.0,100.0
+Snakemake,100.0,100.0
+Soong,100.0,100.0
+SourcePawn,100.0,100.0
+Squirrel,100.0,100.0
+Stan,100.0,100.0
+Standard ML,100.0,100.0
+Starlark,100.0,100.0
+Stata,100.0,100.0
+StringTemplate,100.0,100.0
+Stylus,100.0,100.0
+SubRip Text,100.0,100.0
+SugarSS,100.0,100.0
+SuperCollider,100.0,100.0
+Svelte,100.0,100.0
+Sway,100.0,100.0
+Sweave,100.0,100.0
+Swift,100.0,100.0
+SystemVerilog,100.0,100.0
+TI Program,100.0,100.0
+TL-Verilog,100.0,100.0
+TLA,100.0,100.0
+TOML,100.0,100.0
+TSPLIB data,100.0,100.0
+TSQL,100.0,100.0
+TSV,100.0,100.0
+TSX,100.0,100.0
+TXL,100.0,100.0
+Tact,100.0,100.0
+Talon,100.0,100.0
+Tcl,100.0,100.0
+Tcsh,100.0,100.0
+TeX,100.0,100.0
+Tea,100.0,100.0
+Terra,100.0,100.0
+Terraform Template,100.0,100.0
+Texinfo,100.0,100.0
+Text,100.0,100.0
+TextGrid,100.0,100.0
+TextMate Properties,100.0,100.0
+Thrift,100.0,100.0
+Toit,100.0,100.0
+Turing,100.0,100.0
+Turtle,100.0,100.0
+Type Language,100.0,100.0
+TypeScript,100.0,100.0
+TypeSpec,100.0,100.0
+Typst,100.0,100.0
+Unity3D Asset,100.0,100.0
+Unix Assembly,100.0,100.0
+Uno,100.0,100.0
+UnrealScript,100.0,100.0
+UrWeb,100.0,100.0
+V,100.0,100.0
+VBA,100.0,100.0
+VBScript,100.0,100.0
+VCL,100.0,100.0
+VHDL,100.0,100.0
+Valve Data Format,100.0,100.0
+Velocity Template Language,100.0,100.0
+Verilog,100.0,100.0
+Vim Help File,100.0,100.0
+Vim Script,100.0,100.0
+Vim Snippet,100.0,100.0
+Visual Basic .NET,100.0,100.0
+Visual Basic 6.0,100.0,100.0
+Volt,100.0,100.0
+Vue,100.0,100.0
+Vyper,100.0,100.0
+WDL,100.0,100.0
+WGSL,100.0,100.0
+Wavefront Material,100.0,100.0
+Wavefront Object,100.0,100.0
+Web Ontology Language,100.0,100.0
+WebAssembly Interface Type,100.0,100.0
+WebAssembly,100.0,100.0
+WebIDL,100.0,100.0
+WebVTT,100.0,100.0
+Wget Config,100.0,100.0
+Whiley,100.0,100.0
+Wikitext,100.0,100.0
+Win32 Message File,100.0,100.0
+Windows Registry Entries,100.0,100.0
+Witcher Script,100.0,100.0
+Wollok,100.0,100.0
+World of Warcraft Addon Data,100.0,100.0
+Wren,100.0,100.0
+X BitMap,100.0,100.0
+X Font Directory Index,100.0,100.0
+X PixMap,100.0,100.0
+X10,100.0,100.0
+XC,100.0,100.0
+XCompose,100.0,100.0
+XML Property List,100.0,100.0
+XML,100.0,100.0
+XPages,100.0,100.0
+XProc,100.0,100.0
+XQuery,100.0,100.0
+XS,100.0,100.0
+XSLT,100.0,100.0
+Xojo,100.0,100.0
+Xonsh,100.0,100.0
+Xtend,100.0,100.0
+YAML,100.0,100.0
+YANG,100.0,100.0
+YARA,100.0,100.0
+YASnippet,100.0,100.0
+Yacc,100.0,100.0
+Yul,100.0,100.0
+ZAP,100.0,100.0
+ZIL,100.0,100.0
+Zeek,100.0,100.0
+ZenScript,100.0,100.0
+Zephir,100.0,100.0
+Zig,100.0,100.0
+Zimpl,100.0,100.0
+cURL Config,100.0,100.0
+crontab,100.0,100.0
+desktop,100.0,100.0
+dircolors,100.0,100.0
+eC,100.0,100.0
+edn,100.0,100.0
+fish,100.0,100.0
+hoon,100.0,100.0
+iCalendar,100.0,100.0
+jq,100.0,100.0
+kvlang,100.0,100.0
+mIRC Script,100.0,100.0
+mcfunction,100.0,100.0
+nanorc,100.0,100.0
+omnetpp-msg,100.0,0.0
+omnetpp-ned,100.0,0.0
+q,100.0,100.0
+reStructuredText,100.0,100.0
+robots.txt,100.0,100.0
+sed,100.0,100.0
+templ,100.0,100.0
+vCard,100.0,100.0
+wisp,100.0,100.0
+xBase,100.0,100.0
