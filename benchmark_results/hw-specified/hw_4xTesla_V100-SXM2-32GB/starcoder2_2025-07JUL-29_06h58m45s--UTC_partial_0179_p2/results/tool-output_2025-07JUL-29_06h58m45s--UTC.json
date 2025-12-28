@@ -1,0 +1,722 @@
+{
+  "results": [
+    {
+      "filename": "/samples/IGOR Pro/functions.ipf",
+      "output": "C++\n"
+    },
+    {
+      "filename": "/samples/IGOR Pro/CodeBrowser.ipf",
+      "output": "C++\n"
+    },
+    {
+      "filename": "/samples/IGOR Pro/generic.ipf",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/CWeb/sat-life.w",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/CWeb/mpmathdouble.w",
+      "output": "C++\n"
+    },
+    {
+      "filename": "/samples/CoNLL-U/ug-ud-test-abridged.conllu",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/CoNLL-U/en-ud-test-abridged.conllu",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/CoNLL-U/CF1.conllu",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Earthly/filenames/Earthfile",
+      "output": "Java\n"
+    },
+    {
+      "filename": "/samples/Nemerle/hello.n",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/MATLAB/adapting_structural_model.m",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/MATLAB/fit_adapt_linear.m",
+      "output": "C++\n"
+    },
+    {
+      "filename": "/samples/MATLAB/gpu_RKF45_FILE.m",
+      "output": "C++\n"
+    },
+    {
+      "filename": "/samples/MATLAB/FTLEH.m",
+      "output": "C++\n"
+    },
+    {
+      "filename": "/samples/MATLAB/test_rk_par.m",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/MATLAB/make_filter.m",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/MATLAB/example.m",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/MATLAB/distance.m",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/MATLAB/Poincare.m",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/MATLAB/matlab_script.m",
+      "output": "Matlab\n"
+    },
+    {
+      "filename": "/samples/MATLAB/Traj.m",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/MATLAB/varargin_to_structure.m",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/MATLAB/par_text_to_struct.m",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/MATLAB/create_ieee_paper_plots.m",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/MATLAB/convert_variable.m",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/MATLAB/FTLE_reg.m",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/MATLAB/matlab_class.m",
+      "output": "Matlab\n"
+    },
+    {
+      "filename": "/samples/MATLAB/RK4.m",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/MATLAB/Lagrangian_points.m",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/MATLAB/ieee.m",
+      "output": "Matlab\n"
+    },
+    {
+      "filename": "/samples/MATLAB/double_gyre.m",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/MATLAB/lane_change.m",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/MATLAB/matlab_function.m",
+      "output": "Matlab\n"
+    },
+    {
+      "filename": "/samples/MATLAB/normalize.m",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/MATLAB/load_bikes.m",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/MATLAB/Check_plot.m",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/MATLAB/overwrite_settings.m",
+      "output": "Matlab\n"
+    },
+    {
+      "filename": "/samples/MATLAB/plant.m",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/MATLAB/Integrate1.m",
+      "output": "Matlab\n"
+    },
+    {
+      "filename": "/samples/MATLAB/cross_validation.m",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/MATLAB/Integrate2.m",
+      "output": "Matlab\n"
+    },
+    {
+      "filename": "/samples/MATLAB/test_system_state_space.m",
+      "output": "MATLAB\n"
+    },
+    {
+      "filename": "/samples/MATLAB/load_data.m",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/MATLAB/bicycle_state_space.m",
+      "output": "C++\n"
+    },
+    {
+      "filename": "/samples/MATLAB/write_gains.m",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/MATLAB/fit_adapt.m",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/MATLAB/Lagr.m",
+      "output": "Matlab\n"
+    },
+    {
+      "filename": "/samples/MATLAB/matlab_script2.m",
+      "output": "Matlab\n"
+    },
+    {
+      "filename": "/samples/MATLAB/average.m",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Cairo Zero/safemath.cairo",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Cairo Zero/concat_arr.cairo",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Cairo Zero/sha256.cairo",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Cairo Zero/casm.cairo",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Cairo Zero/contract.cairo",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/V/news_fetcher.v",
+      "output": "Go\n"
+    },
+    {
+      "filename": "/samples/V/links_scraper.v",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/V/terminal_control.v",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/V/nbody.v",
+      "output": "Go\n"
+    },
+    {
+      "filename": "/samples/V/spectral.v",
+      "output": "name\n"
+    },
+    {
+      "filename": "/samples/V/rune.v",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/V/json.v",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/V/log.v",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/V/loop.v",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Parrot Internal Representation/hello.pir",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/M4/htmlgen.m4",
+      "output": "C\n"
+    },
+    {
+      "filename": "/samples/M4/fibo.m4",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/M4/sendmail.mc",
+      "output": "C++\n"
+    },
+    {
+      "filename": "/samples/M4/postscript.m4",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/M4/translit2.m4",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/omnetpp-msg/TcpConnectionState.msg",
+      "output": "C++\n"
+    },
+    {
+      "filename": "/samples/omnetpp-msg/TcpConnection.msg",
+      "output": "C++\n"
+    },
+    {
+      "filename": "/samples/omnetpp-msg/GptpPacket.msg",
+      "output": "C++\n"
+    },
+    {
+      "filename": "/samples/NCL/mcsst_1.ncl",
+      "output": "Fortran\n"
+    },
+    {
+      "filename": "/samples/NCL/PrnOscPat_driver.ncl",
+      "output": "Fortran\n"
+    },
+    {
+      "filename": "/samples/NCL/primero.ncl",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/NCL/WRF_static_2.ncl",
+      "output": "Fortran\n"
+    },
+    {
+      "filename": "/samples/NCL/gsn_csm_xy2_time_series_inputs.ncl",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/NCL/tsdiagram_1.ncl",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/NCL/viewport_4.ncl",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/NCL/weather_sym_6.ncl",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/NCL/traj_3.ncl",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/NCL/xy_29.ncl",
+      "output": "Fortran\n"
+    },
+    {
+      "filename": "/samples/NCL/mask_12.ncl",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/NCL/cru_8.ncl",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/NCL/hdf4sds_7.ncl",
+      "output": "Fortran\n"
+    },
+    {
+      "filename": "/samples/NCL/topo_9.ncl",
+      "output": "Fortran\n"
+    },
+    {
+      "filename": "/samples/NCL/WRF_track_1.ncl",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/NCL/unique_9.ncl",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/YASnippet/stdin.yasnippet",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/YASnippet/font-face.yasnippet",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Standard ML/Foo.ML",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Standard ML/Foo.sml",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Standard ML/Foo.sig",
+      "output": "\"\"\"\n"
+    },
+    {
+      "filename": "/samples/Standard ML/main.fun",
+      "output": "C++\n"
+    },
+    {
+      "filename": "/samples/Standard ML/RedBlackTree.fun",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/AMPL/toy.ampl",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/AMPL/CT2.mod",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/SystemVerilog/endpoint_phy_wrapper.svh",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/SystemVerilog/fifo.sv",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/SystemVerilog/priority_encoder.sv",
+      "output": "Verilog\n"
+    },
+    {
+      "filename": "/samples/SystemVerilog/util.vh",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/SWIG/dictionary.i",
+      "output": "C++\n"
+    },
+    {
+      "filename": "/samples/SWIG/gauss.i",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/SWIG/CGAL_AABB_tree.i",
+      "output": "C++\n"
+    },
+    {
+      "filename": "/samples/ShellSession/simple.sh-session",
+      "output": "python\n"
+    },
+    {
+      "filename": "/samples/ShellSession/gem-install.sh-session",
+      "output": "Ruby\n"
+    },
+    {
+      "filename": "/samples/ShellSession/dollar.sh-session",
+      "output": "python3\n"
+    },
+    {
+      "filename": "/samples/Kit/demo.kit",
+      "output": "pageLanguages\n"
+    },
+    {
+      "filename": "/samples/Record Jar/filenames/language-subtag-registry.txt",
+      "output": "name\n"
+    },
+    {
+      "filename": "/samples/GDScript/player.gd",
+      "output": "C++\n"
+    },
+    {
+      "filename": "/samples/GDScript/pong.gd",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/GDScript/grid.gd",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/GDScript/example.gd",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Mint/Counter.mint",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Mint/ApplicationStore.mint",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Mint/InlineJS.mint",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Mint/HeaderTest.mint",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Mint/Comment.mint",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Mint/TodoItem.mint",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/LTspice Symbol/random-shapes.asy",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/BlitzBasic/HalfAndDouble.bb",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Luau/Option.luau",
+      "output": "optimize\n"
+    },
+    {
+      "filename": "/samples/Luau/Symbol.luau",
+      "output": "python\n"
+    },
+    {
+      "filename": "/samples/Luau/Tree.luau",
+      "output": "Lua\n"
+    },
+    {
+      "filename": "/samples/Luau/ser.luau",
+      "output": "Lua\n"
+    },
+    {
+      "filename": "/samples/Luau/EnumList.luau",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Pony/counter.pony",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Pony/circle.pony",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Pony/mandelbrot.pony",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Pony/hello-world.pony",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Pony/mixed.pony",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Pony/gups-opt.pony",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/ABAP/cl_csv_parser.abap",
+      "output": "ABAP\n"
+    },
+    {
+      "filename": "/samples/Microsoft Developer Studio Project/freeglut.dsp",
+      "output": "C++\n"
+    },
+    {
+      "filename": "/samples/Roff/roff.1in",
+      "output": "Skipping file due to encoding error: /samples/Roff/roff.1in\nPython\n"
+    },
+    {
+      "filename": "/samples/Roff/fsinterface.ms",
+      "output": "C\n"
+    },
+    {
+      "filename": "/samples/Roff/trekmanual.nr",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Roff/refs.rno",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Roff/printf.3in",
+      "output": "C++\n"
+    },
+    {
+      "filename": "/samples/Roff/an-ext.tmac",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Roff/foo.3pm",
+      "output": "so\n"
+    },
+    {
+      "filename": "/samples/Roff/foo.3p",
+      "output": "so\n"
+    },
+    {
+      "filename": "/samples/Roff/dsw.1x",
+      "output": "C++\n"
+    },
+    {
+      "filename": "/samples/Roff/he.mdoc",
+      "output": "C\n"
+    },
+    {
+      "filename": "/samples/Roff/create_view.l",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Roff/switch.3m",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Roff/Tcl.n",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Roff/crude-hack.man",
+      "output": "C++\n"
+    },
+    {
+      "filename": "/samples/Roff/vt.3x",
+      "output": "C\n"
+    },
+    {
+      "filename": "/samples/Roff/qsort.3qt",
+      "output": "C\n"
+    },
+    {
+      "filename": "/samples/Roff/roff.nr",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Roff/man.1m",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Ink/thread_in_tunnel.ink",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Ink/murder_scene.ink",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Ink/seen_this_scene.ink",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Ink/string_to_list.ink",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Ink/print_number.ink",
+      "output": "C++\n"
+    },
+    {
+      "filename": "/samples/TSQL/uniqueidentifier.sql",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/TSQL/logical.sql",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/TSQL/cursor.sql",
+      "output": "SQL\n"
+    },
+    {
+      "filename": "/samples/TSQL/storedprocedure.sql",
+      "output": "SQL\n"
+    },
+    {
+      "filename": "/samples/Euphoria/hash.ex",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Euphoria/regex.e",
+      "output": "n\n"
+    },
+    {
+      "filename": "/samples/Euphoria/debug.e",
+      "output": "n\n"
+    },
+    {
+      "filename": "/samples/Euphoria/animal.ex",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Euphoria/mydata.ex",
+      "output": "--\n"
+    },
+    {
+      "filename": "/samples/Euphoria/csort.ex",
+      "output": "C++\n"
+    },
+    {
+      "filename": "/samples/Euphoria/allsorts.ex",
+      "output": "C++\n"
+    },
+    {
+      "filename": "/samples/Euphoria/types.e",
+      "output": "n\n"
+    },
+    {
+      "filename": "/samples/Euphoria/math.e",
+      "output": "n\n"
+    },
+    {
+      "filename": "/samples/Euphoria/dll.e",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Stylus/demo.styl",
+      "output": "CSS\n"
+    },
+    {
+      "filename": "/samples/RenPy/example.rpy",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Jison/lex.jison",
+      "output": "Python\n"
+    },
+    {
+      "filename": "/samples/Jison/classy.jison",
+      "output": "n\n"
+    },
+    {
+      "filename": "/samples/Jison/ansic.jison",
+      "output": "C++\n"
+    },
+    {
+      "filename": "/samples/JavaScript+ERB/create.js.erb",
+      "output": "escape\n"
+    },
+    {
+      "filename": "/samples/DNS Zone/sample.arpa",
+      "output": "C++\n"
+    },
+    {
+      "filename": "/samples/DNS Zone/sneaky.net.zone",
+      "output": "Python\n"
+    }
+  ],
+  "configuration": "starcode2-3B",
+  "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f"
+}

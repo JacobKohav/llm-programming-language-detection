@@ -1,0 +1,2634 @@
+/samples/1C Enterprise/Catalog.ИсходящиеПисьма.Form.ФормаЭлемента.Form.Module.bsl
+/samples/1C Enterprise/Catalog.Товары.Command.ПечатьПрайсЛиста.CommandModule.bsl
+/samples/1C Enterprise/ci_before_script.os
+/samples/1C Enterprise/CommonModule.ОбменМобильныеОбщее.Module.bsl
+/samples/1C Enterprise/Document.РасходТовара.ObjectModule.bsl
+/samples/1C Enterprise/test_canCompile.os
+/samples/2-Dimensional Array/appearance.2da
+/samples/2-Dimensional Array/tailmodel.2da
+/samples/4D/generate_project.4dm
+/samples/4D/play_with_classes.4dm
+/samples/4D/test_webServerStart.4dm
+/samples/4D/webArea.4dm
+/samples/ABAP CDS/zcds_monsters_association.ddls.asddls
+/samples/ABAP CDS/zcds_monsters_parameters.ddls.asddls
+/samples/ABAP/cl_csv_parser.abap
+/samples/ABNF/toml.abnf
+/samples/Adblock Filter List/abp-filters-anti-cv.txt
+/samples/Adblock Filter List/anti-facebook.txt
+/samples/Adblock Filter List/fake-news.txt
+/samples/Adblock Filter List/Imperial Units Remover.txt
+/samples/Adblock Filter List/test_rules.txt
+/samples/Agda/NatCat.agda
+/samples/AGS Script/GlobalScript.asc
+/samples/AGS Script/GlobalScript.ash
+/samples/AGS Script/KeyboardMovement_102.asc
+/samples/AGS Script/KeyboardMovement_102.ash
+/samples/AIDL/ExtendableParcelable.aidl
+/samples/AIDL/IVoid.aidl
+/samples/AL/ALIssue.al
+/samples/AL/ALIssueList.al
+/samples/Alloy/file_system.als
+/samples/Alloy/marksweepgc.als
+/samples/Alloy/views.als
+/samples/Alpine Abuild/filenames/APKBUILD
+/samples/AL/RefreshALIssuesCode.al
+/samples/AMPL/CT2.mod
+/samples/AMPL/toy.ampl
+/samples/AngelScript/botmanager.as
+/samples/AngelScript/payload.as
+/samples/Ant Build System/filenames/ant.xml
+/samples/Antlers/index.antlers.html
+/samples/Antlers/kitchensink.antlers.html
+/samples/Antlers/kitchensink.antlers.php
+/samples/Antlers/layout.antlers.html
+/samples/Antlers/sitemap.antlers.xml
+/samples/ApacheConf/apache.vhost
+/samples/ApacheConf/filenames/apache2.conf
+/samples/ApacheConf/filenames/.htaccess
+/samples/ApacheConf/filenames/httpd.conf
+/samples/Apex/AccountTrigger.trigger
+/samples/Apex/AddRelatedRecord.trigger
+/samples/Apex/ArrayUtils.cls
+/samples/Apex/BooleanUtils.cls
+/samples/Apex/EmailUtils.cls
+/samples/Apex/GeoUtils.cls
+/samples/Apex/LanguageUtils.cls
+/samples/Apex/LogTriggerHandler.trigger
+/samples/Apex/TwilioAPI.cls
+/samples/API Blueprint/actions.apib
+/samples/API Blueprint/attributes.apib
+/samples/API Blueprint/simple.apib
+/samples/Apollo Guidance Computer/BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.agc
+/samples/AppleScript/center.applescript
+/samples/AppleScript/Convert To PDF.applescript
+/samples/AppleScript/Convert To PostScript.applescript
+/samples/AppleScript/Count Messages in All Mailboxes.applescript
+/samples/AppleScript/Crazy Message Text.applescript
+/samples/AppleScript/Get User Name.applescript
+/samples/AppleScript/Time Of Day.applescript
+/samples/ASL/example.asl
+/samples/ASL/example.dsl
+/samples/ASN.1/example.asn
+/samples/AspectJ/CacheAspect.aj
+/samples/AspectJ/OptimizeRecursionCache.aj
+/samples/ASP.NET/EchoSocket.ashx
+/samples/ASP.NET/Global.asax
+/samples/ASP.NET/Login.aspx
+/samples/ASP.NET/OpenAuthProviders.ascx
+/samples/Assembly/3D_PRG.I
+/samples/Assembly/A8514.I
+/samples/Assembly/audio.i
+/samples/Assembly/cpu_feat.nas
+/samples/Assembly/External Interrupt.a51
+/samples/Assembly/FASM.asm
+/samples/Assembly/fftfpu.nas
+/samples/Assembly/forth.nasm
+/samples/Assembly/fp_sqr32_160_comba.inc
+/samples/Assembly/lib.inc
+/samples/Assembly/macros.inc
+/samples/Astro/index.astro
+/samples/Asymptote/figarc4_3D.asy
+/samples/Asymptote/kappa-sawteeth.asy
+/samples/ATS/basis_ssntype.sats
+/samples/ATS/CoYonedaLemma.dats
+/samples/ATS/csv_parse.hats
+/samples/ATS/DiningPhil2.dats
+/samples/ATS/DiningPhil2_fork.dats
+/samples/ATS/DiningPhil2.sats
+/samples/ATS/DiningPhil2_thread.dats
+/samples/ATS/intinf_vt.dats
+/samples/ATS/YonedaLemma.dats
+/samples/AutoHotkey/hello.ahk
+/samples/Avro IDL/user.avdl
+/samples/Awk/test.awk
+/samples/B4X/B4XMainPage.bas
+/samples/B4X/OAuth.bas.bas
+/samples/B4X/RequestsManager.bas
+/samples/Ballerina/hello-world.bal
+/samples/Ballerina/hello-world-service.bal
+/samples/Ballerina/json.bal
+/samples/Ballerina/var.bal
+/samples/Ballerina/xml.bal
+/samples/BASIC/GPIOGW.BAS
+/samples/BASIC/mandelbrot.bas
+/samples/BASIC/P180.BAS
+/samples/BASIC/spacesc.bas
+/samples/Beef/ProfilePanel.bf
+/samples/Beef/Program.bf
+/samples/Beef/RandoCode.bf
+/samples/Berry/berry_schema_validator.be
+/samples/Berry/lcd_display.be
+/samples/BibTeX/citations.bib
+/samples/BibTeX/deeplyaggrevated.bibtex
+/samples/Bicep/101-container-registry.bicep
+/samples/Bicep/201-1vm-2nics-2subnets-1vnet.bicep
+/samples/Bicep/params.bicepparam
+/samples/Bikeshed/example2.bs
+/samples/Bikeshed/example.bs
+/samples/BitBake/cmake.bbclass
+/samples/BitBake/gstreamer-libav.bb
+/samples/BitBake/qtbase_%.bbappend
+/samples/BitBake/qtbase-native.bb
+/samples/BitBake/tclibc-newlib.inc
+/samples/BitBake/xorg-driver-common.inc
+/samples/Blade/hello.blade
+/samples/Blade/hello.blade.php
+/samples/BlitzBasic/HalfAndDouble.bb
+/samples/BlitzBasic/LList.bb
+/samples/BlitzBasic/PObj.bb
+/samples/BlitzMax/sample.bmx
+/samples/Bluespec BH/CGetPut.bs
+/samples/Bluespec BH/COBS.bs
+/samples/Bluespec BH/TbTL.bs
+/samples/Bluespec BH/TL.bs
+/samples/Boogie/Bubble.bpl
+/samples/Boogie/ticket.bpl
+/samples/Boogie/TuringFactorial.bpl
+/samples/BQN/gameoflife.bqn
+/samples/BQN/snake.bqn
+/samples/Brainfuck/factor.b
+/samples/Brainfuck/fib100.bf
+/samples/Brainfuck/hello.bf
+/samples/Brainfuck/helloworld.bf
+/samples/Brainfuck/rot13.bf
+/samples/BrighterScript/Main.bs
+/samples/BrighterScript/RowListExample.bs
+/samples/BrighterScript/SimpleGrid.bs
+/samples/Brightscript/SimpleGrid.brs
+/samples/Browserslist/filenames/browserslist
+/samples/Browserslist/filenames/.browserslistrc
+/samples/C++/16F88.h
+/samples/C/2D.C
+/samples/C/2D.H
+/samples/Cabal Config/defaults.cabal
+/samples/Cabal Config/filenames/cabal.config
+/samples/Cabal Config/filenames/cabal.project
+/samples/Cabal Config/line2pdf.cabal
+/samples/Caddyfile/acmeserver.Caddyfile
+/samples/Caddyfile/reverseproxy.caddyfile
+/samples/Cadence/FlowFees.cdc
+/samples/Cadence/FlowToken.cdc
+/samples/Cadence/get_balance.cdc
+/samples/Cadence/mint_tokens.cdc
+/samples/Cadence/read_profile.cdc
+/samples/Cadence/setup_account.cdc
+/samples/Cairo/boolean.cairo
+/samples/Cairo/cust_struct_vect.cairo
+/samples/Cairo/merkle_tree_test.cairo
+/samples/Cairo/pizza_factory.cairo
+/samples/Cairo/rlp.cairo
+/samples/Cairo Zero/casm.cairo
+/samples/Cairo Zero/concat_arr.cairo
+/samples/Cairo Zero/contract.cairo
+/samples/Cairo Zero/safemath.cairo
+/samples/Cairo Zero/sha256.cairo
+/samples/CameLIGO/FA1.2.mligo
+/samples/CAP CDS/admin-service.cds
+/samples/CAP CDS/cat-service.cds
+/samples/CAP CDS/common.cds
+/samples/CAP CDS/schema.cds
+/samples/CAP CDS/user-service.cds
+/samples/Carbon/main.carbon
+/samples/Carbon/Shapes.carbon
+/samples/C/Arduino.cats
+/samples/C/array.c
+/samples/C/array.h
+/samples/C/ArrowLeft.h
+/samples/CartoCSS/amenity-points.mss
+/samples/C/asm.h
+/samples/C#/AssemblyInfo.cs
+/samples/C++/bar.h
+/samples/C++/bar.hh
+/samples/C++/bar.hpp
+/samples/C/bitmap.h
+/samples/C/blob.c
+/samples/C/blob.h
+/samples/C/bootstrap.h
+/samples/C#/BsonPropertyValue.cs
+/samples/C++/bug1163046.--skeleton.re
+/samples/C#/build.cake
+/samples/C#/chart-process-memory.linq
+/samples/C++/ClasspathVMSystemProperties.inc
+/samples/C++/cnokw.re
+/samples/C#/_CodeSugarIO.DriveInfo.cs.pp
+/samples/C/color.h
+/samples/C/commit.c
+/samples/C/commit.h
+/samples/C++/constexpr_header.h
+/samples/C/cpuid.h
+/samples/C++/crypter.cpp
+/samples/C++/CsvStreamer.h
+/samples/C/custom_extensions.c
+/samples/C++/cvsignore.re
+/samples/C/driver.h
+/samples/C/elf.h
+/samples/C++/Entity.h
+/samples/C++/env.cpp
+/samples/C++/env.h
+/samples/C++/epoll_reactor.ipp
+/samples/C/exception.zep.c
+/samples/C/exception.zep.h
+/samples/Ceylon/Foo.ceylon
+/samples/C/Field.h
+/samples/C#/FileScopedNamespace.cs
+/samples/C/filter.h
+/samples/C/fudge_node.c
+/samples/C++/gblib.cppm
+/samples/C++/gdsdbreader.h
+/samples/C/git.c
+/samples/C/GLKMatrix4.h
+/samples/C++/graphics.cpp
+/samples/C++/grpc.pb.cc
+/samples/Chapel/distributions.chpl
+/samples/Chapel/hello.chpl
+/samples/Chapel/lulesh.chpl
+/samples/Chapel/nbody.chpl
+/samples/Chapel/quicksort.chpl
+/samples/Checksums/bsd-style.sha256
+/samples/Checksums/filenames/SHA256SUMS
+/samples/Checksums/filenames/SHA256SUMS.txt
+/samples/Checksums/gnu-style.sha256
+/samples/Checksums/gnu-style-text.sha256
+/samples/Checksums/single_hash.crc32
+/samples/Checksums/single_hash_dec.crc32
+/samples/Checksums/single_hash.md2
+/samples/Checksums/single_hash.md4
+/samples/Checksums/single_hash.md5
+/samples/Checksums/single_hash_no_trailing_newline.sha256
+/samples/Checksums/single_hash.sha1
+/samples/Checksums/single_hash.sha224
+/samples/Checksums/single_hash.sha256
+/samples/Checksums/single_hash.sha384
+/samples/Checksums/single_hash.sha512
+/samples/Checksums/zero.sha2
+/samples/Checksums/zero.sha3
+/samples/C/hello.c
+/samples/C++/hello.cpp
+/samples/C++/hello.grpc.pb.h
+/samples/C/hello.h
+/samples/C++/hello.ino
+/samples/C/http_parser.c
+/samples/C/http_parser.h
+/samples/CIL/certfile.cil
+/samples/CIL/guix-daemon.cil
+/samples/C/info.h
+/samples/C++/initClasses.inc
+/samples/C++/instances.inc
+/samples/C/interface.h
+/samples/C/ip4.h
+/samples/Circom/binsum.circom
+/samples/Circom/switcher.circom
+/samples/Circom/xor3.circom
+/samples/C/jni_layer.h
+/samples/C++/json_reader.cpp
+/samples/C++/json_writer.cpp
+/samples/C++/key.cpp
+/samples/C++/key.h
+/samples/Clarion/ConsoleSupport.clw
+/samples/Clarion/CStringClass.clw
+/samples/Clarion/hello.clw
+/samples/Clarion/HelloWorld.clw
+/samples/Classic ASP/ASPUnitRunner.asp
+/samples/Classic ASP/sendingcontent-xml.asp
+/samples/Clean/fsieve.icl
+/samples/Clean/GenHylo.dcl
+/samples/Clean/GenMap.dcl
+/samples/Clean/GenMap.icl
+/samples/Clean/sem.icl
+/samples/Clean/stack.dcl
+/samples/Clean/stack.icl
+/samples/Clean/streams.dcl
+/samples/Clean/streams.icl
+/samples/C++/libcanister.h
+/samples/Click/sr2.click
+/samples/Click/thomer-nat.click
+/samples/CLIPS/demo.clp
+/samples/CLIPS/sudoku.clp
+/samples/Clojure/build.boot
+/samples/Clojure/for.clj
+/samples/Clojure/hiccup.hic
+/samples/Clojure/index.cljs.hl
+/samples/Clojure/into-array.cljc
+/samples/Clojure/protocol.cljs
+/samples/Clojure/rand.cljscm
+/samples/Clojure/svg.cljx
+/samples/Clojure/unit-test.cl2
+/samples/Clojure/validate-and-format.bb
+/samples/Closure Templates/example.soy
+/samples/C++/main.cpp
+/samples/CMake/filenames/CMakeLists.txt
+/samples/CMake/sample1.cmake
+/samples/CMake/sample2.cmake
+/samples/CMake/sample3.cmake
+/samples/CMake/sample4.cmake
+/samples/CMake/sample5.cmake
+/samples/CMake/uninstall.cmake.in
+/samples/C/markdown.c
+/samples/C++/Math.inl
+/samples/C++/Memory16F88.h
+/samples/C++/metrics.h
+/samples/C++/module.ixx
+/samples/C#/MongoExpressionVisitor.cs
+/samples/C/multiboot.h
+/samples/C/Nightmare.h
+/samples/C++/NoDiscard.h
+/samples/C/ntru_encrypt.h
+/samples/C/NWMan.h
+/samples/COBOL/hello_world.cbl
+/samples/COBOL/hello_world.ccp
+/samples/COBOL/hello_world.cob
+/samples/COBOL/simple.cpy
+/samples/C++/octave_changer.ino
+/samples/CODEOWNERS/filenames/CODEOWNERS
+/samples/CodeQL/ql-cobol-sample.ql
+/samples/CodeQL/qll-sample1.qll
+/samples/CodeQL/qll-sample2.qll
+/samples/CodeQL/qll-sample3.qll
+/samples/CodeQL/ql-sample.ql
+/samples/CodeQL/tree-sitter-sample.ql
+/samples/CoffeeScript/browser.coffee
+/samples/CoffeeScript/build.cake
+/samples/CoffeeScript/classes.coffee
+/samples/CoffeeScript/coffee-script.coffee
+/samples/CoffeeScript/example.cjsx
+/samples/CoffeeScript/hello.coffee
+/samples/CoffeeScript/intro.coffee
+/samples/CoffeeScript/lexer.coffee
+/samples/CoffeeScript/rack_application.coffee
+/samples/CoffeeScript/xipd.coffee
+/samples/ColdFusion CFC/exampleScript.cfc
+/samples/ColdFusion CFC/exampleTag.cfc
+/samples/ColdFusion/example.cfm
+/samples/Common Lisp/array.l
+/samples/Common Lisp/common.l
+/samples/Common Lisp/config.sexp
+/samples/Common Lisp/hello.lisp
+/samples/Common Lisp/macros-advanced.cl
+/samples/Common Lisp/motor-inferencia.cl
+/samples/Common Lisp/rss.sexp
+/samples/Common Lisp/sample.lisp
+/samples/Common Lisp/sample.lsp
+/samples/Common Workflow Language/trunk-peak-score.cwl
+/samples/Component Pascal/Example2.cps
+/samples/Component Pascal/Example.cp
+/samples/CoNLL-U/CF1.conllu
+/samples/CoNLL-U/en-ud-test-abridged.conllu
+/samples/CoNLL-U/ug-ud-test-abridged.conllu
+/samples/Cool/list.cl
+/samples/Cool/sample.cl
+/samples/Coq/Computation.v
+/samples/Coq/Imp.v
+/samples/Coq/JsCorrectness.v
+/samples/Coq/JsInterpreterExtraction.v
+/samples/Coq/JsNumber.v
+/samples/Coq/JsPrettyInterm.v
+/samples/Coq/Lists.v
+/samples/Coq/Main.v
+/samples/Coq/Poly.v
+/samples/Coq/Rel.v
+/samples/Coq/Smallstep.v
+/samples/Coq/Spec.v
+/samples/Coq/Stlc.v
+/samples/C++/PackageInfoParser.cpp
+/samples/C/portio.h
+/samples/C/pqiv.h
+/samples/C/process.c
+/samples/C++/program.cp
+/samples/C#/Program.cs
+/samples/C++/protocol-buffer.pb.cc
+/samples/C++/protocol-buffer.pb.h
+/samples/C/rdiscount.c
+/samples/C/readline.cats
+/samples/C/redis.c
+/samples/C++/render_adapter.cpp
+/samples/Creole/creole.creole
+/samples/C/rfc_string.c
+/samples/C/rfc_string.h
+/samples/C/rf_io.c
+/samples/C/rf_io.h
+/samples/C/rpc.h
+/samples/C++/runtime-compiler.cc
+/samples/Crystal/const_spec.cr
+/samples/Crystal/declare_var_spec.cr
+/samples/Crystal/transformer.cr
+/samples/C++/scanner.cc
+/samples/C++/scanner.h
+/samples/C/scheduler.h
+/samples/C/script
+/samples/C++/search.txx
+/samples/C/sgd_fast.c
+/samples/C#/SimpleHttpServer.cs
+/samples/C++/simple.re
+/samples/CSON/base.cson
+/samples/CSON/config.cson
+/samples/CSON/ff-sfd.cson
+/samples/CSON/wercker-status.cson
+/samples/Csound/allglass.orc
+/samples/Csound/interp.orc
+/samples/Csound Score/allglass.sco
+/samples/Csound Score/interp.sco
+/samples/Csound Score/test.sco
+/samples/Csound/test.orc
+/samples/C++/srs_app_ingest.cpp
+/samples/CSS/bootstrap.css
+/samples/CSS/bootstrap.min.css
+/samples/CSV/cars.csv
+/samples/C/syscalldefs.h
+/samples/C/syscalls.h
+/samples/C++/target.txx
+/samples/C++/ThreadedQueue.h
+/samples/C++/Types.h
+/samples/Cuda/scalarProd_kernel.cuh
+/samples/Cuda/vectorAdd.cu
+/samples/CUE/github-workflow.cue
+/samples/CUE/kube.cue
+/samples/cURL Config/filenames/.curlrc
+/samples/Curry/Nat.curry
+/samples/Curry/Prelude.curry
+/samples/C++/utils.h
+/samples/C++/v8.cc
+/samples/C++/v8.h
+/samples/C/vfs.h
+/samples/C/vmem.h
+/samples/C++/vtkSparseArray.txx
+/samples/C/wglew.h
+/samples/C++/wrapper_inner.cpp
+/samples/C/yajl.c
+/samples/Cylc/cset.cylc
+/samples/Cylc/cset-include.cylc
+/samples/Cylc/model.cylc
+/samples/Cypher/db_export_res.cypher
+/samples/Cypher/graphgems.cyp
+/samples/Cypher/graphgems.cypher
+/samples/Cypher/load_from_json.cypher
+/samples/D2/anthias-diagram-overview.d2
+/samples/D2/calc_algo.d2
+/samples/D/aa.d
+/samples/Dafny/Io.s.dfy
+/samples/Dafny/Node.i.dfy
+/samples/D/arrayops.d
+/samples/DataWeave/customInterpolator.dwl
+/samples/DataWeave/directives.dwl
+/samples/DataWeave/functions.dwl
+/samples/DataWeave/literals.dwl
+/samples/DataWeave/match.dwl
+/samples/Debian Package Control File/example1.dsc
+/samples/Debian Package Control File/example2.dsc
+/samples/DenizenScript/sample1.dsc
+/samples/DenizenScript/sample2.dsc
+/samples/desktop/example.desktop
+/samples/desktop/nebula.service
+/samples/D/function.d
+/samples/Dhall/largeExpressionA.dhall
+/samples/Dhall/remoteSystemsA.dhall
+/samples/D/hello_world.d
+/samples/Diff/dude-thing-okay--001.patch
+/samples/DIGITAL Command Language/fis_gtm_kitinstal.com
+/samples/DIGITAL Command Language/ghostpdl_zlib_make_vms.com
+/samples/DIGITAL Command Language/libxslt_build.com
+/samples/DIGITAL Command Language/vmsbackup_build.com
+/samples/dircolors/sample.dircolors
+/samples/DirectX 3D File/cube.x
+/samples/DM/example.dm
+/samples/D/mpq.d
+/samples/DNS Zone/sample.arpa
+/samples/DNS Zone/sneaky.net.zone
+/samples/Dockerfile/debian-systemd.Containerfile
+/samples/Dockerfile/filenames/Dockerfile
+/samples/Dotenv/default.env
+/samples/Dotenv/filenames/.env
+/samples/Dotenv/filenames/.env.ci
+/samples/Dotenv/filenames/.env.dev
+/samples/Dotenv/filenames/.env.development
+/samples/Dotenv/filenames/.env.development.local
+/samples/Dotenv/filenames/.env.example
+/samples/Dotenv/filenames/.env.local
+/samples/Dotenv/filenames/.env.prod
+/samples/Dotenv/filenames/.env.production
+/samples/Dotenv/filenames/.env.sample
+/samples/Dotenv/filenames/.env.staging
+/samples/Dotenv/filenames/.env.test
+/samples/Dotenv/filenames/.env.testing
+/samples/D/template.d
+/samples/D/template_function.d
+/samples/DTrace/counts.d
+/samples/DTrace/probes.d
+/samples/DTrace/trace_futexes.d
+/samples/Dune/filenames/dune-project
+/samples/D/unittest1.d
+/samples/D/unittest2.d
+/samples/Earthly/filenames/Earthfile
+/samples/Easybuild/bzip2-1.0.6-GCC-4.9.2.eb
+/samples/E/atomic-updates.E
+/samples/EBNF/grammar.ebnf
+/samples/EBNF/material.ebnf
+/samples/EBNF/object.ebnf
+/samples/EBNF/types.ebnf
+/samples/eC/Designer.ec
+/samples/ECLiPSe/or-constraint.ecl
+/samples/Ecmarkup/spec.html
+/samples/Edge/pricing.edge
+/samples/EdgeQL/default.esdl
+/samples/EdgeQL/migration.edgeql
+/samples/EditorConfig/ASP.NET.EditorConfig
+/samples/EditorConfig/filenames/.editorconfig
+/samples/EditorConfig/IntelliJ.editorconfig
+/samples/Edje Data Collection/mild.edc
+/samples/edn/bigger-than-pluto.edn
+/samples/E/Extends.E
+/samples/E/Functions.E
+/samples/E/Guards.E
+/samples/Eiffel/app_embedded_web_execution.e
+/samples/Eiffel/app_embedded_web_service.e
+/samples/Eiffel/application.e
+/samples/Eiffel/book_collection.e
+/samples/Eiffel/desktop_app.e
+/samples/Eiffel/git_checkout_command.e
+/samples/Eiffel/main_window.e
+/samples/E/IO.E
+/samples/Elm/Basic.elm
+/samples/Elm/QuickSort.elm
+/samples/Elm/Tree.elm
+/samples/Elvish/epm.elv
+/samples/Emacs Lisp/dude.el
+/samples/Emacs Lisp/.emacs.desktop
+/samples/Emacs Lisp/ess-julia.el
+/samples/Emacs Lisp/filenames/.abbrev_defs
+/samples/Emacs Lisp/filenames/abbrev_defs
+/samples/Emacs Lisp/filenames/Cask
+/samples/Emacs Lisp/filenames/_emacs
+/samples/Emacs Lisp/filenames/.gnus
+/samples/Emacs Lisp/filenames/Project.ede
+/samples/Emacs Lisp/filenames/.spacemacs
+/samples/Emacs Lisp/filenames/.viper
+/samples/E-mail/example.eml
+/samples/EmberScript/momentComponent.em
+/samples/E/minChat.E
+/samples/E/Promises.E
+/samples/EQ/HTTPServerVirtualHostListener.eq
+/samples/EQ/SEButtonEntity.eq
+/samples/EQ/String.eq
+/samples/Erlang/170-os-daemons.es
+/samples/Erlang/compiler.app
+/samples/Erlang/elixir_parser.yrl
+/samples/Erlang/factorial
+/samples/Erlang/filenames/Emakefile
+/samples/Erlang/filenames/rebar.config
+/samples/Erlang/filenames/rebar.config.lock
+/samples/Erlang/filenames/rebar.lock
+/samples/Erlang/hello.escript
+/samples/Erlang/kernel.app
+/samples/Erlang/lfe_scan.xrl
+/samples/Erlang/record_helper.erl
+/samples/Erlang/record_utils.erl
+/samples/Erlang/release
+/samples/Erlang/sample.app.src
+/samples/Erlang/single-context.es
+/samples/Fantom/sample1.fan
+/samples/Fantom/sample2.fan
+/samples/Faust/FFT.dsp
+/samples/Faust/lowCut.dsp
+/samples/F#/Combinators.fs
+/samples/Fennel/repl.fnl
+/samples/Fennel/utils.fnl
+/samples/Filebench WML/copyfiles.f
+/samples/Filterscript/colormatrix.fs
+/samples/Filterscript/fs_kernel.fs
+/samples/FIRRTL/LFSR.fir
+/samples/FIRRTL/Memory.fir
+/samples/fish/config.fish
+/samples/fish/eval.fish
+/samples/fish/funced.fish
+/samples/F#/JsonFormat.fs
+/samples/F#/JsonReader.fs
+/samples/F#/JsonSerializer.fs
+/samples/F#/JsonWriter.fs
+/samples/Fluent/callee_expressions.ftl
+/samples/Fluent/call_expressions.ftl
+/samples/Fluent/gecko_strings.ftl
+/samples/Fluent/select_indent.ftl
+/samples/Fluent/simple.ftl
+/samples/FLUX/gameserver.fx
+/samples/FLUX/imageserver.fx
+/samples/FLUX/mbittorrent.fx
+/samples/FLUX/test.fx
+/samples/Formatted/long_seq.for
+/samples/Formatted/NiAlH_jea.eam.fs
+/samples/Formatted/wksst8110.for
+/samples/Forth/asm.fr
+/samples/Forth/bitmap.frt
+/samples/Forth/block.fth
+/samples/Forth/core1.F
+/samples/Forth/core-ext.fth
+/samples/Forth/core.f
+/samples/Forth/core.for
+/samples/Forth/core.fs
+/samples/Forth/core.fth
+/samples/Forth/enum.frt
+/samples/Forth/hello-forth.forth
+/samples/Forth/hello-forth.fth
+/samples/Forth/KataDiversion.fth
+/samples/Forth/macros.frt
+/samples/Forth/tools.4TH
+/samples/Forth/tools.fth
+/samples/Fortran/bug-185631.f
+/samples/Fortran/sample1.f
+/samples/Fortran/sample1.for
+/samples/Fortran/sample2.f
+/samples/Fortran/sample3.F
+/samples/F#/PerformanceTesters.fs
+/samples/F#/PerformanceTests.fs
+/samples/FreeBASIC/array_clearobj.bas
+/samples/FreeBASIC/ir.bas
+/samples/FreeBASIC/makescript.bas
+/samples/FreeBASIC/WinGUI template.bi
+/samples/Frege/CommandLineClock.fr
+/samples/Frege/Concurrent.fr
+/samples/Frege/Sudoku.fr
+/samples/Frege/SwingExamples.fr
+/samples/F#/sample.fs
+/samples/Fstar/FStar.DependentMap.fsti
+/samples/Fstar/Hacl.HKDF.fst
+/samples/Fstar/Hacl.Spec.Bignum.Fmul.fst
+/samples/Futhark/gaussian_blur.fut
+/samples/Game Maker Language/characterDrawEvent.gml
+/samples/Game Maker Language/characterStepEvent.gml
+/samples/Game Maker Language/draw_menu.gml
+/samples/Game Maker Language/faucet-http.gml
+/samples/Game Maker Language/GMLmenus.gml
+/samples/Game Maker Language/jsonion.gml
+/samples/Game Maker Language/jsonion_test.gml
+/samples/Game Maker Language/_piwikCacheRequest.gml
+/samples/Game Maker Language/_piwikSendBasicReq.gml
+/samples/Game Maker Language/_piwikSendReq.gml
+/samples/Game Maker Language/scrInitLevel.gml
+/samples/GAML/3dTutorial.gaml
+/samples/GAML/bdiAgents.gaml
+/samples/GAML/incrementalGIS.gaml
+/samples/GAML/luneraysFlu.gaml
+/samples/GAML/predatorPrey.gaml
+/samples/GAML/roadTraffic.gaml
+/samples/GAMS/transport.gms
+/samples/GAP/bugfix.tst
+/samples/GAP/example.gd
+/samples/GAP/example.gi
+/samples/GAP/factor.tst
+/samples/GAP/Magic.gd
+/samples/GAP/Magic.gi
+/samples/GAP/PackageInfo.g
+/samples/GAP/vspc.gd
+/samples/GAP/vspc.gi
+/samples/G-code/duettest.g
+/samples/G-code/ghLogo.cnc
+/samples/G-code/square.g
+/samples/GDB/as3.gdbinit
+/samples/GDB/gdb_lpc17xx_program.gdb
+/samples/GDScript/example.gd
+/samples/GDScript/grid.gd
+/samples/GDScript/player.gd
+/samples/GDScript/pong.gd
+/samples/GEDCOM/Royal92.ged
+/samples/Gemfile.lock/filenames/Gemfile.lock
+/samples/Gemini/instructions.gmi
+/samples/Genero 4gl/books1.4gl
+/samples/Genero 4gl/webserv1.4gl
+/samples/Genero 4gl/webserv1_api.4gl
+/samples/Genero per/books1.per
+/samples/Genie/Class.gs
+/samples/Genie/Hello.gs
+/samples/Genie/IDataLoader.gs
+/samples/Genie/web.gs
+/samples/Gerber Image/AGV_GPIO.gml
+/samples/Gerber Image/FelinaePurr-B.Cu.gbl
+/samples/Gerber Image/FelinaePurr-B.Mask.gbs
+/samples/Gerber Image/FelinaePurr-B.SilkS.gbo
+/samples/Gerber Image/FelinaePurr-F.Cu.gtl
+/samples/Gerber Image/FelinaePurr-F.Mask.gts
+/samples/Gerber Image/FelinaePurr-F.Paste.gtp
+/samples/Gerber Image/FelinaePurr-F.SilkS.gto
+/samples/Gerber Image/GOLMain_RevA-B.Paste.gbp
+/samples/Gerber Image/LIDARLite.ncl
+/samples/Gerber Image/nonaprs_contour.gko
+/samples/Gerber Image/simonShield-B.Cu.gbr
+/samples/Gerber Image/simonShield-B.Mask.gbr
+/samples/Gerber Image/simonShield-drl_map.gbr
+/samples/Gerber Image/simonShield-Edge.Cuts.gbr
+/samples/Gerber Image/simonShield-F.Cu.gbr
+/samples/Gerber Image/simonShield-F.Mask.gbr
+/samples/Gerber Image/simonShield-F.SilkS.gbr
+/samples/Git Attributes/filenames/.gitattributes
+/samples/Git Revision List/filenames/.git-blame-ignore-revs
+/samples/Gleam/contributor.gleam
+/samples/Gleam/websocket.gleam
+/samples/Glimmer JS/class.gjs
+/samples/Glimmer JS/template-only.gjs
+/samples/Glimmer TS/class.gts
+/samples/Glimmer TS/template-only.gts
+/samples/Glyph Bitmap Distribution Format/bitbuntu.bdf
+/samples/GN/android-rules.gni
+/samples/GN/BUILD.2.gn
+/samples/GN/BUILD.3.gn
+/samples/GN/BUILD.gn
+/samples/GN/clang.gni
+/samples/GN/filenames/.gn
+/samples/GN/gcc_toolchain.gni
+/samples/GN/icu.gn
+/samples/GN/internal_rules.gni
+/samples/GN/ios-rules.gni
+/samples/GN/isolate.gni
+/samples/Gnuplot/dashcolor.1.gnu
+/samples/Gnuplot/defense_plotter.p
+/samples/Gnuplot/defense_plotter.plt
+/samples/Gnuplot/histograms.2.gnu
+/samples/Gnuplot/rates.gp
+/samples/Gnuplot/surface1.16.gnu
+/samples/Gnuplot/surface1.17.gnu
+/samples/Gnuplot/world2.1.gnu
+/samples/Go/api.pb.go
+/samples/Go Checksums/filenames/go.sum
+/samples/Go Checksums/filenames/go.work.sum
+/samples/Godot Resource/default.tres
+/samples/Godot Resource/filenames/project.godot
+/samples/Godot Resource/Main.tscn
+/samples/Godot Resource/Server.gdns
+/samples/Godot Resource/signals_library.gdnlib
+/samples/Go/embedded.go
+/samples/Go/gen-go-linguist-thrift.go
+/samples/Golo/adapters.golo
+/samples/Golo/async.golo
+/samples/Golo/augmentations.golo
+/samples/Golo/closures.golo
+/samples/Golo/coin-change.golo
+/samples/Golo/collection-literals.golo
+/samples/Golo/context-decorator.golo
+/samples/Golo/decorators.golo
+/samples/Golo/dynamic-evaluation.golo
+/samples/Golo/dynamic-object-person.golo
+/samples/Golo/echo-args.golo
+/samples/Golo/enums-thread-state.golo
+/samples/Golo/fibonacci.golo
+/samples/Golo/helloworld.golo
+/samples/Golo/http-server.golo
+/samples/Golo/logdeco.golo
+/samples/Golo/matching-operator.golo
+/samples/Golo/max-int.golo
+/samples/Golo/memoize.golo
+/samples/Golo/null-safety.golo
+/samples/Golo/prepost-decorators.golo
+/samples/Golo/structs.golo
+/samples/Golo/swing-actionlistener.golo
+/samples/Golo/swing-helloworld.golo
+/samples/Golo/templates-chat-webapp.golo
+/samples/Golo/util-containers.golo
+/samples/Golo/workers.golo
+/samples/Go Module/filenames/go.mod
+/samples/Go/oapi-codegen.go
+/samples/Gosu/Hello.gst
+/samples/Gosu/Hello.gsx
+/samples/Gosu/hello.vark
+/samples/Gosu/Person.gs
+/samples/Gosu/Ronin.gs
+/samples/Go Workspace/filenames/go.work
+/samples/Grace/ackerman_function.grace
+/samples/Grace/grace_IDE.grace
+/samples/Gradle/builder.gradle
+/samples/Gradle/build.gradle
+/samples/Gradle Kotlin DSL/build.gradle.kts
+/samples/Grammatical Framework/FoodsAfr.gf
+/samples/Grammatical Framework/FoodsAmh.gf
+/samples/Grammatical Framework/FoodsBul.gf
+/samples/Grammatical Framework/FoodsCat.gf
+/samples/Grammatical Framework/FoodsChi.gf
+/samples/Grammatical Framework/FoodsCze.gf
+/samples/Grammatical Framework/FoodsDut.gf
+/samples/Grammatical Framework/FoodsEng.gf
+/samples/Grammatical Framework/FoodsEpo.gf
+/samples/Grammatical Framework/FoodsFin.gf
+/samples/Grammatical Framework/FoodsFre.gf
+/samples/Grammatical Framework/FoodsGer.gf
+/samples/Grammatical Framework/Foods.gf
+/samples/Grammatical Framework/FoodsHeb.gf
+/samples/Grammatical Framework/FoodsHin.gf
+/samples/Grammatical Framework/FoodsIce.gf
+/samples/Grammatical Framework/FoodsI.gf
+/samples/Grammatical Framework/FoodsIta.gf
+/samples/Grammatical Framework/FoodsJpn.gf
+/samples/Grammatical Framework/FoodsLav.gf
+/samples/Grammatical Framework/FoodsMlt.gf
+/samples/Grammatical Framework/FoodsMon.gf
+/samples/Grammatical Framework/FoodsNep.gf
+/samples/Grammatical Framework/FoodsOri.gf
+/samples/Grammatical Framework/FoodsPes.gf
+/samples/Grammatical Framework/FoodsPor.gf
+/samples/Grammatical Framework/FoodsRon.gf
+/samples/Grammatical Framework/FoodsSpa.gf
+/samples/Grammatical Framework/FoodsSwe.gf
+/samples/Grammatical Framework/FoodsTha.gf
+/samples/Grammatical Framework/FoodsTsn.gf
+/samples/Grammatical Framework/FoodsTur.gf
+/samples/Grammatical Framework/FoodsUrd.gf
+/samples/Grammatical Framework/LexFoodsCat.gf
+/samples/Grammatical Framework/LexFoodsFin.gf
+/samples/Grammatical Framework/LexFoodsGer.gf
+/samples/Grammatical Framework/LexFoods.gf
+/samples/Grammatical Framework/LexFoodsIta.gf
+/samples/Grammatical Framework/LexFoodsSwe.gf
+/samples/Grammatical Framework/ResCze.gf
+/samples/Grammatical Framework/transFoodsHin.gf
+/samples/Graph Modeling Language/sample2.gml
+/samples/Graph Modeling Language/sample3.gml
+/samples/Graph Modeling Language/sample.gml
+/samples/GraphQL/kitchen-sink.graphql
+/samples/GraphQL/schema.graphqls
+/samples/GraphQL/schema-kitchen-sink.graphql
+/samples/GraphQL/schema-kitchen-sink.graphqls
+/samples/Graphviz (DOT)/annoying.DOT
+/samples/Graphviz (DOT)/sample.dot
+/samples/Groovy/build.gvy
+/samples/Groovy/filenames/Jenkinsfile
+/samples/Groovy/groovy
+/samples/Groovy/script.gvy
+/samples/Groovy/template.grt
+/samples/Groovy/template.gtpl
+/samples/GSC/array_override_common.gsc
+/samples/GSC/array_override_common.gsh
+/samples/GSC/math_shared.gsc
+/samples/GSC/_spiderbot_ride.csc
+/samples/GSC/struct.gsc
+/samples/GSC/zm_init.gsc
+/samples/Hack/Assert.hh
+/samples/Hack/AssertRecipe.hh
+/samples/Hack/Controller.hh
+/samples/Hack/DBResultRecipe.hh
+/samples/Hack/Documentation.hh
+/samples/Hack/error.hh
+/samples/Hack/FakeDB.hh
+/samples/Hack/first.hack
+/samples/Hack/funs.hh
+/samples/Hack/funs.php
+/samples/Hack/GetAndPostRecipe.hh
+/samples/Hack/GetController.hh
+/samples/Hack/HomeController.hh
+/samples/Hack/index.hh
+/samples/Hack/Map.hhi
+/samples/Hack/MySecureRequest.hh
+/samples/Hack/Nav.hh
+/samples/Hack/NonStrictFile.hh
+/samples/Hack/phpfile.hh
+/samples/Hack/Recipe.hh
+/samples/Hack/RecipeWithDemo.hh
+/samples/Hack/Request.hh
+/samples/Hack/StandardPage.hh
+/samples/Hack/startup.hh
+/samples/Hack/StrictFile.hh
+/samples/Hack/UnescapedString.hh
+/samples/Hack/UnescapedStringRecipe.hh
+/samples/Hack/UserID.hh
+/samples/Hack/UserIDRecipe.hh
+/samples/Hack/UsingUserID.hh
+/samples/Haml/buttons.html.haml.deface
+/samples/Haml/hello.haml
+/samples/Handlebars/basic.handlebars
+/samples/Handlebars/each.hbs
+/samples/HAProxy/haproxy2.cfg
+/samples/HAProxy/haproxy3.cfg
+/samples/HAProxy/haproxy4.cfg
+/samples/HAProxy/haproxy.cfg
+/samples/Haskell/Hello.hs
+/samples/Haskell/HsColour.hs
+/samples/Haskell/Main.hs
+/samples/Haskell/maze-solving.hs
+/samples/Haskell/Sudoku.hs
+/samples/HCL/example.hcl
+/samples/HCL/example.nomad
+/samples/HCL/example.tf
+/samples/HCL/main.tf
+/samples/HCL/main.workflow
+/samples/HCL/terraform.tfvars
+/samples/HLSL/accelerated_surface_win.hlsl
+/samples/HLSL/bloom.cginc
+/samples/HLSL/corridor.fx
+/samples/HLSL/jellyfish.fx
+/samples/HLSL/noise.fx
+/samples/HolyC/GrAsm.HC
+/samples/HolyC/OnceDemo.HC
+/samples/HolyC/Prompt.HC
+/samples/HolyC/RandDemo.HC
+/samples/HolyC/Spy.HC
+/samples/hoon/canvas.hoon
+/samples/hoon/eyre.hoon
+/samples/Hosts File/filenames/hosts
+/samples/Hosts File/filenames/hosts.txt
+/samples/HTML/Crear_logo.hta
+/samples/HTML+ECR/greeting.ecr
+/samples/HTML+EEX/index.html.eex
+/samples/HTML+EEX/live_component.html.heex
+/samples/HTML+EEX/live_component.html.leex
+/samples/HTML+ERB/fishbowl.html.erb.deface
+/samples/HTML+ERB/index.html.erb
+/samples/HTML+ERB/index.rhtml
+/samples/HTML/example.xht
+/samples/HTML/index.html.hl
+/samples/HTML/pages.html
+/samples/HTML/pkgdown.html
+/samples/HTML+Razor/Index.cshtml
+/samples/HTML+Razor/Index.razor
+/samples/HTML/rpanel.inc
+/samples/HTML/tailDel.inc
+/samples/HTML/wehaveoddjobs.hta
+/samples/HXML/checkstyle.hxml
+/samples/HXML/vshaxe.hxml
+/samples/Hy/fibonacci.hy
+/samples/Hy/fizzbuzz
+/samples/Hy/hello-world.hy
+/samples/HyPhy/AAModelComparison.bf
+/samples/HyPhy/CodonModelCompare.bf
+/samples/HyPhy/dNdSDistributionComparison.bf
+/samples/HyPhy/hyphy_cmds.bf
+/samples/HyPhy/MatrixIndexing.bf
+/samples/HyPhy/MFPositiveSelection.bf
+/samples/HyPhy/MolecularClock.bf
+/samples/HyPhy/profile_test.bf
+/samples/iCalendar/2024.ics
+/samples/iCalendar/todo-2.ical
+/samples/IDL/amespahdbidlsuite_spectrum__define.pro
+/samples/IDL/mg_acosh.pro
+/samples/IDL/mg_analysis.dlm
+/samples/IDL/mg_gcd.pro
+/samples/IDL/mg_trunc.pro
+/samples/Idris/Chars.idr
+/samples/IGOR Pro/CodeBrowser.ipf
+/samples/IGOR Pro/functions.ipf
+/samples/IGOR Pro/generic.ipf
+/samples/ImageJ Macro/batch of ratiometric FRET using IO settings.ijm
+/samples/ImageJ Macro/simple.ijm
+/samples/Imba/main.imba
+/samples/Inform 7/story.ni
+/samples/Inform 7/Trivial Extension.i7x
+/samples/INI/defaults.properties
+/samples/INI/filenames/.buckconfig
+/samples/INI/filenames/buildozer.spec
+/samples/INI/filenames/.coveragerc
+/samples/INI/filenames/.flake8
+/samples/INI/filenames/hosts
+/samples/INI/filenames/.pylintrc
+/samples/INI/filenames/pylintrc
+/samples/INI/filenames/vlcrc
+/samples/INI/MouseKeyboard.pro
+/samples/INI/ms.cfg
+/samples/INI/ms.properties
+/samples/INI/my.cnf
+/samples/INI/openssl.cnf
+/samples/INI/spyder_website.lektorproject
+/samples/INI/TOVR.dof
+/samples/INI/ultimate-temp-controller.pro
+/samples/Ink/murder_scene.ink
+/samples/Ink/print_number.ink
+/samples/Ink/seen_this_scene.ink
+/samples/Ink/string_to_list.ink
+/samples/Ink/thread_in_tunnel.ink
+/samples/Inno Setup/Default.isl
+/samples/Inno Setup/expat.iss
+/samples/Ioke/hello.ik
+/samples/Isabelle/HelloWorld.thy
+/samples/Isabelle ROOT/filenames/ROOT
+/samples/Janet/lazyseqs.janet
+/samples/Janet/life.janet
+/samples/Janet/tarray.janet
+/samples/JAR Manifest/filenames/MANIFEST.MF
+/samples/Jasmin/if1.j
+/samples/Jasmin/if2.j
+/samples/Jasmin/if3.j
+/samples/Jasmin/if4.j
+/samples/Jasmin/op1.j
+/samples/Jasmin/op2.j
+/samples/Jasmin/op3.j
+/samples/Jasmin/op4.j
+/samples/Java/clojure-type.java
+/samples/Java/clojure-util.java
+/samples/Java/FieldGen.jsh
+/samples/Java/generated-jooq-table.java
+/samples/Java/gen-java-linguist-thrift.java
+/samples/Java/GrammarKit.java
+/samples/Java/HtmlDomParserContext.java
+/samples/Java/Hudson.java
+/samples/Java/JFlexLexer.java
+/samples/Java/NokogiriService.java
+/samples/Java Properties/libraries.properties
+/samples/Java Properties/sounds.properties
+/samples/Java/ProtocolBuffer.java
+/samples/JavaScript/axios.es
+/samples/JavaScript/bootstrap-modal.js
+/samples/JavaScript/ccalc-lex.js
+/samples/JavaScript/ccalc-parse.js
+/samples/JavaScript/chart_composers.gs
+/samples/JavaScript/classes.js
+/samples/JavaScript/classes-old.js
+/samples/JavaScript/constant_fold.mjs
+/samples/JavaScript/dude.js
+/samples/JavaScript/entry.mjs
+/samples/JavaScript+ERB/create.js.erb
+/samples/JavaScript/gen-js-linguist-thrift.js
+/samples/JavaScript/helloHanaEndpoint.xsjs
+/samples/JavaScript/helloHanaMath.xsjslib
+/samples/JavaScript/hello.js
+/samples/JavaScript/http.js
+/samples/JavaScript/index.es
+/samples/JavaScript/intro.js
+/samples/JavaScript/intro.js.frag
+/samples/JavaScript/intro-old.js
+/samples/JavaScript/itau.gs
+/samples/JavaScript/jquery-1.4.2.min.js
+/samples/JavaScript/jquery-1.6.1.js
+/samples/JavaScript/jquery-1.6.1.min.js
+/samples/JavaScript/jquery-1.7.2.js
+/samples/JavaScript/js
+/samples/JavaScript/js2
+/samples/JavaScript/jsbuild.jsb
+/samples/JavaScript/json2_backbone.js
+/samples/JavaScript/logo.jscad
+/samples/JavaScript/merge.js
+/samples/JavaScript/modernizr.js
+/samples/JavaScript/module.mjs
+/samples/JavaScript/namespace.js
+/samples/JavaScript/outro.js.frag
+/samples/JavaScript/parser.js
+/samples/JavaScript/proto.js
+/samples/JavaScript/run
+/samples/JavaScript/sample.jsx
+/samples/JavaScript/steelseries-min.js
+/samples/JavaScript/uglify.js
+/samples/Java Template Engine/baseLayout.jte
+/samples/Jest Snapshot/css.test.tsx.snap
+/samples/JetBrains MPS/baselanguage.mpl
+/samples/JetBrains MPS/model.mps
+/samples/JetBrains MPS/sandbox.msd
+/samples/JFlex/java.jflex
+/samples/JFlex/LexScan.flex
+/samples/J/hashbang
+/samples/Jinja/home.j2
+/samples/Jinja/worker.jinja2
+/samples/Jison/ansic.jison
+/samples/Jison/classy.jison
+/samples/Jison Lex/classy.jisonlex
+/samples/Jison/lex.jison
+/samples/Jison Lex/lex_grammar.jisonlex
+/samples/Jolie/common.iol
+/samples/Jolie/examiner.ol
+/samples/Jolie/exam.ol
+/samples/Jolie/hanoi.ol
+/samples/Jolie/student.ol
+/samples/jq/builtin.jq
+/samples/jq/sample.jq
+/samples/JSON/2ea73365-b6f1-4bd1-a454-d57a67e50684.yy
+/samples/JSON/4DPopGit.4DProject
+/samples/JSON5/example.json5
+/samples/JSON5/package.json5
+/samples/JSON/block-sync-counter8.ice
+/samples/JSON/code-scanning.sarif
+/samples/JSON/filenames/.all-contributorsrc
+/samples/JSON/filenames/.arcconfig
+/samples/JSON/filenames/composer.lock
+/samples/JSON/filenames/deno.lock
+/samples/JSON/filenames/flake.lock
+/samples/JSON/filenames/.htmlhintrc
+/samples/JSON/filenames/.imgbotconfig
+/samples/JSON/filenames/mcmod.info
+/samples/JSON/filenames/MODULE.bazel.lock
+/samples/JSON/filenames/Pipfile.lock
+/samples/JSON/filenames/.tern-config
+/samples/JSON/filenames/.tern-project
+/samples/JSON/filenames/.watchmanconfig
+/samples/JSON/form.4DForm
+/samples/JSON/geo.geojson
+/samples/JSON/Git Commit.JSON-tmLanguage
+/samples/JSON/GMS2_Project.yyp
+/samples/JSON/google-services.json.example
+/samples/JSON/http_response.avsc
+/samples/JSONiq/detail.jq
+/samples/JSONiq/query.jq
+/samples/JSON/landing.tact
+/samples/JSONLD/sample.jsonld
+/samples/JSON/manifest.webapp
+/samples/JSON/manifest.webmanifest
+/samples/JSON/Material_Alpha_01.gltf
+/samples/Jsonnet/intersection.jsonnet
+/samples/JSON/pack.mcmeta
+/samples/JSON/person.json
+/samples/JSON/product.json
+/samples/JSON/recording.har
+/samples/JSON/schema.json
+/samples/JSON/small.tfstate
+/samples/JSON/switzerland.topojson
+/samples/JSON/terraform.tfstate.backup
+/samples/JSON/VCT.yy
+/samples/J/stwij.ijs
+/samples/Jupyter Notebook/JupyterNotebook.ipynb
+/samples/Just/filenames/Justfile
+/samples/Just/kitchen-sink.just
+/samples/Kaitai Struct/iso9660.ksy
+/samples/Kaitai Struct/zip.ksy
+/samples/KakouneScript/c-family.kak
+/samples/KakouneScript/doc.kak
+/samples/KakouneScript/filenames/kakrc
+/samples/KerboScript/hoverslam.ks
+/samples/KerboScript/launch.ks
+/samples/KerboScript/lib_pid.ks
+/samples/KiCad Schematic/buttons.sch
+/samples/KiCad Schematic/buzzer.sch
+/samples/KiCad Schematic/ciaaConector.sch
+/samples/KiCad Schematic/gedda-junk.sch
+/samples/KiCad Schematic/rpi-cm4-carrier-template.kicad_sch
+/samples/KiCad Schematic/ultimate-temp-controller.sch
+/samples/KiCad Schematic/Volume.sch
+/samples/Kit/demo.kit
+/samples/Kotlin/Foo.kt
+/samples/KRL/helloworld.krl
+/samples/kvlang/showcase.kv
+/samples/LabVIEW/Actor Framework Fundamentals.lvproj
+/samples/LabVIEW/Coffee Shop.lvlib
+/samples/LabVIEW/Customer.lvlib
+/samples/LabVIEW/Malleable VIs Basics.lvproj
+/samples/LabVIEW/Malleable VIs - Nested Malleable VIs.lvproj
+/samples/LabVIEW/Person.lvlib
+/samples/LabVIEW/PL Modbus Client.lvclass
+/samples/LabVIEW/Temperature Monitoring.lvproj
+/samples/LabVIEW/Word Finder.lvproj
+/samples/LabVIEW/Work Dispatcher.lvlib
+/samples/LabVIEW/Worker.lvlib
+/samples/Lark/ebl_atf_common.lark
+/samples/Lark/ebl_atf.lark
+/samples/Lark/lark.lark
+/samples/Lasso/json.lasso
+/samples/Lasso/json.lasso9
+/samples/Lasso/knop.las
+/samples/Latte/layout.latte
+/samples/Latte/template.latte
+/samples/Lean/binary.lean
+/samples/Lean/set.hlean
+/samples/Less/screen.less
+/samples/Lex/filenames/Lexer.x
+/samples/Lex/zend_ini_scanner.l
+/samples/LFE/church.lfe
+/samples/LFE/gps1.lfe
+/samples/LFE/mnesia_demo.lfe
+/samples/LFE/object.lfe
+/samples/Limbo/cat.b
+/samples/Limbo/lock.b
+/samples/Limbo/lock.m
+/samples/Linker Script/filenames/ld.script
+/samples/Linker Script/inject.x
+/samples/Linker Script/link.ld
+/samples/Linker Script/vmlinux.lds
+/samples/Linux Kernel Module/bcm4334x.mod
+/samples/Linux Kernel Module/mbcache.mod
+/samples/Linux Kernel Module/md5.mod
+/samples/Liquid/layout.liquid
+/samples/Liquid/template.liquid
+/samples/Literate Agda/NatCat.lagda
+/samples/Literate CoffeeScript/pixi.coffee.md
+/samples/Literate CoffeeScript/scope.litcoffee
+/samples/LiveCode Script/colorToRGB.livecodescript
+/samples/LiveCode Script/hideFolder.livecodescript
+/samples/LiveCode Script/longIdAllControls.livecodescript
+/samples/LiveCode Script/minifyScript.livecodescript
+/samples/LiveScript/hello.ls
+/samples/Logos/example.xm
+/samples/Logos/NCHax.x
+/samples/Logos/NoCarrier.x
+/samples/Logos/string1.x
+/samples/Logos/Tweak.x
+/samples/Logtalk/foo.lgt
+/samples/LOLCODE/LOLTracer.lol
+/samples/LoomScript/HelloWorld.ls
+/samples/LoomScript/SyntaxExercise.ls
+/samples/LSL/LSL.lsl
+/samples/LSL/LSL.lslp
+/samples/Lua/filenames/.luacheckrc
+/samples/Lua/h-counter.pd_lua
+/samples/Lua/luatexts-0.1.2-1.rockspec
+/samples/Lua/treegen.p8
+/samples/Luau/EnumList.luau
+/samples/Luau/Option.luau
+/samples/Luau/ser.luau
+/samples/Luau/Symbol.luau
+/samples/Luau/Tree.luau
+/samples/Lua/vidya-file-list-parser.pd_lua
+/samples/Lua/vidya-file-modder.pd_lua
+/samples/Lua/wsapi.fcgi
+/samples/M4/fibo.m4
+/samples/M4/htmlgen.m4
+/samples/M4/postscript.m4
+/samples/M4/sendmail.mc
+/samples/M4Sugar/ax_ruby_devel.m4
+/samples/M4Sugar/filenames/configure.ac
+/samples/M4Sugar/list.m4
+/samples/M4/translit2.m4
+/samples/Macaulay2/FGLM.m2
+/samples/Makefile/file-icons.make
+/samples/Makefile/filenames/BSDmakefile
+/samples/Makefile/filenames/Kbuild
+/samples/Makefile/filenames/Makefile
+/samples/Makefile/filenames/Makefile.boot
+/samples/Makefile/filenames/Makefile.frag
+/samples/Makefile/filenames/Makefile.inc
+/samples/Makefile/filenames/makefile.sco
+/samples/Makefile/filenames/Makefile.wat
+/samples/Makefile/filenames/mkfile
+/samples/Makefile/foo.o.d
+/samples/Makefile/makefile
+/samples/Markdown/bunyan.1.ronn
+/samples/Markdown/csharp6.workbook
+/samples/Markdown/filenames/contents.lr
+/samples/Markdown/livebook.livemd
+/samples/Markdown/minimal.md
+/samples/Markdown/README.mdown
+/samples/Markdown/ronn.1.ronn
+/samples/Markdown/ronn-format.7.ronn
+/samples/Markdown/sway.5.scd
+/samples/Markdown/tender.md
+/samples/Marko/counter.marko
+/samples/Marko/hello.marko
+/samples/Marko/rgb-sliders.marko
+/samples/M/arrays.m
+/samples/Mask/view.mask
+/samples/Mathematica/HeyexImport.m
+/samples/Mathematica/Init.m
+/samples/Mathematica/MiscCalculations2.nb
+/samples/Mathematica/MiscCalculations.nb
+/samples/Mathematica/PacletInfo.m
+/samples/Mathematica/Predicates.m
+/samples/Mathematica/Predicates.wl
+/samples/Mathematica/Problem12.m
+/samples/Mathematica/TestArithmetic.mt
+/samples/Mathematica/TestString.mt
+/samples/Mathematica/TestSuite.mt
+/samples/Mathematica/UnitTest.wlt
+/samples/MATLAB/adapting_structural_model.m
+/samples/MATLAB/average.m
+/samples/MATLAB/bicycle_state_space.m
+/samples/MATLAB/Check_plot.m
+/samples/MATLAB/convert_variable.m
+/samples/MATLAB/create_ieee_paper_plots.m
+/samples/MATLAB/cross_validation.m
+/samples/MATLAB/distance.m
+/samples/MATLAB/double_gyre.m
+/samples/MATLAB/example.m
+/samples/MATLAB/fit_adapt_linear.m
+/samples/MATLAB/fit_adapt.m
+/samples/MATLAB/FTLEH.m
+/samples/MATLAB/FTLE_reg.m
+/samples/MATLAB/gpu_RKF45_FILE.m
+/samples/MATLAB/ieee.m
+/samples/MATLAB/Integrate1.m
+/samples/MATLAB/Integrate2.m
+/samples/MATLAB/Lagrangian_points.m
+/samples/MATLAB/Lagr.m
+/samples/MATLAB/lane_change.m
+/samples/MATLAB/load_bikes.m
+/samples/MATLAB/load_data.m
+/samples/MATLAB/make_filter.m
+/samples/MATLAB/matlab_class.m
+/samples/MATLAB/matlab_function.m
+/samples/MATLAB/matlab_script2.m
+/samples/MATLAB/matlab_script.m
+/samples/MATLAB/normalize.m
+/samples/MATLAB/overwrite_settings.m
+/samples/MATLAB/par_text_to_struct.m
+/samples/MATLAB/plant.m
+/samples/MATLAB/Poincare.m
+/samples/MATLAB/RK4.m
+/samples/MATLAB/test_rk_par.m
+/samples/MATLAB/test_system_state_space.m
+/samples/MATLAB/Traj.m
+/samples/MATLAB/varargin_to_structure.m
+/samples/MATLAB/write_gains.m
+/samples/Maven POM/filenames/pom.xml
+/samples/Max/Hello.maxhelp
+/samples/Max/Hello.maxpat
+/samples/Max/Hello.mxt
+/samples/MAXScript/macro-1.mcr
+/samples/MAXScript/macro-2.mcr
+/samples/MAXScript/rolloutCreator.ms
+/samples/MAXScript/svg-renderer.ms
+/samples/MAXScript/volume-calc.ms
+/samples/M/base64.m
+/samples/mcfunction/showcase.mcfunction
+/samples/M/Comment.m
+/samples/M/digest.m
+/samples/MDX/sample.mdx
+/samples/M/dynamicscoping.m
+/samples/Mercury/code_info.m
+/samples/Mercury/expr.moo
+/samples/Mercury/hello.m
+/samples/Mercury/options.m
+/samples/Mercury/polymorphism.m
+/samples/Mercury/rot13_concise.m
+/samples/Mercury/rot13_ralph.m
+/samples/Mercury/rot13_verbose.m
+/samples/Mercury/store.m
+/samples/Mercury/switch_detection_bug.m
+/samples/Mermaid/c4c-diagram.mermaid
+/samples/Mermaid/class-diagram.mermaid
+/samples/Mermaid/er-diagram.mmd
+/samples/Mermaid/flowchart.mmd
+/samples/Mermaid/gantt.mmd
+/samples/Mermaid/gitgraph.mmd
+/samples/Mermaid/pie-chart.mermaid
+/samples/Mermaid/requirement-diagram.mermaid
+/samples/Mermaid/sequence-diagram.mmd
+/samples/Mermaid/state-diagram.mmd
+/samples/Mermaid/user-journey.mmd
+/samples/Meson/filenames/meson.build
+/samples/Meson/filenames/meson_options.txt
+/samples/Metal/ITMVisualisationEngine.metal
+/samples/M/fibonacci.m
+/samples/M/forloop.m
+/samples/M/functions.m
+/samples/M/GMRGPNB0.m
+/samples/M/helloworld.m
+/samples/Microsoft Developer Studio Project/freeglut.dsp
+/samples/Microsoft Visual Studio Solution/Radiant.sln
+/samples/M/ifelse.m
+/samples/M/indirectfunctions.m
+/samples/MiniYAML/chrome.yaml
+/samples/MiniYAML/cursor.yaml
+/samples/MiniYAML/mainmenu.yaml
+/samples/MiniYAML/metrics.yaml
+/samples/MiniYAML/metrics.yml
+/samples/MiniYAML/mod.yaml
+/samples/MiniYAML/notifications.yaml
+/samples/MiniYAML/rules.yaml
+/samples/MiniYAML/tileset.yaml
+/samples/Mint/ApplicationStore.mint
+/samples/Mint/Comment.mint
+/samples/Mint/Counter.mint
+/samples/Mint/HeaderTest.mint
+/samples/Mint/InlineJS.mint
+/samples/Mint/TodoItem.mint
+/samples/mIRC Script/AutoHostmeBot.mrc
+/samples/mIRC Script/torncity-apiprofile.mrc
+/samples/mIRC Script/torncity-tcbot.mrc
+/samples/mIRC Script/torncity-tsspy.mrc
+/samples/MLIR/const-fold.mlir
+/samples/MLIR/core-ops.mlir
+/samples/MLIR/executor_to_control_dialect.mlir
+/samples/MLIR/sample.mlir
+/samples/M/md5.m
+/samples/M/MDB.m
+/samples/M/mileage.m
+/samples/M/mumtris.m
+/samples/M/nesting.m
+/samples/Modelica/modelica.mo
+/samples/Modelica/NestedPackages.mo
+/samples/Modelica/NewtonCooling.mo
+/samples/Modelica/package2.mo
+/samples/Modelica/package3.mo
+/samples/Modelica/package4.mo
+/samples/Modelica/package.mo
+/samples/Modelica/Pendulum.mo
+/samples/Modelica/RLC.mo
+/samples/Modelica/SecondOrderSystem.mo
+/samples/Modelica/System.mo
+/samples/Modelica/Translational.mo
+/samples/Modula-2/HuffChan.mod
+/samples/Modula-3/DiGraph.ig
+/samples/Modula-3/DiGraph.mg
+/samples/Modula-3/RdClass.i3
+/samples/Modula-3/Rd.i3
+/samples/Modula-3/Rd.m3
+/samples/Module Management System/descrip.mms
+/samples/Module Management System/openvms.mmk
+/samples/Module Management System/simh_descrip.mms
+/samples/Module Management System/spline_descrip.mms
+/samples/Module Management System/xv_makefile.mms
+/samples/Mojo/Bool.mojo
+/samples/Mojo/Matmul.mojo
+/samples/Monkey C/VesselModel.mc
+/samples/Monkey/encodeToPng.monkey2
+/samples/Monkey/example.monkey
+/samples/Monkey/example.monkey2
+/samples/Monkey/gui.monkey2
+/samples/Monkey/sorting.monkey2
+/samples/Moocode/hello.moo
+/samples/Moocode/moocode_toolkit.moo
+/samples/Moocode/toy.moo
+/samples/MoonBit/cfold.mbt
+/samples/MoonBit/deriv.mbt
+/samples/MoonBit/fft.mbt
+/samples/MoonBit/nqueens.mbt
+/samples/MoonBit/rbtree.mbt
+/samples/MoonScript/transform.moon
+/samples/Motorola 68K Assembly/bls_routines.inc
+/samples/Motorola 68K Assembly/cpu.s
+/samples/Motorola 68K Assembly/iff_ilbm.i
+/samples/Motorola 68K Assembly/lz4.X68
+/samples/Motorola 68K Assembly/rom_testbench.asm
+/samples/Motorola 68K Assembly/system.s
+/samples/Move/Main.move
+/samples/Move/Vector.move
+/samples/M/pcreexamples.m
+/samples/M/pcre.m
+/samples/M/postconditional.m
+/samples/M/PRCAAPR.m
+/samples/M/primes.m
+/samples/M/PXAI.m
+/samples/MQL4/header-sample.mqh
+/samples/MQL4/indicator-sample.mq4
+/samples/MQL4/script-sample.mq4
+/samples/MQL5/indicator-sample.mq5
+/samples/MQL5/Regex.mqh
+/samples/MQL5/script-sample.mq5
+/samples/MTML/categories_to_columns.mtml
+/samples/M/url.m
+/samples/Muse/manual.muse
+/samples/Muse/usage.muse
+/samples/Mustache/csvrow.mustache
+/samples/Mustache/deleteuser.mustache
+/samples/Mustache/pupilinfoblock.mustache
+/samples/Mustache/showallusers.mustache
+/samples/M/WVBRNOT.m
+/samples/M/ZDIOUT1.m
+/samples/M/_zewdAPI.m
+/samples/M/_zewdDemo.m
+/samples/M/zmwire.m
+/samples/nanorc/filenames/.nanorc
+/samples/nanorc/filenames/nanorc
+/samples/nanorc/nanorc.nanorc
+/samples/Nasal/damage.nas
+/samples/Nasal/kx165tso.nas
+/samples/NASL/bugbear_b.nasl
+/samples/NASL/cmsimple_guestbook_xss.nasl
+/samples/NASL/cmsimple_search_xss.nasl
+/samples/NASL/cubecart_xss.nasl
+/samples/NASL/data_mail_xss.nasl
+/samples/NASL/hacker_defender.nasl
+/samples/NASL/nmap.nasl
+/samples/NASL/packeteer_web_login.nasl
+/samples/NASL/smtp_func.inc
+/samples/NASL/tftp_func.inc
+/samples/NCL/cru_8.ncl
+/samples/NCL/gsn_csm_xy2_time_series_inputs.ncl
+/samples/NCL/hdf4sds_7.ncl
+/samples/NCL/mask_12.ncl
+/samples/NCL/mcsst_1.ncl
+/samples/NCL/primero.ncl
+/samples/NCL/PrnOscPat_driver.ncl
+/samples/NCL/topo_9.ncl
+/samples/NCL/traj_3.ncl
+/samples/NCL/tsdiagram_1.ncl
+/samples/NCL/unique_9.ncl
+/samples/NCL/viewport_4.ncl
+/samples/NCL/weather_sym_6.ncl
+/samples/NCL/WRF_static_2.ncl
+/samples/NCL/WRF_track_1.ncl
+/samples/NCL/xy_29.ncl
+/samples/Nearley/nearley-language-bootstrapped.ne
+/samples/Nemerle/hello.n
+/samples/NEON/config.neon
+/samples/NEON/example.neon
+/samples/NetLinx+ERB/sample.axi.erb
+/samples/NetLinx+ERB/sample.axs.erb
+/samples/NetLinx/projector.axi
+/samples/NetLinx/volume-array.axs
+/samples/NetLogo/Life.nlogo
+/samples/NewLisp/irc.lsp
+/samples/NewLisp/log-to-database.lisp
+/samples/NewLisp/queens.nl
+/samples/Nextflow/blast.nf
+/samples/Nextflow/callings.nf
+/samples/Nextflow/filenames/nextflow.config
+/samples/Nextflow/rnaseq.nf
+/samples/Nginx/example.com.vhost
+/samples/Nginx/filenames/nginx.conf
+/samples/Nginx/sample.nginx
+/samples/Nim/config.nims
+/samples/Nim/filenames/nim.cfg
+/samples/Nim/foo.nim
+/samples/Nim/main.nim
+/samples/Nim/nimfix.nim.cfg
+/samples/Nim/zip.nimble
+/samples/Nit/calculator.nit
+/samples/Nit/callback_chimpanze.nit
+/samples/Nit/callback_monkey.nit
+/samples/Nit/circular_list.nit
+/samples/Nit/clock_more.nit
+/samples/Nit/clock.nit
+/samples/Nit/curl_http.nit
+/samples/Nit/curl_mail.nit
+/samples/Nit/draw_operation.nit
+/samples/Nit/drop_privileges.nit
+/samples/Nit/extern_methods.nit
+/samples/Nit/fibonacci.nit
+/samples/Nit/file.nit
+/samples/Nit/hello_world.nit
+/samples/Nit/html_page.nit
+/samples/Nit/int_stack.nit
+/samples/Nit/meetup.nit
+/samples/Nit/opengles2_hello_triangle.nit
+/samples/Nit/print_arguments.nit
+/samples/Nit/procedural_array.nit
+/samples/Nit/socket_client.nit
+/samples/Nit/socket_server.nit
+/samples/Nit/tmpl_composer.nit
+/samples/Nit/websocket_server.nit
+/samples/Nix/nginx.nix
+/samples/NMODL/fornetcon.mod
+/samples/NMODL/k3st.mod
+/samples/Noir/array.nr
+/samples/Noir/ecrecover_lib.nr
+/samples/Noir/voting.nr
+/samples/NPM Config/filenames/.npmrc
+/samples/Nunjucks/norris.njk
+/samples/Nu/nu
+/samples/Nu/RandomApp.nu
+/samples/Nushell/release-pkg.nu
+/samples/Nushell/this_week_in_nu.nu
+/samples/NWScript/act_disarmkobold.nss
+/samples/NWScript/act_unlockkobold.nss
+/samples/NWScript/crawler_death.nss
+/samples/NWScript/e2pc_plaguestack.nss
+/samples/NWScript/e3pc_spidersnest.nss
+/samples/NWScript/illusion_spawn.nss
+/samples/OASv2-json/pixi.json
+/samples/OASv2-yaml/sample.yaml
+/samples/OASv2-yaml/sample.yml
+/samples/OASv3-yaml/ghes-3.4.yaml
+/samples/OASv3-yaml/ghes-3.4.yml
+/samples/Oberon/beNull.ob2
+/samples/Object Data Instance Notation/openehr_ehr_1.0.3.bmm.odin
+/samples/Objective-C/ASIHTTPRequest.h
+/samples/Objective-C/ASIHTTPRequest.m
+/samples/Objective-C/cocoa_monitor.m
+/samples/Objective-C++/EventHandlerMac.mm
+/samples/Objective-C/FooAppDelegate.h
+/samples/Objective-C/FooAppDelegate.m
+/samples/Objective-C/Foo.h
+/samples/Objective-C/Foo.m
+/samples/Objective-C/gen-cocoa-linguist-thrift.m
+/samples/Objective-C/hello.m
+/samples/Objective-C/JSONKit.h
+/samples/Objective-C/JSONKit.m
+/samples/Objective-C/MainMenuViewController.h
+/samples/Objective-C/MainMenuViewController.m
+/samples/Objective-C++/objsql.mm
+/samples/Objective-C/PlaygroundViewController.h
+/samples/Objective-C/PlaygroundViewController.m
+/samples/Objective-C/SBJsonParser.h
+/samples/Objective-C/SBJsonParser.m
+/samples/Objective-C/Siesta.h
+/samples/Objective-C/StyleViewController.h
+/samples/Objective-C/StyleViewController.m
+/samples/Objective-C/TUITableView.h
+/samples/Objective-C/TUITableView.m
+/samples/OCaml/cmdliner.ml
+/samples/OCaml/common.ml
+/samples/OCaml/date.ml
+/samples/OCaml/example.eliom
+/samples/OCaml/Foo.ml
+/samples/OCaml/map.ml
+/samples/OCaml/mirage.ml
+/samples/OCaml/reload.ml
+/samples/OCaml/sigset.ml
+/samples/OCaml/uutf.ml
+/samples/Odin/sample.odin
+/samples/Omgrofl/hello.omgrofl
+/samples/omnetpp-msg/GptpPacket.msg
+/samples/omnetpp-msg/TcpConnection.msg
+/samples/omnetpp-msg/TcpConnectionState.msg
+/samples/omnetpp-ned/Ieee80211Interface.ned
+/samples/omnetpp-ned/IWirelessInterface.ned
+/samples/omnetpp-ned/TsnNetworkBase.ned
+/samples/Opa/hello_syntax1.opa
+/samples/Opa/hello_syntax2.opa
+/samples/Opal/DeepakChopra.opal
+/samples/OpenCL/fft.cl
+/samples/OpenCL/sample.cl
+/samples/OpenEdge ABL/Email.cls
+/samples/OpenEdge ABL/openedge.p
+/samples/OpenEdge ABL/SendEmailAlgorithm.cls
+/samples/OpenEdge ABL/SocketReader.p
+/samples/OpenEdge ABL/test-win.w
+/samples/OpenEdge ABL/Util.cls
+/samples/Open Policy Agent/httpapi.rego
+/samples/Open Policy Agent/kafka.rego
+/samples/Open Policy Agent/kubernetes_admission.rego
+/samples/Open Policy Agent/ssh.rego
+/samples/OpenQASM/half_adder.qasm
+/samples/OpenRC runscript/acpid
+/samples/OpenSCAD/not_simple.scad
+/samples/OpenSCAD/simple.scad
+/samples/OpenStep Property List/TypewriterInfo.plist
+/samples/OpenStep Property List/weathericons-regular.glyphs
+/samples/Option List/filenames/.ackrc
+/samples/Option List/filenames/ackrc
+/samples/Option List/filenames/mocha.opts
+/samples/Option List/filenames/.rspec
+/samples/Option List/filenames/.yardopts
+/samples/Org/org.org
+/samples/Ox/IJCEmet2009.oxh
+/samples/Ox/ParallelObjective.ox
+/samples/Ox/particle.oxo
+/samples/Oxygene/Loops.oxygene
+/samples/P4/l2.p4
+/samples/P4/mirror_acl.p4
+/samples/Pact/coin.pact
+/samples/Pact/fungible-v1.pact
+/samples/Pan/ceph-raid.pan
+/samples/Pan/cluster-A.pan
+/samples/Pan/databases.pan
+/samples/Pan/functions.pan
+/samples/Pan/infernalis.pan
+/samples/Pan/libvirt.pan
+/samples/Pan/link.pan
+/samples/Pan/mysql.pan
+/samples/Pan/nodes_properties.pan
+/samples/Pan/onevm.pan
+/samples/Pan/osd-fetch.pan
+/samples/Pan/pakiti.pan
+/samples/Pan/purge_fqan_accounts.pan
+/samples/Pan/resources.pan
+/samples/Pan/simple.pan
+/samples/Pan/test.pan
+/samples/Pan/types.pan
+/samples/Pan/unit.pan
+/samples/Papyrus/CAMTEST_OverShoulderME.psc
+/samples/Papyrus/vMFX_FXPlugin.psc
+/samples/Papyrus/vSCM_MetaQuestScript.psc
+/samples/Parrot Assembly/hello.pasm
+/samples/Parrot Internal Representation/hello.pir
+/samples/Pascal/bulls-and-cows.pascal
+/samples/Pascal/custforms.pp
+/samples/Pascal/cwindirs.pp
+/samples/Pascal/GraphicConfiguration.inc
+/samples/Pascal/image_url.inc
+/samples/Pascal/large.pp
+/samples/Pascal/lazcomlib_1_0_tlb.pas
+/samples/Pascal/lazcomunit.pas
+/samples/Pascal/libc.inc
+/samples/Pascal/program.dpr
+/samples/Pascal/read-a-configuration-file.pascal
+/samples/Pascal/tw27294.pp
+/samples/Pascal/vmops_impl.inc
+/samples/Pawn/Check.inc
+/samples/Pawn/fixed.inc
+/samples/Pawn/fixes.inc
+/samples/Pawn/foo.sma
+/samples/Pawn/mfile.inc
+/samples/Pawn/timertest.pwn
+/samples/Pawn/y_testing.inc
+/samples/PDDL/domain_testproblem.pddl
+/samples/PDDL/pathfinding.pddl
+/samples/PDDL/problem_4d_5p.pddl
+/samples/PEG.js/abnfp.peggy
+/samples/PEG.js/rfc5988.pegjs
+/samples/Pep8/div.pep
+/samples/Pep8/flag.pep
+/samples/Pep8/linked.pep
+/samples/Pep8/msq.pep
+/samples/Pep8/qsort.pep
+/samples/Pep8/stri_buf.pep
+/samples/Pep8/stristack.pep
+/samples/Perl/Ack.pm
+/samples/Perl/Any.pm
+/samples/Perl/example.cgi
+/samples/Perl/exception_handler.pl
+/samples/Perl/feedgnuplot
+/samples/Perl/fib.pl
+/samples/Perl/filenames/ack
+/samples/Perl/filenames/cpanfile
+/samples/Perl/filenames/.latexmkrc
+/samples/Perl/filenames/latexmkrc
+/samples/Perl/filenames/Makefile.PL
+/samples/Perl/filenames/Rexfile
+/samples/Perl/getchar.al
+/samples/Perl/index.fcgi
+/samples/Perl/oo1.pl
+/samples/Perl/oo2.pl
+/samples/Perl/oo3.pl
+/samples/Perl/perl
+/samples/Perl/perl-test.t
+/samples/Perl/Request.pm
+/samples/Perl/Response.pm
+/samples/Perl/Schema.pm
+/samples/Perl/script.pl
+/samples/Perl/strict.t
+/samples/Perl/test-perl2.pl
+/samples/Perl/test-perl.pl
+/samples/Perl/use5.pl
+/samples/PHP/Application.php
+/samples/PHP/Client.php
+/samples/PHP/Controller.php
+/samples/PHP/drupal.php
+/samples/PHP/exception.zep.php
+/samples/PHP/file_display.inc
+/samples/PHP/filenames/.php
+/samples/PHP/filenames/.php_cs
+/samples/PHP/filenames/.php_cs.dist
+/samples/PHP/Form.php
+/samples/PHP/mail.phps
+/samples/PHP/Model.php
+/samples/PHP/php
+/samples/PHP/php2
+/samples/PHP/php-script
+/samples/PHP/prefix.fcgi
+/samples/PHP/ProtobufGenerated.php
+/samples/PHP/root.php
+/samples/PHP/ThriftGenerated.php
+/samples/Pic/dextroamphetamine.chem
+/samples/Pic/graph.pic
+/samples/Pickle/data.pkl
+/samples/Pickle/neural-network-ce-l2reg-784-10-30.pkl
+/samples/Pickle/random.pkl
+/samples/Pickle/save.pkl
+/samples/PicoLisp/simul.l
+/samples/Pic/ritalin.chem
+/samples/PigLatin/example.pig
+/samples/Pike/Error.pmod
+/samples/Pike/FakeFile.pike
+/samples/Pike/shebang.pike
+/samples/Pip Requirements/filenames/requirements-dev.txt
+/samples/Pip Requirements/filenames/requirements.txt
+/samples/Pkl/Parser.pkl
+/samples/Pkl/rule.pkl
+/samples/Pkl/SchemaGenerator.pkl
+/samples/PlantUML/associations.iuml
+/samples/PlantUML/casUtilisation.puml
+/samples/PlantUML/common.iuml
+/samples/PlantUML/overview.puml
+/samples/PlantUML/ProtectedMeta.iuml
+/samples/PlantUML/PublicallyAccessibleReDirect.puml
+/samples/PlantUML/sequence-ptasks-workers_success.puml
+/samples/PLSQL/myobject.sql
+/samples/PLSQL/packagebody.pkb
+/samples/PLSQL/packageheader.pks
+/samples/PLSQL/plsqlguide.pck
+/samples/PLSQL/prime#.plsql
+/samples/PLSQL/print_bool.prc
+/samples/PLSQL/videodb.ddl
+/samples/PLSQL/who_called_me.sql
+/samples/Pod 6/S15-unicode.pod
+/samples/Pod/contents.pod
+/samples/Pod/Cookbook.pod
+/samples/Pod/PSGI.pod
+/samples/Pod/Sample.pod
+/samples/PogoScript/squashy.pogo
+/samples/Polar/gitcloud.polar
+/samples/Polar/gitclub.polar
+/samples/PostCSS/sample.pcss
+/samples/PostCSS/sample.postcss
+/samples/POV-Ray SDL/balcony.pov
+/samples/POV-Ray SDL/bglass.inc
+/samples/POV-Ray SDL/building.inc
+/samples/POV-Ray SDL/chair.inc
+/samples/POV-Ray SDL/cloth.inc
+/samples/POV-Ray SDL/gamma_showcase.pov
+/samples/POV-Ray SDL/sky.inc
+/samples/POV-Ray SDL/table_cloth.inc
+/samples/POV-Ray SDL/table.inc
+/samples/POV-Ray SDL/table_stuff.inc
+/samples/POV-Ray SDL/terrain.inc
+/samples/POV-Ray SDL/water.inc
+/samples/PowerBuilder/ginpix7.sra
+/samples/PowerBuilder/myproject.pbt
+/samples/PowerBuilder/n_cst_buttonlistbar_gradient.sru
+/samples/PowerBuilder/part1.srw
+/samples/PowerBuilder/TestPBT.pbt
+/samples/PowerBuilder/w_export.srw
+/samples/PowerShell/history.ps1
+/samples/PowerShell/pwsh-shebang.ps1
+/samples/PowerShell/ZLocation.psd1
+/samples/PowerShell/ZLocation.psm1
+/samples/Praat/dynamicity.praat
+/samples/Praat/queryTable.praat
+/samples/Praat/randomiseArticles.praat
+/samples/Prisma/blog-minimal-schema.prisma
+/samples/Prisma/blog-schema-advanced.prisma
+/samples/Prisma/mcu-schema.prisma
+/samples/Prisma/now-example-schema.prisma
+/samples/Prisma/schema.prisma
+/samples/Processing/hello.pde
+/samples/Proguard/proguard_annotations.pro
+/samples/Proguard/proguard-rules2.pro
+/samples/Proguard/proguard-rules.pro
+/samples/Prolog/admin.pl
+/samples/Prolog/dleak-report
+/samples/Prolog/ex6.pl
+/samples/Prolog/format_spec.pl
+/samples/Prolog/func.pl
+/samples/Prolog/logic-problem.pro
+/samples/Prolog/plunit_test_example.plt
+/samples/Prolog/queues.yap
+/samples/Prolog/test-prolog.prolog
+/samples/Prolog/turing.pl
+/samples/Propeller Spin/4x4 Keypad Reader.spin
+/samples/Propeller Spin/Debug_Lcd.spin
+/samples/Propeller Spin/Graphics.spin
+/samples/Propeller Spin/Inductor.spin
+/samples/Propeller Spin/Keyboard.spin
+/samples/Propeller Spin/TV.spin
+/samples/Propeller Spin/TV_Terminal.spin
+/samples/Propeller Spin/TV_Text.spin
+/samples/Propeller Spin/VGA.spin
+/samples/Propeller Spin/VocalTract.spin
+/samples/Protocol Buffer/addressbook.proto
+/samples/Protocol Buffer Text Format/cudnn_benchmarks.textproto
+/samples/Protocol Buffer Text Format/ProjectSettings.pbt
+/samples/Protocol Buffer Text Format/schema.pbtxt
+/samples/Protocol Buffer Text Format/Tree.pbt
+/samples/Public Key/gpg_key.asc
+/samples/Public Key/id_dsa.asc
+/samples/Public Key/id.pub
+/samples/Public Key/id_rsa.asc
+/samples/Public Key/id_rsa.pub
+/samples/Public Key/sshkey1.asc
+/samples/Public Key/sunCert.asc
+/samples/PureBasic/Example_Sine.pb
+/samples/PureBasic/Memory.pbi
+/samples/PureScript/Control.Arrow.purs
+/samples/PureScript/Data.Foreign.purs
+/samples/PureScript/Data.Map.purs
+/samples/PureScript/ReactiveJQueryTest.purs
+/samples/Python/action.cgi
+/samples/Python/AdditiveWave.pyde
+/samples/Python/argparse.pyi
+/samples/Python/backstage.fcgi
+/samples/Python/Cinema4DPythonPlugin.pyp
+/samples/Python/django-models-base.py
+/samples/Python/filenames/DEPS
+/samples/Python/filenames/.gclient
+/samples/Python/flask-view.py
+/samples/Python/gen-py-linguist-thrift.py
+/samples/Python/MoveEye.pyde
+/samples/Python/protocol_buffer_pb2.py
+/samples/Python/py3.py3
+/samples/Python/python
+/samples/Python/python2
+/samples/Python/python3
+/samples/Python/simpleclient.rpy
+/samples/Python/spec.linux.spec
+/samples/Python/standalone.gypi
+/samples/Python/toolchain.gypi
+/samples/Python/tornado-httpserver.py
+/samples/Q#/CustomModAdd.qs
+/samples/QML/common.qbs
+/samples/q/ml.q
+/samples/Q#/Shor.qs
+/samples/q/tq.q
+/samples/Qt Script/installscript.qs
+/samples/Qt Script/toolchain_installscript.qs
+/samples/Quake/filenames/m3makefile
+/samples/Quake/filenames/m3overrides
+/samples/QuickBASIC/FGETRT.BAS
+/samples/QuickBASIC/sponge4.bas
+/samples/QuickBASIC/VLONG.BAS
+/samples/R/2.R
+/samples/Ragel/ephemeris_parser.rl
+/samples/Ragel/simple_scanner.rl
+/samples/Ragel/simple_tokenizer.rl
+/samples/Raku/01-dash-uppercase-i.t
+/samples/Raku/01-parse.t
+/samples/Raku/advent2009-day16.t
+/samples/Raku/ANSIColor.pm
+/samples/Raku/A.pm
+/samples/Raku/Bailador.pm
+/samples/Raku/basic-open.t
+/samples/Raku/calendar.t
+/samples/Raku/ContainsUnicode.pm
+/samples/Raku/dynaver.raku
+/samples/Raku/Exception.pm
+/samples/Raku/for.t
+/samples/Raku/grammar-test.p6
+/samples/Raku/hash.t
+/samples/Raku/htmlify.pl
+/samples/Raku/List.pm
+/samples/Raku/listquote-whitespace.t
+/samples/Raku/man-or-boy.t
+/samples/Raku/Model.pm
+/samples/Raku/RoleQ.pm6
+/samples/Raku/SIL.rakumod
+/samples/Raku/Simple.pm
+/samples/Raku/test.p6
+/samples/Raku/Win32.pm
+/samples/RAML/api.raml
+/samples/Rascal/Analyze.rsc
+/samples/Rascal/Compile.rsc
+/samples/Rascal/ModuleInfo.rsc
+/samples/Rascal/RascalModule.rsc
+/samples/Rascal/Syntax.rsc
+/samples/RBS/cli.rbs
+/samples/R/df.residual.r
+/samples/RDoc/rdoc.rdoc
+/samples/Reason/JSX.re
+/samples/Reason/Layout.re
+/samples/ReasonLIGO/FA1.2.religo
+/samples/Reason/Machine.re
+/samples/Reason/SourceSpec.re
+/samples/Reason/SuperMerlin.re
+/samples/Reason/Syntax.re
+/samples/Rebol/booters.r
+/samples/Rebol/GCP-datatypes.r
+/samples/Rebol/hello-world.r2
+/samples/Rebol/hello-world.r3
+/samples/Rebol/hello-world.reb
+/samples/Rebol/hello-world.rebol
+/samples/Red/example.red
+/samples/Red/example.reds
+/samples/Regular Expression/modeline-emacs.regexp
+/samples/Regular Expression/modeline-vim.regexp
+/samples/Regular Expression/ordinal.regex
+/samples/Regular Expression/url.regex
+/samples/RenderScript/convolve3x3.rs
+/samples/RenderScript/scenegraph_objects.rsh
+/samples/RenPy/example.rpy
+/samples/ReScript/RedBlackTree.res
+/samples/reStructuredText/HACKING.rst.txt
+/samples/REXX/ag2xml.rexx
+/samples/REXX/BatchRemapBrushes.pprx
+/samples/REXX/ShapesInfo.rexx
+/samples/REXX/SkrivShape.rexx
+/samples/Rez/dialog.r
+/samples/Rez/gui_mac.r
+/samples/Rez/Rezilla_DITL.r
+/samples/R/filenames/expr-dist
+/samples/R/git-punchcard
+/samples/Rich Text Format/DesktopTemplateLicense.rtf
+/samples/Rich Text Format/LICENSE.rtf
+/samples/R/import.r
+/samples/R/import.Rd
+/samples/Ring/hello.ring
+/samples/Ring/natural.ring
+/samples/Ring/weblib.ring
+/samples/Ring/weighthistory.ring
+/samples/Riot/live-filtering.riot
+/samples/Riot/todo.riot
+/samples/RMarkdown/example.qmd
+/samples/RMarkdown/example.rmd
+/samples/RobotFramework/data_driven.robot
+/samples/RobotFramework/gherkin.robot
+/samples/RobotFramework/keyword_driven.robot
+/samples/RobotFramework/keywords.resource
+/samples/robots.txt/filenames/robots.txt
+/samples/Roc/ParserString.roc
+/samples/Roc/PgCmd.roc
+/samples/Roc/PgProtocolBackend.roc
+/samples/Roc/PgSchema.roc
+/samples/Roff Manpage/gather_profile_stats.man
+/samples/Roff Manpage/lyxclient.1in
+/samples/Roff Manpage/pgrep.3p
+/samples/Roff Manpage/sched_get_priority_min.3x
+/samples/Roff Manpage/sensor_attach.mdoc
+/samples/Roff Manpage/sigwait.3qt
+/samples/Roff Manpage/tan.3m
+/samples/Roff Manpage/tls_config_ocsp_require_stapling.3in
+/samples/Roff Manpage/uname.1m
+/samples/Roff Manpage/URI.3pm
+/samples/Roff Manpage/zforce.1x
+/samples/Roff Manpage/zip_file_add.mdoc
+/samples/Roff/trekmanual.nr
+/samples/RouterOS Script/BackupAndUpdate.rsc
+/samples/RouterOS Script/config.rsc
+/samples/RouterOS Script/console-dump.rsc
+/samples/RouterOS Script/vlans.rsc
+/samples/RPC/rpc.x
+/samples/RPC/rusers.x
+/samples/RPC/yp.x
+/samples/RPGLE/anilist.sqlrpgle
+/samples/RPGLE/bfint.sqlrpgle
+/samples/RPGLE/dspf.rpgle
+/samples/RPGLE/fizzbuzz.rpgle
+/samples/RPGLE/ifsread.rpgle
+/samples/RPGLE/psds.rpgle
+/samples/RPGLE/qcmdexc_ex.rpgle
+/samples/RPGLE/sms_h.rpgle
+/samples/RPGLE/sms.sqlrpgle
+/samples/RPM Spec/apache.spec
+/samples/RPM Spec/erlang-erlydtl.spec
+/samples/RPM Spec/manos.spec
+/samples/R/R-qgis-extension.rsx
+/samples/R/scholar.Rd
+/samples/Ruby/actionmailer.rbi
+/samples/Ruby/address.pdf.prawn
+/samples/Ruby/any.spec
+/samples/Ruby/filenames/Appraisals
+/samples/Ruby/filenames/Brewfile
+/samples/Ruby/filenames/Capfile
+/samples/Ruby/filenames/Dangerfile
+/samples/Ruby/filenames/Deliverfile
+/samples/Ruby/filenames/Fastfile
+/samples/Ruby/filenames/.irbrc
+/samples/Ruby/filenames/Podfile
+/samples/Ruby/filenames/.pryrc
+/samples/Ruby/filenames/Rakefile
+/samples/Ruby/filenames/.simplecov
+/samples/Ruby/filenames/Snapfile
+/samples/Ruby/filenames/Steepfile
+/samples/Ruby/foo.rb
+/samples/Ruby/formula.rb
+/samples/Ruby/gem_loader.rbi
+/samples/Ruby/gen-rb-linguist-thrift.rb
+/samples/Ruby/grit.rb
+/samples/Ruby/index.json.jbuilder
+/samples/Ruby/inflector.rb
+/samples/Ruby/jekyll.rb
+/samples/Ruby/jenkinsci.pluginspec
+/samples/Ruby/macruby
+/samples/Ruby/mdata_server.fcgi
+/samples/Ruby/rabl.rabl
+/samples/Ruby/racc.rb
+/samples/Ruby/rails@7.0.3.1.rbi
+/samples/Ruby/rendering.rbi
+/samples/Ruby/resque.rb
+/samples/Ruby/rexpl
+/samples/Ruby/ruby
+/samples/Ruby/ruby2
+/samples/Ruby/ruby3
+/samples/Ruby/script.rake
+/samples/Ruby/shoes-swt
+/samples/Ruby/sinatra.rb
+/samples/Rust/base64url
+/samples/Rust/hashmap.rs
+/samples/Rust/main.rs
+/samples/Rust/task.rs
+/samples/Sage/polinomios.sagews
+/samples/SaltStack/eval.sls
+/samples/SaltStack/gimp.sls
+/samples/SaltStack/gpg4win-light.sls
+/samples/SaltStack/openoffice.sls
+/samples/SaltStack/top.sls
+/samples/SaltStack/truecrypt.sls
+/samples/SAS/data.sas
+/samples/SAS/detect_phi.sas
+/samples/SAS/proc.sas
+/samples/Sass/screen.sass
+/samples/Scala/99-bottles-of-beer
+/samples/Scala/build.sbt
+/samples/Scala/car-ride.kojo
+/samples/Scala/fib-tree.kojo
+/samples/Scala/node11.sc
+/samples/Scala/scala
+/samples/Scala/turtle-controller.kojo
+/samples/Scaml/hello.scaml
+/samples/Scenic/bypassing.scenic
+/samples/Scenic/composition.scenic
+/samples/Scenic/driving_model.scenic
+/samples/Scenic/mars.scenic
+/samples/Scheme/asteroids.sps
+/samples/Scheme/basic.sld
+/samples/Scheme/lambdastar.sls
+/samples/Scheme/sboyer.sch
+/samples/SELinux Policy/filenames/genfs_contexts
+/samples/SELinux Policy/filenames/initial_sids
+/samples/SELinux Policy/filenames/security_classes
+/samples/SELinux Policy/fsck.te
+/samples/ShaderLab/DepthOfField.shader
+/samples/ShaderLab/Fog.shader
+/samples/ShaderLab/Uber.shader
+/samples/Shell/99-bottles-of-beer
+/samples/Shell/bash
+/samples/Shell/build.command
+/samples/Shell/busybox.trigger
+/samples/ShellCheck Config/filenames/.shellcheckrc
+/samples/Shell/filenames/9fs
+/samples/Shell/filenames/.bash_aliases
+/samples/Shell/filenames/bash_aliases
+/samples/Shell/filenames/.bash_functions
+/samples/Shell/filenames/.bash_logout
+/samples/Shell/filenames/bash_logout
+/samples/Shell/filenames/.bash_profile
+/samples/Shell/filenames/bash_profile
+/samples/Shell/filenames/.bashrc
+/samples/Shell/filenames/bashrc
+/samples/Shell/filenames/.cshrc
+/samples/Shell/filenames/cshrc
+/samples/Shell/filenames/.envrc
+/samples/Shell/filenames/.flaskenv
+/samples/Shell/filenames/gradlew
+/samples/Shell/filenames/.kshrc
+/samples/Shell/filenames/kshrc
+/samples/Shell/filenames/.login
+/samples/Shell/filenames/login
+/samples/Shell/filenames/man
+/samples/Shell/filenames/PKGBUILD
+/samples/Shell/filenames/.profile
+/samples/Shell/filenames/profile
+/samples/Shell/filenames/.tmux.conf
+/samples/Shell/filenames/tmux.conf
+/samples/Shell/filenames/.zlogin
+/samples/Shell/filenames/zlogin
+/samples/Shell/filenames/.zlogout
+/samples/Shell/filenames/zlogout
+/samples/Shell/filenames/.zprofile
+/samples/Shell/filenames/zprofile
+/samples/Shell/filenames/.zshenv
+/samples/Shell/filenames/zshenv
+/samples/Shell/filenames/.zshrc
+/samples/Shell/filenames/zshrc
+/samples/Shell/invalid-shebang.sh
+/samples/Shell/php.fcgi
+/samples/Shell/plugin
+/samples/Shell/rbenv-sh-shell.sh
+/samples/Shell/robbyrussell.zsh-theme
+/samples/Shell/rvm.bash
+/samples/Shell/sbt
+/samples/Shell/script.bash
+/samples/Shell/script.sh
+/samples/Shell/script.zsh
+/samples/ShellSession/dollar.sh-session
+/samples/ShellSession/gem-install.sh-session
+/samples/ShellSession/simple.sh-session
+/samples/Shell/settime.cgi
+/samples/Shell/sh
+/samples/Shell/string-chopping
+/samples/Shell/udev.trigger
+/samples/Shell/valid-shebang.tool
+/samples/Shell/zsh
+/samples/Shen/graph.shen
+/samples/Shen/html.shen
+/samples/Shen/json.shen
+/samples/Sieve/dovecot-archive.sieve
+/samples/Sieve/dovecot-flagging.sieve
+/samples/Sieve/dovecot-headers.sieve
+/samples/Sieve/dovecot-plus.sieve
+/samples/Sieve/dovecot-spam1.sieve
+/samples/Sieve/dovecot-spam2.sieve
+/samples/Sieve/dovecot-spamtest.sieve
+/samples/Sieve/dovecot-subaddress.sieve
+/samples/Sieve/dovecot-vacation.sieve
+/samples/Sieve/dovecot-virustest.sieve
+/samples/Sieve/wikipedia-example.sieve
+/samples/Simple File Verification/linguist.sfv
+/samples/Simple File Verification/openbsd.sfv
+/samples/Slash/brainfuck.sl
+/samples/Slice/Murmur.ice
+/samples/Slice/Test.ice
+/samples/Slice/testSlice01.ice
+/samples/Slim/sample.slim
+/samples/Slint/iot-dashboard.slint
+/samples/Slint/slide_puzzle.slint
+/samples/Slint/todo.slint
+/samples/Smali/ActionBarDrawerToggle.smali
+/samples/Smali/DoodleMobileAnaylise.smali
+/samples/Smali/ModernAsyncTask.smali
+/samples/Smali/PenguinSprite.smali
+/samples/Smali/Subject.smali
+/samples/Smali/ViewDragHelper.smali
+/samples/Smali/WbxmlSerializer.smali
+/samples/Smalltalk/baselineDependency.st
+/samples/Smalltalk/Booleans.cs
+/samples/Smalltalk/categories.st
+/samples/Smalltalk/Collections.cs
+/samples/Smalltalk/Dinner.st
+/samples/Smalltalk/renderSeasideExampleOn..st
+/samples/Smalltalk/scriptWithPragma.st
+/samples/Smalltalk/smallMethod.st
+/samples/Smalltalk/TestBasic.st
+/samples/Smalltalk/testSimpleChainMatches.st
+/samples/Smithy/weather.smithy
+/samples/SmPL/atomic_as_refcounter.cocci
+/samples/SMT/bignum_lia1.smt2
+/samples/SMT/list4.smt2
+/samples/SMT/queen10-1.smt2
+/samples/SMT/shufflevector.smt
+/samples/Soong/filenames/Android.bp
+/samples/SourcePawn/bhopstats.inc
+/samples/SourcePawn/foo.sp
+/samples/SourcePawn/shavit.inc
+/samples/SPARQL/foaf.sparql
+/samples/SPARQL/string-matching.sparql
+/samples/SQF/fn_remoteExecFnc.sqf
+/samples/SQF/macros.hqf
+/samples/SQL/AvailableInSearchSel.prc
+/samples/SQL/create_stuff.sql
+/samples/SQL/db.sql
+/samples/SQL/drop_stuff.sql
+/samples/SQL/dual.sql
+/samples/SQL/filial.tab
+/samples/SQL/hostcache_set_state.inc
+/samples/SQL/mysql-sakila-schema.sql
+/samples/SQL/object-update.udf
+/samples/SQLPL/check_reorg.sql
+/samples/SQLPL/comm_amount.db2
+/samples/SQLPL/drop_table.db2
+/samples/SQLPL/runstats.sql
+/samples/SQLPL/sleep.sql
+/samples/SQLPL/trigger.sql
+/samples/SQL/sqlite-sakila-schema.sql
+/samples/SQL/suspendedtoday.viw
+/samples/SQL/videodb.cql
+/samples/SQL/videodb.ddl
+/samples/SQL/zipcodes.uk.mysql
+/samples/Squirrel/Squirrel.nut
+/samples/SRecode Template/linguist.srt
+/samples/SSH Config/filenames/ssh-config
+/samples/SSH Config/filenames/ssh_config
+/samples/SSH Config/filenames/sshconfig
+/samples/SSH Config/filenames/sshconfig.snip
+/samples/SSH Config/filenames/sshd-config
+/samples/SSH Config/filenames/sshd_config
+/samples/Standard ML/Foo.ML
+/samples/Standard ML/Foo.sig
+/samples/Standard ML/Foo.sml
+/samples/Standard ML/main.fun
+/samples/Standard ML/RedBlackTree.fun
+/samples/STAR/schedule_pipeline.star
+/samples/STAR/schedule.star
+/samples/STAR/symop.star
+/samples/Stata/common.doh
+/samples/Stata/hello.ado
+/samples/Stata/include.ihlp
+/samples/Stata/limits.matah
+/samples/Stata/odkmeta.sthlp
+/samples/Stata/regress_example.do
+/samples/Stata/tanh.mata
+/samples/STON/Array.ston
+/samples/STON/Dictionary.ston
+/samples/STON/methodProperties.ston
+/samples/STON/properties.ston
+/samples/STON/Rectangle.ston
+/samples/STON/TestDomainObject.ston
+/samples/STON/ZNResponse.ston
+/samples/StringTemplate/ApiOverviewPage.st
+/samples/Stylus/demo.styl
+/samples/SubRip Text/Adding.NCL.Language.S01E01.1080p.BluRay.x264.srt
+/samples/SugarSS/sample.sss
+/samples/SuperCollider/example.scd
+/samples/SuperCollider/WarpPreset.sc
+/samples/SuperCollider/WarpTate.sc
+/samples/SuperCollider/WarpTrack.sc
+/samples/SuperCollider/WarpUtil.sc
+/samples/Svelte/TodoMVC.svelte
+/samples/Sway/arrays.sw
+/samples/Sway/generic_traits.sw
+/samples/Sway/struct_fns.sw
+/samples/Sway/supertraits.sw
+/samples/Sway/wallet.sw
+/samples/Sweave/knitr-beamer.Rnw
+/samples/Sweave/knitr-minimal.Rnw
+/samples/SystemVerilog/endpoint_phy_wrapper.svh
+/samples/SystemVerilog/fifo.sv
+/samples/SystemVerilog/priority_encoder.sv
+/samples/SystemVerilog/util.vh
+/samples/Tact/deployable_counter.tact
+/samples/Tact/jetton.tact
+/samples/Talon/find_and_replace.talon
+/samples/Talon/line_commands.talon
+/samples/Tcsh/regtest_nmmnest.csh
+/samples/Tea/foo.tea
+/samples/templ/posts.templ
+/samples/Terra/arith.t
+/samples/Terra/arrayt.t
+/samples/Terra/benchmark_nbody.t
+/samples/TeX/authortitle.cbx
+/samples/TeX/beispiel.toc
+/samples/TeX/english.lbx
+/samples/Texinfo/protocol-spec.texi
+/samples/TeX/perl.toc
+/samples/TeX/problemset.cls
+/samples/TeX/reedthesis.cls
+/samples/Text/aptitude-defaults.nb
+/samples/Text/filenames/click.me
+/samples/Text/filenames/COPYING.regex
+/samples/Text/filenames/delete.me
+/samples/Text/filenames/keep.me
+/samples/Text/filenames/LICENSE.mysql
+/samples/Text/filenames/package.mask
+/samples/Text/filenames/package.use.mask
+/samples/Text/filenames/package.use.stable.mask
+/samples/Text/filenames/read.me
+/samples/Text/filenames/readme.1st
+/samples/Text/filenames/README.me
+/samples/Text/filenames/README.mysql
+/samples/Text/filenames/README.nss
+/samples/Text/filenames/test.me
+/samples/Text/filenames/use.mask
+/samples/Text/filenames/use.stable.mask
+/samples/Text/foo.txt
+/samples/TextGrid/part_of_speech.TextGrid
+/samples/TextGrid/three_tiers.TextGrid
+/samples/TextGrid/words.TextGrid
+/samples/Text/mac.txt
+/samples/TextMate Properties/filenames/.tm_properties
+/samples/Text/messages.fr
+/samples/Text/min-help.ncl
+/samples/Text/readme.txt
+/samples/Text/rmMonAnnCycLLT-help.ncl
+/samples/Text/tutor.nb
+/samples/Text/tutor.no
+/samples/Text/zonalAve-help.ncl
+/samples/TeX/verbose.bbx
+/samples/Thrift/linguist.thrift
+/samples/TI Program/CIRCLES.8xp
+/samples/TI Program/CLOCK.8xp
+/samples/TI Program/cowsource.8xp
+/samples/TI Program/srcalpha.8xp.txt
+/samples/TI Program/srcfunc.8xp.txt
+/samples/TI Program/srcgui.8xp.txt
+/samples/TI Program/srcsort.8xp.txt
+/samples/TLA/AsyncInterface.tla
+/samples/TLA/fifo.tla
+/samples/TL-Verilog/calculator_kernel.tlv
+/samples/TL-Verilog/warp-v_config.tlv
+/samples/Toit/chatbot.toit
+/samples/Toit/logger.toit
+/samples/Toit/one_wire.toit
+/samples/TOML/filenames/Cargo.lock
+/samples/TOML/filenames/Cargo.toml.orig
+/samples/TOML/filenames/Gopkg.lock
+/samples/TOML/filenames/pdm.lock
+/samples/TOML/filenames/Pipfile
+/samples/TOML/filenames/poetry.lock
+/samples/TOML/filenames/uv.lock
+/samples/TSPLIB data/att48.tsp
+/samples/TSPLIB data/dantzig42.tsp
+/samples/TSQL/cursor.sql
+/samples/TSQL/logical.sql
+/samples/TSQL/storedprocedure.sql
+/samples/TSQL/uniqueidentifier.sql
+/samples/TSV/input.tsv
+/samples/TSV/merged1.vcf
+/samples/TSV/z.vcf
+/samples/Turing/BlockTower.t
+/samples/Turing/simplegame.t
+/samples/Turing/start.t
+/samples/Turing/turing.t
+/samples/Turtle/gnd-record.ttl
+/samples/Turtle/rdf-syntax-grammar.ttl
+/samples/Type Language/builtin.tl
+/samples/Type Language/scheme.tl
+/samples/TypeScript/cache.ts
+/samples/TypeScript/classes.ts
+/samples/TypeScript/conditionParser.mts
+/samples/TypeScript/hello.ts
+/samples/TypeScript/promisified_cp.cts
+/samples/TypeScript/proto.ts
+/samples/TypeSpec/json-schema.tsp
+/samples/TypeSpec/petstore.tsp
+/samples/Typst/fiction.typ
+/samples/Typst/letter.typ
+/samples/Unity3D Asset/canvas_Fullscreen_Fader.prefab
+/samples/Unity3D Asset/GapTile.mat
+/samples/Unity3D Asset/handFingers.mask
+/samples/Unity3D Asset/Hover.anim
+/samples/Unity3D Asset/Tiles.meta
+/samples/Unity3D Asset/TimeManager.asset
+/samples/Unix Assembly/gemm_kernel_1x4.S
+/samples/Unix Assembly/hello.ms
+/samples/Unix Assembly/hello.s
+/samples/Unix Assembly/support.S
+/samples/Uno/PlayerPads.uno
+/samples/Uno/Pong.uno
+/samples/Uno/TowerBlock.uno
+/samples/UnrealScript/MutU2Weapons.uc
+/samples/UnrealScript/US3HelloWorld.uc
+/samples/UrWeb/iso8601.ur
+/samples/UrWeb/parse.urs
+/samples/Valve Data Format/gameinfo.vdf
+/samples/VBA/dictionary.cls
+/samples/VBA/d_WordCmds.bas
+/samples/VBA/ErrorHandling.bas
+/samples/VBA/frmConvert.frm
+/samples/VBA/procedures.vba
+/samples/VBA/QuickCards.bas
+/samples/VBA/specs.bas
+/samples/VBA/stdSaveHandler.frm
+/samples/VBA/WorkbookReporter.cls
+/samples/VBA/WorksheetView.cls
+/samples/VBScript/v_Data_ArrayList.vbs
+/samples/VCL/varnish2_default.vcl
+/samples/VCL/varnish3_default.vcl
+/samples/Velocity Template Language/gateway-dynamo.vtl
+/samples/Velocity Template Language/index.vtl
+/samples/Velocity Template Language/Mutation.updatePic.req.vtl
+/samples/Verilog/button_debounce.v
+/samples/Verilog/control.v
+/samples/Verilog/hex_display.v
+/samples/Verilog/mux.v
+/samples/Verilog/pipeline_registers.v
+/samples/Verilog/ps2_mouse.v
+/samples/Verilog/ram.v
+/samples/Verilog/sha-256-functions.v
+/samples/Verilog/sign_extender.v
+/samples/Verilog/sqrt_pipelined.v
+/samples/Verilog/t_button_debounce.v
+/samples/Verilog/t_div_pipelined.v
+/samples/Verilog/t_sqrt_pipelined.v
+/samples/Verilog/vga.v
+/samples/VHDL/foo.vhd
+/samples/Vim Help File/modeline.txt
+/samples/Vim Script/filenames/.exrc
+/samples/Vim Script/filenames/.gvimrc
+/samples/Vim Script/filenames/.nvimrc
+/samples/Vim Script/filenames/.vimrc
+/samples/Vim Script/filenames/_vimrc
+/samples/Vim Script/settings.vimrc
+/samples/Vim Script/solarized.vim
+/samples/Vim Script/textobj-rubyblock.vba
+/samples/Vim Script/todo.vmb
+/samples/Vim Snippet/vim.snip
+/samples/Vim Snippet/vim.snippets
+/samples/Visual Basic .NET/Index.vbhtml
+/samples/Visual Basic .NET/Module1.vb
+/samples/Visual Basic .NET/VBAllInOne.vb
+/samples/V/json.v
+/samples/V/links_scraper.v
+/samples/V/log.v
+/samples/V/loop.v
+/samples/V/nbody.v
+/samples/V/news_fetcher.v
+/samples/Volt/tesla.volt
+/samples/V/rune.v
+/samples/V/spectral.v
+/samples/V/terminal_control.v
+/samples/Vue/basic.vue
+/samples/Vue/pre-processors.vue
+/samples/Vyper/ballot.vy
+/samples/Vyper/crowdfund.vy
+/samples/Vyper/ERC20.vy
+/samples/Vyper/ERC721.vy
+/samples/Vyper/name_registry.vy
+/samples/Wavefront Material/dice.mtl
+/samples/Wavefront Material/ripple.mtl
+/samples/Wavefront Material/shapes.mtl
+/samples/Wavefront Material/spline.mtl
+/samples/Wavefront Object/dice.obj
+/samples/Wavefront Object/random.obj
+/samples/Wavefront Object/ripple.obj
+/samples/Wavefront Object/shapes.obj
+/samples/Wavefront Object/spline.obj
+/samples/WDL/fq.wdl
+/samples/WDL/hello.wdl
+/samples/WDL/ifs_in_scatters.wdl
+/samples/WDL/passingfiles.wdl
+/samples/WebAssembly/add.wat
+/samples/WebAssembly/fibonacci.wat
+/samples/WebAssembly/imported-min.wast
+/samples/WebAssembly Interface Type/wasi-io.wit
+/samples/WebAssembly/local-cse.wast
+/samples/WebAssembly/print.wat
+/samples/WebAssembly/remove-unused-brs_shrink-level=1_ignore-implicit-traps.wast
+/samples/WebIDL/AnimationEvent.webidl
+/samples/WebIDL/Fetch.webidl
+/samples/Web Ontology Language/sample.owl
+/samples/WebVTT/example.vtt
+/samples/WebVTT/Godfather-Restaurant-Scene.vtt
+/samples/WebVTT/Russian-Sleep-Experiment.vtt
+/samples/Wget Config/filenames/.wgetrc
+/samples/Whiley/conway.whiley
+/samples/Whiley/minesweeper.whiley
+/samples/Whiley/option.whiley
+/samples/Wikitext/mediawiki.mediawiki
+/samples/Wikitext/README.wiki
+/samples/Win32 Message File/logmess.mc
+/samples/Windows Registry Entries/sample.reg
+/samples/wisp/intro.wisp
+/samples/Witcher Script/achievement_stats.ws
+/samples/Witcher Script/npc_interaction.ws
+/samples/Wollok/pepita.wlk
+/samples/Wollok/piratas.wlk
+/samples/World of Warcraft Addon Data/addon.toc
+/samples/World of Warcraft Addon Data/lingua.toc
+/samples/World of Warcraft Addon Data/linguist.toc
+/samples/Wren/main.wren
+/samples/X10/ArraySum.x10
+/samples/X10/Cancellation.x10
+/samples/X10/Fibonacci.x10
+/samples/X10/HeatTransfer_v0.x10
+/samples/X10/HeatTransfer_v1.x10
+/samples/X10/HelloWholeWorld.x10
+/samples/X10/HelloWorld.x10
+/samples/X10/Histogram.x10
+/samples/X10/Integrate.x10
+/samples/X10/KMeansDistPlh.x10
+/samples/X10/KMeansDist.x10
+/samples/X10/KMeansSPMD.x10
+/samples/X10/KMeans.x10
+/samples/X10/MontyPi.x10
+/samples/X10/NQueensDist.x10
+/samples/X10/NQueensPar.x10
+/samples/X10/QSort.x10
+/samples/X10/StructSpheres.x10
+/samples/xBase/sample.ch
+/samples/xBase/sample.prg
+/samples/xBase/sample.prw
+/samples/X BitMap/image.xbm
+/samples/XCompose/filenames/XCompose
+/samples/X Font Directory Index/filenames/encodings.dir
+/samples/X Font Directory Index/filenames/fonts.alias
+/samples/X Font Directory Index/filenames/fonts.dir
+/samples/X Font Directory Index/filenames/fonts.scale
+/samples/XML/01_top.ncl
+/samples/XML/Application.xib
+/samples/XML/battlescribe.gst
+/samples/XML/Case.workflow
+/samples/XML/chrome.natvis
+/samples/XML/cloudconfig.cscfg
+/samples/XML/clouddef.csdef
+/samples/XML/configdef.cscfg
+/samples/XML/CSharpVSPackage.vstemplate
+/samples/XML/csproj-sample.csproj
+/samples/XML/Default.props
+/samples/XML/demo.hzp
+/samples/XML/Demo.sfproj
+/samples/XML/dependency-example.depproj
+/samples/XML/example.ccproj
+/samples/XML/Example.mdpolicy
+/samples/XML/Example.mojo
+/samples/XML/example-sharedproj.shproj
+/samples/XML/example.typ
+/samples/XML/filenames/.cproject
+/samples/XML/fsproj-sample.fsproj
+/samples/XML/FXMLSample.fxml
+/samples/XML/GMOculus.project.gmx
+/samples/XML/HITSP_C32.sch
+/samples/XML/holobloc-sample.res
+/samples/XML/intellij.iml
+/samples/XML/JSBrowser.jsproj
+/samples/XML/libsomething.dll.config
+/samples/XML/main.ncl
+/samples/XML/MainView.axaml
+/samples/XML/MainView.ux
+/samples/XML/MDM.adml
+/samples/XML/MDM.admx
+/samples/XML/module.ant
+/samples/XML/module.ivy
+/samples/XML/msbuild-example.proj
+/samples/XML/MyApp.ux
+/samples/XML/namespace-strict.sch
+/samples/XML/NDepends_Example.ndproj
+/samples/XML/net_docfile.xml
+/samples/XML/nproj-sample.nproj
+/samples/XML/oasis-table.sch
+/samples/XML/obj_control.object.gmx
+/samples/XML/phpunit.xml.dist
+/samples/XML/point-3.1.gml
+/samples/XML/point-3.2.gml
+/samples/XML Property List/And.tmSnippet
+/samples/XML Property List/Completion.tmCommand
+/samples/XML Property List/ff-man.plist
+/samples/XML Property List/Folding.tmPreferences
+/samples/XML Property List/info.min.plist
+/samples/XML Property List/info.plist
+/samples/XML Property List/man.plist
+/samples/XML Property List/Man.tmLanguage
+/samples/XML Property List/SpaceCadet.tmTheme
+/samples/XML Property List/widget.stTheme
+/samples/XML/psd-data.xmp
+/samples/XML/pt_BR.ts
+/samples/XML/pt_BR.xml
+/samples/XML/racoon.mjml
+/samples/XML/real-estate.mjml
+/samples/XML/receiver.ncl
+/samples/XML/sample.csl
+/samples/XML/sample.nuspec
+/samples/XML/sample.targets
+/samples/XML/some-ideas.mm
+/samples/XML/source.extension.vsixmanifest
+/samples/XML/src.builds
+/samples/XML/Storyboard.storyboard
+/samples/XML/Strings.resx
+/samples/XML/switch-configuration-example.sw
+/samples/XML/System.Buffers.pkgproj
+/samples/XML/tei-odd-sample.odd
+/samples/XML/translation_en3.ts
+/samples/XML/vbproj-sample.vbproj
+/samples/XML/vcxproj-sample.vcxproj
+/samples/XML/vcxproj-sample.vcxproj.filters
+/samples/XML/water.tsx
+/samples/XML/WebElement.rs
+/samples/XML/wixdemo.wixproj
+/samples/XML/xhtml-struct-1.mod
+/samples/XML/XmlIO.pluginspec
+/samples/XML/xquery-tutorial.xspec
+/samples/Xonsh/rever.xsh
+/samples/XPages/navbar.xsp-config
+/samples/XPages/navbar.xsp.metadata
+/samples/X PixMap/cc-public_domain_mark_white.pm
+/samples/X PixMap/stick-unfocus.xpm
+/samples/XS/CommonMark.xs
+/samples/XSLT/test.xslt
+/samples/Xtend/BasicExpressions.xtend
+/samples/Xtend/Movies.xtend
+/samples/Yacc/calc.yy
+/samples/YANG/sfc-lisp-impl.yang
+/samples/YARA/example.yara
+/samples/YARA/OfExample.yar
+/samples/YARA/true.yar
+/samples/YASnippet/font-face.yasnippet
+/samples/YASnippet/stdin.yasnippet
+/samples/Yul/contract.yul
+/samples/Yul/erc20.yul
+/samples/ZAP/planetfall.zap
+/samples/Zeek/example.zeek
+/samples/Zeek/main.bro
+/samples/Zeek/main.zeek
+/samples/ZenScript/sample.zs
+/samples/Zephir/Cblock.zep
+/samples/Zephir/Router.zep
+/samples/Zig/build.zig.zon
+/samples/Zig/cat.zig
+/samples/Zig/guess_number.zig
+/samples/Zig/hello.zig
+/samples/ZIL/misc.zil
+/samples/Zimpl/sample.zmpl

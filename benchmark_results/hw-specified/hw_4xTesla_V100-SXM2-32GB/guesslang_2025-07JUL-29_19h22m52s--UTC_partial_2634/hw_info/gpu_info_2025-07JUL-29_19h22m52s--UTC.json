@@ -1,0 +1,22 @@
+{
+  "gpu_0": {
+    "name": "Tesla V100-PCIE-32GB",
+    "memory_total_MB": 32768,
+    "driver_version": "535.183.06"
+  },
+  "gpu_1": {
+    "name": "Tesla V100-PCIE-32GB",
+    "memory_total_MB": 32768,
+    "driver_version": "535.183.06"
+  },
+  "gpu_2": {
+    "name": "Tesla V100-PCIE-32GB",
+    "memory_total_MB": 32768,
+    "driver_version": "535.183.06"
+  },
+  "gpu_3": {
+    "name": "Tesla V100-PCIE-32GB",
+    "memory_total_MB": 32768,
+    "driver_version": "535.183.06"
+  }
+}

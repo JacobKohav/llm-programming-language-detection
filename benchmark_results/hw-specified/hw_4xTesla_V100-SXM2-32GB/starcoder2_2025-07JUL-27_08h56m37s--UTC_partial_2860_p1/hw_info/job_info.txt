@@ -1,0 +1,36 @@
+id: 3200054
+    array_id = 3200054
+    array_index = 1
+    name = 
+    project = diverse
+    owner = jkohav
+    state = Error
+    wanted_resources = -l "{((type = 'default') AND (type <> 'default' OR max_walltime >= 43200 OR max_walltime <= 0)) AND production = 'YES'}/host=1,walltime=12:0:0" 
+    types = monitor=prom_.*default_metrics, sudo-g5k
+    dependencies = 
+    assigned_resources = 8066+8067+8068+8069+8070+8071+8072+8073+8074+8075+8076+8077+8078+8079+8080+8081+8082+8083+8084+8085+8086+8087+8088+8089
+    assigned_hostnames = abacus16-1.rennes.grid5000.fr
+    queue = p1
+    command = 
+    launching_directory = /home/jkohav/jack
+    stdout_file = <interactive shell>
+    stderr_file = <interactive shell>
+    type = INTERACTIVE
+    properties = ((gpu_count>='4') AND nodeset in ('abacus8','abacus9','roazhon4','roazhon3','abacus16','roazhon9','abacus28','abacus4','abacus14','roazhon12','roazhon10','roazhon6','roazhon13','roazhon11','abacus25') OR nodeset IS NULL) AND maintenance = 'NO'
+    reservation = None
+    walltime = 12:0:0
+    submission_time = 2025-07-27 10:28:08
+    start_time = 2025-07-27 10:34:26
+    stop_time = 2025-07-27 22:34:34
+    cpuset_name = jkohav_3200054
+    initial_request = oarsub -q p1 -p gpu_count>=4 -l host=1,walltime=12 -I
+    message = R=24,W=12:0:0,J=I,Q=p1,P=diverse,T=monitor (Karma=0.006)
+    scheduled_start = no prediction
+    resubmit_job_id = 0
+    events = 
+2025-07-27 22:34:33> FRAG_JOB_REQUEST: User root requested to frag the job 3200054
+2025-07-27 22:34:33> WALLTIME: Job [3200054] reached its walltime (start: 1753605266 + walltime:43200 > current time: 1753648473)
+2025-07-27 22:34:33> SEND_KILL_JOB: [Leon] Send the kill TERM signal to oarexec on abacus16-1.rennes.grid5000.fr for job 3200054
+2025-07-27 22:34:37> SWITCH_INTO_ERROR_STATE: [bipbip 3200054] Ask to change the job state
+2025-07-27 22:34:37> CPUSET_CLEAN_ERROR: [job_finishing_sequence] OAR suspects nodes for the job 3200054: abacus16-1.rennes.grid5000.fr
+2025-07-27 22:34:37> PING_CHECKER_NODE_SUSPECTED_END_JOB: [job_finishing_sequence] OAR suspects nodes for the job 3200054: abacus16-1.rennes.grid5000.fr

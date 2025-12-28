@@ -1,0 +1,179 @@
+/samples/ABAP/cl_csv_parser.abap
+/samples/AMPL/CT2.mod
+/samples/AMPL/toy.ampl
+/samples/BlitzBasic/HalfAndDouble.bb
+/samples/Cairo Zero/casm.cairo
+/samples/Cairo Zero/concat_arr.cairo
+/samples/Cairo Zero/contract.cairo
+/samples/Cairo Zero/safemath.cairo
+/samples/Cairo Zero/sha256.cairo
+/samples/CoNLL-U/CF1.conllu
+/samples/CoNLL-U/en-ud-test-abridged.conllu
+/samples/CoNLL-U/ug-ud-test-abridged.conllu
+/samples/CWeb/mpmathdouble.w
+/samples/CWeb/sat-life.w
+/samples/DNS Zone/sample.arpa
+/samples/DNS Zone/sneaky.net.zone
+/samples/Earthly/filenames/Earthfile
+/samples/Euphoria/allsorts.ex
+/samples/Euphoria/animal.ex
+/samples/Euphoria/csort.ex
+/samples/Euphoria/debug.e
+/samples/Euphoria/dll.e
+/samples/Euphoria/hash.ex
+/samples/Euphoria/math.e
+/samples/Euphoria/mydata.ex
+/samples/Euphoria/regex.e
+/samples/Euphoria/types.e
+/samples/GDScript/example.gd
+/samples/GDScript/grid.gd
+/samples/GDScript/player.gd
+/samples/GDScript/pong.gd
+/samples/IGOR Pro/CodeBrowser.ipf
+/samples/IGOR Pro/functions.ipf
+/samples/IGOR Pro/generic.ipf
+/samples/Ink/murder_scene.ink
+/samples/Ink/print_number.ink
+/samples/Ink/seen_this_scene.ink
+/samples/Ink/string_to_list.ink
+/samples/Ink/thread_in_tunnel.ink
+/samples/JavaScript+ERB/create.js.erb
+/samples/Jison/ansic.jison
+/samples/Jison/classy.jison
+/samples/Jison/lex.jison
+/samples/Kit/demo.kit
+/samples/LTspice Symbol/random-shapes.asy
+/samples/Luau/EnumList.luau
+/samples/Luau/Option.luau
+/samples/Luau/ser.luau
+/samples/Luau/Symbol.luau
+/samples/Luau/Tree.luau
+/samples/M4/fibo.m4
+/samples/M4/htmlgen.m4
+/samples/M4/postscript.m4
+/samples/M4/sendmail.mc
+/samples/M4/translit2.m4
+/samples/MATLAB/adapting_structural_model.m
+/samples/MATLAB/average.m
+/samples/MATLAB/bicycle_state_space.m
+/samples/MATLAB/Check_plot.m
+/samples/MATLAB/convert_variable.m
+/samples/MATLAB/create_ieee_paper_plots.m
+/samples/MATLAB/cross_validation.m
+/samples/MATLAB/distance.m
+/samples/MATLAB/double_gyre.m
+/samples/MATLAB/example.m
+/samples/MATLAB/fit_adapt_linear.m
+/samples/MATLAB/fit_adapt.m
+/samples/MATLAB/FTLEH.m
+/samples/MATLAB/FTLE_reg.m
+/samples/MATLAB/gpu_RKF45_FILE.m
+/samples/MATLAB/ieee.m
+/samples/MATLAB/Integrate1.m
+/samples/MATLAB/Integrate2.m
+/samples/MATLAB/Lagrangian_points.m
+/samples/MATLAB/Lagr.m
+/samples/MATLAB/lane_change.m
+/samples/MATLAB/load_bikes.m
+/samples/MATLAB/load_data.m
+/samples/MATLAB/make_filter.m
+/samples/MATLAB/matlab_class.m
+/samples/MATLAB/matlab_function.m
+/samples/MATLAB/matlab_script2.m
+/samples/MATLAB/matlab_script.m
+/samples/MATLAB/normalize.m
+/samples/MATLAB/overwrite_settings.m
+/samples/MATLAB/par_text_to_struct.m
+/samples/MATLAB/plant.m
+/samples/MATLAB/Poincare.m
+/samples/MATLAB/RK4.m
+/samples/MATLAB/test_rk_par.m
+/samples/MATLAB/test_system_state_space.m
+/samples/MATLAB/Traj.m
+/samples/MATLAB/varargin_to_structure.m
+/samples/MATLAB/write_gains.m
+/samples/Microsoft Developer Studio Project/freeglut.dsp
+/samples/Mint/ApplicationStore.mint
+/samples/Mint/Comment.mint
+/samples/Mint/Counter.mint
+/samples/Mint/HeaderTest.mint
+/samples/Mint/InlineJS.mint
+/samples/Mint/TodoItem.mint
+/samples/NCL/cru_8.ncl
+/samples/NCL/gsn_csm_xy2_time_series_inputs.ncl
+/samples/NCL/hdf4sds_7.ncl
+/samples/NCL/mask_12.ncl
+/samples/NCL/mcsst_1.ncl
+/samples/NCL/primero.ncl
+/samples/NCL/PrnOscPat_driver.ncl
+/samples/NCL/topo_9.ncl
+/samples/NCL/traj_3.ncl
+/samples/NCL/tsdiagram_1.ncl
+/samples/NCL/unique_9.ncl
+/samples/NCL/viewport_4.ncl
+/samples/NCL/weather_sym_6.ncl
+/samples/NCL/WRF_static_2.ncl
+/samples/NCL/WRF_track_1.ncl
+/samples/NCL/xy_29.ncl
+/samples/Nemerle/hello.n
+/samples/omnetpp-msg/GptpPacket.msg
+/samples/omnetpp-msg/TcpConnection.msg
+/samples/omnetpp-msg/TcpConnectionState.msg
+/samples/Parrot Internal Representation/hello.pir
+/samples/Pony/circle.pony
+/samples/Pony/counter.pony
+/samples/Pony/gups-opt.pony
+/samples/Pony/hello-world.pony
+/samples/Pony/mandelbrot.pony
+/samples/Pony/mixed.pony
+/samples/Record Jar/filenames/language-subtag-registry.txt
+/samples/RenPy/example.rpy
+/samples/Roff/an-ext.tmac
+/samples/Roff/create_view.l
+/samples/Roff/crude-hack.man
+/samples/Roff/dsw.1x
+/samples/Roff/foo.3p
+/samples/Roff/foo.3pm
+/samples/Roff/fsinterface.ms
+/samples/Roff/he.mdoc
+/samples/Roff/man.1m
+/samples/Roff/printf.3in
+/samples/Roff/qsort.3qt
+/samples/Roff/refs.rno
+/samples/Roff/roff.1in
+/samples/Roff/roff.nr
+/samples/Roff/switch.3m
+/samples/Roff/Tcl.n
+/samples/Roff/trekmanual.nr
+/samples/Roff/vt.3x
+/samples/ShellSession/dollar.sh-session
+/samples/ShellSession/gem-install.sh-session
+/samples/ShellSession/simple.sh-session
+/samples/Standard ML/Foo.ML
+/samples/Standard ML/Foo.sig
+/samples/Standard ML/Foo.sml
+/samples/Standard ML/main.fun
+/samples/Standard ML/RedBlackTree.fun
+/samples/Stylus/demo.styl
+/samples/SWIG/CGAL_AABB_tree.i
+/samples/SWIG/dictionary.i
+/samples/SWIG/gauss.i
+/samples/SystemVerilog/endpoint_phy_wrapper.svh
+/samples/SystemVerilog/fifo.sv
+/samples/SystemVerilog/priority_encoder.sv
+/samples/SystemVerilog/util.vh
+/samples/TSQL/cursor.sql
+/samples/TSQL/logical.sql
+/samples/TSQL/storedprocedure.sql
+/samples/TSQL/uniqueidentifier.sql
+/samples/V/json.v
+/samples/V/links_scraper.v
+/samples/V/log.v
+/samples/V/loop.v
+/samples/V/nbody.v
+/samples/V/news_fetcher.v
+/samples/V/rune.v
+/samples/V/spectral.v
+/samples/V/terminal_control.v
+/samples/YASnippet/font-face.yasnippet
+/samples/YASnippet/stdin.yasnippet

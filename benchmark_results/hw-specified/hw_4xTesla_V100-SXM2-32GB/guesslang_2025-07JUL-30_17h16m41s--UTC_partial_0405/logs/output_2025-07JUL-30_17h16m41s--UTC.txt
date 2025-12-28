@@ -1,0 +1,2030 @@
+Benchmark 1: guesslang --probabilities '/samples/SWIG/gauss.i' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.457 s               [User: 2.849 s, System: 5.342 s]
+ 
+Benchmark 2: guesslang --probabilities '/samples/SWIG/CGAL_AABB_tree.i' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.426 s               [User: 2.889 s, System: 5.292 s]
+ 
+Benchmark 3: guesslang --probabilities '/samples/SWIG/dictionary.i' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.417 s               [User: 2.899 s, System: 5.261 s]
+ 
+Benchmark 4: guesslang --probabilities '/samples/MUF/cmd-say.muf' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.415 s               [User: 2.835 s, System: 5.323 s]
+ 
+Benchmark 5: guesslang --probabilities '/samples/MUF/39.m' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.440 s               [User: 2.795 s, System: 5.382 s]
+ 
+Benchmark 6: guesslang --probabilities '/samples/OASv3-json/ghes-3.4.json' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.501 s               [User: 2.878 s, System: 5.363 s]
+ 
+Benchmark 7: guesslang --probabilities '/samples/EJS/page.ejs' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.448 s               [User: 2.880 s, System: 5.304 s]
+ 
+Benchmark 8: guesslang --probabilities '/samples/EJS/admin_index.jst' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.417 s               [User: 2.841 s, System: 5.333 s]
+ 
+Benchmark 9: guesslang --probabilities '/samples/EJS/dash.ejs' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.406 s               [User: 2.793 s, System: 5.352 s]
+ 
+Benchmark 10: guesslang --probabilities '/samples/EJS/modules.ejs.t' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.406 s               [User: 2.752 s, System: 5.392 s]
+ 
+Benchmark 11: guesslang --probabilities '/samples/EJS/email_template.ect' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.401 s               [User: 2.784 s, System: 5.359 s]
+ 
+Benchmark 12: guesslang --probabilities '/samples/NSIS/x64.nsh' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.401 s               [User: 2.887 s, System: 5.255 s]
+ 
+Benchmark 13: guesslang --probabilities '/samples/NSIS/bigtest.nsi' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.416 s               [User: 2.871 s, System: 5.286 s]
+ 
+Benchmark 14: guesslang --probabilities '/samples/LookML/comments.view.lookml' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.437 s               [User: 2.797 s, System: 5.398 s]
+ 
+Benchmark 15: guesslang --probabilities '/samples/LookML/example.model.lkml' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.417 s               [User: 2.831 s, System: 5.323 s]
+ 
+Benchmark 16: guesslang --probabilities '/samples/LookML/example.view.lkml' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.417 s               [User: 2.809 s, System: 5.344 s]
+ 
+Benchmark 17: guesslang --probabilities '/samples/Groovy Server Pages/hello-var.gsp' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.407 s               [User: 2.865 s, System: 5.282 s]
+ 
+Benchmark 18: guesslang --probabilities '/samples/Groovy Server Pages/hello-pagedirective.gsp' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.417 s               [User: 2.757 s, System: 5.404 s]
+ 
+Benchmark 19: guesslang --probabilities '/samples/Groovy Server Pages/bar.gsp' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.397 s               [User: 2.940 s, System: 5.195 s]
+ 
+Benchmark 20: guesslang --probabilities '/samples/Groovy Server Pages/hello-resources.gsp' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.433 s               [User: 2.873 s, System: 5.305 s]
+ 
+Benchmark 21: guesslang --probabilities '/samples/Git Config/filenames/.gitconfig' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.409 s               [User: 2.897 s, System: 5.257 s]
+ 
+Benchmark 22: guesslang --probabilities '/samples/Git Config/filenames/.gitmodules' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.456 s               [User: 2.927 s, System: 5.268 s]
+ 
+Benchmark 23: guesslang --probabilities '/samples/Git Config/aliases.gitconfig' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.420 s               [User: 2.831 s, System: 5.323 s]
+ 
+Benchmark 24: guesslang --probabilities '/samples/NL/balassign0.nl' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.404 s               [User: 2.862 s, System: 5.291 s]
+ 
+Benchmark 25: guesslang --probabilities '/samples/NL/assign0.nl' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.412 s               [User: 2.835 s, System: 5.327 s]
+ 
+Benchmark 26: guesslang --probabilities '/samples/FIGlet Font/ivrit.flf' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.430 s               [User: 2.869 s, System: 5.303 s]
+ 
+Benchmark 27: guesslang --probabilities '/samples/Stan/congress.stan' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.401 s               [User: 2.742 s, System: 5.402 s]
+ 
+Benchmark 28: guesslang --probabilities '/samples/Stan/schools.stan' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.405 s               [User: 2.807 s, System: 5.349 s]
+ 
+Benchmark 29: guesslang --probabilities '/samples/Stan/dogs.stan' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.409 s               [User: 2.759 s, System: 5.394 s]
+ 
+Benchmark 30: guesslang --probabilities '/samples/PostScript/xlogo.epsi' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.464 s               [User: 2.881 s, System: 5.318 s]
+ 
+Benchmark 31: guesslang --probabilities '/samples/PostScript/sierpinski.ps' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.404 s               [User: 2.863 s, System: 5.283 s]
+ 
+Benchmark 32: guesslang --probabilities '/samples/PostScript/lambda.pfa' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.440 s               [User: 2.939 s, System: 5.233 s]
+ 
+Benchmark 33: guesslang --probabilities '/samples/APL/UT.dyalog' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.392 s               [User: 2.847 s, System: 5.286 s]
+ 
+Benchmark 34: guesslang --probabilities '/samples/APL/hashbang' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.402 s               [User: 2.940 s, System: 5.205 s]
+ 
+Benchmark 35: guesslang --probabilities '/samples/APL/DeepakChopra.apl' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.412 s               [User: 2.855 s, System: 5.203 s]
+ 
+Benchmark 36: guesslang --probabilities '/samples/Racket/scribble.scrbl' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.405 s               [User: 2.788 s, System: 5.356 s]
+ 
+Benchmark 37: guesslang --probabilities '/samples/Racket/99-bottles-of-beer.scrbl' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.412 s               [User: 2.815 s, System: 5.333 s]
+ 
+Benchmark 38: guesslang --probabilities '/samples/JSON with Comments/Default (Linux).sublime-mousemap' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.428 s               [User: 2.923 s, System: 5.250 s]
+ 
+Benchmark 39: guesslang --probabilities '/samples/JSON with Comments/SourcePawn.sublime-build' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.414 s               [User: 2.818 s, System: 5.335 s]
+ 
+Benchmark 40: guesslang --probabilities '/samples/JSON with Comments/jade.sublime-completions' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.461 s               [User: 2.920 s, System: 5.289 s]
+ 
+Benchmark 41: guesslang --probabilities '/samples/JSON with Comments/filenames/.jscsrc' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.447 s               [User: 2.890 s, System: 5.307 s]
+ 
+Benchmark 42: guesslang --probabilities '/samples/JSON with Comments/filenames/tsconfig.json' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.471 s               [User: 2.989 s, System: 5.230 s]
+ 
+Benchmark 43: guesslang --probabilities '/samples/JSON with Comments/filenames/language-configuration.json' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.432 s               [User: 2.904 s, System: 5.278 s]
+ 
+Benchmark 44: guesslang --probabilities '/samples/JSON with Comments/filenames/.jslintrc' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.463 s               [User: 2.950 s, System: 5.258 s]
+ 
+Benchmark 45: guesslang --probabilities '/samples/JSON with Comments/filenames/devcontainer.json' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.449 s               [User: 2.871 s, System: 5.317 s]
+ 
+Benchmark 46: guesslang --probabilities '/samples/JSON with Comments/filenames/.babelrc' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.453 s               [User: 2.789 s, System: 5.407 s]
+ 
+Benchmark 47: guesslang --probabilities '/samples/JSON with Comments/filenames/jsconfig.json' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.451 s               [User: 2.930 s, System: 5.260 s]
+ 
+Benchmark 48: guesslang --probabilities '/samples/JSON with Comments/filenames/.jshintrc' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.458 s               [User: 2.865 s, System: 5.341 s]
+ 
+Benchmark 49: guesslang --probabilities '/samples/JSON with Comments/filenames/.eslintrc.json' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.465 s               [User: 2.886 s, System: 5.327 s]
+ 
+Benchmark 50: guesslang --probabilities '/samples/JSON with Comments/filenames/tslint.json' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.466 s               [User: 2.804 s, System: 5.399 s]
+ 
+Benchmark 51: guesslang --probabilities '/samples/JSON with Comments/filenames/.swcrc' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.441 s               [User: 2.923 s, System: 5.260 s]
+ 
+Benchmark 52: guesslang --probabilities '/samples/JSON with Comments/Dart.sublime-commands' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.443 s               [User: 2.866 s, System: 5.321 s]
+ 
+Benchmark 53: guesslang --probabilities '/samples/JSON with Comments/plyr.code-workspace' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.430 s               [User: 2.817 s, System: 5.362 s]
+ 
+Benchmark 54: guesslang --probabilities '/samples/JSON with Comments/Dart.sublime-project' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.443 s               [User: 2.841 s, System: 5.342 s]
+ 
+Benchmark 55: guesslang --probabilities '/samples/JSON with Comments/JavaDoc Add Line.sublime-macro' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.441 s               [User: 2.849 s, System: 5.336 s]
+ 
+Benchmark 56: guesslang --probabilities '/samples/JSON with Comments/vue.code-snippets' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.467 s               [User: 2.852 s, System: 5.352 s]
+ 
+Benchmark 57: guesslang --probabilities '/samples/JSON with Comments/coc.jsonc' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.540 s               [User: 2.915 s, System: 5.343 s]
+ 
+Benchmark 58: guesslang --probabilities '/samples/JSON with Comments/Context.sublime-menu' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.471 s               [User: 2.964 s, System: 5.253 s]
+ 
+Benchmark 59: guesslang --probabilities '/samples/JSON with Comments/Default.sublime-keymap' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.465 s               [User: 2.930 s, System: 5.277 s]
+ 
+Benchmark 60: guesslang --probabilities '/samples/JSON with Comments/Tubnil.sublime-theme' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.461 s               [User: 2.961 s, System: 5.236 s]
+ 
+Benchmark 61: guesslang --probabilities '/samples/JSON with Comments/RunBuild.sublime-macro' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.441 s               [User: 2.918 s, System: 5.267 s]
+ 
+Benchmark 62: guesslang --probabilities '/samples/JSON with Comments/CLIPS.sublime-settings' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.445 s               [User: 2.958 s, System: 5.134 s]
+ 
+Benchmark 63: guesslang --probabilities '/samples/JSON with Comments/AMPL.sublime-build' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.449 s               [User: 2.868 s, System: 5.334 s]
+ 
+Benchmark 64: guesslang --probabilities '/samples/JSON with Comments/Mariana.sublime-color-scheme' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.457 s               [User: 2.946 s, System: 5.251 s]
+ 
+Benchmark 65: guesslang --probabilities '/samples/ObjectScript/Sample.Person.cls' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.450 s               [User: 2.890 s, System: 5.310 s]
+ 
+Benchmark 66: guesslang --probabilities '/samples/TXL/Cal.txl' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.459 s               [User: 3.056 s, System: 5.151 s]
+ 
+Benchmark 67: guesslang --probabilities '/samples/QMake/qmake' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.463 s               [User: 2.892 s, System: 5.318 s]
+ 
+Benchmark 68: guesslang --probabilities '/samples/QMake/functions.pri' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.482 s               [User: 2.835 s, System: 5.374 s]
+ 
+Benchmark 69: guesslang --probabilities '/samples/QMake/simple.pro' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.453 s               [User: 3.029 s, System: 5.166 s]
+ 
+Benchmark 70: guesslang --probabilities '/samples/QMake/complex.pro' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.443 s               [User: 2.879 s, System: 5.308 s]
+ 
+Benchmark 71: guesslang --probabilities '/samples/Elixir/float.ex' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.440 s               [User: 2.957 s, System: 5.235 s]
+ 
+Benchmark 72: guesslang --probabilities '/samples/Elixir/integer.ex' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.446 s               [User: 2.876 s, System: 5.323 s]
+ 
+Benchmark 73: guesslang --probabilities '/samples/Elixir/filenames/mix.lock' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.434 s               [User: 2.776 s, System: 5.100 s]
+ 
+Benchmark 74: guesslang --probabilities '/samples/Elixir/atom.ex' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.464 s               [User: 2.903 s, System: 5.299 s]
+ 
+Benchmark 75: guesslang --probabilities '/samples/Elixir/function.ex' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.454 s               [User: 2.997 s, System: 5.195 s]
+ 
+Benchmark 76: guesslang --probabilities '/samples/Elixir/regex.ex' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.449 s               [User: 2.962 s, System: 5.231 s]
+ 
+Benchmark 77: guesslang --probabilities '/samples/Readline Config/filenames/.inputrc' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.444 s               [User: 2.877 s, System: 5.307 s]
+ 
+Benchmark 78: guesslang --probabilities '/samples/SCSS/screen.scss' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.476 s               [User: 2.902 s, System: 5.315 s]
+ 
+Benchmark 79: guesslang --probabilities '/samples/Befunge/aturley.bf' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.412 s               [User: 2.818 s, System: 5.341 s]
+ 
+Benchmark 80: guesslang --probabilities '/samples/Befunge/cascade.bf' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.459 s               [User: 2.902 s, System: 5.307 s]
+ 
+Benchmark 81: guesslang --probabilities '/samples/Befunge/mycorand.bf' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.503 s               [User: 2.990 s, System: 5.250 s]
+ 
+Benchmark 82: guesslang --probabilities '/samples/Befunge/beer7.bf' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.445 s               [User: 2.857 s, System: 5.339 s]
+ 
+Benchmark 83: guesslang --probabilities '/samples/Befunge/befunge3.bf' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.465 s               [User: 3.018 s, System: 4.990 s]
+ 
+Benchmark 84: guesslang --probabilities '/samples/Cirru/html.cirru' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.452 s               [User: 2.876 s, System: 5.313 s]
+ 
+Benchmark 85: guesslang --probabilities '/samples/Cirru/line.cirru' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.446 s               [User: 2.916 s, System: 5.268 s]
+ 
+Benchmark 86: guesslang --probabilities '/samples/Cirru/calcit.cirru' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.445 s               [User: 2.972 s, System: 5.221 s]
+ 
+Benchmark 87: guesslang --probabilities '/samples/Cirru/template.cirru' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.444 s               [User: 2.781 s, System: 5.396 s]
+ 
+Benchmark 88: guesslang --probabilities '/samples/Cirru/comma.cirru' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.494 s               [User: 2.857 s, System: 5.380 s]
+ 
+Benchmark 89: guesslang --probabilities '/samples/Cirru/folding.cirru' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.436 s               [User: 2.839 s, System: 5.340 s]
+ 
+Benchmark 90: guesslang --probabilities '/samples/Cirru/unfolding.cirru' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.449 s               [User: 2.879 s, System: 5.316 s]
+ 
+Benchmark 91: guesslang --probabilities '/samples/Cirru/folded-beginning.cirru' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.447 s               [User: 2.967 s, System: 5.224 s]
+ 
+Benchmark 92: guesslang --probabilities '/samples/Cirru/demo.cirru' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.453 s               [User: 2.960 s, System: 5.239 s]
+ 
+Benchmark 93: guesslang --probabilities '/samples/Cirru/webpack.config.cirru' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.448 s               [User: 2.918 s, System: 5.271 s]
+ 
+Benchmark 94: guesslang --probabilities '/samples/Cirru/parentheses.cirru' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.455 s               [User: 2.826 s, System: 5.367 s]
+ 
+Benchmark 95: guesslang --probabilities '/samples/Cirru/spaces.cirru' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.428 s               [User: 2.947 s, System: 5.227 s]
+ 
+Benchmark 96: guesslang --probabilities '/samples/Cirru/indent.cirru' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.458 s               [User: 2.995 s, System: 5.209 s]
+ 
+Benchmark 97: guesslang --probabilities '/samples/Cirru/quote.cirru' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.464 s               [User: 2.941 s, System: 5.266 s]
+ 
+Benchmark 98: guesslang --probabilities '/samples/Bluespec/TbTL.bsv' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.498 s               [User: 2.903 s, System: 5.333 s]
+ 
+Benchmark 99: guesslang --probabilities '/samples/Bluespec/TL.bsv' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.452 s               [User: 2.804 s, System: 5.380 s]
+ 
+Benchmark 100: guesslang --probabilities '/samples/Roff/vt.3x' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.440 s               [User: 3.009 s, System: 5.182 s]
+ 
+Benchmark 101: guesslang --probabilities '/samples/Roff/roff.1in' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.457 s               [User: 2.983 s, System: 5.216 s]
+ 
+Benchmark 102: guesslang --probabilities '/samples/Roff/man.1m' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.471 s               [User: 2.832 s, System: 5.380 s]
+ 
+Benchmark 103: guesslang --probabilities '/samples/Roff/foo.3p' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.456 s               [User: 2.764 s, System: 5.438 s]
+ 
+Benchmark 104: guesslang --probabilities '/samples/Roff/printf.3in' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.485 s               [User: 2.912 s, System: 5.316 s]
+ 
+Benchmark 105: guesslang --probabilities '/samples/Roff/qsort.3qt' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.507 s               [User: 2.925 s, System: 5.327 s]
+ 
+Benchmark 106: guesslang --probabilities '/samples/Roff/roff.nr' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.444 s               [User: 2.869 s, System: 5.321 s]
+ 
+Benchmark 107: guesslang --probabilities '/samples/Roff/he.mdoc' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.444 s               [User: 2.925 s, System: 5.265 s]
+ 
+Benchmark 108: guesslang --probabilities '/samples/Roff/fsinterface.ms' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.479 s               [User: 2.997 s, System: 5.226 s]
+ 
+Benchmark 109: guesslang --probabilities '/samples/Roff/refs.rno' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.448 s               [User: 2.913 s, System: 5.286 s]
+ 
+Benchmark 110: guesslang --probabilities '/samples/Roff/switch.3m' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.460 s               [User: 2.968 s, System: 5.242 s]
+ 
+Benchmark 111: guesslang --probabilities '/samples/Roff/an-ext.tmac' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.564 s               [User: 2.844 s, System: 5.473 s]
+ 
+Benchmark 112: guesslang --probabilities '/samples/Roff/crude-hack.man' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.450 s               [User: 2.773 s, System: 5.418 s]
+ 
+Benchmark 113: guesslang --probabilities '/samples/Roff/foo.3pm' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.463 s               [User: 3.047 s, System: 5.153 s]
+ 
+Benchmark 114: guesslang --probabilities '/samples/Roff/create_view.l' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.455 s               [User: 2.774 s, System: 5.420 s]
+ 
+Benchmark 115: guesslang --probabilities '/samples/Roff/Tcl.n' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.449 s               [User: 2.848 s, System: 5.341 s]
+ 
+Benchmark 116: guesslang --probabilities '/samples/Roff/dsw.1x' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.483 s               [User: 2.973 s, System: 5.260 s]
+ 
+Benchmark 117: guesslang --probabilities '/samples/AsciiDoc/list.asc' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.462 s               [User: 2.798 s, System: 5.398 s]
+ 
+Benchmark 118: guesslang --probabilities '/samples/AsciiDoc/sample.adoc' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.495 s               [User: 2.891 s, System: 5.349 s]
+ 
+Benchmark 119: guesslang --probabilities '/samples/AsciiDoc/encoding.asciidoc' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.442 s               [User: 2.851 s, System: 5.328 s]
+ 
+Benchmark 120: guesslang --probabilities '/samples/RUNOFF/contributing.rnh' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.446 s               [User: 2.878 s, System: 5.307 s]
+ 
+Benchmark 121: guesslang --probabilities '/samples/RUNOFF/longlib.rno' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.481 s               [User: 2.978 s, System: 5.263 s]
+ 
+Benchmark 122: guesslang --probabilities '/samples/RUNOFF/VMS_ZIP.RNH' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.484 s               [User: 2.859 s, System: 5.381 s]
+ 
+Benchmark 123: guesslang --probabilities '/samples/RUNOFF/mcp_help.rnh' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.448 s               [User: 2.900 s, System: 5.303 s]
+ 
+Benchmark 124: guesslang --probabilities '/samples/Swift/section-61.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.436 s               [User: 2.799 s, System: 4.784 s]
+ 
+Benchmark 125: guesslang --probabilities '/samples/Swift/section-15.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.445 s               [User: 2.963 s, System: 5.226 s]
+ 
+Benchmark 126: guesslang --probabilities '/samples/Swift/section-53.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.470 s               [User: 3.082 s, System: 5.123 s]
+ 
+Benchmark 127: guesslang --probabilities '/samples/Swift/section-37.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.461 s               [User: 2.986 s, System: 5.215 s]
+ 
+Benchmark 128: guesslang --probabilities '/samples/Swift/section-63.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.514 s               [User: 3.005 s, System: 5.250 s]
+ 
+Benchmark 129: guesslang --probabilities '/samples/Swift/section-73.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.491 s               [User: 2.920 s, System: 5.213 s]
+ 
+Benchmark 130: guesslang --probabilities '/samples/Swift/section-43.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.460 s               [User: 2.778 s, System: 5.425 s]
+ 
+Benchmark 131: guesslang --probabilities '/samples/Swift/section-65.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.457 s               [User: 2.946 s, System: 5.252 s]
+ 
+Benchmark 132: guesslang --probabilities '/samples/Swift/section-39.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.443 s               [User: 2.913 s, System: 5.280 s]
+ 
+Benchmark 133: guesslang --probabilities '/samples/Swift/section-47.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.448 s               [User: 2.920 s, System: 5.270 s]
+ 
+Benchmark 134: guesslang --probabilities '/samples/Swift/section-55.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.475 s               [User: 2.911 s, System: 5.297 s]
+ 
+Benchmark 135: guesslang --probabilities '/samples/Swift/section-33.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.450 s               [User: 3.031 s, System: 5.165 s]
+ 
+Benchmark 136: guesslang --probabilities '/samples/Swift/section-25.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.445 s               [User: 2.941 s, System: 5.249 s]
+ 
+Benchmark 137: guesslang --probabilities '/samples/Swift/section-45.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.461 s               [User: 2.849 s, System: 5.350 s]
+ 
+Benchmark 138: guesslang --probabilities '/samples/Swift/section-19.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.492 s               [User: 2.980 s, System: 5.258 s]
+ 
+Benchmark 139: guesslang --probabilities '/samples/Swift/section-13.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.443 s               [User: 2.867 s, System: 5.318 s]
+ 
+Benchmark 140: guesslang --probabilities '/samples/Swift/section-83.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.467 s               [User: 2.895 s, System: 5.321 s]
+ 
+Benchmark 141: guesslang --probabilities '/samples/Swift/section-23.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.458 s               [User: 2.869 s, System: 5.329 s]
+ 
+Benchmark 142: guesslang --probabilities '/samples/Swift/section-79.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.450 s               [User: 2.763 s, System: 5.431 s]
+ 
+Benchmark 143: guesslang --probabilities '/samples/Swift/section-75.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.446 s               [User: 2.847 s, System: 5.225 s]
+ 
+Benchmark 144: guesslang --probabilities '/samples/Swift/section-29.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.446 s               [User: 2.849 s, System: 5.149 s]
+ 
+Benchmark 145: guesslang --probabilities '/samples/Swift/section-59.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.438 s               [User: 2.978 s, System: 5.204 s]
+ 
+Benchmark 146: guesslang --probabilities '/samples/Swift/section-67.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.464 s               [User: 2.793 s, System: 5.405 s]
+ 
+Benchmark 147: guesslang --probabilities '/samples/Swift/section-69.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.457 s               [User: 2.905 s, System: 5.291 s]
+ 
+Benchmark 148: guesslang --probabilities '/samples/Swift/section-85.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.484 s               [User: 2.884 s, System: 5.343 s]
+ 
+Benchmark 149: guesslang --probabilities '/samples/Swift/section-41.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.459 s               [User: 2.861 s, System: 5.337 s]
+ 
+Benchmark 150: guesslang --probabilities '/samples/Swift/section-31.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.453 s               [User: 3.011 s, System: 5.179 s]
+ 
+Benchmark 151: guesslang --probabilities '/samples/Swift/section-49.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.455 s               [User: 2.922 s, System: 5.275 s]
+ 
+Benchmark 152: guesslang --probabilities '/samples/Swift/section-5.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.451 s               [User: 2.920 s, System: 5.289 s]
+ 
+Benchmark 153: guesslang --probabilities '/samples/Swift/section-71.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.474 s               [User: 2.952 s, System: 5.267 s]
+ 
+Benchmark 154: guesslang --probabilities '/samples/Swift/section-87.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.461 s               [User: 2.909 s, System: 5.291 s]
+ 
+Benchmark 155: guesslang --probabilities '/samples/Swift/section-11.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.438 s               [User: 2.970 s, System: 5.217 s]
+ 
+Benchmark 156: guesslang --probabilities '/samples/Swift/section-81.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.450 s               [User: 2.927 s, System: 5.259 s]
+ 
+Benchmark 157: guesslang --probabilities '/samples/Swift/section-17.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.445 s               [User: 2.855 s, System: 5.332 s]
+ 
+Benchmark 158: guesslang --probabilities '/samples/Swift/section-9.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.472 s               [User: 2.915 s, System: 5.312 s]
+ 
+Benchmark 159: guesslang --probabilities '/samples/Swift/section-21.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.455 s               [User: 2.855 s, System: 5.337 s]
+ 
+Benchmark 160: guesslang --probabilities '/samples/Swift/section-7.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.453 s               [User: 2.925 s, System: 5.269 s]
+ 
+Benchmark 161: guesslang --probabilities '/samples/Swift/section-35.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.448 s               [User: 2.902 s, System: 5.287 s]
+ 
+Benchmark 162: guesslang --probabilities '/samples/Swift/section-27.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.455 s               [User: 2.939 s, System: 5.260 s]
+ 
+Benchmark 163: guesslang --probabilities '/samples/Swift/section-3.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.454 s               [User: 2.931 s, System: 5.266 s]
+ 
+Benchmark 164: guesslang --probabilities '/samples/Swift/section-57.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.431 s               [User: 2.951 s, System: 5.241 s]
+ 
+Benchmark 165: guesslang --probabilities '/samples/Swift/section-77.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.465 s               [User: 2.932 s, System: 5.266 s]
+ 
+Benchmark 166: guesslang --probabilities '/samples/Swift/section-51.swift' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.446 s               [User: 2.851 s, System: 5.332 s]
+ 
+Benchmark 167: guesslang --probabilities '/samples/Promela/Session.pml' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.466 s               [User: 2.843 s, System: 5.368 s]
+ 
+Benchmark 168: guesslang --probabilities '/samples/Promela/TCP.pml' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.488 s               [User: 2.840 s, System: 5.390 s]
+ 
+Benchmark 169: guesslang --probabilities '/samples/Promela/Thread.pml' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.475 s               [User: 2.980 s, System: 5.247 s]
+ 
+Benchmark 170: guesslang --probabilities '/samples/Promela/bare_signals.pml' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.452 s               [User: 2.838 s, System: 5.372 s]
+ 
+Benchmark 171: guesslang --probabilities '/samples/Promela/Supervisor.pml' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.454 s               [User: 2.970 s, System: 5.222 s]
+ 
+Benchmark 172: guesslang --probabilities '/samples/Promela/ex.1.pml' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.450 s               [User: 2.929 s, System: 5.252 s]
+ 
+Benchmark 173: guesslang --probabilities '/samples/Promela/attacker_4_FINITE.pml' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.472 s               [User: 2.810 s, System: 5.398 s]
+ 
+Benchmark 174: guesslang --probabilities '/samples/Record Jar/filenames/language-subtag-registry.txt' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.484 s               [User: 2.867 s, System: 5.352 s]
+ 
+Benchmark 175: guesslang --probabilities '/samples/Pony/circle.pony' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.448 s               [User: 2.885 s, System: 5.301 s]
+ 
+Benchmark 176: guesslang --probabilities '/samples/Pony/mandelbrot.pony' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.471 s               [User: 2.898 s, System: 5.332 s]
+ 
+Benchmark 177: guesslang --probabilities '/samples/Pony/hello-world.pony' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.506 s               [User: 2.903 s, System: 5.335 s]
+ 
+Benchmark 178: guesslang --probabilities '/samples/Pony/counter.pony' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.476 s               [User: 2.880 s, System: 5.341 s]
+ 
+Benchmark 179: guesslang --probabilities '/samples/Pony/mixed.pony' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.468 s               [User: 2.837 s, System: 5.376 s]
+ 
+Benchmark 180: guesslang --probabilities '/samples/Pony/gups-opt.pony' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.468 s               [User: 2.969 s, System: 5.240 s]
+ 
+Benchmark 181: guesslang --probabilities '/samples/Xojo/Window1.xojo_window' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.465 s               [User: 2.953 s, System: 5.258 s]
+ 
+Benchmark 182: guesslang --probabilities '/samples/Xojo/database.xojo_script' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.459 s               [User: 2.931 s, System: 5.288 s]
+ 
+Benchmark 183: guesslang --probabilities '/samples/Xojo/MyToolbar.xojo_toolbar' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.427 s               [User: 2.977 s, System: 5.197 s]
+ 
+Benchmark 184: guesslang --probabilities '/samples/Xojo/MainMenuBar.xojo_menu' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.446 s               [User: 2.968 s, System: 5.218 s]
+ 
+Benchmark 185: guesslang --probabilities '/samples/Xojo/App.xojo_code' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.441 s               [User: 2.936 s, System: 5.256 s]
+ 
+Benchmark 186: guesslang --probabilities '/samples/Xojo/BillingReport.xojo_report' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.460 s               [User: 2.882 s, System: 5.319 s]
+ 
+Benchmark 187: guesslang --probabilities '/samples/RON/config.ron' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.451 s               [User: 2.856 s, System: 5.338 s]
+ 
+Benchmark 188: guesslang --probabilities '/samples/XC/main.xc' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.483 s               [User: 2.998 s, System: 5.245 s]
+ 
+Benchmark 189: guesslang --probabilities '/samples/Pyret/pyret.arr' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.444 s               [User: 2.920 s, System: 5.274 s]
+ 
+Benchmark 190: guesslang --probabilities '/samples/Hare/iter.ha' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.465 s               [User: 2.964 s, System: 5.248 s]
+ 
+Benchmark 191: guesslang --probabilities '/samples/Hare/contains.ha' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.455 s               [User: 2.941 s, System: 5.256 s]
+ 
+Benchmark 192: guesslang --probabilities '/samples/Hare/types.ha' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.467 s               [User: 2.897 s, System: 5.320 s]
+ 
+Benchmark 193: guesslang --probabilities '/samples/Charity/example.ch' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.451 s               [User: 2.771 s, System: 5.414 s]
+ 
+Benchmark 194: guesslang --probabilities '/samples/Gherkin/resources.story' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.462 s               [User: 2.867 s, System: 5.357 s]
+ 
+Benchmark 195: guesslang --probabilities '/samples/Gherkin/tables.feature' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.469 s               [User: 2.910 s, System: 5.293 s]
+ 
+Benchmark 196: guesslang --probabilities '/samples/Visual Basic 6.0/DataReport1.Dsr' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.454 s               [User: 2.809 s, System: 5.387 s]
+ 
+Benchmark 197: guesslang --probabilities '/samples/Visual Basic 6.0/Module2.bas' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.480 s               [User: 2.852 s, System: 5.353 s]
+ 
+Benchmark 198: guesslang --probabilities '/samples/Visual Basic 6.0/clsMenuImage.cls' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.503 s               [User: 2.892 s, System: 5.326 s]
+ 
+Benchmark 199: guesslang --probabilities '/samples/Visual Basic 6.0/clsDataPack.cls' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.452 s               [User: 2.926 s, System: 5.269 s]
+ 
+Benchmark 200: guesslang --probabilities '/samples/Visual Basic 6.0/frmProcMan.frm' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.515 s               [User: 2.906 s, System: 5.361 s]
+ 
+Benchmark 201: guesslang --probabilities '/samples/Visual Basic 6.0/cApplication.cls' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.474 s               [User: 2.980 s, System: 5.152 s]
+ 
+Benchmark 202: guesslang --probabilities '/samples/Visual Basic 6.0/UIListBox.ctl' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.451 s               [User: 2.879 s, System: 5.316 s]
+ 
+Benchmark 203: guesslang --probabilities '/samples/Visual Basic 6.0/modFrm.bas' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.480 s               [User: 2.861 s, System: 5.375 s]
+ 
+Benchmark 204: guesslang --probabilities '/samples/Visual Basic 6.0/Adjustments_BlackAndWhite.frm' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.513 s               [User: 2.926 s, System: 5.339 s]
+ 
+Benchmark 205: guesslang --probabilities '/samples/Visual Basic 6.0/Wizard.Dsr' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.462 s               [User: 2.894 s, System: 5.210 s]
+ 
+Benchmark 206: guesslang --probabilities '/samples/Visual Basic 6.0/Module1.bas' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.431 s               [User: 2.846 s, System: 5.349 s]
+ 
+Benchmark 207: guesslang --probabilities '/samples/GCC Machine Description/pdp10.md' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.485 s               [User: 2.867 s, System: 5.368 s]
+ 
+Benchmark 208: guesslang --probabilities '/samples/Cloud Firestore Security Rules/filenames/firestore.rules' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.462 s               [User: 2.926 s, System: 5.285 s]
+ 
+Benchmark 209: guesslang --probabilities '/samples/Euphoria/csort.ex' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.455 s               [User: 2.852 s, System: 5.357 s]
+ 
+Benchmark 210: guesslang --probabilities '/samples/Euphoria/math.e' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.461 s               [User: 2.846 s, System: 5.353 s]
+ 
+Benchmark 211: guesslang --probabilities '/samples/Euphoria/regex.e' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.440 s               [User: 2.987 s, System: 5.193 s]
+ 
+Benchmark 212: guesslang --probabilities '/samples/Euphoria/mydata.ex' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.456 s               [User: 2.937 s, System: 5.262 s]
+ 
+Benchmark 213: guesslang --probabilities '/samples/Euphoria/animal.ex' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.449 s               [User: 2.916 s, System: 5.168 s]
+ 
+Benchmark 214: guesslang --probabilities '/samples/Euphoria/hash.ex' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.468 s               [User: 2.946 s, System: 5.254 s]
+ 
+Benchmark 215: guesslang --probabilities '/samples/Euphoria/types.e' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.455 s               [User: 2.866 s, System: 5.324 s]
+ 
+Benchmark 216: guesslang --probabilities '/samples/Euphoria/dll.e' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.439 s               [User: 2.899 s, System: 5.287 s]
+ 
+Benchmark 217: guesslang --probabilities '/samples/Euphoria/debug.e' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.481 s               [User: 2.974 s, System: 5.244 s]
+ 
+Benchmark 218: guesslang --probabilities '/samples/Euphoria/allsorts.ex' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.486 s               [User: 2.963 s, System: 5.269 s]
+ 
+Benchmark 219: guesslang --probabilities '/samples/Cue Sheet/sample2.cue' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.473 s               [User: 2.976 s, System: 5.205 s]
+ 
+Benchmark 220: guesslang --probabilities '/samples/Cue Sheet/sample1.cue' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.468 s               [User: 2.974 s, System: 5.225 s]
+ 
+Benchmark 221: guesslang --probabilities '/samples/Lean 4/BirthdayProblem.lean' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.477 s               [User: 2.917 s, System: 5.284 s]
+ 
+Benchmark 222: guesslang --probabilities '/samples/ActionScript/NumberUtil.as' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.467 s               [User: 2.857 s, System: 5.344 s]
+ 
+Benchmark 223: guesslang --probabilities '/samples/ActionScript/FooBar.as' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.459 s               [User: 2.881 s, System: 4.912 s]
+ 
+Benchmark 224: guesslang --probabilities '/samples/ActionScript/TextFieldUtil.as' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.501 s               [User: 2.959 s, System: 5.119 s]
+ 
+Benchmark 225: guesslang --probabilities '/samples/ActionScript/HelloWorld.as' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.458 s               [User: 2.913 s, System: 5.291 s]
+ 
+Benchmark 226: guesslang --probabilities '/samples/Pug/hello.jade' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.465 s               [User: 2.933 s, System: 5.176 s]
+ 
+Benchmark 227: guesslang --probabilities '/samples/Pug/hello.pug' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.476 s               [User: 2.936 s, System: 4.692 s]
+ 
+Benchmark 228: guesslang --probabilities '/samples/Scilab/scilab_test.tst' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.467 s               [User: 2.918 s, System: 5.278 s]
+ 
+Benchmark 229: guesslang --probabilities '/samples/Scilab/scilab_script.sce' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.445 s               [User: 2.863 s, System: 5.328 s]
+ 
+Benchmark 230: guesslang --probabilities '/samples/Scilab/scilab_function.sci' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.486 s               [User: 2.833 s, System: 5.369 s]
+ 
+Benchmark 231: guesslang --probabilities '/samples/sed/hanoi.sed' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.448 s               [User: 2.874 s, System: 5.315 s]
+ 
+Benchmark 232: guesslang --probabilities '/samples/GLSL/closesthit.rchit' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.446 s               [User: 2.802 s, System: 5.378 s]
+ 
+Benchmark 233: guesslang --probabilities '/samples/GLSL/blend_120.glslf' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.459 s               [User: 2.890 s, System: 5.302 s]
+ 
+Benchmark 234: guesslang --probabilities '/samples/GLSL/extrude_normals.gs' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.441 s               [User: 2.899 s, System: 5.280 s]
+ 
+Benchmark 235: guesslang --probabilities '/samples/GLSL/miss.rmiss' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.436 s               [User: 2.838 s, System: 5.331 s]
+ 
+Benchmark 236: guesslang --probabilities '/samples/GLSL/SyLens.glsl' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.459 s               [User: 2.917 s, System: 5.276 s]
+ 
+Benchmark 237: guesslang --probabilities '/samples/GLSL/recurse1.fs' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.507 s               [User: 3.000 s, System: 5.252 s]
+ 
+Benchmark 238: guesslang --probabilities '/samples/GLSL/recurse1.frag' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.460 s               [User: 2.910 s, System: 5.291 s]
+ 
+Benchmark 239: guesslang --probabilities '/samples/GLSL/shader.fp' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.454 s               [User: 2.888 s, System: 5.302 s]
+ 
+Benchmark 240: guesslang --probabilities '/samples/GLSL/myvertex.vrx' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.448 s               [User: 2.972 s, System: 5.217 s]
+ 
+Benchmark 241: guesslang --probabilities '/samples/GLSL/myfragment.frg' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.499 s               [User: 2.922 s, System: 5.309 s]
+ 
+Benchmark 242: guesslang --probabilities '/samples/GLSL/gbuffers_textured_lit.fsh' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.677 s               [User: 3.090 s, System: 5.229 s]
+ 
+Benchmark 243: guesslang --probabilities '/samples/GLSL/SyLens.shader' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.462 s               [User: 3.077 s, System: 5.132 s]
+ 
+Benchmark 244: guesslang --probabilities '/samples/GLSL/gbuffers_textured_lit.vsh' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.453 s               [User: 2.908 s, System: 5.281 s]
+ 
+Benchmark 245: guesslang --probabilities '/samples/GLSL/pntriangles.tesc' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.468 s               [User: 2.901 s, System: 5.304 s]
+ 
+Benchmark 246: guesslang --probabilities '/samples/GLSL/SimpleLighting.gl2.frag' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.447 s               [User: 2.907 s, System: 5.285 s]
+ 
+Benchmark 247: guesslang --probabilities '/samples/GLSL/main.vs' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.500 s               [User: 2.893 s, System: 5.353 s]
+ 
+Benchmark 248: guesslang --probabilities '/samples/GLSL/pntriangles.tese' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.607 s               [User: 2.967 s, System: 5.379 s]
+ 
+Benchmark 249: guesslang --probabilities '/samples/GLSL/islandScene.shader' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.456 s               [User: 2.793 s, System: 5.405 s]
+ 
+Benchmark 250: guesslang --probabilities '/samples/GLSL/project.vs' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.461 s               [User: 2.819 s, System: 5.381 s]
+ 
+Benchmark 251: guesslang --probabilities '/samples/GLSL/islandScene.glsl' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.460 s               [User: 2.912 s, System: 5.290 s]
+ 
+Benchmark 252: guesslang --probabilities '/samples/WGSL/animate_shader.wgsl' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.472 s               [User: 3.013 s, System: 5.198 s]
+ 
+Benchmark 253: guesslang --probabilities '/samples/Oz/example.oz' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.503 s               [User: 2.910 s, System: 5.336 s]
+ 
+Benchmark 254: guesslang --probabilities '/samples/PLpgSQL/plpgsql_lint-9.1.sql' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.453 s               [User: 2.927 s, System: 5.268 s]
+ 
+Benchmark 255: guesslang --probabilities '/samples/PLpgSQL/useraccount.pgsql' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.438 s               [User: 2.910 s, System: 5.268 s]
+ 
+Benchmark 256: guesslang --probabilities '/samples/PLpgSQL/plpgsql_lint-9.3.sql' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.445 s               [User: 2.919 s, System: 5.264 s]
+ 
+Benchmark 257: guesslang --probabilities '/samples/PLpgSQL/plpgsql_lint-9.0.sql' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.489 s               [User: 2.939 s, System: 5.297 s]
+ 
+Benchmark 258: guesslang --probabilities '/samples/PLpgSQL/plpgsql_lint-8.4.sql' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.465 s               [User: 2.871 s, System: 5.336 s]
+ 
+Benchmark 259: guesslang --probabilities '/samples/PLpgSQL/procedures.sql' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.471 s               [User: 2.804 s, System: 5.399 s]
+ 
+Benchmark 260: guesslang --probabilities '/samples/PLpgSQL/plpgsql_lint-9.2.sql' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.455 s               [User: 2.986 s, System: 5.205 s]
+ 
+Benchmark 261: guesslang --probabilities '/samples/Snakemake/snakemake-mapping.smk' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.461 s               [User: 3.038 s, System: 5.165 s]
+ 
+Benchmark 262: guesslang --probabilities '/samples/Snakemake/template.snakefile' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.456 s               [User: 2.814 s, System: 5.281 s]
+ 
+Benchmark 263: guesslang --probabilities '/samples/Snakemake/filenames/Snakefile' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.451 s               [User: 2.899 s, System: 5.289 s]
+ 
+Benchmark 264: guesslang --probabilities '/samples/Snakemake/snakemake-calling.smk' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.434 s               [User: 2.981 s, System: 5.190 s]
+ 
+Benchmark 265: guesslang --probabilities '/samples/HiveQL/mi.q' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.442 s               [User: 2.975 s, System: 5.218 s]
+ 
+Benchmark 266: guesslang --probabilities '/samples/HiveQL/query.hql' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.483 s               [User: 2.880 s, System: 5.349 s]
+ 
+Benchmark 267: guesslang --probabilities '/samples/Clarity/bns.clar' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.493 s               [User: 2.981 s, System: 5.261 s]
+ 
+Benchmark 268: guesslang --probabilities '/samples/Clarity/pox.clar' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.471 s               [User: 2.857 s, System: 5.366 s]
+ 
+Benchmark 269: guesslang --probabilities '/samples/Clarity/cost-voting.clar' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.472 s               [User: 2.783 s, System: 5.427 s]
+ 
+Benchmark 270: guesslang --probabilities '/samples/Adobe Font Metrics/OpenSansCondensed-Bold.afm' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.448 s               [User: 2.827 s, System: 5.359 s]
+ 
+Benchmark 271: guesslang --probabilities '/samples/Adobe Font Metrics/SpecialElite.afm' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.472 s               [User: 2.882 s, System: 5.347 s]
+ 
+Benchmark 272: guesslang --probabilities '/samples/Adobe Font Metrics/lambda.afm' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.596 s               [User: 2.982 s, System: 5.239 s]
+ 
+Benchmark 273: guesslang --probabilities '/samples/Procfile/filenames/Procfile' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.448 s               [User: 2.900 s, System: 5.302 s]
+ 
+Benchmark 274: guesslang --probabilities '/samples/XProc/xproc.xpl' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.455 s               [User: 2.928 s, System: 5.264 s]
+ 
+Benchmark 275: guesslang --probabilities '/samples/crontab/filenames/crontab' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.451 s               [User: 2.868 s, System: 5.329 s]
+ 
+Benchmark 276: guesslang --probabilities '/samples/Objective-J/AppController.j' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.456 s               [User: 2.843 s, System: 5.190 s]
+ 
+Benchmark 277: guesslang --probabilities '/samples/Objective-J/iTunesLayout.j' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.465 s               [User: 3.063 s, System: 5.162 s]
+ 
+Benchmark 278: guesslang --probabilities '/samples/Objective-J/LightsOff.j' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.438 s               [User: 2.879 s, System: 5.318 s]
+ 
+Benchmark 279: guesslang --probabilities '/samples/CWeb/sat-life.w' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.467 s               [User: 2.856 s, System: 5.348 s]
+ 
+Benchmark 280: guesslang --probabilities '/samples/CWeb/mpmathdouble.w' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.482 s               [User: 2.857 s, System: 5.370 s]
+ 
+Benchmark 281: guesslang --probabilities '/samples/vCard/forrest-gump.vcf' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.463 s               [User: 2.940 s, System: 5.262 s]
+ 
+Benchmark 282: guesslang --probabilities '/samples/vCard/vcard.vcf' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.446 s               [User: 2.923 s, System: 5.272 s]
+ 
+Benchmark 283: guesslang --probabilities '/samples/YAML/vcr_cassette.yml' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.467 s               [User: 2.933 s, System: 5.301 s]
+ 
+Benchmark 284: guesslang --probabilities '/samples/YAML/HexInspect.sublime-syntax' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.454 s               [User: 2.820 s, System: 5.376 s]
+ 
+Benchmark 285: guesslang --probabilities '/samples/YAML/filenames/.clangd' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.462 s               [User: 2.913 s, System: 5.289 s]
+ 
+Benchmark 286: guesslang --probabilities '/samples/YAML/filenames/.gemrc' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.449 s               [User: 2.884 s, System: 5.307 s]
+ 
+Benchmark 287: guesslang --probabilities '/samples/YAML/filenames/.clang-tidy' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.487 s               [User: 2.974 s, System: 5.251 s]
+ 
+Benchmark 288: guesslang --probabilities '/samples/YAML/filenames/glide.lock' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.456 s               [User: 2.955 s, System: 5.245 s]
+ 
+Benchmark 289: guesslang --probabilities '/samples/YAML/filenames/.clang-format' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.450 s               [User: 3.018 s, System: 5.184 s]
+ 
+Benchmark 290: guesslang --probabilities '/samples/YAML/filenames/yarn.lock' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.454 s               [User: 2.934 s, System: 5.255 s]
+ 
+Benchmark 291: guesslang --probabilities '/samples/YAML/filenames/CITATION.cff' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.462 s               [User: 2.946 s, System: 5.261 s]
+ 
+Benchmark 292: guesslang --probabilities '/samples/YAML/filenames/pixi.lock' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.633 s               [User: 3.120 s, System: 5.249 s]
+ 
+Benchmark 293: guesslang --probabilities '/samples/YAML/expected-floating-point-literal.mir' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.475 s               [User: 2.955 s, System: 5.267 s]
+ 
+Benchmark 294: guesslang --probabilities '/samples/YAML/Ansible.YAML-tmLanguage' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.443 s               [User: 2.847 s, System: 5.330 s]
+ 
+Benchmark 295: guesslang --probabilities '/samples/YAML/database.yml.mysql' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.491 s               [User: 2.982 s, System: 5.251 s]
+ 
+Benchmark 296: guesslang --probabilities '/samples/YAML/coredns.yaml.sed' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.469 s               [User: 2.888 s, System: 5.307 s]
+ 
+Benchmark 297: guesslang --probabilities '/samples/YAML/source.r-console.syntax' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.465 s               [User: 2.921 s, System: 5.285 s]
+ 
+Benchmark 298: guesslang --probabilities '/samples/YAML/229Q.yaml' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.453 s               [User: 2.923 s, System: 5.269 s]
+ 
+Benchmark 299: guesslang --probabilities '/samples/Tcl/constraints.xdc' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.457 s               [User: 2.993 s, System: 5.200 s]
+ 
+Benchmark 300: guesslang --probabilities '/samples/Tcl/xdgbasedir-0.3.tm' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.459 s               [User: 2.963 s, System: 5.234 s]
+ 
+Benchmark 301: guesslang --probabilities '/samples/Tcl/filenames/owh' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.483 s               [User: 2.744 s, System: 5.439 s]
+ 
+Benchmark 302: guesslang --probabilities '/samples/Tcl/filenames/starfield' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.454 s               [User: 2.921 s, System: 5.277 s]
+ 
+Benchmark 303: guesslang --probabilities '/samples/Tcl/stream-0.1.tm' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.444 s               [User: 2.902 s, System: 5.282 s]
+ 
+Benchmark 304: guesslang --probabilities '/samples/Tcl/init.tcl.in' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.475 s               [User: 3.027 s, System: 5.191 s]
+ 
+Benchmark 305: guesslang --probabilities '/samples/Tcl/constraints.sdc' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.445 s               [User: 2.849 s, System: 5.336 s]
+ 
+Benchmark 306: guesslang --probabilities '/samples/LTspice Symbol/random-shapes.asy' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.451 s               [User: 2.844 s, System: 5.339 s]
+ 
+Benchmark 307: guesslang --probabilities '/samples/Motoko/erc20.mo' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.471 s               [User: 2.990 s, System: 5.205 s]
+ 
+Benchmark 308: guesslang --probabilities '/samples/Motoko/queue.mo' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.439 s               [User: 2.890 s, System: 5.288 s]
+ 
+Benchmark 309: guesslang --probabilities '/samples/Csound Document/allglass.csd' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.444 s               [User: 2.811 s, System: 5.377 s]
+ 
+Benchmark 310: guesslang --probabilities '/samples/Csound Document/interp.csd' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.450 s               [User: 2.986 s, System: 5.204 s]
+ 
+Benchmark 311: guesslang --probabilities '/samples/Csound Document/test.csd' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.447 s               [User: 2.851 s, System: 5.339 s]
+ 
+Benchmark 312: guesslang --probabilities '/samples/Starlark/release.star' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.449 s               [User: 2.906 s, System: 5.286 s]
+ 
+Benchmark 313: guesslang --probabilities '/samples/Starlark/filenames/BUILD.bazel' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.467 s               [User: 2.855 s, System: 5.342 s]
+ 
+Benchmark 314: guesslang --probabilities '/samples/Starlark/filenames/MODULE.bazel' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.473 s               [User: 2.992 s, System: 5.226 s]
+ 
+Benchmark 315: guesslang --probabilities '/samples/Starlark/filenames/WORKSPACE.bazel' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.448 s               [User: 3.031 s, System: 5.158 s]
+ 
+Benchmark 316: guesslang --probabilities '/samples/Starlark/filenames/BUILD' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.472 s               [User: 2.865 s, System: 5.344 s]
+ 
+Benchmark 317: guesslang --probabilities '/samples/Starlark/filenames/BUCK' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.442 s               [User: 2.865 s, System: 5.324 s]
+ 
+Benchmark 318: guesslang --probabilities '/samples/Starlark/filenames/WORKSPACE.bzlmod' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.466 s               [User: 2.955 s, System: 5.251 s]
+ 
+Benchmark 319: guesslang --probabilities '/samples/Starlark/filenames/WORKSPACE' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.489 s               [User: 2.877 s, System: 5.334 s]
+ 
+Benchmark 320: guesslang --probabilities '/samples/Starlark/filenames/Tiltfile' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.463 s               [User: 2.903 s, System: 5.295 s]
+ 
+Benchmark 321: guesslang --probabilities '/samples/Starlark/closure_js_binary.bzl' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.442 s               [User: 2.895 s, System: 5.292 s]
+ 
+Benchmark 322: guesslang --probabilities '/samples/Starlark/drone.star' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.448 s               [User: 2.972 s, System: 5.213 s]
+ 
+Benchmark 323: guesslang --probabilities '/samples/Kusto/kusto-example-queries.csl' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.469 s               [User: 2.940 s, System: 5.267 s]
+ 
+Benchmark 324: guesslang --probabilities '/samples/Kusto/examples_traces.csl' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.445 s               [User: 2.852 s, System: 5.338 s]
+ 
+Benchmark 325: guesslang --probabilities '/samples/Kusto/example-create-sflogs-table.csl' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.438 s               [User: 2.910 s, System: 5.250 s]
+ 
+Benchmark 326: guesslang --probabilities '/samples/Kusto/application_consent_or_assignment.kql' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.481 s               [User: 2.814 s, System: 5.406 s]
+ 
+Benchmark 327: guesslang --probabilities '/samples/KiCad Legacy Layout/tc14badge.brd' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.496 s               [User: 2.940 s, System: 5.303 s]
+ 
+Benchmark 328: guesslang --probabilities '/samples/Dart/point.dart' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.457 s               [User: 2.791 s, System: 5.395 s]
+ 
+Benchmark 329: guesslang --probabilities '/samples/ECL/sample.ecl' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.443 s               [User: 2.912 s, System: 5.278 s]
+ 
+Benchmark 330: guesslang --probabilities '/samples/Cycript/utils.cy' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.451 s               [User: 2.808 s, System: 5.382 s]
+ 
+Benchmark 331: guesslang --probabilities '/samples/Kickstart/fedora-32-live-jam-xfce-pipewire.ks' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.459 s               [User: 3.039 s, System: 5.143 s]
+ 
+Benchmark 332: guesslang --probabilities '/samples/Kickstart/sample_end.ks' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.453 s               [User: 2.734 s, System: 5.370 s]
+ 
+Benchmark 333: guesslang --probabilities '/samples/Kickstart/mysql.ks' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.483 s               [User: 3.000 s, System: 5.214 s]
+ 
+Benchmark 334: guesslang --probabilities '/samples/Singularity/filenames/Singularity' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.448 s               [User: 2.911 s, System: 5.265 s]
+ 
+Benchmark 335: guesslang --probabilities '/samples/Altium Designer/Sample Output Job.OutJob' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.440 s               [User: 2.864 s, System: 5.316 s]
+ 
+Benchmark 336: guesslang --probabilities '/samples/Altium Designer/Sample Altium Project.PrjPcb' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.509 s               [User: 3.025 s, System: 5.219 s]
+ 
+Benchmark 337: guesslang --probabilities '/samples/Altium Designer/Sample Board Design.PcbDoc' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.486 s               [User: 2.983 s, System: 5.249 s]
+ 
+Benchmark 338: guesslang --probabilities '/samples/Altium Designer/Sample Schematic Sheet.SchDoc' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.465 s               [User: 2.828 s, System: 5.384 s]
+ 
+Benchmark 339: guesslang --probabilities '/samples/Portugol/potencia_raiz.por' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.463 s               [User: 3.069 s, System: 5.137 s]
+ 
+Benchmark 340: guesslang --probabilities '/samples/Portugol/medias.por' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.454 s               [User: 2.895 s, System: 5.290 s]
+ 
+Benchmark 341: guesslang --probabilities '/samples/Dogescript/example.djs' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.445 s               [User: 2.981 s, System: 5.206 s]
+ 
+Benchmark 342: guesslang --probabilities '/samples/Redirect Rules/filenames/_redirects' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.500 s               [User: 2.917 s, System: 5.326 s]
+ 
+Benchmark 343: guesslang --probabilities '/samples/Eagle/Eagle.sch' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.533 s               [User: 3.083 s, System: 5.196 s]
+ 
+Benchmark 344: guesslang --probabilities '/samples/Eagle/Eagle.brd' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.444 s               [User: 2.927 s, System: 5.267 s]
+ 
+Benchmark 345: guesslang --probabilities '/samples/Puppet/apacheinit.pp' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.446 s               [User: 2.906 s, System: 5.276 s]
+ 
+Benchmark 346: guesslang --probabilities '/samples/Puppet/stages-example.pp' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.418 s               [User: 2.930 s, System: 5.223 s]
+ 
+Benchmark 347: guesslang --probabilities '/samples/Puppet/unmanaged-notify-puppet25.pp' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.402 s               [User: 2.817 s, System: 5.324 s]
+ 
+Benchmark 348: guesslang --probabilities '/samples/Puppet/expiringhost.pp' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.418 s               [User: 2.886 s, System: 5.230 s]
+ 
+Benchmark 349: guesslang --probabilities '/samples/Puppet/hiera_include.pp' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.414 s               [User: 2.931 s, System: 5.219 s]
+ 
+Benchmark 350: guesslang --probabilities '/samples/TSX/require.tsx' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.421 s               [User: 2.848 s, System: 5.314 s]
+ 
+Benchmark 351: guesslang --probabilities '/samples/TSX/react-native.tsx' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.516 s               [User: 2.863 s, System: 5.390 s]
+ 
+Benchmark 352: guesslang --probabilities '/samples/TSX/triple-slash-reference.tsx' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.440 s               [User: 2.823 s, System: 5.355 s]
+ 
+Benchmark 353: guesslang --probabilities '/samples/TSX/import.tsx' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.424 s               [User: 2.792 s, System: 5.373 s]
+ 
+Benchmark 354: guesslang --probabilities '/samples/KiCad Layout/Logo_Poncho.kicad_mod' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.419 s               [User: 2.796 s, System: 5.368 s]
+ 
+Benchmark 355: guesslang --probabilities '/samples/KiCad Layout/filenames/fp-lib-table' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.464 s               [User: 2.782 s, System: 5.430 s]
+ 
+Benchmark 356: guesslang --probabilities '/samples/KiCad Layout/Pin_Header_Straight_2x02.kicad_mod' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.403 s               [User: 2.747 s, System: 5.393 s]
+ 
+Benchmark 357: guesslang --probabilities '/samples/KiCad Layout/MagneticBuzzer_ProSignal_ABT-410-RC.kicad_mod' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.465 s               [User: 2.881 s, System: 5.327 s]
+ 
+Benchmark 358: guesslang --probabilities '/samples/KiCad Layout/Pin_Header_Straight_2x20.kicad_mod' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.461 s               [User: 2.910 s, System: 5.286 s]
+ 
+Benchmark 359: guesslang --probabilities '/samples/KiCad Layout/simonShield.kicad_pcb' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.427 s               [User: 2.880 s, System: 5.293 s]
+ 
+Benchmark 360: guesslang --probabilities '/samples/KiCad Layout/nrf-bga.kicad_pcb' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.425 s               [User: 2.834 s, System: 5.337 s]
+ 
+Benchmark 361: guesslang --probabilities '/samples/KiCad Layout/Conn_Poncho_SinBorde.kicad_mod' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.434 s               [User: 2.813 s, System: 5.361 s]
+ 
+Benchmark 362: guesslang --probabilities '/samples/KiCad Layout/Fiducial_1mm.kicad_mod' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.413 s               [User: 2.988 s, System: 5.162 s]
+ 
+Benchmark 363: guesslang --probabilities '/samples/KiCad Layout/Resistor_Horizontal_RM7mm.kicad_mod' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.421 s               [User: 2.862 s, System: 5.286 s]
+ 
+Benchmark 364: guesslang --probabilities '/samples/KiCad Layout/Logo_OSHWA.kicad_mod' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.419 s               [User: 2.855 s, System: 5.299 s]
+ 
+Benchmark 365: guesslang --probabilities '/samples/KiCad Layout/TO-92_Molded_Narrow.kicad_mod' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.468 s               [User: 2.841 s, System: 5.365 s]
+ 
+Benchmark 366: guesslang --probabilities '/samples/KiCad Layout/C_Disc_D3_P2.5.kicad_mod' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.422 s               [User: 2.928 s, System: 5.230 s]
+ 
+Benchmark 367: guesslang --probabilities '/samples/KiCad Layout/LED-5MM.kicad_mod' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.457 s               [User: 2.846 s, System: 5.342 s]
+ 
+Benchmark 368: guesslang --probabilities '/samples/KiCad Layout/SW_PUSH_SMALL.kicad_mod' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.390 s               [User: 2.879 s, System: 5.248 s]
+ 
+Benchmark 369: guesslang --probabilities '/samples/KiCad Layout/kivicad.kicad_wks' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.395 s               [User: 2.885 s, System: 5.252 s]
+ 
+Benchmark 370: guesslang --probabilities '/samples/HOCON/filenames/.scalafix.conf' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.405 s               [User: 2.823 s, System: 5.325 s]
+ 
+Benchmark 371: guesslang --probabilities '/samples/HOCON/filenames/.scalafmt.conf' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.423 s               [User: 2.941 s, System: 5.215 s]
+ 
+Benchmark 372: guesslang --probabilities '/samples/HOCON/stream-collector.hocon' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.431 s               [User: 2.895 s, System: 5.275 s]
+ 
+Benchmark 373: guesslang --probabilities '/samples/HOCON/application.hocon' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.416 s               [User: 2.979 s, System: 5.172 s]
+ 
+Benchmark 374: guesslang --probabilities '/samples/LigoLANG/FA1.2.ligo' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.420 s               [User: 2.904 s, System: 5.223 s]
+ 
+Benchmark 375: guesslang --probabilities '/samples/FreeMarker/example.ftl' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.483 s               [User: 2.964 s, System: 5.267 s]
+ 
+Benchmark 376: guesslang --probabilities '/samples/FreeMarker/layout.ftl' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.477 s               [User: 2.907 s, System: 5.308 s]
+ 
+Benchmark 377: guesslang --probabilities '/samples/Ignore List/filenames/.ignore' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.404 s               [User: 2.790 s, System: 5.347 s]
+ 
+Benchmark 378: guesslang --probabilities '/samples/Ignore List/filenames/.atomignore' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.406 s               [User: 2.851 s, System: 5.295 s]
+ 
+Benchmark 379: guesslang --probabilities '/samples/Ignore List/filenames/.coffeelintignore' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.406 s               [User: 2.844 s, System: 5.302 s]
+ 
+Benchmark 380: guesslang --probabilities '/samples/Ignore List/filenames/.gitignore' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.400 s               [User: 2.862 s, System: 5.281 s]
+ 
+Benchmark 381: guesslang --probabilities '/samples/Ignore List/filenames/.vscodeignore' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.407 s               [User: 2.778 s, System: 5.362 s]
+ 
+Benchmark 382: guesslang --probabilities '/samples/Ignore List/filenames/.vercelignore' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.406 s               [User: 2.903 s, System: 5.238 s]
+ 
+Benchmark 383: guesslang --probabilities '/samples/Ignore List/filenames/.eleventyignore' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.405 s               [User: 2.832 s, System: 5.314 s]
+ 
+Benchmark 384: guesslang --probabilities '/samples/Ignore List/filenames/.stylelintignore' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.413 s               [User: 2.804 s, System: 5.343 s]
+ 
+Benchmark 385: guesslang --probabilities '/samples/Ignore List/filenames/.eslintignore' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.397 s               [User: 2.929 s, System: 5.205 s]
+ 
+Benchmark 386: guesslang --probabilities '/samples/Ignore List/filenames/.easignore' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.397 s               [User: 2.851 s, System: 5.286 s]
+ 
+Benchmark 387: guesslang --probabilities '/samples/Ignore List/filenames/.prettierignore' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.415 s               [User: 2.865 s, System: 5.293 s]
+ 
+Benchmark 388: guesslang --probabilities '/samples/Ignore List/filenames/gitignore-global' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.406 s               [User: 2.767 s, System: 5.368 s]
+ 
+Benchmark 389: guesslang --probabilities '/samples/Ignore List/filenames/.npmignore' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.415 s               [User: 2.926 s, System: 5.226 s]
+ 
+Benchmark 390: guesslang --probabilities '/samples/Ignore List/filenames/gitignore_global' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.436 s               [User: 2.836 s, System: 5.336 s]
+ 
+Benchmark 391: guesslang --probabilities '/samples/Ignore List/filenames/.markdownlintignore' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.413 s               [User: 2.877 s, System: 5.270 s]
+ 
+Benchmark 392: guesslang --probabilities '/samples/Ignore List/filenames/.bzrignore' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.426 s               [User: 2.852 s, System: 5.306 s]
+ 
+Benchmark 393: guesslang --probabilities '/samples/Ignore List/filenames/.cvsignore' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.412 s               [User: 2.892 s, System: 5.263 s]
+ 
+Benchmark 394: guesslang --probabilities '/samples/Ignore List/filenames/.nodemonignore' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.412 s               [User: 2.791 s, System: 5.366 s]
+ 
+Benchmark 395: guesslang --probabilities '/samples/Ignore List/filenames/.babelignore' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.429 s               [User: 2.876 s, System: 5.294 s]
+ 
+Benchmark 396: guesslang --probabilities '/samples/Ignore List/filenames/.dockerignore' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.417 s               [User: 2.835 s, System: 5.325 s]
+ 
+Benchmark 397: guesslang --probabilities '/samples/Ignore List/Finale.gitignore' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.422 s               [User: 2.845 s, System: 5.316 s]
+ 
+Benchmark 398: guesslang --probabilities '/samples/XQuery/xproc.xqm' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.403 s               [User: 2.835 s, System: 5.313 s]
+ 
+Benchmark 399: guesslang --probabilities '/samples/Terraform Template/policy.tftpl' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.415 s               [User: 2.831 s, System: 5.323 s]
+ 
+Benchmark 400: guesslang --probabilities '/samples/Terraform Template/donors.tftpl' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.424 s               [User: 2.785 s, System: 5.380 s]
+ 
+Benchmark 401: guesslang --probabilities '/samples/Julia/julia' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.476 s               [User: 2.839 s, System: 5.377 s]
+ 
+Benchmark 402: guesslang --probabilities '/samples/Julia/stockcorr.jl' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.437 s               [User: 2.847 s, System: 5.095 s]
+ 
+Benchmark 403: guesslang --probabilities '/samples/JCL/IEBCOPY.jcl' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.467 s               [User: 3.010 s, System: 5.193 s]
+ 
+Benchmark 404: guesslang --probabilities '/samples/JCL/IEFBR14.jcl' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.440 s               [User: 2.808 s, System: 5.368 s]
+ 
+Benchmark 405: guesslang --probabilities '/samples/JCL/IKJEFT01.jcl' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+  Time (abs ≡):         2.397 s               [User: 2.859 s, System: 5.277 s]
+ 
+Summary
+  guesslang --probabilities '/samples/KiCad Layout/SW_PUSH_SMALL.kicad_mod' > /results/tmp_file ran
+    1.00 times faster than guesslang --probabilities '/samples/APL/UT.dyalog' > /results/tmp_file
+    1.00 times faster than guesslang --probabilities '/samples/KiCad Layout/kivicad.kicad_wks' > /results/tmp_file
+    1.00 times faster than guesslang --probabilities '/samples/JCL/IKJEFT01.jcl' > /results/tmp_file
+    1.00 times faster than guesslang --probabilities '/samples/Groovy Server Pages/bar.gsp' > /results/tmp_file
+    1.00 times faster than guesslang --probabilities '/samples/Ignore List/filenames/.easignore' > /results/tmp_file
+    1.00 times faster than guesslang --probabilities '/samples/Ignore List/filenames/.eslintignore' > /results/tmp_file
+    1.00 times faster than guesslang --probabilities '/samples/Ignore List/filenames/.gitignore' > /results/tmp_file
+    1.00 times faster than guesslang --probabilities '/samples/NSIS/x64.nsh' > /results/tmp_file
+    1.00 times faster than guesslang --probabilities '/samples/EJS/email_template.ect' > /results/tmp_file
+    1.00 times faster than guesslang --probabilities '/samples/Stan/congress.stan' > /results/tmp_file
+    1.00 times faster than guesslang --probabilities '/samples/APL/hashbang' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Puppet/unmanaged-notify-puppet25.pp' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/XQuery/xproc.xqm' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/KiCad Layout/Pin_Header_Straight_2x02.kicad_mod' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/PostScript/sierpinski.ps' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/NL/balassign0.nl' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Ignore List/filenames/.ignore' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Ignore List/filenames/.eleventyignore' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Racket/scribble.scrbl' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/HOCON/filenames/.scalafix.conf' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Stan/schools.stan' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Ignore List/filenames/.atomignore' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Ignore List/filenames/.coffeelintignore' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Ignore List/filenames/gitignore-global' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/EJS/dash.ejs' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Ignore List/filenames/.vercelignore' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/EJS/modules.ejs.t' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Groovy Server Pages/hello-var.gsp' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Ignore List/filenames/.vscodeignore' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Git Config/filenames/.gitconfig' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Stan/dogs.stan' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Befunge/aturley.bf' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Ignore List/filenames/.cvsignore' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/NL/assign0.nl' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Ignore List/filenames/.nodemonignore' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/APL/DeepakChopra.apl' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Racket/99-bottles-of-beer.scrbl' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Ignore List/filenames/.markdownlintignore' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/KiCad Layout/Fiducial_1mm.kicad_mod' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Ignore List/filenames/.stylelintignore' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/JSON with Comments/SourcePawn.sublime-build' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Puppet/hiera_include.pp' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/MUF/cmd-say.muf' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Ignore List/filenames/.prettierignore' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Ignore List/filenames/.npmignore' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Terraform Template/policy.tftpl' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/NSIS/bigtest.nsi' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/HOCON/application.hocon' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/LookML/example.model.lkml' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/EJS/admin_index.jst' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/LookML/example.view.lkml' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/SWIG/dictionary.i' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Ignore List/filenames/.dockerignore' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Groovy Server Pages/hello-pagedirective.gsp' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Puppet/stages-example.pp' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Puppet/expiringhost.pp' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/KiCad Layout/Logo_Poncho.kicad_mod' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/KiCad Layout/Logo_OSHWA.kicad_mod' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Git Config/aliases.gitconfig' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/LigoLANG/FA1.2.ligo' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/KiCad Layout/Resistor_Horizontal_RM7mm.kicad_mod' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/TSX/require.tsx' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/KiCad Layout/C_Disc_D3_P2.5.kicad_mod' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Ignore List/Finale.gitignore' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/HOCON/filenames/.scalafmt.conf' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/TSX/import.tsx' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/Terraform Template/donors.tftpl' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/KiCad Layout/nrf-bga.kicad_pcb' > /results/tmp_file
+    1.01 times faster than guesslang --probabilities '/samples/SWIG/CGAL_AABB_tree.i' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Ignore List/filenames/.bzrignore' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Xojo/MyToolbar.xojo_toolbar' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/KiCad Layout/simonShield.kicad_pcb' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/JSON with Comments/Default (Linux).sublime-mousemap' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Cirru/spaces.cirru' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Ignore List/filenames/.babelignore' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/JSON with Comments/plyr.code-workspace' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/FIGlet Font/ivrit.flf' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Swift/section-57.swift' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Visual Basic 6.0/Module1.bas' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/HOCON/stream-collector.hocon' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/JSON with Comments/filenames/language-configuration.json' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Groovy Server Pages/hello-resources.gsp' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/KiCad Layout/Conn_Poncho_SinBorde.kicad_mod' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Snakemake/snakemake-calling.smk' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Elixir/filenames/mix.lock' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Swift/section-61.swift' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Cirru/folding.cirru' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Ignore List/filenames/gitignore_global' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/GLSL/miss.rmiss' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/LookML/comments.view.lookml' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Julia/stockcorr.jl' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Kusto/example-create-sflogs-table.csl' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Swift/section-59.swift' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Objective-J/LightsOff.j' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/PLpgSQL/useraccount.pgsql' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Swift/section-11.swift' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Motoko/queue.mo' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Euphoria/dll.e' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Altium Designer/Sample Output Job.OutJob' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Roff/vt.3x' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/MUF/39.m' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/PostScript/lambda.pfa' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Euphoria/regex.e' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/TSX/triple-slash-reference.tsx' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/JCL/IEFBR14.jcl' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Elixir/float.ex' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/JSON with Comments/filenames/.swcrc' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/GLSL/extrude_normals.gs' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/JSON with Comments/RunBuild.sublime-macro' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/JSON with Comments/JavaDoc Add Line.sublime-macro' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Xojo/App.xojo_code' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Starlark/closure_js_binary.bzl' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/AsciiDoc/encoding.asciidoc' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Starlark/filenames/BUCK' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/HiveQL/mi.q' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/JSON with Comments/Dart.sublime-commands' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Swift/section-13.swift' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Swift/section-39.swift' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/ECL/sample.ecl' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/QMake/complex.pro' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/YAML/Ansible.YAML-tmLanguage' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/JSON with Comments/Dart.sublime-project' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Roff/roff.nr' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Readline Config/filenames/.inputrc' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Cirru/template.cirru' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Eagle/Eagle.brd' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Tcl/stream-0.1.tm' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Pyret/pyret.arr' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Roff/he.mdoc' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Csound Document/allglass.csd' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Befunge/beer7.bf' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Dogescript/example.djs' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Tcl/constraints.sdc' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Swift/section-25.swift' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/JSON with Comments/CLIPS.sublime-settings' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Swift/section-15.swift' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/PLpgSQL/plpgsql_lint-9.3.sql' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Cirru/calcit.cirru' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Scilab/scilab_script.sce' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Kusto/examples_traces.csl' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Swift/section-17.swift' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Swift/section-51.swift' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Cirru/line.cirru' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Elixir/integer.ex' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Swift/section-29.swift' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Puppet/apacheinit.pp' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Swift/section-75.swift' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/vCard/vcard.vcf' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Xojo/MainMenuBar.xojo_menu' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/RUNOFF/contributing.rnh' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/GLSL/closesthit.rchit' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Cirru/folded-beginning.cirru' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Csound Document/test.csd' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/JSON with Comments/filenames/.jscsrc' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/GLSL/SimpleLighting.gl2.frag' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Starlark/filenames/WORKSPACE.bazel' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Starlark/drone.star' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Adobe Font Metrics/OpenSansCondensed-Bold.afm' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Swift/section-47.swift' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/RUNOFF/mcp_help.rnh' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Procfile/filenames/Procfile' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Cirru/webpack.config.cirru' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/GLSL/myvertex.vrx' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Pony/circle.pony' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/sed/hanoi.sed' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/EJS/page.ejs' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Roff/refs.rno' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Swift/section-35.swift' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Singularity/filenames/Singularity' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Euphoria/animal.ex' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Elixir/regex.ex' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/JSON with Comments/AMPL.sublime-build' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Starlark/release.star' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Cirru/unfolding.cirru' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/YAML/filenames/.gemrc' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Roff/Tcl.n' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/JSON with Comments/filenames/devcontainer.json' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Swift/section-33.swift' > /results/tmp_file
+    1.02 times faster than guesslang --probabilities '/samples/Promela/ex.1.pml' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Csound Document/interp.csd' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Swift/section-81.swift' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/ObjectScript/Sample.Person.cls' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Swift/section-79.swift' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/YAML/filenames/.clang-format' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Roff/crude-hack.man' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Snakemake/filenames/Snakefile' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Swift/section-5.swift' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Cycript/utils.cy' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/RON/config.ron' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/crontab/filenames/crontab' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/LTspice Symbol/random-shapes.asy' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Charity/example.ch' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/JSON with Comments/filenames/jsconfig.json' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Visual Basic 6.0/UIListBox.ctl' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Bluespec/TL.bsv' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Promela/bare_signals.pml' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Cirru/html.cirru' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Visual Basic 6.0/clsDataPack.cls' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/YAML/229Q.yaml' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/QMake/simple.pro' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/JSON with Comments/filenames/.babelrc' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Swift/section-31.swift' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/PLpgSQL/plpgsql_lint-9.1.sql' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Cirru/demo.cirru' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/GLSL/gbuffers_textured_lit.vsh' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Swift/section-7.swift' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Kickstart/sample_end.ks' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/GLSL/shader.fp' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Portugol/medias.por' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Visual Basic 6.0/DataReport1.Dsr' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/YAML/filenames/yarn.lock' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Tcl/filenames/starfield' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/YAML/HexInspect.sublime-syntax' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Elixir/function.ex' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Promela/Supervisor.pml' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Swift/section-3.swift' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Hare/contains.ha' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Swift/section-21.swift' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Euphoria/types.e' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/PLpgSQL/plpgsql_lint-9.2.sql' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Swift/section-27.swift' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/XProc/xproc.xpl' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Roff/create_view.l' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Euphoria/csort.ex' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Cirru/parentheses.cirru' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Swift/section-49.swift' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/YAML/filenames/glide.lock' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Objective-J/AppController.j' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Snakemake/template.snakefile' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Euphoria/mydata.ex' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Roff/foo.3p' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/GLSL/islandScene.shader' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Git Config/filenames/.gitmodules' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Roff/roff.1in' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/KiCad Layout/LED-5MM.kicad_mod' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/SWIG/gauss.i' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Swift/section-65.swift' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Tcl/constraints.xdc' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/JSON with Comments/Mariana.sublime-color-scheme' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Swift/section-69.swift' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Dart/point.dart' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Cirru/indent.cirru' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/JSON with Comments/filenames/.jshintrc' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Swift/section-23.swift' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/ActionScript/HelloWorld.as' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Xojo/database.xojo_script' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/GLSL/blend_120.glslf' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Befunge/cascade.bf' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/ActionScript/FooBar.as' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Kickstart/fedora-32-live-jam-xfce-pipewire.ks' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/GLSL/SyLens.glsl' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/TXL/Cal.txl' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Swift/section-41.swift' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Tcl/xdgbasedir-0.3.tm' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Swift/section-43.swift' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/GLSL/islandScene.glsl' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Roff/switch.3m' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/GLSL/recurse1.frag' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Xojo/BillingReport.xojo_report' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Snakemake/snakemake-mapping.smk' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Euphoria/math.e' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Swift/section-37.swift' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/JSON with Comments/Tubnil.sublime-theme' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/GLSL/project.vs' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Swift/section-45.swift' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/JSON with Comments/jade.sublime-completions' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Swift/section-87.swift' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/KiCad Layout/Pin_Header_Straight_2x20.kicad_mod' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/AsciiDoc/list.asc' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Cloud Firestore Security Rules/filenames/firestore.rules' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Visual Basic 6.0/Wizard.Dsr' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Gherkin/resources.story' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/YAML/filenames/.clangd' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/GLSL/SyLens.shader' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/YAML/filenames/CITATION.cff' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Portugol/potencia_raiz.por' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Starlark/filenames/Tiltfile' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/QMake/qmake' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Roff/foo.3pm' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/JSON with Comments/filenames/.jslintrc' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/vCard/forrest-gump.vcf' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Elixir/atom.ex' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Cirru/quote.cirru' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/PostScript/xlogo.epsi' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Swift/section-67.swift' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/KiCad Layout/filenames/fp-lib-table' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Hare/iter.ha' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/KiCad Layout/MagneticBuzzer_ProSignal_ABT-410-RC.kicad_mod' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Pug/hello.jade' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Objective-J/iTunesLayout.j' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Swift/section-77.swift' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/PLpgSQL/plpgsql_lint-8.4.sql' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/YAML/source.r-console.syntax' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Befunge/befunge3.bf' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/JSON with Comments/filenames/.eslintrc.json' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Altium Designer/Sample Schematic Sheet.SchDoc' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/JSON with Comments/Default.sublime-keymap' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Xojo/Window1.xojo_window' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/JSON with Comments/filenames/tslint.json' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Promela/Session.pml' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Starlark/filenames/WORKSPACE.bzlmod' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/JCL/IEBCOPY.jcl' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Starlark/filenames/BUILD.bazel' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/CWeb/sat-life.w' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/ActionScript/NumberUtil.as' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/YAML/vcr_cassette.yml' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Hare/types.ha' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Swift/section-83.swift' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/JSON with Comments/vue.code-snippets' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Scilab/scilab_test.tst' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Euphoria/hash.ex' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Cue Sheet/sample1.cue' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/GLSL/pntriangles.tesc' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/KiCad Layout/TO-92_Molded_Narrow.kicad_mod' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Pony/mixed.pony' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Pony/gups-opt.pony' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Kusto/kusto-example-queries.csl' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/YAML/coredns.yaml.sed' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Gherkin/tables.feature' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Swift/section-53.swift' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Pony/mandelbrot.pony' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/PLpgSQL/procedures.sql' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/JSON with Comments/Context.sublime-menu' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/JSON with Comments/filenames/tsconfig.json' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Motoko/erc20.mo' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Roff/man.1m' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Clarity/pox.clar' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Adobe Font Metrics/SpecialElite.afm' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/WGSL/animate_shader.wgsl' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Promela/attacker_4_FINITE.pml' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Clarity/cost-voting.clar' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Starlark/filenames/BUILD' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Swift/section-9.swift' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Cue Sheet/sample2.cue' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Starlark/filenames/MODULE.bazel' > /results/tmp_file
+    1.03 times faster than guesslang --probabilities '/samples/Swift/section-71.swift' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Visual Basic 6.0/cApplication.cls' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Swift/section-55.swift' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Tcl/init.tcl.in' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/YAML/expected-floating-point-literal.mir' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Promela/Thread.pml' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Pug/hello.pug' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/SCSS/screen.scss' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Julia/julia' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Pony/counter.pony' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/FreeMarker/layout.ftl' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Lean 4/BirthdayProblem.lean' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Roff/fsinterface.ms' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Visual Basic 6.0/Module2.bas' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Visual Basic 6.0/modFrm.bas' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Kusto/application_consent_or_assignment.kql' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/RUNOFF/longlib.rno' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Euphoria/debug.e' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/QMake/functions.pri' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/CWeb/mpmathdouble.w' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/XC/main.xc' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/FreeMarker/example.ftl' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Kickstart/mysql.ks' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Tcl/filenames/owh' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/HiveQL/query.hql' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Roff/dsw.1x' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Record Jar/filenames/language-subtag-registry.txt' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/RUNOFF/VMS_ZIP.RNH' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Swift/section-85.swift' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/GCC Machine Description/pdp10.md' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Roff/printf.3in' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Altium Designer/Sample Board Design.PcbDoc' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Euphoria/allsorts.ex' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Scilab/scilab_function.sci' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/YAML/filenames/.clang-tidy' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Promela/TCP.pml' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Starlark/filenames/WORKSPACE' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/PLpgSQL/plpgsql_lint-9.0.sql' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/YAML/database.yml.mysql' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Swift/section-73.swift' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Swift/section-19.swift' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Clarity/bns.clar' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Cirru/comma.cirru' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/AsciiDoc/sample.adoc' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/KiCad Legacy Layout/tc14badge.brd' > /results/tmp_file
+    1.04 times faster than guesslang --probabilities '/samples/Bluespec/TbTL.bsv' > /results/tmp_file
+    1.05 times faster than guesslang --probabilities '/samples/GLSL/myfragment.frg' > /results/tmp_file
+    1.05 times faster than guesslang --probabilities '/samples/Redirect Rules/filenames/_redirects' > /results/tmp_file
+    1.05 times faster than guesslang --probabilities '/samples/GLSL/main.vs' > /results/tmp_file
+    1.05 times faster than guesslang --probabilities '/samples/ActionScript/TextFieldUtil.as' > /results/tmp_file
+    1.05 times faster than guesslang --probabilities '/samples/OASv3-json/ghes-3.4.json' > /results/tmp_file
+    1.05 times faster than guesslang --probabilities '/samples/Oz/example.oz' > /results/tmp_file
+    1.05 times faster than guesslang --probabilities '/samples/Visual Basic 6.0/clsMenuImage.cls' > /results/tmp_file
+    1.05 times faster than guesslang --probabilities '/samples/Befunge/mycorand.bf' > /results/tmp_file
+    1.05 times faster than guesslang --probabilities '/samples/Pony/hello-world.pony' > /results/tmp_file
+    1.05 times faster than guesslang --probabilities '/samples/Roff/qsort.3qt' > /results/tmp_file
+    1.05 times faster than guesslang --probabilities '/samples/GLSL/recurse1.fs' > /results/tmp_file
+    1.05 times faster than guesslang --probabilities '/samples/Altium Designer/Sample Altium Project.PrjPcb' > /results/tmp_file
+    1.05 times faster than guesslang --probabilities '/samples/Visual Basic 6.0/Adjustments_BlackAndWhite.frm' > /results/tmp_file
+    1.05 times faster than guesslang --probabilities '/samples/Swift/section-63.swift' > /results/tmp_file
+    1.05 times faster than guesslang --probabilities '/samples/Visual Basic 6.0/frmProcMan.frm' > /results/tmp_file
+    1.05 times faster than guesslang --probabilities '/samples/TSX/react-native.tsx' > /results/tmp_file
+    1.06 times faster than guesslang --probabilities '/samples/Eagle/Eagle.sch' > /results/tmp_file
+    1.06 times faster than guesslang --probabilities '/samples/JSON with Comments/coc.jsonc' > /results/tmp_file
+    1.07 times faster than guesslang --probabilities '/samples/Roff/an-ext.tmac' > /results/tmp_file
+    1.09 times faster than guesslang --probabilities '/samples/Adobe Font Metrics/lambda.afm' > /results/tmp_file
+    1.09 times faster than guesslang --probabilities '/samples/GLSL/pntriangles.tese' > /results/tmp_file
+    1.10 times faster than guesslang --probabilities '/samples/YAML/filenames/pixi.lock' > /results/tmp_file
+    1.12 times faster than guesslang --probabilities '/samples/GLSL/gbuffers_textured_lit.fsh' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/hyperfine-results_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/hyperfine-results_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted
+mv: failed to preserve ownership for 'mnt/benchmark_results/guesslang_2025-07JUL-30_17h16m41s--UTC/tool-output_2025-07JUL-30_17h16m41s--UTC.json': Operation not permitted

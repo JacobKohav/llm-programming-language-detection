@@ -1,0 +1,3407 @@
+{
+  "results": [
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/IGOR Pro/functions.ipf' > /results/tmp_file",
+      "mean": 63.914336822,
+      "stddev": null,
+      "median": 63.914336822,
+      "user": 75.2788694,
+      "system": 36.71682498,
+      "min": 63.914336822,
+      "max": 63.914336822,
+      "times": [
+        63.914336822
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/IGOR Pro/functions.ipf"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/IGOR Pro/CodeBrowser.ipf' > /results/tmp_file",
+      "mean": 15.4378174,
+      "stddev": null,
+      "median": 15.4378174,
+      "user": 70.8339864,
+      "system": 7.63739098,
+      "min": 15.4378174,
+      "max": 15.4378174,
+      "times": [
+        15.4378174
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/IGOR Pro/CodeBrowser.ipf"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/IGOR Pro/generic.ipf' > /results/tmp_file",
+      "mean": 20.789653919,
+      "stddev": null,
+      "median": 20.789653919,
+      "user": 59.4256394,
+      "system": 7.73255098,
+      "min": 20.789653919,
+      "max": 20.789653919,
+      "times": [
+        20.789653919
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/IGOR Pro/generic.ipf"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/CWeb/sat-life.w' > /results/tmp_file",
+      "mean": 14.65143753,
+      "stddev": null,
+      "median": 14.65143753,
+      "user": 54.942037400000004,
+      "system": 6.5835279799999995,
+      "min": 14.65143753,
+      "max": 14.65143753,
+      "times": [
+        14.65143753
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/CWeb/sat-life.w"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/CWeb/mpmathdouble.w' > /results/tmp_file",
+      "mean": 15.39258605,
+      "stddev": null,
+      "median": 15.39258605,
+      "user": 54.9695844,
+      "system": 6.49198998,
+      "min": 15.39258605,
+      "max": 15.39258605,
+      "times": [
+        15.39258605
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/CWeb/mpmathdouble.w"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/CoNLL-U/ug-ud-test-abridged.conllu' > /results/tmp_file",
+      "mean": 14.573330263,
+      "stddev": null,
+      "median": 14.573330263,
+      "user": 49.5351954,
+      "system": 6.9116719799999995,
+      "min": 14.573330263,
+      "max": 14.573330263,
+      "times": [
+        14.573330263
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/CoNLL-U/ug-ud-test-abridged.conllu"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/CoNLL-U/en-ud-test-abridged.conllu' > /results/tmp_file",
+      "mean": 15.041566041,
+      "stddev": null,
+      "median": 15.041566041,
+      "user": 53.7375054,
+      "system": 5.43178398,
+      "min": 15.041566041,
+      "max": 15.041566041,
+      "times": [
+        15.041566041
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/CoNLL-U/en-ud-test-abridged.conllu"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/CoNLL-U/CF1.conllu' > /results/tmp_file",
+      "mean": 15.019741989,
+      "stddev": null,
+      "median": 15.019741989,
+      "user": 54.7541544,
+      "system": 7.43092798,
+      "min": 15.019741989,
+      "max": 15.019741989,
+      "times": [
+        15.019741989
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/CoNLL-U/CF1.conllu"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Earthly/filenames/Earthfile' > /results/tmp_file",
+      "mean": 14.530526821,
+      "stddev": null,
+      "median": 14.530526821,
+      "user": 53.6362774,
+      "system": 6.52704998,
+      "min": 14.530526821,
+      "max": 14.530526821,
+      "times": [
+        14.530526821
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Earthly/filenames/Earthfile"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Nemerle/hello.n' > /results/tmp_file",
+      "mean": 13.515580866,
+      "stddev": null,
+      "median": 13.515580866,
+      "user": 50.0630514,
+      "system": 7.02150098,
+      "min": 13.515580866,
+      "max": 13.515580866,
+      "times": [
+        13.515580866
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Nemerle/hello.n"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/adapting_structural_model.m' > /results/tmp_file",
+      "mean": 16.001162489,
+      "stddev": null,
+      "median": 16.001162489,
+      "user": 56.5532134,
+      "system": 7.68116098,
+      "min": 16.001162489,
+      "max": 16.001162489,
+      "times": [
+        16.001162489
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/adapting_structural_model.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/fit_adapt_linear.m' > /results/tmp_file",
+      "mean": 22.053585859,
+      "stddev": null,
+      "median": 22.053585859,
+      "user": 61.6226184,
+      "system": 7.73043798,
+      "min": 22.053585859,
+      "max": 22.053585859,
+      "times": [
+        22.053585859
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/fit_adapt_linear.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/gpu_RKF45_FILE.m' > /results/tmp_file",
+      "mean": 18.554761449999997,
+      "stddev": null,
+      "median": 18.554761449999997,
+      "user": 60.1321304,
+      "system": 8.578872979999998,
+      "min": 18.554761449999997,
+      "max": 18.554761449999997,
+      "times": [
+        18.554761449999997
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/gpu_RKF45_FILE.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/FTLEH.m' > /results/tmp_file",
+      "mean": 18.796380898,
+      "stddev": null,
+      "median": 18.796380898,
+      "user": 53.489762400000004,
+      "system": 7.84727998,
+      "min": 18.796380898,
+      "max": 18.796380898,
+      "times": [
+        18.796380898
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/FTLEH.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/test_rk_par.m' > /results/tmp_file",
+      "mean": 16.495573853,
+      "stddev": null,
+      "median": 16.495573853,
+      "user": 52.4114594,
+      "system": 6.28286098,
+      "min": 16.495573853,
+      "max": 16.495573853,
+      "times": [
+        16.495573853
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/test_rk_par.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/make_filter.m' > /results/tmp_file",
+      "mean": 14.452638221,
+      "stddev": null,
+      "median": 14.452638221,
+      "user": 51.8774144,
+      "system": 6.44425298,
+      "min": 14.452638221,
+      "max": 14.452638221,
+      "times": [
+        14.452638221
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/make_filter.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/example.m' > /results/tmp_file",
+      "mean": 16.288670343,
+      "stddev": null,
+      "median": 16.288670343,
+      "user": 54.2366444,
+      "system": 7.97663998,
+      "min": 16.288670343,
+      "max": 16.288670343,
+      "times": [
+        16.288670343
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/example.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/distance.m' > /results/tmp_file",
+      "mean": 14.307275434000001,
+      "stddev": null,
+      "median": 14.307275434000001,
+      "user": 51.1085254,
+      "system": 7.31343898,
+      "min": 14.307275434000001,
+      "max": 14.307275434000001,
+      "times": [
+        14.307275434000001
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/distance.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/Poincare.m' > /results/tmp_file",
+      "mean": 13.782053107,
+      "stddev": null,
+      "median": 13.782053107,
+      "user": 52.8867124,
+      "system": 6.93119398,
+      "min": 13.782053107,
+      "max": 13.782053107,
+      "times": [
+        13.782053107
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/Poincare.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/matlab_script.m' > /results/tmp_file",
+      "mean": 14.323510061,
+      "stddev": null,
+      "median": 14.323510061,
+      "user": 52.659695400000004,
+      "system": 7.93975498,
+      "min": 14.323510061,
+      "max": 14.323510061,
+      "times": [
+        14.323510061
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/matlab_script.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/Traj.m' > /results/tmp_file",
+      "mean": 16.188487715999997,
+      "stddev": null,
+      "median": 16.188487715999997,
+      "user": 55.362094400000004,
+      "system": 6.49258198,
+      "min": 16.188487715999997,
+      "max": 16.188487715999997,
+      "times": [
+        16.188487715999997
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/Traj.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/varargin_to_structure.m' > /results/tmp_file",
+      "mean": 14.006408,
+      "stddev": null,
+      "median": 14.006408,
+      "user": 54.1316314,
+      "system": 7.57622298,
+      "min": 14.006408,
+      "max": 14.006408,
+      "times": [
+        14.006408
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/varargin_to_structure.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/par_text_to_struct.m' > /results/tmp_file",
+      "mean": 16.110144091,
+      "stddev": null,
+      "median": 16.110144091,
+      "user": 56.053351400000004,
+      "system": 8.029481979999998,
+      "min": 16.110144091,
+      "max": 16.110144091,
+      "times": [
+        16.110144091
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/par_text_to_struct.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/create_ieee_paper_plots.m' > /results/tmp_file",
+      "mean": 15.587316087,
+      "stddev": null,
+      "median": 15.587316087,
+      "user": 54.8036064,
+      "system": 7.50978598,
+      "min": 15.587316087,
+      "max": 15.587316087,
+      "times": [
+        15.587316087
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/create_ieee_paper_plots.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/convert_variable.m' > /results/tmp_file",
+      "mean": 19.660176610999997,
+      "stddev": null,
+      "median": 19.660176610999997,
+      "user": 64.9629674,
+      "system": 7.33215298,
+      "min": 19.660176610999997,
+      "max": 19.660176610999997,
+      "times": [
+        19.660176610999997
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/convert_variable.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/FTLE_reg.m' > /results/tmp_file",
+      "mean": 14.924726872,
+      "stddev": null,
+      "median": 14.924726872,
+      "user": 58.0853804,
+      "system": 7.752040979999999,
+      "min": 14.924726872,
+      "max": 14.924726872,
+      "times": [
+        14.924726872
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/FTLE_reg.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/matlab_class.m' > /results/tmp_file",
+      "mean": 14.350868669,
+      "stddev": null,
+      "median": 14.350868669,
+      "user": 54.1665634,
+      "system": 6.34518498,
+      "min": 14.350868669,
+      "max": 14.350868669,
+      "times": [
+        14.350868669
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/matlab_class.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/RK4.m' > /results/tmp_file",
+      "mean": 18.692957627,
+      "stddev": null,
+      "median": 18.692957627,
+      "user": 67.9859934,
+      "system": 7.32120298,
+      "min": 18.692957627,
+      "max": 18.692957627,
+      "times": [
+        18.692957627
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/RK4.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/Lagrangian_points.m' > /results/tmp_file",
+      "mean": 15.249301662,
+      "stddev": null,
+      "median": 15.249301662,
+      "user": 51.9509714,
+      "system": 7.6361279799999995,
+      "min": 15.249301662,
+      "max": 15.249301662,
+      "times": [
+        15.249301662
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/Lagrangian_points.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/ieee.m' > /results/tmp_file",
+      "mean": 16.545428676999997,
+      "stddev": null,
+      "median": 16.545428676999997,
+      "user": 56.9037034,
+      "system": 7.97873598,
+      "min": 16.545428676999997,
+      "max": 16.545428676999997,
+      "times": [
+        16.545428676999997
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/ieee.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/double_gyre.m' > /results/tmp_file",
+      "mean": 14.473370419,
+      "stddev": null,
+      "median": 14.473370419,
+      "user": 49.2953494,
+      "system": 7.20603798,
+      "min": 14.473370419,
+      "max": 14.473370419,
+      "times": [
+        14.473370419
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/double_gyre.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/lane_change.m' > /results/tmp_file",
+      "mean": 15.518103667,
+      "stddev": null,
+      "median": 15.518103667,
+      "user": 54.8919274,
+      "system": 7.3886059799999995,
+      "min": 15.518103667,
+      "max": 15.518103667,
+      "times": [
+        15.518103667
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/lane_change.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/matlab_function.m' > /results/tmp_file",
+      "mean": 15.830290793,
+      "stddev": null,
+      "median": 15.830290793,
+      "user": 50.9056444,
+      "system": 6.48823498,
+      "min": 15.830290793,
+      "max": 15.830290793,
+      "times": [
+        15.830290793
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/matlab_function.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/normalize.m' > /results/tmp_file",
+      "mean": 16.964588648,
+      "stddev": null,
+      "median": 16.964588648,
+      "user": 55.673730400000004,
+      "system": 7.33043598,
+      "min": 16.964588648,
+      "max": 16.964588648,
+      "times": [
+        16.964588648
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/normalize.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/load_bikes.m' > /results/tmp_file",
+      "mean": 15.755692308,
+      "stddev": null,
+      "median": 15.755692308,
+      "user": 56.0567514,
+      "system": 7.79820598,
+      "min": 15.755692308,
+      "max": 15.755692308,
+      "times": [
+        15.755692308
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/load_bikes.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/Check_plot.m' > /results/tmp_file",
+      "mean": 13.611114755000001,
+      "stddev": null,
+      "median": 13.611114755000001,
+      "user": 56.4533894,
+      "system": 6.88484498,
+      "min": 13.611114755000001,
+      "max": 13.611114755000001,
+      "times": [
+        13.611114755000001
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/Check_plot.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/overwrite_settings.m' > /results/tmp_file",
+      "mean": 14.213834531,
+      "stddev": null,
+      "median": 14.213834531,
+      "user": 50.9436254,
+      "system": 6.76066098,
+      "min": 14.213834531,
+      "max": 14.213834531,
+      "times": [
+        14.213834531
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/overwrite_settings.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/plant.m' > /results/tmp_file",
+      "mean": 18.016653269,
+      "stddev": null,
+      "median": 18.016653269,
+      "user": 59.5082914,
+      "system": 7.43065498,
+      "min": 18.016653269,
+      "max": 18.016653269,
+      "times": [
+        18.016653269
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/plant.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/Integrate1.m' > /results/tmp_file",
+      "mean": 14.708459501,
+      "stddev": null,
+      "median": 14.708459501,
+      "user": 62.1862084,
+      "system": 7.1057739799999995,
+      "min": 14.708459501,
+      "max": 14.708459501,
+      "times": [
+        14.708459501
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/Integrate1.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/cross_validation.m' > /results/tmp_file",
+      "mean": 15.228903329,
+      "stddev": null,
+      "median": 15.228903329,
+      "user": 56.4823904,
+      "system": 7.57345298,
+      "min": 15.228903329,
+      "max": 15.228903329,
+      "times": [
+        15.228903329
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/cross_validation.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/Integrate2.m' > /results/tmp_file",
+      "mean": 14.558127648000001,
+      "stddev": null,
+      "median": 14.558127648000001,
+      "user": 52.7884194,
+      "system": 6.57870598,
+      "min": 14.558127648000001,
+      "max": 14.558127648000001,
+      "times": [
+        14.558127648000001
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/Integrate2.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/test_system_state_space.m' > /results/tmp_file",
+      "mean": 14.874291628,
+      "stddev": null,
+      "median": 14.874291628,
+      "user": 53.3715424,
+      "system": 6.5514139799999995,
+      "min": 14.874291628,
+      "max": 14.874291628,
+      "times": [
+        14.874291628
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/test_system_state_space.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/load_data.m' > /results/tmp_file",
+      "mean": 15.098267633,
+      "stddev": null,
+      "median": 15.098267633,
+      "user": 54.7778844,
+      "system": 8.406104979999999,
+      "min": 15.098267633,
+      "max": 15.098267633,
+      "times": [
+        15.098267633
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/load_data.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/bicycle_state_space.m' > /results/tmp_file",
+      "mean": 14.563148787,
+      "stddev": null,
+      "median": 14.563148787,
+      "user": 54.5044854,
+      "system": 6.2091699799999995,
+      "min": 14.563148787,
+      "max": 14.563148787,
+      "times": [
+        14.563148787
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/bicycle_state_space.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/write_gains.m' > /results/tmp_file",
+      "mean": 17.598818585,
+      "stddev": null,
+      "median": 17.598818585,
+      "user": 54.7473624,
+      "system": 8.313437979999998,
+      "min": 17.598818585,
+      "max": 17.598818585,
+      "times": [
+        17.598818585
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/write_gains.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/fit_adapt.m' > /results/tmp_file",
+      "mean": 15.219991469,
+      "stddev": null,
+      "median": 15.219991469,
+      "user": 53.6549854,
+      "system": 6.85390698,
+      "min": 15.219991469,
+      "max": 15.219991469,
+      "times": [
+        15.219991469
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/fit_adapt.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/Lagr.m' > /results/tmp_file",
+      "mean": 14.846839436,
+      "stddev": null,
+      "median": 14.846839436,
+      "user": 55.1668984,
+      "system": 6.85413898,
+      "min": 14.846839436,
+      "max": 14.846839436,
+      "times": [
+        14.846839436
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/Lagr.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/matlab_script2.m' > /results/tmp_file",
+      "mean": 14.552785445,
+      "stddev": null,
+      "median": 14.552785445,
+      "user": 51.6163244,
+      "system": 7.13584298,
+      "min": 14.552785445,
+      "max": 14.552785445,
+      "times": [
+        14.552785445
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/matlab_script2.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/average.m' > /results/tmp_file",
+      "mean": 14.331194631,
+      "stddev": null,
+      "median": 14.331194631,
+      "user": 54.9316644,
+      "system": 6.11644398,
+      "min": 14.331194631,
+      "max": 14.331194631,
+      "times": [
+        14.331194631
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/MATLAB/average.m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Cairo Zero/safemath.cairo' > /results/tmp_file",
+      "mean": 15.175538047,
+      "stddev": null,
+      "median": 15.175538047,
+      "user": 53.4631944,
+      "system": 6.16034098,
+      "min": 15.175538047,
+      "max": 15.175538047,
+      "times": [
+        15.175538047
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Cairo Zero/safemath.cairo"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Cairo Zero/concat_arr.cairo' > /results/tmp_file",
+      "mean": 14.272073818,
+      "stddev": null,
+      "median": 14.272073818,
+      "user": 54.3184944,
+      "system": 7.6654969799999995,
+      "min": 14.272073818,
+      "max": 14.272073818,
+      "times": [
+        14.272073818
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Cairo Zero/concat_arr.cairo"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Cairo Zero/sha256.cairo' > /results/tmp_file",
+      "mean": 14.923303433000001,
+      "stddev": null,
+      "median": 14.923303433000001,
+      "user": 53.6776484,
+      "system": 7.43714298,
+      "min": 14.923303433000001,
+      "max": 14.923303433000001,
+      "times": [
+        14.923303433000001
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Cairo Zero/sha256.cairo"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Cairo Zero/casm.cairo' > /results/tmp_file",
+      "mean": 14.599152088,
+      "stddev": null,
+      "median": 14.599152088,
+      "user": 50.8466924,
+      "system": 5.93880098,
+      "min": 14.599152088,
+      "max": 14.599152088,
+      "times": [
+        14.599152088
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Cairo Zero/casm.cairo"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Cairo Zero/contract.cairo' > /results/tmp_file",
+      "mean": 16.938157179999997,
+      "stddev": null,
+      "median": 16.938157179999997,
+      "user": 57.8144754,
+      "system": 7.26480898,
+      "min": 16.938157179999997,
+      "max": 16.938157179999997,
+      "times": [
+        16.938157179999997
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Cairo Zero/contract.cairo"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/V/news_fetcher.v' > /results/tmp_file",
+      "mean": 17.442228981,
+      "stddev": null,
+      "median": 17.442228981,
+      "user": 59.8357964,
+      "system": 6.39364298,
+      "min": 17.442228981,
+      "max": 17.442228981,
+      "times": [
+        17.442228981
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/V/news_fetcher.v"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/V/links_scraper.v' > /results/tmp_file",
+      "mean": 16.342234394,
+      "stddev": null,
+      "median": 16.342234394,
+      "user": 59.4850784,
+      "system": 8.200033979999999,
+      "min": 16.342234394,
+      "max": 16.342234394,
+      "times": [
+        16.342234394
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/V/links_scraper.v"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/V/terminal_control.v' > /results/tmp_file",
+      "mean": 13.697134975,
+      "stddev": null,
+      "median": 13.697134975,
+      "user": 55.2270814,
+      "system": 6.41975998,
+      "min": 13.697134975,
+      "max": 13.697134975,
+      "times": [
+        13.697134975
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/V/terminal_control.v"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/V/nbody.v' > /results/tmp_file",
+      "mean": 16.271886953,
+      "stddev": null,
+      "median": 16.271886953,
+      "user": 53.5249864,
+      "system": 6.87994998,
+      "min": 16.271886953,
+      "max": 16.271886953,
+      "times": [
+        16.271886953
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/V/nbody.v"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/V/spectral.v' > /results/tmp_file",
+      "mean": 14.605858017000001,
+      "stddev": null,
+      "median": 14.605858017000001,
+      "user": 54.0619624,
+      "system": 6.4310589799999995,
+      "min": 14.605858017000001,
+      "max": 14.605858017000001,
+      "times": [
+        14.605858017000001
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/V/spectral.v"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/V/rune.v' > /results/tmp_file",
+      "mean": 14.155400139,
+      "stddev": null,
+      "median": 14.155400139,
+      "user": 50.012113400000004,
+      "system": 5.2636189799999995,
+      "min": 14.155400139,
+      "max": 14.155400139,
+      "times": [
+        14.155400139
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/V/rune.v"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/V/json.v' > /results/tmp_file",
+      "mean": 14.614486185,
+      "stddev": null,
+      "median": 14.614486185,
+      "user": 53.6265404,
+      "system": 8.164703979999999,
+      "min": 14.614486185,
+      "max": 14.614486185,
+      "times": [
+        14.614486185
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/V/json.v"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/V/log.v' > /results/tmp_file",
+      "mean": 16.346138785999997,
+      "stddev": null,
+      "median": 16.346138785999997,
+      "user": 71.0381174,
+      "system": 7.08503098,
+      "min": 16.346138785999997,
+      "max": 16.346138785999997,
+      "times": [
+        16.346138785999997
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/V/log.v"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/V/loop.v' > /results/tmp_file",
+      "mean": 15.7076482,
+      "stddev": null,
+      "median": 15.7076482,
+      "user": 59.8711054,
+      "system": 6.91508598,
+      "min": 15.7076482,
+      "max": 15.7076482,
+      "times": [
+        15.7076482
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/V/loop.v"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Parrot Internal Representation/hello.pir' > /results/tmp_file",
+      "mean": 13.520351645,
+      "stddev": null,
+      "median": 13.520351645,
+      "user": 54.5841514,
+      "system": 6.57404198,
+      "min": 13.520351645,
+      "max": 13.520351645,
+      "times": [
+        13.520351645
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Parrot Internal Representation/hello.pir"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/M4/htmlgen.m4' > /results/tmp_file",
+      "mean": 15.446316079,
+      "stddev": null,
+      "median": 15.446316079,
+      "user": 53.8476684,
+      "system": 7.71443498,
+      "min": 15.446316079,
+      "max": 15.446316079,
+      "times": [
+        15.446316079
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/M4/htmlgen.m4"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/M4/fibo.m4' > /results/tmp_file",
+      "mean": 17.433066693999997,
+      "stddev": null,
+      "median": 17.433066693999997,
+      "user": 58.1218504,
+      "system": 8.52539798,
+      "min": 17.433066693999997,
+      "max": 17.433066693999997,
+      "times": [
+        17.433066693999997
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/M4/fibo.m4"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/M4/sendmail.mc' > /results/tmp_file",
+      "mean": 14.567640766,
+      "stddev": null,
+      "median": 14.567640766,
+      "user": 56.5047254,
+      "system": 6.42032298,
+      "min": 14.567640766,
+      "max": 14.567640766,
+      "times": [
+        14.567640766
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/M4/sendmail.mc"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/M4/postscript.m4' > /results/tmp_file",
+      "mean": 15.894981384,
+      "stddev": null,
+      "median": 15.894981384,
+      "user": 57.1508054,
+      "system": 7.49744498,
+      "min": 15.894981384,
+      "max": 15.894981384,
+      "times": [
+        15.894981384
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/M4/postscript.m4"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/M4/translit2.m4' > /results/tmp_file",
+      "mean": 15.409657576,
+      "stddev": null,
+      "median": 15.409657576,
+      "user": 50.3122154,
+      "system": 7.79703798,
+      "min": 15.409657576,
+      "max": 15.409657576,
+      "times": [
+        15.409657576
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/M4/translit2.m4"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/omnetpp-msg/TcpConnectionState.msg' > /results/tmp_file",
+      "mean": 15.078874023000001,
+      "stddev": null,
+      "median": 15.078874023000001,
+      "user": 53.5245404,
+      "system": 6.09079198,
+      "min": 15.078874023000001,
+      "max": 15.078874023000001,
+      "times": [
+        15.078874023000001
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/omnetpp-msg/TcpConnectionState.msg"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/omnetpp-msg/TcpConnection.msg' > /results/tmp_file",
+      "mean": 16.430563318999997,
+      "stddev": null,
+      "median": 16.430563318999997,
+      "user": 59.1945444,
+      "system": 7.72832498,
+      "min": 16.430563318999997,
+      "max": 16.430563318999997,
+      "times": [
+        16.430563318999997
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/omnetpp-msg/TcpConnection.msg"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/omnetpp-msg/GptpPacket.msg' > /results/tmp_file",
+      "mean": 17.619975758,
+      "stddev": null,
+      "median": 17.619975758,
+      "user": 59.3188344,
+      "system": 6.71631698,
+      "min": 17.619975758,
+      "max": 17.619975758,
+      "times": [
+        17.619975758
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/omnetpp-msg/GptpPacket.msg"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/mcsst_1.ncl' > /results/tmp_file",
+      "mean": 17.664311397,
+      "stddev": null,
+      "median": 17.664311397,
+      "user": 55.5248484,
+      "system": 7.3693589799999994,
+      "min": 17.664311397,
+      "max": 17.664311397,
+      "times": [
+        17.664311397
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/NCL/mcsst_1.ncl"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/PrnOscPat_driver.ncl' > /results/tmp_file",
+      "mean": 14.564397903,
+      "stddev": null,
+      "median": 14.564397903,
+      "user": 54.2931334,
+      "system": 6.86472298,
+      "min": 14.564397903,
+      "max": 14.564397903,
+      "times": [
+        14.564397903
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/NCL/PrnOscPat_driver.ncl"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/primero.ncl' > /results/tmp_file",
+      "mean": 14.312336827,
+      "stddev": null,
+      "median": 14.312336827,
+      "user": 49.7885114,
+      "system": 7.06808298,
+      "min": 14.312336827,
+      "max": 14.312336827,
+      "times": [
+        14.312336827
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/NCL/primero.ncl"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/WRF_static_2.ncl' > /results/tmp_file",
+      "mean": 17.603683349999997,
+      "stddev": null,
+      "median": 17.603683349999997,
+      "user": 58.8028994,
+      "system": 7.71461698,
+      "min": 17.603683349999997,
+      "max": 17.603683349999997,
+      "times": [
+        17.603683349999997
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/NCL/WRF_static_2.ncl"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/gsn_csm_xy2_time_series_inputs.ncl' > /results/tmp_file",
+      "mean": 16.161589746999997,
+      "stddev": null,
+      "median": 16.161589746999997,
+      "user": 56.2349934,
+      "system": 7.60830798,
+      "min": 16.161589746999997,
+      "max": 16.161589746999997,
+      "times": [
+        16.161589746999997
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/NCL/gsn_csm_xy2_time_series_inputs.ncl"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/tsdiagram_1.ncl' > /results/tmp_file",
+      "mean": 15.212443479000001,
+      "stddev": null,
+      "median": 15.212443479000001,
+      "user": 54.0928204,
+      "system": 7.0529829799999995,
+      "min": 15.212443479000001,
+      "max": 15.212443479000001,
+      "times": [
+        15.212443479000001
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/NCL/tsdiagram_1.ncl"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/viewport_4.ncl' > /results/tmp_file",
+      "mean": 16.244273086,
+      "stddev": null,
+      "median": 16.244273086,
+      "user": 56.0397524,
+      "system": 7.24954698,
+      "min": 16.244273086,
+      "max": 16.244273086,
+      "times": [
+        16.244273086
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/NCL/viewport_4.ncl"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/weather_sym_6.ncl' > /results/tmp_file",
+      "mean": 14.460187955,
+      "stddev": null,
+      "median": 14.460187955,
+      "user": 54.6891164,
+      "system": 7.19479898,
+      "min": 14.460187955,
+      "max": 14.460187955,
+      "times": [
+        14.460187955
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/NCL/weather_sym_6.ncl"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/traj_3.ncl' > /results/tmp_file",
+      "mean": 15.247840494,
+      "stddev": null,
+      "median": 15.247840494,
+      "user": 50.6960164,
+      "system": 6.62902198,
+      "min": 15.247840494,
+      "max": 15.247840494,
+      "times": [
+        15.247840494
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/NCL/traj_3.ncl"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/xy_29.ncl' > /results/tmp_file",
+      "mean": 14.644974316,
+      "stddev": null,
+      "median": 14.644974316,
+      "user": 54.6676364,
+      "system": 6.29650098,
+      "min": 14.644974316,
+      "max": 14.644974316,
+      "times": [
+        14.644974316
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/NCL/xy_29.ncl"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/mask_12.ncl' > /results/tmp_file",
+      "mean": 14.660926059,
+      "stddev": null,
+      "median": 14.660926059,
+      "user": 52.2592804,
+      "system": 7.1225869799999995,
+      "min": 14.660926059,
+      "max": 14.660926059,
+      "times": [
+        14.660926059
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/NCL/mask_12.ncl"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/cru_8.ncl' > /results/tmp_file",
+      "mean": 14.94660007,
+      "stddev": null,
+      "median": 14.94660007,
+      "user": 58.1646584,
+      "system": 8.53252798,
+      "min": 14.94660007,
+      "max": 14.94660007,
+      "times": [
+        14.94660007
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/NCL/cru_8.ncl"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/hdf4sds_7.ncl' > /results/tmp_file",
+      "mean": 14.442337719,
+      "stddev": null,
+      "median": 14.442337719,
+      "user": 52.3537994,
+      "system": 7.88906598,
+      "min": 14.442337719,
+      "max": 14.442337719,
+      "times": [
+        14.442337719
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/NCL/hdf4sds_7.ncl"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/topo_9.ncl' > /results/tmp_file",
+      "mean": 14.786179970000001,
+      "stddev": null,
+      "median": 14.786179970000001,
+      "user": 54.415363400000004,
+      "system": 8.251195979999999,
+      "min": 14.786179970000001,
+      "max": 14.786179970000001,
+      "times": [
+        14.786179970000001
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/NCL/topo_9.ncl"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/WRF_track_1.ncl' > /results/tmp_file",
+      "mean": 15.043565486,
+      "stddev": null,
+      "median": 15.043565486,
+      "user": 57.7561654,
+      "system": 7.73790098,
+      "min": 15.043565486,
+      "max": 15.043565486,
+      "times": [
+        15.043565486
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/NCL/WRF_track_1.ncl"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/unique_9.ncl' > /results/tmp_file",
+      "mean": 14.657953984,
+      "stddev": null,
+      "median": 14.657953984,
+      "user": 54.9564974,
+      "system": 5.6696019799999995,
+      "min": 14.657953984,
+      "max": 14.657953984,
+      "times": [
+        14.657953984
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/NCL/unique_9.ncl"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/YASnippet/stdin.yasnippet' > /results/tmp_file",
+      "mean": 14.295934723,
+      "stddev": null,
+      "median": 14.295934723,
+      "user": 55.7169134,
+      "system": 6.63930798,
+      "min": 14.295934723,
+      "max": 14.295934723,
+      "times": [
+        14.295934723
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/YASnippet/stdin.yasnippet"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/YASnippet/font-face.yasnippet' > /results/tmp_file",
+      "mean": 14.944264707,
+      "stddev": null,
+      "median": 14.944264707,
+      "user": 53.5554094,
+      "system": 8.190961979999999,
+      "min": 14.944264707,
+      "max": 14.944264707,
+      "times": [
+        14.944264707
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/YASnippet/font-face.yasnippet"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Standard ML/Foo.ML' > /results/tmp_file",
+      "mean": 17.895457726,
+      "stddev": null,
+      "median": 17.895457726,
+      "user": 61.2191614,
+      "system": 7.46535398,
+      "min": 17.895457726,
+      "max": 17.895457726,
+      "times": [
+        17.895457726
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Standard ML/Foo.ML"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Standard ML/Foo.sml' > /results/tmp_file",
+      "mean": 14.682564691,
+      "stddev": null,
+      "median": 14.682564691,
+      "user": 53.7579914,
+      "system": 7.38119898,
+      "min": 14.682564691,
+      "max": 14.682564691,
+      "times": [
+        14.682564691
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Standard ML/Foo.sml"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Standard ML/Foo.sig' > /results/tmp_file",
+      "mean": 15.441965278,
+      "stddev": null,
+      "median": 15.441965278,
+      "user": 60.4869984,
+      "system": 7.35586998,
+      "min": 15.441965278,
+      "max": 15.441965278,
+      "times": [
+        15.441965278
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Standard ML/Foo.sig"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Standard ML/main.fun' > /results/tmp_file",
+      "mean": 15.727640444,
+      "stddev": null,
+      "median": 15.727640444,
+      "user": 59.2313164,
+      "system": 8.254509979999998,
+      "min": 15.727640444,
+      "max": 15.727640444,
+      "times": [
+        15.727640444
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Standard ML/main.fun"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Standard ML/RedBlackTree.fun' > /results/tmp_file",
+      "mean": 15.163369451,
+      "stddev": null,
+      "median": 15.163369451,
+      "user": 59.7540144,
+      "system": 7.69732198,
+      "min": 15.163369451,
+      "max": 15.163369451,
+      "times": [
+        15.163369451
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Standard ML/RedBlackTree.fun"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/AMPL/toy.ampl' > /results/tmp_file",
+      "mean": 13.988452255,
+      "stddev": null,
+      "median": 13.988452255,
+      "user": 52.6949034,
+      "system": 6.88550898,
+      "min": 13.988452255,
+      "max": 13.988452255,
+      "times": [
+        13.988452255
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/AMPL/toy.ampl"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/AMPL/CT2.mod' > /results/tmp_file",
+      "mean": 16.883124402,
+      "stddev": null,
+      "median": 16.883124402,
+      "user": 59.4071604,
+      "system": 7.90533098,
+      "min": 16.883124402,
+      "max": 16.883124402,
+      "times": [
+        16.883124402
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/AMPL/CT2.mod"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/SystemVerilog/endpoint_phy_wrapper.svh' > /results/tmp_file",
+      "mean": 15.661462658,
+      "stddev": null,
+      "median": 15.661462658,
+      "user": 62.6142704,
+      "system": 6.71401398,
+      "min": 15.661462658,
+      "max": 15.661462658,
+      "times": [
+        15.661462658
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/SystemVerilog/endpoint_phy_wrapper.svh"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/SystemVerilog/fifo.sv' > /results/tmp_file",
+      "mean": 15.930076643,
+      "stddev": null,
+      "median": 15.930076643,
+      "user": 59.7626364,
+      "system": 6.92936998,
+      "min": 15.930076643,
+      "max": 15.930076643,
+      "times": [
+        15.930076643
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/SystemVerilog/fifo.sv"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/SystemVerilog/priority_encoder.sv' > /results/tmp_file",
+      "mean": 16.432255457999997,
+      "stddev": null,
+      "median": 16.432255457999997,
+      "user": 54.2274944,
+      "system": 8.573234979999999,
+      "min": 16.432255457999997,
+      "max": 16.432255457999997,
+      "times": [
+        16.432255457999997
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/SystemVerilog/priority_encoder.sv"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/SystemVerilog/util.vh' > /results/tmp_file",
+      "mean": 13.493209591,
+      "stddev": null,
+      "median": 13.493209591,
+      "user": 53.8205594,
+      "system": 7.08961198,
+      "min": 13.493209591,
+      "max": 13.493209591,
+      "times": [
+        13.493209591
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/SystemVerilog/util.vh"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/SWIG/dictionary.i' > /results/tmp_file",
+      "mean": 18.00008055,
+      "stddev": null,
+      "median": 18.00008055,
+      "user": 57.3118574,
+      "system": 6.5110579799999995,
+      "min": 18.00008055,
+      "max": 18.00008055,
+      "times": [
+        18.00008055
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/SWIG/dictionary.i"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/SWIG/gauss.i' > /results/tmp_file",
+      "mean": 16.136697337999998,
+      "stddev": null,
+      "median": 16.136697337999998,
+      "user": 54.0085144,
+      "system": 6.8246699799999995,
+      "min": 16.136697337999998,
+      "max": 16.136697337999998,
+      "times": [
+        16.136697337999998
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/SWIG/gauss.i"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/SWIG/CGAL_AABB_tree.i' > /results/tmp_file",
+      "mean": 14.735574371,
+      "stddev": null,
+      "median": 14.735574371,
+      "user": 52.6845424,
+      "system": 6.98713198,
+      "min": 14.735574371,
+      "max": 14.735574371,
+      "times": [
+        14.735574371
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/SWIG/CGAL_AABB_tree.i"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/ShellSession/simple.sh-session' > /results/tmp_file",
+      "mean": 15.945272724,
+      "stddev": null,
+      "median": 15.945272724,
+      "user": 55.2920724,
+      "system": 7.42888398,
+      "min": 15.945272724,
+      "max": 15.945272724,
+      "times": [
+        15.945272724
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/ShellSession/simple.sh-session"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/ShellSession/gem-install.sh-session' > /results/tmp_file",
+      "mean": 14.919941798,
+      "stddev": null,
+      "median": 14.919941798,
+      "user": 49.9478044,
+      "system": 6.6595239799999995,
+      "min": 14.919941798,
+      "max": 14.919941798,
+      "times": [
+        14.919941798
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/ShellSession/gem-install.sh-session"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/ShellSession/dollar.sh-session' > /results/tmp_file",
+      "mean": 16.044544491,
+      "stddev": null,
+      "median": 16.044544491,
+      "user": 59.1370474,
+      "system": 8.20408998,
+      "min": 16.044544491,
+      "max": 16.044544491,
+      "times": [
+        16.044544491
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/ShellSession/dollar.sh-session"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Kit/demo.kit' > /results/tmp_file",
+      "mean": 13.421446535,
+      "stddev": null,
+      "median": 13.421446535,
+      "user": 48.4948884,
+      "system": 9.619383979999999,
+      "min": 13.421446535,
+      "max": 13.421446535,
+      "times": [
+        13.421446535
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Kit/demo.kit"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Record Jar/filenames/language-subtag-registry.txt' > /results/tmp_file",
+      "mean": 15.379482973,
+      "stddev": null,
+      "median": 15.379482973,
+      "user": 50.4250744,
+      "system": 7.89735698,
+      "min": 15.379482973,
+      "max": 15.379482973,
+      "times": [
+        15.379482973
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Record Jar/filenames/language-subtag-registry.txt"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/GDScript/player.gd' > /results/tmp_file",
+      "mean": 14.543064362,
+      "stddev": null,
+      "median": 14.543064362,
+      "user": 52.7157224,
+      "system": 6.3908939799999995,
+      "min": 14.543064362,
+      "max": 14.543064362,
+      "times": [
+        14.543064362
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/GDScript/player.gd"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/GDScript/pong.gd' > /results/tmp_file",
+      "mean": 15.146064844,
+      "stddev": null,
+      "median": 15.146064844,
+      "user": 54.4486214,
+      "system": 6.95317498,
+      "min": 15.146064844,
+      "max": 15.146064844,
+      "times": [
+        15.146064844
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/GDScript/pong.gd"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/GDScript/grid.gd' > /results/tmp_file",
+      "mean": 15.197912873,
+      "stddev": null,
+      "median": 15.197912873,
+      "user": 53.2211474,
+      "system": 8.289008979999998,
+      "min": 15.197912873,
+      "max": 15.197912873,
+      "times": [
+        15.197912873
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/GDScript/grid.gd"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/GDScript/example.gd' > /results/tmp_file",
+      "mean": 14.822195819000001,
+      "stddev": null,
+      "median": 14.822195819000001,
+      "user": 55.4588824,
+      "system": 7.93427798,
+      "min": 14.822195819000001,
+      "max": 14.822195819000001,
+      "times": [
+        14.822195819000001
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/GDScript/example.gd"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Mint/Counter.mint' > /results/tmp_file",
+      "mean": 15.23788581,
+      "stddev": null,
+      "median": 15.23788581,
+      "user": 69.1800374,
+      "system": 6.37489598,
+      "min": 15.23788581,
+      "max": 15.23788581,
+      "times": [
+        15.23788581
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Mint/Counter.mint"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Mint/ApplicationStore.mint' > /results/tmp_file",
+      "mean": 21.612680592,
+      "stddev": null,
+      "median": 21.612680592,
+      "user": 62.3480714,
+      "system": 7.49581698,
+      "min": 21.612680592,
+      "max": 21.612680592,
+      "times": [
+        21.612680592
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Mint/ApplicationStore.mint"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Mint/InlineJS.mint' > /results/tmp_file",
+      "mean": 15.141948048,
+      "stddev": null,
+      "median": 15.141948048,
+      "user": 58.868975400000004,
+      "system": 6.40085298,
+      "min": 15.141948048,
+      "max": 15.141948048,
+      "times": [
+        15.141948048
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Mint/InlineJS.mint"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Mint/HeaderTest.mint' > /results/tmp_file",
+      "mean": 15.282166227,
+      "stddev": null,
+      "median": 15.282166227,
+      "user": 56.3500394,
+      "system": 7.33948098,
+      "min": 15.282166227,
+      "max": 15.282166227,
+      "times": [
+        15.282166227
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Mint/HeaderTest.mint"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Mint/Comment.mint' > /results/tmp_file",
+      "mean": 14.790457395,
+      "stddev": null,
+      "median": 14.790457395,
+      "user": 56.5998234,
+      "system": 6.62143598,
+      "min": 14.790457395,
+      "max": 14.790457395,
+      "times": [
+        14.790457395
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Mint/Comment.mint"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Mint/TodoItem.mint' > /results/tmp_file",
+      "mean": 19.051441928,
+      "stddev": null,
+      "median": 19.051441928,
+      "user": 56.3460414,
+      "system": 6.88632298,
+      "min": 19.051441928,
+      "max": 19.051441928,
+      "times": [
+        19.051441928
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Mint/TodoItem.mint"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/LTspice Symbol/random-shapes.asy' > /results/tmp_file",
+      "mean": 17.334983455,
+      "stddev": null,
+      "median": 17.334983455,
+      "user": 53.6663774,
+      "system": 7.94932798,
+      "min": 17.334983455,
+      "max": 17.334983455,
+      "times": [
+        17.334983455
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/LTspice Symbol/random-shapes.asy"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/BlitzBasic/HalfAndDouble.bb' > /results/tmp_file",
+      "mean": 15.987992791,
+      "stddev": null,
+      "median": 15.987992791,
+      "user": 56.2049434,
+      "system": 6.74670798,
+      "min": 15.987992791,
+      "max": 15.987992791,
+      "times": [
+        15.987992791
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/BlitzBasic/HalfAndDouble.bb"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Luau/Option.luau' > /results/tmp_file",
+      "mean": 19.348444855999997,
+      "stddev": null,
+      "median": 19.348444855999997,
+      "user": 61.6244794,
+      "system": 7.62877798,
+      "min": 19.348444855999997,
+      "max": 19.348444855999997,
+      "times": [
+        19.348444855999997
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Luau/Option.luau"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Luau/Symbol.luau' > /results/tmp_file",
+      "mean": 17.792985952,
+      "stddev": null,
+      "median": 17.792985952,
+      "user": 58.9576924,
+      "system": 8.006597979999999,
+      "min": 17.792985952,
+      "max": 17.792985952,
+      "times": [
+        17.792985952
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Luau/Symbol.luau"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Luau/Tree.luau' > /results/tmp_file",
+      "mean": 15.285089315,
+      "stddev": null,
+      "median": 15.285089315,
+      "user": 60.2513664,
+      "system": 7.70232498,
+      "min": 15.285089315,
+      "max": 15.285089315,
+      "times": [
+        15.285089315
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Luau/Tree.luau"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Luau/ser.luau' > /results/tmp_file",
+      "mean": 17.418590068999997,
+      "stddev": null,
+      "median": 17.418590068999997,
+      "user": 53.1097844,
+      "system": 6.40371598,
+      "min": 17.418590068999997,
+      "max": 17.418590068999997,
+      "times": [
+        17.418590068999997
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Luau/ser.luau"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Luau/EnumList.luau' > /results/tmp_file",
+      "mean": 14.549700694,
+      "stddev": null,
+      "median": 14.549700694,
+      "user": 52.1716654,
+      "system": 7.02739298,
+      "min": 14.549700694,
+      "max": 14.549700694,
+      "times": [
+        14.549700694
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Luau/EnumList.luau"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Pony/counter.pony' > /results/tmp_file",
+      "mean": 20.67075135,
+      "stddev": null,
+      "median": 20.67075135,
+      "user": 61.6785994,
+      "system": 7.5672869799999996,
+      "min": 20.67075135,
+      "max": 20.67075135,
+      "times": [
+        20.67075135
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Pony/counter.pony"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Pony/circle.pony' > /results/tmp_file",
+      "mean": 14.084709583,
+      "stddev": null,
+      "median": 14.084709583,
+      "user": 49.446765400000004,
+      "system": 6.84751698,
+      "min": 14.084709583,
+      "max": 14.084709583,
+      "times": [
+        14.084709583
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Pony/circle.pony"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Pony/mandelbrot.pony' > /results/tmp_file",
+      "mean": 18.114861183,
+      "stddev": null,
+      "median": 18.114861183,
+      "user": 58.6793114,
+      "system": 6.9598689799999995,
+      "min": 18.114861183,
+      "max": 18.114861183,
+      "times": [
+        18.114861183
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Pony/mandelbrot.pony"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Pony/hello-world.pony' > /results/tmp_file",
+      "mean": 16.493243965999998,
+      "stddev": null,
+      "median": 16.493243965999998,
+      "user": 57.5607424,
+      "system": 6.84734398,
+      "min": 16.493243965999998,
+      "max": 16.493243965999998,
+      "times": [
+        16.493243965999998
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Pony/hello-world.pony"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Pony/mixed.pony' > /results/tmp_file",
+      "mean": 14.759547517,
+      "stddev": null,
+      "median": 14.759547517,
+      "user": 53.2472904,
+      "system": 7.63149198,
+      "min": 14.759547517,
+      "max": 14.759547517,
+      "times": [
+        14.759547517
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Pony/mixed.pony"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Pony/gups-opt.pony' > /results/tmp_file",
+      "mean": 18.111582498999997,
+      "stddev": null,
+      "median": 18.111582498999997,
+      "user": 66.6766174,
+      "system": 7.96929898,
+      "min": 18.111582498999997,
+      "max": 18.111582498999997,
+      "times": [
+        18.111582498999997
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Pony/gups-opt.pony"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/ABAP/cl_csv_parser.abap' > /results/tmp_file",
+      "mean": 14.911256716,
+      "stddev": null,
+      "median": 14.911256716,
+      "user": 55.3009134,
+      "system": 6.588686979999999,
+      "min": 14.911256716,
+      "max": 14.911256716,
+      "times": [
+        14.911256716
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/ABAP/cl_csv_parser.abap"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Microsoft Developer Studio Project/freeglut.dsp' > /results/tmp_file",
+      "mean": 14.5232211,
+      "stddev": null,
+      "median": 14.5232211,
+      "user": 49.2597474,
+      "system": 6.13475898,
+      "min": 14.5232211,
+      "max": 14.5232211,
+      "times": [
+        14.5232211
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Microsoft Developer Studio Project/freeglut.dsp"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/roff.1in' > /results/tmp_file",
+      "mean": 16.074348340999997,
+      "stddev": null,
+      "median": 16.074348340999997,
+      "user": 54.2971184,
+      "system": 6.40479298,
+      "min": 16.074348340999997,
+      "max": 16.074348340999997,
+      "times": [
+        16.074348340999997
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Roff/roff.1in"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/fsinterface.ms' > /results/tmp_file",
+      "mean": 17.99395069,
+      "stddev": null,
+      "median": 17.99395069,
+      "user": 62.3858984,
+      "system": 6.58151898,
+      "min": 17.99395069,
+      "max": 17.99395069,
+      "times": [
+        17.99395069
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Roff/fsinterface.ms"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/trekmanual.nr' > /results/tmp_file",
+      "mean": 16.564633932,
+      "stddev": null,
+      "median": 16.564633932,
+      "user": 62.1508754,
+      "system": 7.1560609799999995,
+      "min": 16.564633932,
+      "max": 16.564633932,
+      "times": [
+        16.564633932
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Roff/trekmanual.nr"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/refs.rno' > /results/tmp_file",
+      "mean": 14.891055835,
+      "stddev": null,
+      "median": 14.891055835,
+      "user": 53.5196184,
+      "system": 8.06789598,
+      "min": 14.891055835,
+      "max": 14.891055835,
+      "times": [
+        14.891055835
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Roff/refs.rno"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/printf.3in' > /results/tmp_file",
+      "mean": 16.547923271,
+      "stddev": null,
+      "median": 16.547923271,
+      "user": 60.0175814,
+      "system": 8.01450298,
+      "min": 16.547923271,
+      "max": 16.547923271,
+      "times": [
+        16.547923271
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Roff/printf.3in"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/an-ext.tmac' > /results/tmp_file",
+      "mean": 14.208085031,
+      "stddev": null,
+      "median": 14.208085031,
+      "user": 56.2902544,
+      "system": 8.067042979999998,
+      "min": 14.208085031,
+      "max": 14.208085031,
+      "times": [
+        14.208085031
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Roff/an-ext.tmac"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/foo.3pm' > /results/tmp_file",
+      "mean": 15.989295323,
+      "stddev": null,
+      "median": 15.989295323,
+      "user": 52.7387184,
+      "system": 7.72641298,
+      "min": 15.989295323,
+      "max": 15.989295323,
+      "times": [
+        15.989295323
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Roff/foo.3pm"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/foo.3p' > /results/tmp_file",
+      "mean": 18.164014290999997,
+      "stddev": null,
+      "median": 18.164014290999997,
+      "user": 62.1053354,
+      "system": 7.08350298,
+      "min": 18.164014290999997,
+      "max": 18.164014290999997,
+      "times": [
+        18.164014290999997
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Roff/foo.3p"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/dsw.1x' > /results/tmp_file",
+      "mean": 17.806808767,
+      "stddev": null,
+      "median": 17.806808767,
+      "user": 60.6974364,
+      "system": 7.84781498,
+      "min": 17.806808767,
+      "max": 17.806808767,
+      "times": [
+        17.806808767
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Roff/dsw.1x"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/he.mdoc' > /results/tmp_file",
+      "mean": 14.303089652,
+      "stddev": null,
+      "median": 14.303089652,
+      "user": 53.8311864,
+      "system": 6.964169979999999,
+      "min": 14.303089652,
+      "max": 14.303089652,
+      "times": [
+        14.303089652
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Roff/he.mdoc"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/create_view.l' > /results/tmp_file",
+      "mean": 16.47050831,
+      "stddev": null,
+      "median": 16.47050831,
+      "user": 54.9580044,
+      "system": 6.43786898,
+      "min": 16.47050831,
+      "max": 16.47050831,
+      "times": [
+        16.47050831
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Roff/create_view.l"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/switch.3m' > /results/tmp_file",
+      "mean": 15.247946184,
+      "stddev": null,
+      "median": 15.247946184,
+      "user": 59.2837744,
+      "system": 7.99666798,
+      "min": 15.247946184,
+      "max": 15.247946184,
+      "times": [
+        15.247946184
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Roff/switch.3m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/Tcl.n' > /results/tmp_file",
+      "mean": 14.650661119,
+      "stddev": null,
+      "median": 14.650661119,
+      "user": 57.2484514,
+      "system": 6.95263198,
+      "min": 14.650661119,
+      "max": 14.650661119,
+      "times": [
+        14.650661119
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Roff/Tcl.n"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/crude-hack.man' > /results/tmp_file",
+      "mean": 15.043630146,
+      "stddev": null,
+      "median": 15.043630146,
+      "user": 52.5498604,
+      "system": 6.25059398,
+      "min": 15.043630146,
+      "max": 15.043630146,
+      "times": [
+        15.043630146
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Roff/crude-hack.man"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/vt.3x' > /results/tmp_file",
+      "mean": 14.376145902,
+      "stddev": null,
+      "median": 14.376145902,
+      "user": 54.8053734,
+      "system": 7.8697089799999995,
+      "min": 14.376145902,
+      "max": 14.376145902,
+      "times": [
+        14.376145902
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Roff/vt.3x"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/qsort.3qt' > /results/tmp_file",
+      "mean": 16.264097162,
+      "stddev": null,
+      "median": 16.264097162,
+      "user": 56.7769184,
+      "system": 7.09843898,
+      "min": 16.264097162,
+      "max": 16.264097162,
+      "times": [
+        16.264097162
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Roff/qsort.3qt"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/roff.nr' > /results/tmp_file",
+      "mean": 14.816361766,
+      "stddev": null,
+      "median": 14.816361766,
+      "user": 50.9780924,
+      "system": 6.34004998,
+      "min": 14.816361766,
+      "max": 14.816361766,
+      "times": [
+        14.816361766
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Roff/roff.nr"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/man.1m' > /results/tmp_file",
+      "mean": 16.200500259,
+      "stddev": null,
+      "median": 16.200500259,
+      "user": 70.4857144,
+      "system": 6.52087798,
+      "min": 16.200500259,
+      "max": 16.200500259,
+      "times": [
+        16.200500259
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Roff/man.1m"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Ink/thread_in_tunnel.ink' > /results/tmp_file",
+      "mean": 15.545980837,
+      "stddev": null,
+      "median": 15.545980837,
+      "user": 56.2171074,
+      "system": 7.34147498,
+      "min": 15.545980837,
+      "max": 15.545980837,
+      "times": [
+        15.545980837
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Ink/thread_in_tunnel.ink"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Ink/murder_scene.ink' > /results/tmp_file",
+      "mean": 14.270232347,
+      "stddev": null,
+      "median": 14.270232347,
+      "user": 62.3431644,
+      "system": 7.69781698,
+      "min": 14.270232347,
+      "max": 14.270232347,
+      "times": [
+        14.270232347
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Ink/murder_scene.ink"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Ink/seen_this_scene.ink' > /results/tmp_file",
+      "mean": 14.867454534,
+      "stddev": null,
+      "median": 14.867454534,
+      "user": 53.1012094,
+      "system": 6.97282598,
+      "min": 14.867454534,
+      "max": 14.867454534,
+      "times": [
+        14.867454534
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Ink/seen_this_scene.ink"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Ink/string_to_list.ink' > /results/tmp_file",
+      "mean": 14.931036226,
+      "stddev": null,
+      "median": 14.931036226,
+      "user": 55.5404074,
+      "system": 6.786607979999999,
+      "min": 14.931036226,
+      "max": 14.931036226,
+      "times": [
+        14.931036226
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Ink/string_to_list.ink"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Ink/print_number.ink' > /results/tmp_file",
+      "mean": 15.687608562,
+      "stddev": null,
+      "median": 15.687608562,
+      "user": 57.2920834,
+      "system": 7.05016398,
+      "min": 15.687608562,
+      "max": 15.687608562,
+      "times": [
+        15.687608562
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Ink/print_number.ink"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/TSQL/uniqueidentifier.sql' > /results/tmp_file",
+      "mean": 14.641038425,
+      "stddev": null,
+      "median": 14.641038425,
+      "user": 54.0413864,
+      "system": 6.74175498,
+      "min": 14.641038425,
+      "max": 14.641038425,
+      "times": [
+        14.641038425
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/TSQL/uniqueidentifier.sql"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/TSQL/logical.sql' > /results/tmp_file",
+      "mean": 17.917239398,
+      "stddev": null,
+      "median": 17.917239398,
+      "user": 59.5085494,
+      "system": 8.029720979999999,
+      "min": 17.917239398,
+      "max": 17.917239398,
+      "times": [
+        17.917239398
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/TSQL/logical.sql"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/TSQL/cursor.sql' > /results/tmp_file",
+      "mean": 13.915944118,
+      "stddev": null,
+      "median": 13.915944118,
+      "user": 59.8468254,
+      "system": 6.10193298,
+      "min": 13.915944118,
+      "max": 13.915944118,
+      "times": [
+        13.915944118
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/TSQL/cursor.sql"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/TSQL/storedprocedure.sql' > /results/tmp_file",
+      "mean": 15.721986596,
+      "stddev": null,
+      "median": 15.721986596,
+      "user": 56.0991024,
+      "system": 7.00569198,
+      "min": 15.721986596,
+      "max": 15.721986596,
+      "times": [
+        15.721986596
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/TSQL/storedprocedure.sql"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/hash.ex' > /results/tmp_file",
+      "mean": 15.318809784,
+      "stddev": null,
+      "median": 15.318809784,
+      "user": 55.1692604,
+      "system": 7.42069698,
+      "min": 15.318809784,
+      "max": 15.318809784,
+      "times": [
+        15.318809784
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Euphoria/hash.ex"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/regex.e' > /results/tmp_file",
+      "mean": 15.848216305,
+      "stddev": null,
+      "median": 15.848216305,
+      "user": 67.1416114,
+      "system": 6.45958798,
+      "min": 15.848216305,
+      "max": 15.848216305,
+      "times": [
+        15.848216305
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Euphoria/regex.e"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/debug.e' > /results/tmp_file",
+      "mean": 15.61951136,
+      "stddev": null,
+      "median": 15.61951136,
+      "user": 67.8314134,
+      "system": 7.18445098,
+      "min": 15.61951136,
+      "max": 15.61951136,
+      "times": [
+        15.61951136
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Euphoria/debug.e"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/animal.ex' > /results/tmp_file",
+      "mean": 20.666994859,
+      "stddev": null,
+      "median": 20.666994859,
+      "user": 62.7489544,
+      "system": 6.90496398,
+      "min": 20.666994859,
+      "max": 20.666994859,
+      "times": [
+        20.666994859
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Euphoria/animal.ex"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/mydata.ex' > /results/tmp_file",
+      "mean": 14.949330034,
+      "stddev": null,
+      "median": 14.949330034,
+      "user": 49.8725424,
+      "system": 6.884036979999999,
+      "min": 14.949330034,
+      "max": 14.949330034,
+      "times": [
+        14.949330034
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Euphoria/mydata.ex"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/csort.ex' > /results/tmp_file",
+      "mean": 14.987915618,
+      "stddev": null,
+      "median": 14.987915618,
+      "user": 58.8359854,
+      "system": 7.07237298,
+      "min": 14.987915618,
+      "max": 14.987915618,
+      "times": [
+        14.987915618
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Euphoria/csort.ex"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/allsorts.ex' > /results/tmp_file",
+      "mean": 16.007660216999998,
+      "stddev": null,
+      "median": 16.007660216999998,
+      "user": 62.5753764,
+      "system": 6.73179398,
+      "min": 16.007660216999998,
+      "max": 16.007660216999998,
+      "times": [
+        16.007660216999998
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Euphoria/allsorts.ex"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/types.e' > /results/tmp_file",
+      "mean": 17.480017135999997,
+      "stddev": null,
+      "median": 17.480017135999997,
+      "user": 56.6275614,
+      "system": 8.275308979999998,
+      "min": 17.480017135999997,
+      "max": 17.480017135999997,
+      "times": [
+        17.480017135999997
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Euphoria/types.e"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/math.e' > /results/tmp_file",
+      "mean": 15.245704446,
+      "stddev": null,
+      "median": 15.245704446,
+      "user": 57.1376674,
+      "system": 6.8744359799999994,
+      "min": 15.245704446,
+      "max": 15.245704446,
+      "times": [
+        15.245704446
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Euphoria/math.e"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/dll.e' > /results/tmp_file",
+      "mean": 14.905487540000001,
+      "stddev": null,
+      "median": 14.905487540000001,
+      "user": 51.0796224,
+      "system": 5.3037519799999995,
+      "min": 14.905487540000001,
+      "max": 14.905487540000001,
+      "times": [
+        14.905487540000001
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Euphoria/dll.e"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Stylus/demo.styl' > /results/tmp_file",
+      "mean": 14.169410169,
+      "stddev": null,
+      "median": 14.169410169,
+      "user": 56.9282244,
+      "system": 6.88849098,
+      "min": 14.169410169,
+      "max": 14.169410169,
+      "times": [
+        14.169410169
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Stylus/demo.styl"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/RenPy/example.rpy' > /results/tmp_file",
+      "mean": 15.461072654,
+      "stddev": null,
+      "median": 15.461072654,
+      "user": 53.6173914,
+      "system": 8.03293398,
+      "min": 15.461072654,
+      "max": 15.461072654,
+      "times": [
+        15.461072654
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/RenPy/example.rpy"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Jison/lex.jison' > /results/tmp_file",
+      "mean": 15.230097067,
+      "stddev": null,
+      "median": 15.230097067,
+      "user": 50.8051344,
+      "system": 7.01861698,
+      "min": 15.230097067,
+      "max": 15.230097067,
+      "times": [
+        15.230097067
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Jison/lex.jison"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Jison/classy.jison' > /results/tmp_file",
+      "mean": 15.896608767,
+      "stddev": null,
+      "median": 15.896608767,
+      "user": 56.8296564,
+      "system": 8.100997979999999,
+      "min": 15.896608767,
+      "max": 15.896608767,
+      "times": [
+        15.896608767
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Jison/classy.jison"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Jison/ansic.jison' > /results/tmp_file",
+      "mean": 15.33451002,
+      "stddev": null,
+      "median": 15.33451002,
+      "user": 55.5630704,
+      "system": 7.19442598,
+      "min": 15.33451002,
+      "max": 15.33451002,
+      "times": [
+        15.33451002
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/Jison/ansic.jison"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/JavaScript+ERB/create.js.erb' > /results/tmp_file",
+      "mean": 14.962132825,
+      "stddev": null,
+      "median": 14.962132825,
+      "user": 65.9774604,
+      "system": 5.93804398,
+      "min": 14.962132825,
+      "max": 14.962132825,
+      "times": [
+        14.962132825
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/JavaScript+ERB/create.js.erb"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/DNS Zone/sample.arpa' > /results/tmp_file",
+      "mean": 16.929830791999997,
+      "stddev": null,
+      "median": 16.929830791999997,
+      "user": 55.8654264,
+      "system": 8.407699979999999,
+      "min": 16.929830791999997,
+      "max": 16.929830791999997,
+      "times": [
+        16.929830791999997
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/DNS Zone/sample.arpa"
+      }
+    },
+    {
+      "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/DNS Zone/sneaky.net.zone' > /results/tmp_file",
+      "mean": 14.677460616,
+      "stddev": null,
+      "median": 14.677460616,
+      "user": 53.0023894,
+      "system": 7.30081498,
+      "min": 14.677460616,
+      "max": 14.677460616,
+      "times": [
+        14.677460616
+      ],
+      "exit_codes": [
+        0
+      ],
+      "parameters": {
+        "filename": "/samples/DNS Zone/sneaky.net.zone"
+      }
+    }
+  ],
+  "configuration": "starcode2-3B",
+  "command": "python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f"
+}

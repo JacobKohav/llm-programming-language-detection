@@ -1,0 +1,1079 @@
+Benchmark 1: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/IGOR Pro/functions.ipf' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        63.914 s               [User: 75.279 s, System: 36.717 s]
+ 
+Benchmark 2: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/IGOR Pro/CodeBrowser.ipf' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.438 s               [User: 70.834 s, System: 7.637 s]
+ 
+Benchmark 3: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/IGOR Pro/generic.ipf' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        20.790 s               [User: 59.426 s, System: 7.733 s]
+ 
+Benchmark 4: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/CWeb/sat-life.w' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.651 s               [User: 54.942 s, System: 6.584 s]
+ 
+Benchmark 5: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/CWeb/mpmathdouble.w' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.393 s               [User: 54.970 s, System: 6.492 s]
+ 
+Benchmark 6: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/CoNLL-U/ug-ud-test-abridged.conllu' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.573 s               [User: 49.535 s, System: 6.912 s]
+ 
+Benchmark 7: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/CoNLL-U/en-ud-test-abridged.conllu' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.042 s               [User: 53.738 s, System: 5.432 s]
+ 
+Benchmark 8: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/CoNLL-U/CF1.conllu' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.020 s               [User: 54.754 s, System: 7.431 s]
+ 
+Benchmark 9: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Earthly/filenames/Earthfile' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.531 s               [User: 53.636 s, System: 6.527 s]
+ 
+Benchmark 10: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Nemerle/hello.n' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        13.516 s               [User: 50.063 s, System: 7.022 s]
+ 
+Benchmark 11: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/adapting_structural_model.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        16.001 s               [User: 56.553 s, System: 7.681 s]
+ 
+Benchmark 12: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/fit_adapt_linear.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        22.054 s               [User: 61.623 s, System: 7.730 s]
+ 
+Benchmark 13: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/gpu_RKF45_FILE.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        18.555 s               [User: 60.132 s, System: 8.579 s]
+ 
+Benchmark 14: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/FTLEH.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        18.796 s               [User: 53.490 s, System: 7.847 s]
+ 
+Benchmark 15: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/test_rk_par.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        16.496 s               [User: 52.411 s, System: 6.283 s]
+ 
+Benchmark 16: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/make_filter.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.453 s               [User: 51.877 s, System: 6.444 s]
+ 
+Benchmark 17: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/example.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        16.289 s               [User: 54.237 s, System: 7.977 s]
+ 
+Benchmark 18: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/distance.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.307 s               [User: 51.109 s, System: 7.313 s]
+ 
+Benchmark 19: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/Poincare.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        13.782 s               [User: 52.887 s, System: 6.931 s]
+ 
+Benchmark 20: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/matlab_script.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.324 s               [User: 52.660 s, System: 7.940 s]
+ 
+Benchmark 21: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/Traj.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        16.188 s               [User: 55.362 s, System: 6.493 s]
+ 
+Benchmark 22: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/varargin_to_structure.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.006 s               [User: 54.132 s, System: 7.576 s]
+ 
+Benchmark 23: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/par_text_to_struct.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        16.110 s               [User: 56.053 s, System: 8.029 s]
+ 
+Benchmark 24: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/create_ieee_paper_plots.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.587 s               [User: 54.804 s, System: 7.510 s]
+ 
+Benchmark 25: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/convert_variable.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        19.660 s               [User: 64.963 s, System: 7.332 s]
+ 
+Benchmark 26: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/FTLE_reg.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.925 s               [User: 58.085 s, System: 7.752 s]
+ 
+Benchmark 27: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/matlab_class.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.351 s               [User: 54.167 s, System: 6.345 s]
+ 
+Benchmark 28: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/RK4.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        18.693 s               [User: 67.986 s, System: 7.321 s]
+ 
+Benchmark 29: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/Lagrangian_points.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.249 s               [User: 51.951 s, System: 7.636 s]
+ 
+Benchmark 30: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/ieee.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        16.545 s               [User: 56.904 s, System: 7.979 s]
+ 
+Benchmark 31: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/double_gyre.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.473 s               [User: 49.295 s, System: 7.206 s]
+ 
+Benchmark 32: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/lane_change.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.518 s               [User: 54.892 s, System: 7.389 s]
+ 
+Benchmark 33: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/matlab_function.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.830 s               [User: 50.906 s, System: 6.488 s]
+ 
+Benchmark 34: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/normalize.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        16.965 s               [User: 55.674 s, System: 7.330 s]
+ 
+Benchmark 35: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/load_bikes.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.756 s               [User: 56.057 s, System: 7.798 s]
+ 
+Benchmark 36: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/Check_plot.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        13.611 s               [User: 56.453 s, System: 6.885 s]
+ 
+Benchmark 37: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/overwrite_settings.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.214 s               [User: 50.944 s, System: 6.761 s]
+ 
+Benchmark 38: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/plant.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        18.017 s               [User: 59.508 s, System: 7.431 s]
+ 
+Benchmark 39: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/Integrate1.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.708 s               [User: 62.186 s, System: 7.106 s]
+ 
+Benchmark 40: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/cross_validation.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.229 s               [User: 56.482 s, System: 7.573 s]
+ 
+Benchmark 41: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/Integrate2.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.558 s               [User: 52.788 s, System: 6.579 s]
+ 
+Benchmark 42: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/test_system_state_space.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.874 s               [User: 53.372 s, System: 6.551 s]
+ 
+Benchmark 43: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/load_data.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.098 s               [User: 54.778 s, System: 8.406 s]
+ 
+Benchmark 44: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/bicycle_state_space.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.563 s               [User: 54.504 s, System: 6.209 s]
+ 
+Benchmark 45: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/write_gains.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        17.599 s               [User: 54.747 s, System: 8.313 s]
+ 
+Benchmark 46: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/fit_adapt.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.220 s               [User: 53.655 s, System: 6.854 s]
+ 
+Benchmark 47: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/Lagr.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.847 s               [User: 55.167 s, System: 6.854 s]
+ 
+Benchmark 48: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/matlab_script2.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.553 s               [User: 51.616 s, System: 7.136 s]
+ 
+Benchmark 49: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/average.m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.331 s               [User: 54.932 s, System: 6.116 s]
+ 
+Benchmark 50: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Cairo Zero/safemath.cairo' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.176 s               [User: 53.463 s, System: 6.160 s]
+ 
+Benchmark 51: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Cairo Zero/concat_arr.cairo' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.272 s               [User: 54.318 s, System: 7.665 s]
+ 
+Benchmark 52: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Cairo Zero/sha256.cairo' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.923 s               [User: 53.678 s, System: 7.437 s]
+ 
+Benchmark 53: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Cairo Zero/casm.cairo' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.599 s               [User: 50.847 s, System: 5.939 s]
+ 
+Benchmark 54: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Cairo Zero/contract.cairo' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        16.938 s               [User: 57.814 s, System: 7.265 s]
+ 
+Benchmark 55: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/V/news_fetcher.v' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        17.442 s               [User: 59.836 s, System: 6.394 s]
+ 
+Benchmark 56: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/V/links_scraper.v' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        16.342 s               [User: 59.485 s, System: 8.200 s]
+ 
+Benchmark 57: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/V/terminal_control.v' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        13.697 s               [User: 55.227 s, System: 6.420 s]
+ 
+Benchmark 58: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/V/nbody.v' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        16.272 s               [User: 53.525 s, System: 6.880 s]
+ 
+Benchmark 59: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/V/spectral.v' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.606 s               [User: 54.062 s, System: 6.431 s]
+ 
+Benchmark 60: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/V/rune.v' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.155 s               [User: 50.012 s, System: 5.264 s]
+ 
+Benchmark 61: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/V/json.v' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.614 s               [User: 53.627 s, System: 8.165 s]
+ 
+Benchmark 62: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/V/log.v' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        16.346 s               [User: 71.038 s, System: 7.085 s]
+ 
+Benchmark 63: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/V/loop.v' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.708 s               [User: 59.871 s, System: 6.915 s]
+ 
+Benchmark 64: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Parrot Internal Representation/hello.pir' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        13.520 s               [User: 54.584 s, System: 6.574 s]
+ 
+Benchmark 65: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/M4/htmlgen.m4' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.446 s               [User: 53.848 s, System: 7.714 s]
+ 
+Benchmark 66: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/M4/fibo.m4' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        17.433 s               [User: 58.122 s, System: 8.525 s]
+ 
+Benchmark 67: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/M4/sendmail.mc' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.568 s               [User: 56.505 s, System: 6.420 s]
+ 
+Benchmark 68: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/M4/postscript.m4' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.895 s               [User: 57.151 s, System: 7.497 s]
+ 
+Benchmark 69: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/M4/translit2.m4' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.410 s               [User: 50.312 s, System: 7.797 s]
+ 
+Benchmark 70: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/omnetpp-msg/TcpConnectionState.msg' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.079 s               [User: 53.525 s, System: 6.091 s]
+ 
+Benchmark 71: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/omnetpp-msg/TcpConnection.msg' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        16.431 s               [User: 59.195 s, System: 7.728 s]
+ 
+Benchmark 72: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/omnetpp-msg/GptpPacket.msg' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        17.620 s               [User: 59.319 s, System: 6.716 s]
+ 
+Benchmark 73: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/mcsst_1.ncl' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        17.664 s               [User: 55.525 s, System: 7.369 s]
+ 
+Benchmark 74: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/PrnOscPat_driver.ncl' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.564 s               [User: 54.293 s, System: 6.865 s]
+ 
+Benchmark 75: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/primero.ncl' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.312 s               [User: 49.789 s, System: 7.068 s]
+ 
+Benchmark 76: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/WRF_static_2.ncl' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        17.604 s               [User: 58.803 s, System: 7.715 s]
+ 
+Benchmark 77: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/gsn_csm_xy2_time_series_inputs.ncl' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        16.162 s               [User: 56.235 s, System: 7.608 s]
+ 
+Benchmark 78: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/tsdiagram_1.ncl' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.212 s               [User: 54.093 s, System: 7.053 s]
+ 
+Benchmark 79: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/viewport_4.ncl' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        16.244 s               [User: 56.040 s, System: 7.250 s]
+ 
+Benchmark 80: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/weather_sym_6.ncl' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.460 s               [User: 54.689 s, System: 7.195 s]
+ 
+Benchmark 81: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/traj_3.ncl' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.248 s               [User: 50.696 s, System: 6.629 s]
+ 
+Benchmark 82: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/xy_29.ncl' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.645 s               [User: 54.668 s, System: 6.297 s]
+ 
+Benchmark 83: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/mask_12.ncl' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.661 s               [User: 52.259 s, System: 7.123 s]
+ 
+Benchmark 84: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/cru_8.ncl' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.947 s               [User: 58.165 s, System: 8.533 s]
+ 
+Benchmark 85: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/hdf4sds_7.ncl' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.442 s               [User: 52.354 s, System: 7.889 s]
+ 
+Benchmark 86: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/topo_9.ncl' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.786 s               [User: 54.415 s, System: 8.251 s]
+ 
+Benchmark 87: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/WRF_track_1.ncl' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.044 s               [User: 57.756 s, System: 7.738 s]
+ 
+Benchmark 88: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/unique_9.ncl' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.658 s               [User: 54.956 s, System: 5.670 s]
+ 
+Benchmark 89: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/YASnippet/stdin.yasnippet' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.296 s               [User: 55.717 s, System: 6.639 s]
+ 
+Benchmark 90: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/YASnippet/font-face.yasnippet' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.944 s               [User: 53.555 s, System: 8.191 s]
+ 
+Benchmark 91: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Standard ML/Foo.ML' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        17.895 s               [User: 61.219 s, System: 7.465 s]
+ 
+Benchmark 92: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Standard ML/Foo.sml' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.683 s               [User: 53.758 s, System: 7.381 s]
+ 
+Benchmark 93: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Standard ML/Foo.sig' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.442 s               [User: 60.487 s, System: 7.356 s]
+ 
+Benchmark 94: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Standard ML/main.fun' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.728 s               [User: 59.231 s, System: 8.255 s]
+ 
+Benchmark 95: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Standard ML/RedBlackTree.fun' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.163 s               [User: 59.754 s, System: 7.697 s]
+ 
+Benchmark 96: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/AMPL/toy.ampl' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        13.988 s               [User: 52.695 s, System: 6.886 s]
+ 
+Benchmark 97: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/AMPL/CT2.mod' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        16.883 s               [User: 59.407 s, System: 7.905 s]
+ 
+Benchmark 98: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/SystemVerilog/endpoint_phy_wrapper.svh' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.661 s               [User: 62.614 s, System: 6.714 s]
+ 
+Benchmark 99: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/SystemVerilog/fifo.sv' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.930 s               [User: 59.763 s, System: 6.929 s]
+ 
+Benchmark 100: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/SystemVerilog/priority_encoder.sv' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        16.432 s               [User: 54.227 s, System: 8.573 s]
+ 
+Benchmark 101: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/SystemVerilog/util.vh' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        13.493 s               [User: 53.821 s, System: 7.090 s]
+ 
+Benchmark 102: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/SWIG/dictionary.i' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        18.000 s               [User: 57.312 s, System: 6.511 s]
+ 
+Benchmark 103: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/SWIG/gauss.i' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        16.137 s               [User: 54.009 s, System: 6.825 s]
+ 
+Benchmark 104: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/SWIG/CGAL_AABB_tree.i' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.736 s               [User: 52.685 s, System: 6.987 s]
+ 
+Benchmark 105: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/ShellSession/simple.sh-session' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.945 s               [User: 55.292 s, System: 7.429 s]
+ 
+Benchmark 106: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/ShellSession/gem-install.sh-session' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.920 s               [User: 49.948 s, System: 6.660 s]
+ 
+Benchmark 107: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/ShellSession/dollar.sh-session' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        16.045 s               [User: 59.137 s, System: 8.204 s]
+ 
+Benchmark 108: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Kit/demo.kit' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        13.421 s               [User: 48.495 s, System: 9.619 s]
+ 
+Benchmark 109: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Record Jar/filenames/language-subtag-registry.txt' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.379 s               [User: 50.425 s, System: 7.897 s]
+ 
+Benchmark 110: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/GDScript/player.gd' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.543 s               [User: 52.716 s, System: 6.391 s]
+ 
+Benchmark 111: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/GDScript/pong.gd' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.146 s               [User: 54.449 s, System: 6.953 s]
+ 
+Benchmark 112: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/GDScript/grid.gd' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.198 s               [User: 53.221 s, System: 8.289 s]
+ 
+Benchmark 113: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/GDScript/example.gd' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.822 s               [User: 55.459 s, System: 7.934 s]
+ 
+Benchmark 114: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Mint/Counter.mint' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.238 s               [User: 69.180 s, System: 6.375 s]
+ 
+Benchmark 115: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Mint/ApplicationStore.mint' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        21.613 s               [User: 62.348 s, System: 7.496 s]
+ 
+Benchmark 116: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Mint/InlineJS.mint' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.142 s               [User: 58.869 s, System: 6.401 s]
+ 
+Benchmark 117: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Mint/HeaderTest.mint' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.282 s               [User: 56.350 s, System: 7.339 s]
+ 
+Benchmark 118: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Mint/Comment.mint' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.790 s               [User: 56.600 s, System: 6.621 s]
+ 
+Benchmark 119: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Mint/TodoItem.mint' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        19.051 s               [User: 56.346 s, System: 6.886 s]
+ 
+Benchmark 120: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/LTspice Symbol/random-shapes.asy' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        17.335 s               [User: 53.666 s, System: 7.949 s]
+ 
+Benchmark 121: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/BlitzBasic/HalfAndDouble.bb' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.988 s               [User: 56.205 s, System: 6.747 s]
+ 
+Benchmark 122: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Luau/Option.luau' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        19.348 s               [User: 61.624 s, System: 7.629 s]
+ 
+Benchmark 123: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Luau/Symbol.luau' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        17.793 s               [User: 58.958 s, System: 8.007 s]
+ 
+Benchmark 124: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Luau/Tree.luau' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.285 s               [User: 60.251 s, System: 7.702 s]
+ 
+Benchmark 125: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Luau/ser.luau' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        17.419 s               [User: 53.110 s, System: 6.404 s]
+ 
+Benchmark 126: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Luau/EnumList.luau' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.550 s               [User: 52.172 s, System: 7.027 s]
+ 
+Benchmark 127: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Pony/counter.pony' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        20.671 s               [User: 61.679 s, System: 7.567 s]
+ 
+Benchmark 128: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Pony/circle.pony' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.085 s               [User: 49.447 s, System: 6.848 s]
+ 
+Benchmark 129: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Pony/mandelbrot.pony' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        18.115 s               [User: 58.679 s, System: 6.960 s]
+ 
+Benchmark 130: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Pony/hello-world.pony' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        16.493 s               [User: 57.561 s, System: 6.847 s]
+ 
+Benchmark 131: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Pony/mixed.pony' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.760 s               [User: 53.247 s, System: 7.631 s]
+ 
+Benchmark 132: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Pony/gups-opt.pony' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        18.112 s               [User: 66.677 s, System: 7.969 s]
+ 
+Benchmark 133: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/ABAP/cl_csv_parser.abap' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.911 s               [User: 55.301 s, System: 6.589 s]
+ 
+Benchmark 134: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Microsoft Developer Studio Project/freeglut.dsp' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.523 s               [User: 49.260 s, System: 6.135 s]
+ 
+Benchmark 135: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/roff.1in' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        16.074 s               [User: 54.297 s, System: 6.405 s]
+ 
+Benchmark 136: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/fsinterface.ms' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        17.994 s               [User: 62.386 s, System: 6.582 s]
+ 
+Benchmark 137: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/trekmanual.nr' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        16.565 s               [User: 62.151 s, System: 7.156 s]
+ 
+Benchmark 138: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/refs.rno' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.891 s               [User: 53.520 s, System: 8.068 s]
+ 
+Benchmark 139: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/printf.3in' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        16.548 s               [User: 60.018 s, System: 8.015 s]
+ 
+Benchmark 140: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/an-ext.tmac' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.208 s               [User: 56.290 s, System: 8.067 s]
+ 
+Benchmark 141: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/foo.3pm' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.989 s               [User: 52.739 s, System: 7.726 s]
+ 
+Benchmark 142: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/foo.3p' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        18.164 s               [User: 62.105 s, System: 7.084 s]
+ 
+Benchmark 143: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/dsw.1x' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        17.807 s               [User: 60.697 s, System: 7.848 s]
+ 
+Benchmark 144: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/he.mdoc' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.303 s               [User: 53.831 s, System: 6.964 s]
+ 
+Benchmark 145: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/create_view.l' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        16.471 s               [User: 54.958 s, System: 6.438 s]
+ 
+Benchmark 146: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/switch.3m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.248 s               [User: 59.284 s, System: 7.997 s]
+ 
+Benchmark 147: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/Tcl.n' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.651 s               [User: 57.248 s, System: 6.953 s]
+ 
+Benchmark 148: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/crude-hack.man' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.044 s               [User: 52.550 s, System: 6.251 s]
+ 
+Benchmark 149: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/vt.3x' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.376 s               [User: 54.805 s, System: 7.870 s]
+ 
+Benchmark 150: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/qsort.3qt' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        16.264 s               [User: 56.777 s, System: 7.098 s]
+ 
+Benchmark 151: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/roff.nr' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.816 s               [User: 50.978 s, System: 6.340 s]
+ 
+Benchmark 152: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/man.1m' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        16.201 s               [User: 70.486 s, System: 6.521 s]
+ 
+Benchmark 153: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Ink/thread_in_tunnel.ink' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.546 s               [User: 56.217 s, System: 7.341 s]
+ 
+Benchmark 154: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Ink/murder_scene.ink' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.270 s               [User: 62.343 s, System: 7.698 s]
+ 
+Benchmark 155: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Ink/seen_this_scene.ink' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.867 s               [User: 53.101 s, System: 6.973 s]
+ 
+Benchmark 156: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Ink/string_to_list.ink' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.931 s               [User: 55.540 s, System: 6.787 s]
+ 
+Benchmark 157: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Ink/print_number.ink' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.688 s               [User: 57.292 s, System: 7.050 s]
+ 
+Benchmark 158: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/TSQL/uniqueidentifier.sql' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.641 s               [User: 54.041 s, System: 6.742 s]
+ 
+Benchmark 159: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/TSQL/logical.sql' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        17.917 s               [User: 59.509 s, System: 8.030 s]
+ 
+Benchmark 160: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/TSQL/cursor.sql' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        13.916 s               [User: 59.847 s, System: 6.102 s]
+ 
+Benchmark 161: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/TSQL/storedprocedure.sql' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.722 s               [User: 56.099 s, System: 7.006 s]
+ 
+Benchmark 162: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/hash.ex' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.319 s               [User: 55.169 s, System: 7.421 s]
+ 
+Benchmark 163: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/regex.e' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.848 s               [User: 67.142 s, System: 6.460 s]
+ 
+Benchmark 164: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/debug.e' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.620 s               [User: 67.831 s, System: 7.184 s]
+ 
+Benchmark 165: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/animal.ex' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        20.667 s               [User: 62.749 s, System: 6.905 s]
+ 
+Benchmark 166: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/mydata.ex' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.949 s               [User: 49.873 s, System: 6.884 s]
+ 
+Benchmark 167: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/csort.ex' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.988 s               [User: 58.836 s, System: 7.072 s]
+ 
+Benchmark 168: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/allsorts.ex' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        16.008 s               [User: 62.575 s, System: 6.732 s]
+ 
+Benchmark 169: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/types.e' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        17.480 s               [User: 56.628 s, System: 8.275 s]
+ 
+Benchmark 170: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/math.e' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.246 s               [User: 57.138 s, System: 6.874 s]
+ 
+Benchmark 171: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/dll.e' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.905 s               [User: 51.080 s, System: 5.304 s]
+ 
+Benchmark 172: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Stylus/demo.styl' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.169 s               [User: 56.928 s, System: 6.888 s]
+ 
+Benchmark 173: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/RenPy/example.rpy' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.461 s               [User: 53.617 s, System: 8.033 s]
+ 
+Benchmark 174: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Jison/lex.jison' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.230 s               [User: 50.805 s, System: 7.019 s]
+ 
+Benchmark 175: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Jison/classy.jison' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.897 s               [User: 56.830 s, System: 8.101 s]
+ 
+Benchmark 176: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Jison/ansic.jison' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        15.335 s               [User: 55.563 s, System: 7.194 s]
+ 
+Benchmark 177: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/JavaScript+ERB/create.js.erb' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.962 s               [User: 65.977 s, System: 5.938 s]
+ 
+Benchmark 178: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/DNS Zone/sample.arpa' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        16.930 s               [User: 55.865 s, System: 8.408 s]
+ 
+Benchmark 179: python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/DNS Zone/sneaky.net.zone' > /results/tmp_file
+Setting `pad_token_id` to `eos_token_id`:0 for open-end generation.
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+  Time (abs ≡):        14.677 s               [User: 53.002 s, System: 7.301 s]
+ 
+Summary
+  python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Kit/demo.kit' > /results/tmp_file ran
+    1.01 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/SystemVerilog/util.vh' > /results/tmp_file
+    1.01 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Nemerle/hello.n' > /results/tmp_file
+    1.01 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Parrot Internal Representation/hello.pir' > /results/tmp_file
+    1.01 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/Check_plot.m' > /results/tmp_file
+    1.02 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/V/terminal_control.v' > /results/tmp_file
+    1.03 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/Poincare.m' > /results/tmp_file
+    1.04 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/TSQL/cursor.sql' > /results/tmp_file
+    1.04 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/AMPL/toy.ampl' > /results/tmp_file
+    1.04 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/varargin_to_structure.m' > /results/tmp_file
+    1.05 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Pony/circle.pony' > /results/tmp_file
+    1.05 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/V/rune.v' > /results/tmp_file
+    1.06 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Stylus/demo.styl' > /results/tmp_file
+    1.06 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/an-ext.tmac' > /results/tmp_file
+    1.06 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/overwrite_settings.m' > /results/tmp_file
+    1.06 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Ink/murder_scene.ink' > /results/tmp_file
+    1.06 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Cairo Zero/concat_arr.cairo' > /results/tmp_file
+    1.07 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/YASnippet/stdin.yasnippet' > /results/tmp_file
+    1.07 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/he.mdoc' > /results/tmp_file
+    1.07 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/distance.m' > /results/tmp_file
+    1.07 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/primero.ncl' > /results/tmp_file
+    1.07 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/matlab_script.m' > /results/tmp_file
+    1.07 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/average.m' > /results/tmp_file
+    1.07 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/matlab_class.m' > /results/tmp_file
+    1.07 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/vt.3x' > /results/tmp_file
+    1.08 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/hdf4sds_7.ncl' > /results/tmp_file
+    1.08 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/make_filter.m' > /results/tmp_file
+    1.08 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/weather_sym_6.ncl' > /results/tmp_file
+    1.08 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/double_gyre.m' > /results/tmp_file
+    1.08 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Microsoft Developer Studio Project/freeglut.dsp' > /results/tmp_file
+    1.08 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Earthly/filenames/Earthfile' > /results/tmp_file
+    1.08 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/GDScript/player.gd' > /results/tmp_file
+    1.08 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Luau/EnumList.luau' > /results/tmp_file
+    1.08 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/matlab_script2.m' > /results/tmp_file
+    1.08 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/Integrate2.m' > /results/tmp_file
+    1.09 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/bicycle_state_space.m' > /results/tmp_file
+    1.09 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/PrnOscPat_driver.ncl' > /results/tmp_file
+    1.09 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/M4/sendmail.mc' > /results/tmp_file
+    1.09 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/CoNLL-U/ug-ud-test-abridged.conllu' > /results/tmp_file
+    1.09 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Cairo Zero/casm.cairo' > /results/tmp_file
+    1.09 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/V/spectral.v' > /results/tmp_file
+    1.09 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/V/json.v' > /results/tmp_file
+    1.09 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/TSQL/uniqueidentifier.sql' > /results/tmp_file
+    1.09 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/xy_29.ncl' > /results/tmp_file
+    1.09 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/Tcl.n' > /results/tmp_file
+    1.09 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/CWeb/sat-life.w' > /results/tmp_file
+    1.09 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/unique_9.ncl' > /results/tmp_file
+    1.09 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/mask_12.ncl' > /results/tmp_file
+    1.09 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/DNS Zone/sneaky.net.zone' > /results/tmp_file
+    1.09 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Standard ML/Foo.sml' > /results/tmp_file
+    1.10 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/Integrate1.m' > /results/tmp_file
+    1.10 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/SWIG/CGAL_AABB_tree.i' > /results/tmp_file
+    1.10 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Pony/mixed.pony' > /results/tmp_file
+    1.10 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/topo_9.ncl' > /results/tmp_file
+    1.10 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Mint/Comment.mint' > /results/tmp_file
+    1.10 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/roff.nr' > /results/tmp_file
+    1.10 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/GDScript/example.gd' > /results/tmp_file
+    1.11 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/Lagr.m' > /results/tmp_file
+    1.11 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Ink/seen_this_scene.ink' > /results/tmp_file
+    1.11 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/test_system_state_space.m' > /results/tmp_file
+    1.11 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/refs.rno' > /results/tmp_file
+    1.11 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/dll.e' > /results/tmp_file
+    1.11 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/ABAP/cl_csv_parser.abap' > /results/tmp_file
+    1.11 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/ShellSession/gem-install.sh-session' > /results/tmp_file
+    1.11 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Cairo Zero/sha256.cairo' > /results/tmp_file
+    1.11 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/FTLE_reg.m' > /results/tmp_file
+    1.11 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Ink/string_to_list.ink' > /results/tmp_file
+    1.11 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/YASnippet/font-face.yasnippet' > /results/tmp_file
+    1.11 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/cru_8.ncl' > /results/tmp_file
+    1.11 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/mydata.ex' > /results/tmp_file
+    1.11 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/JavaScript+ERB/create.js.erb' > /results/tmp_file
+    1.12 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/csort.ex' > /results/tmp_file
+    1.12 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/CoNLL-U/CF1.conllu' > /results/tmp_file
+    1.12 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/CoNLL-U/en-ud-test-abridged.conllu' > /results/tmp_file
+    1.12 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/WRF_track_1.ncl' > /results/tmp_file
+    1.12 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/crude-hack.man' > /results/tmp_file
+    1.12 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/omnetpp-msg/TcpConnectionState.msg' > /results/tmp_file
+    1.12 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/load_data.m' > /results/tmp_file
+    1.13 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Mint/InlineJS.mint' > /results/tmp_file
+    1.13 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/GDScript/pong.gd' > /results/tmp_file
+    1.13 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Standard ML/RedBlackTree.fun' > /results/tmp_file
+    1.13 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Cairo Zero/safemath.cairo' > /results/tmp_file
+    1.13 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/GDScript/grid.gd' > /results/tmp_file
+    1.13 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/tsdiagram_1.ncl' > /results/tmp_file
+    1.13 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/fit_adapt.m' > /results/tmp_file
+    1.13 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/cross_validation.m' > /results/tmp_file
+    1.13 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Jison/lex.jison' > /results/tmp_file
+    1.14 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Mint/Counter.mint' > /results/tmp_file
+    1.14 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/math.e' > /results/tmp_file
+    1.14 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/traj_3.ncl' > /results/tmp_file
+    1.14 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/switch.3m' > /results/tmp_file
+    1.14 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/Lagrangian_points.m' > /results/tmp_file
+    1.14 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Mint/HeaderTest.mint' > /results/tmp_file
+    1.14 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Luau/Tree.luau' > /results/tmp_file
+    1.14 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/hash.ex' > /results/tmp_file
+    1.14 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Jison/ansic.jison' > /results/tmp_file
+    1.15 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Record Jar/filenames/language-subtag-registry.txt' > /results/tmp_file
+    1.15 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/CWeb/mpmathdouble.w' > /results/tmp_file
+    1.15 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/M4/translit2.m4' > /results/tmp_file
+    1.15 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/IGOR Pro/CodeBrowser.ipf' > /results/tmp_file
+    1.15 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Standard ML/Foo.sig' > /results/tmp_file
+    1.15 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/M4/htmlgen.m4' > /results/tmp_file
+    1.15 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/RenPy/example.rpy' > /results/tmp_file
+    1.16 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/lane_change.m' > /results/tmp_file
+    1.16 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Ink/thread_in_tunnel.ink' > /results/tmp_file
+    1.16 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/create_ieee_paper_plots.m' > /results/tmp_file
+    1.16 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/debug.e' > /results/tmp_file
+    1.17 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/SystemVerilog/endpoint_phy_wrapper.svh' > /results/tmp_file
+    1.17 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Ink/print_number.ink' > /results/tmp_file
+    1.17 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/V/loop.v' > /results/tmp_file
+    1.17 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/TSQL/storedprocedure.sql' > /results/tmp_file
+    1.17 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Standard ML/main.fun' > /results/tmp_file
+    1.17 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/load_bikes.m' > /results/tmp_file
+    1.18 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/matlab_function.m' > /results/tmp_file
+    1.18 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/regex.e' > /results/tmp_file
+    1.18 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/M4/postscript.m4' > /results/tmp_file
+    1.18 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Jison/classy.jison' > /results/tmp_file
+    1.19 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/SystemVerilog/fifo.sv' > /results/tmp_file
+    1.19 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/ShellSession/simple.sh-session' > /results/tmp_file
+    1.19 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/BlitzBasic/HalfAndDouble.bb' > /results/tmp_file
+    1.19 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/foo.3pm' > /results/tmp_file
+    1.19 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/adapting_structural_model.m' > /results/tmp_file
+    1.19 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/allsorts.ex' > /results/tmp_file
+    1.20 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/ShellSession/dollar.sh-session' > /results/tmp_file
+    1.20 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/roff.1in' > /results/tmp_file
+    1.20 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/par_text_to_struct.m' > /results/tmp_file
+    1.20 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/SWIG/gauss.i' > /results/tmp_file
+    1.20 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/gsn_csm_xy2_time_series_inputs.ncl' > /results/tmp_file
+    1.21 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/Traj.m' > /results/tmp_file
+    1.21 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/man.1m' > /results/tmp_file
+    1.21 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/viewport_4.ncl' > /results/tmp_file
+    1.21 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/qsort.3qt' > /results/tmp_file
+    1.21 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/V/nbody.v' > /results/tmp_file
+    1.21 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/example.m' > /results/tmp_file
+    1.22 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/V/links_scraper.v' > /results/tmp_file
+    1.22 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/V/log.v' > /results/tmp_file
+    1.22 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/omnetpp-msg/TcpConnection.msg' > /results/tmp_file
+    1.22 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/SystemVerilog/priority_encoder.sv' > /results/tmp_file
+    1.23 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/create_view.l' > /results/tmp_file
+    1.23 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Pony/hello-world.pony' > /results/tmp_file
+    1.23 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/test_rk_par.m' > /results/tmp_file
+    1.23 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/ieee.m' > /results/tmp_file
+    1.23 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/printf.3in' > /results/tmp_file
+    1.23 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/trekmanual.nr' > /results/tmp_file
+    1.26 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/AMPL/CT2.mod' > /results/tmp_file
+    1.26 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/DNS Zone/sample.arpa' > /results/tmp_file
+    1.26 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Cairo Zero/contract.cairo' > /results/tmp_file
+    1.26 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/normalize.m' > /results/tmp_file
+    1.29 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/LTspice Symbol/random-shapes.asy' > /results/tmp_file
+    1.30 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Luau/ser.luau' > /results/tmp_file
+    1.30 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/M4/fibo.m4' > /results/tmp_file
+    1.30 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/V/news_fetcher.v' > /results/tmp_file
+    1.30 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/types.e' > /results/tmp_file
+    1.31 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/write_gains.m' > /results/tmp_file
+    1.31 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/WRF_static_2.ncl' > /results/tmp_file
+    1.31 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/omnetpp-msg/GptpPacket.msg' > /results/tmp_file
+    1.32 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/NCL/mcsst_1.ncl' > /results/tmp_file
+    1.33 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Luau/Symbol.luau' > /results/tmp_file
+    1.33 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/dsw.1x' > /results/tmp_file
+    1.33 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Standard ML/Foo.ML' > /results/tmp_file
+    1.33 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/TSQL/logical.sql' > /results/tmp_file
+    1.34 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/fsinterface.ms' > /results/tmp_file
+    1.34 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/SWIG/dictionary.i' > /results/tmp_file
+    1.34 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/plant.m' > /results/tmp_file
+    1.35 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Pony/gups-opt.pony' > /results/tmp_file
+    1.35 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Pony/mandelbrot.pony' > /results/tmp_file
+    1.35 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Roff/foo.3p' > /results/tmp_file
+    1.38 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/gpu_RKF45_FILE.m' > /results/tmp_file
+    1.39 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/RK4.m' > /results/tmp_file
+    1.40 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/FTLEH.m' > /results/tmp_file
+    1.42 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Mint/TodoItem.mint' > /results/tmp_file
+    1.44 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Luau/Option.luau' > /results/tmp_file
+    1.46 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/convert_variable.m' > /results/tmp_file
+    1.54 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Euphoria/animal.ex' > /results/tmp_file
+    1.54 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Pony/counter.pony' > /results/tmp_file
+    1.55 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/IGOR Pro/generic.ipf' > /results/tmp_file
+    1.61 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/Mint/ApplicationStore.mint' > /results/tmp_file
+    1.64 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/MATLAB/fit_adapt_linear.m' > /results/tmp_file
+    4.76 times faster than python generate_outputs_langdetect_file_pathgiven.py -t 0.001 -f '/samples/IGOR Pro/functions.ipf' > /results/tmp_file
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/hyperfine-results_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/hyperfine-results_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
+mv: failed to preserve ownership for 'mnt/benchmark_results/starcoder2_2025-07JUL-29_06h58m45s--UTC/tool-output_2025-07JUL-29_06h58m45s--UTC.json': Operation not permitted
