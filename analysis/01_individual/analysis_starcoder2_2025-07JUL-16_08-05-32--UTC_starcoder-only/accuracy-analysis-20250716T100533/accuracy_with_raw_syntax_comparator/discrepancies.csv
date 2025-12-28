@@ -1,0 +1,4 @@
+filename,tool_configuration,language,ground-truth
+/samples/Python/gen-py-linguist-thrift.py,starcoder2,Using device: cpu,Python
+/samples/Python/django-models-base.py,starcoder2,Using device: cpu,Python
+/samples/Python/flask-view.py,starcoder2,Using device: cpu,Python
