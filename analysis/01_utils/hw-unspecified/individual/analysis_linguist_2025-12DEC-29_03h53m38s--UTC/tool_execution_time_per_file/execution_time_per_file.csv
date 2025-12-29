@@ -1,0 +1,3041 @@
+filename,linguist
+TOTAL,1260.8108698226201
+/samples/1C Enterprise/Catalog.ИсходящиеПисьма.Form.ФормаЭлемента.Form.Module.bsl,0.40145580158
+/samples/1C Enterprise/Catalog.Товары.Command.ПечатьПрайсЛиста.CommandModule.bsl,0.39157380158
+/samples/1C Enterprise/CommonModule.ОбменМобильныеОбщее.Module.bsl,0.39514057258
+/samples/1C Enterprise/Document.РасходТовара.ObjectModule.bsl,0.40264508058
+/samples/1C Enterprise/ci_before_script.os,0.39473112958
+/samples/1C Enterprise/test_canCompile.os,0.39285059558
+/samples/2-Dimensional Array/appearance.2da,0.39537051458
+/samples/2-Dimensional Array/tailmodel.2da,0.39521097558
+/samples/4D/generate_project.4dm,0.39147572858
+/samples/4D/play_with_classes.4dm,0.39262352958
+/samples/4D/test_webServerStart.4dm,0.39863051458
+/samples/4D/webArea.4dm,0.39375523158
+/samples/ABAP CDS/zcds_monsters_association.ddls.asddls,0.39746964958
+/samples/ABAP CDS/zcds_monsters_parameters.ddls.asddls,0.39606751957999997
+/samples/ABAP/cl_csv_parser.abap,0.39527478858
+/samples/ABNF/toml.abnf,0.39908660058
+/samples/AGS Script/GlobalScript.asc,0.41146820258
+/samples/AGS Script/GlobalScript.ash,0.39890755458
+/samples/AGS Script/KeyboardMovement_102.asc,0.41435906558
+/samples/AGS Script/KeyboardMovement_102.ash,0.39892678958
+/samples/AIDL/ExtendableParcelable.aidl,0.39453428558
+/samples/AIDL/IVoid.aidl,0.39877460958
+/samples/AL/ALIssue.al,0.40483768158
+/samples/AL/ALIssueList.al,0.40669677958
+/samples/AL/RefreshALIssuesCode.al,0.40755589358
+/samples/AMPL/CT2.mod,0.59561920558
+/samples/AMPL/toy.ampl,0.39230100658
+/samples/API Blueprint/actions.apib,0.39424757658
+/samples/API Blueprint/attributes.apib,0.39664994858
+/samples/API Blueprint/simple.apib,0.39129727958
+/samples/APL/DeepakChopra.apl,0.39544702858
+/samples/APL/UT.dyalog,0.39651981858
+/samples/APL/hashbang,0.38906278858
+/samples/ASL/example.asl,0.39951955258
+/samples/ASL/example.dsl,0.39332619058
+/samples/ASN.1/example.asn,0.39058056258
+/samples/ASP.NET/EchoSocket.ashx,0.40193441958
+/samples/ASP.NET/Global.asax,0.39382665358
+/samples/ASP.NET/Login.aspx,0.39735069858
+/samples/ASP.NET/OpenAuthProviders.ascx,0.39409556258
+/samples/ATS/CoYonedaLemma.dats,0.39636624257999997
+/samples/ATS/DiningPhil2.dats,0.39881225858
+/samples/ATS/DiningPhil2.sats,0.39350668858
+/samples/ATS/DiningPhil2_fork.dats,0.39514660458
+/samples/ATS/DiningPhil2_thread.dats,0.39392234458
+/samples/ATS/YonedaLemma.dats,0.39849164858
+/samples/ATS/basis_ssntype.sats,0.39391568558
+/samples/ATS/csv_parse.hats,0.39505508658
+/samples/ATS/intinf_vt.dats,0.40074627958
+/samples/ActionScript/FooBar.as,0.40768233758
+/samples/ActionScript/HelloWorld.as,0.40528594158
+/samples/ActionScript/NumberUtil.as,0.41551280458
+/samples/ActionScript/TextFieldUtil.as,0.41779167158
+/samples/Adblock Filter List/Imperial Units Remover.txt,0.41115819058
+/samples/Adblock Filter List/abp-filters-anti-cv.txt,0.41669738058
+/samples/Adblock Filter List/anti-facebook.txt,0.41410442958
+/samples/Adblock Filter List/fake-news.txt,0.41068490358
+/samples/Adblock Filter List/test_rules.txt,0.41720221558
+/samples/Adobe Font Metrics/OpenSansCondensed-Bold.afm,0.39220653958
+/samples/Adobe Font Metrics/SpecialElite.afm,0.39439150058
+/samples/Adobe Font Metrics/lambda.afm,0.39347784158
+/samples/Agda/NatCat.agda,0.39242774958
+/samples/Alloy/file_system.als,0.39488611858
+/samples/Alloy/marksweepgc.als,0.39271702458
+/samples/Alloy/views.als,0.39855299458
+/samples/Alpine Abuild/filenames/APKBUILD,0.39582962058
+/samples/Altium Designer/Sample Altium Project.PrjPcb,0.40738332758
+/samples/Altium Designer/Sample Board Design.PcbDoc,0.39748375158
+/samples/Altium Designer/Sample Output Job.OutJob,0.39257734458
+/samples/Altium Designer/Sample Schematic Sheet.SchDoc,0.39506468958
+/samples/AngelScript/botmanager.as,0.60041169358
+/samples/AngelScript/payload.as,0.6045686865800001
+/samples/Ant Build System/filenames/ant.xml,0.39610557058
+/samples/Antlers/index.antlers.html,0.38868490858
+/samples/Antlers/kitchensink.antlers.html,0.38786657658
+/samples/Antlers/kitchensink.antlers.php,0.39124033558
+/samples/Antlers/layout.antlers.html,0.39325969358
+/samples/Antlers/sitemap.antlers.xml,0.39138160258
+/samples/ApacheConf/apache.vhost,0.58492785158
+/samples/ApacheConf/filenames/.htaccess,0.39363279258
+/samples/ApacheConf/filenames/apache2.conf,0.39373496658
+/samples/ApacheConf/filenames/httpd.conf,0.40083943758
+/samples/Apex/AccountTrigger.trigger,0.5995351145800001
+/samples/Apex/AddRelatedRecord.trigger,0.59618952558
+/samples/Apex/ArrayUtils.cls,0.59940250758
+/samples/Apex/BooleanUtils.cls,0.6008317225800001
+/samples/Apex/EmailUtils.cls,0.59509412758
+/samples/Apex/GeoUtils.cls,0.58587466858
+/samples/Apex/LanguageUtils.cls,0.6164662645800001
+/samples/Apex/LogTriggerHandler.trigger,0.60186902458
+/samples/Apex/TwilioAPI.cls,0.60810951958
+/samples/Apollo Guidance Computer/BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.agc,0.39808127358
+/samples/AppleScript/Convert To PDF.applescript,0.39547604158
+/samples/AppleScript/Convert To PostScript.applescript,0.39806143358
+/samples/AppleScript/Count Messages in All Mailboxes.applescript,0.39917315058
+/samples/AppleScript/Crazy Message Text.applescript,0.39688941158
+/samples/AppleScript/Get User Name.applescript,0.39560602358
+/samples/AppleScript/Time Of Day.applescript,0.39918514658
+/samples/AppleScript/center.applescript,0.39603266158
+/samples/AsciiDoc/encoding.asciidoc,0.38940377858
+/samples/AsciiDoc/list.asc,0.40759163158
+/samples/AsciiDoc/sample.adoc,0.39111526358
+/samples/AspectJ/CacheAspect.aj,0.39241213058
+/samples/AspectJ/OptimizeRecursionCache.aj,0.38874560258
+/samples/Assembly/3D_PRG.I,0.60199413558
+/samples/Assembly/A8514.I,0.41612044658
+/samples/Assembly/External Interrupt.a51,0.39483247558
+/samples/Assembly/FASM.asm,0.41907966758
+/samples/Assembly/audio.i,0.5901051555800001
+/samples/Assembly/cpu_feat.nas,0.5940237825800001
+/samples/Assembly/fftfpu.nas,0.59482436358
+/samples/Assembly/forth.nasm,0.40521637758
+/samples/Assembly/fp_sqr32_160_comba.inc,0.41223684658
+/samples/Assembly/lib.inc,0.41769649758
+/samples/Assembly/macros.inc,0.6058856195800001
+/samples/Astro/index.astro,0.39655864258
+/samples/Asymptote/figarc4_3D.asy,0.41413576858
+/samples/Asymptote/kappa-sawteeth.asy,0.41485384058
+/samples/AutoHotkey/hello.ahk,0.39366951558
+/samples/Avro IDL/user.avdl,0.39883076358
+/samples/Awk/test.awk,0.39102407358
+/samples/B4X/B4XMainPage.bas,0.40830468158
+/samples/B4X/OAuth.bas.bas,0.41936194958
+/samples/B4X/RequestsManager.bas,0.41678265658
+/samples/BASIC/GPIOGW.BAS,0.41494755758
+/samples/BASIC/P180.BAS,0.40932907458
+/samples/BASIC/mandelbrot.bas,0.40919903558
+/samples/BASIC/spacesc.bas,0.41923629958
+/samples/BQN/gameoflife.bqn,0.38877114458
+/samples/BQN/snake.bqn,0.39763133858
+/samples/Ballerina/hello-world-service.bal,0.38908031158
+/samples/Ballerina/hello-world.bal,0.39993858658
+/samples/Ballerina/json.bal,0.39637657958
+/samples/Ballerina/var.bal,0.39385125658
+/samples/Ballerina/xml.bal,0.39296759458
+/samples/Beef/ProfilePanel.bf,0.42224048758
+/samples/Beef/Program.bf,0.41179170258
+/samples/Beef/RandoCode.bf,0.41853027058
+/samples/Befunge/aturley.bf,0.5776810355800001
+/samples/Befunge/beer7.bf,0.57460511958
+/samples/Befunge/befunge3.bf,0.5840872745800001
+/samples/Befunge/cascade.bf,0.5799745885800001
+/samples/Befunge/mycorand.bf,0.5780351835800001
+/samples/Berry/berry_schema_validator.be,0.40197633258
+/samples/Berry/lcd_display.be,0.39784529858
+/samples/BibTeX/citations.bib,0.39148270558
+/samples/BibTeX/deeplyaggrevated.bibtex,0.39138748058
+/samples/Bicep/101-container-registry.bicep,0.38970865658
+/samples/Bicep/201-1vm-2nics-2subnets-1vnet.bicep,0.39405584758
+/samples/Bicep/params.bicepparam,0.39427157458
+/samples/Bikeshed/example.bs,0.41102356258
+/samples/Bikeshed/example2.bs,0.44032094058
+/samples/BitBake/cmake.bbclass,0.39937996158
+/samples/BitBake/gstreamer-libav.bb,0.41080481758
+/samples/BitBake/qtbase-native.bb,0.40899550758
+/samples/BitBake/qtbase_%.bbappend,0.39444070658
+/samples/BitBake/tclibc-newlib.inc,0.5862603255800001
+/samples/BitBake/xorg-driver-common.inc,0.6110626225800001
+/samples/Blade/hello.blade,0.39037352658
+/samples/Blade/hello.blade.php,0.39623731058
+/samples/BlitzBasic/HalfAndDouble.bb,0.40965914558
+/samples/BlitzBasic/LList.bb,0.41283025158
+/samples/BlitzBasic/PObj.bb,0.40775811758
+/samples/BlitzMax/sample.bmx,0.39386074158
+/samples/Bluespec BH/CGetPut.bs,0.41696046858
+/samples/Bluespec BH/COBS.bs,0.41121548758
+/samples/Bluespec BH/TL.bs,0.41512200158
+/samples/Bluespec BH/TbTL.bs,0.41564006158
+/samples/Bluespec/TL.bsv,0.39820583958
+/samples/Bluespec/TbTL.bsv,0.39743852858
+/samples/Boogie/Bubble.bpl,0.39382020658
+/samples/Boogie/TuringFactorial.bpl,0.39735086058
+/samples/Boogie/ticket.bpl,0.39700726158
+/samples/Brainfuck/factor.b,0.6105706415800001
+/samples/Brainfuck/fib100.bf,0.40848326158
+/samples/Brainfuck/hello.bf,0.40908396958
+/samples/Brainfuck/helloworld.bf,0.40633184958
+/samples/Brainfuck/rot13.bf,0.40778623158
+/samples/BrighterScript/Main.bs,0.41199285458
+/samples/BrighterScript/RowListExample.bs,0.40793597458
+/samples/BrighterScript/SimpleGrid.bs,0.41400769158
+/samples/Brightscript/SimpleGrid.brs,0.39846363158
+/samples/Browserslist/filenames/.browserslistrc,0.38946097858
+/samples/Browserslist/filenames/browserslist,0.38920372358
+/samples/C#/AssemblyInfo.cs,0.40802143258
+/samples/C#/BsonPropertyValue.cs,0.40954924558
+/samples/C#/FileScopedNamespace.cs,0.40886143858
+/samples/C#/MongoExpressionVisitor.cs,0.41742496458
+/samples/C#/Program.cs,0.40970853158
+/samples/C#/SimpleHttpServer.cs,0.41651790658
+/samples/C#/_CodeSugarIO.DriveInfo.cs.pp,0.39735728158
+/samples/C#/build.cake,0.5986390945800001
+/samples/C#/chart-process-memory.linq,0.39404149758
+/samples/C++/16F88.h,0.41099578258
+/samples/C++/ClasspathVMSystemProperties.inc,0.5900676935800001
+/samples/C++/CsvStreamer.h,0.40490714358
+/samples/C++/Entity.h,0.40960087758
+/samples/C++/Math.inl,0.39672408057999997
+/samples/C++/Memory16F88.h,0.40979574658
+/samples/C++/NoDiscard.h,0.40812729958
+/samples/C++/PackageInfoParser.cpp,0.40171119458
+/samples/C++/ThreadedQueue.h,0.41350850658
+/samples/C++/Types.h,0.40682242258
+/samples/C++/bar.h,0.40508883558
+/samples/C++/bar.hh,0.58101433658
+/samples/C++/bar.hpp,0.39923324558
+/samples/C++/bug1163046.--skeleton.re,0.41207155758
+/samples/C++/cnokw.re,0.41658906458
+/samples/C++/constexpr_header.h,0.41053645658
+/samples/C++/crypter.cpp,0.39268487558
+/samples/C++/cvsignore.re,0.41128988458
+/samples/C++/env.cpp,0.39593591058
+/samples/C++/env.h,0.41759986558
+/samples/C++/epoll_reactor.ipp,0.39583202558
+/samples/C++/gblib.cppm,0.39617536458
+/samples/C++/gdsdbreader.h,0.41465650258
+/samples/C++/graphics.cpp,0.39051708858
+/samples/C++/grpc.pb.cc,0.39125632758
+/samples/C++/hello.cpp,0.39083359458
+/samples/C++/hello.grpc.pb.h,0.41090030458
+/samples/C++/hello.ino,0.39167049458
+/samples/C++/initClasses.inc,0.62960649558
+/samples/C++/instances.inc,0.6064822345800001
+/samples/C++/json_reader.cpp,0.40707492058
+/samples/C++/json_writer.cpp,0.40026029058
+/samples/C++/key.cpp,0.40512119458
+/samples/C++/key.h,0.43854881858
+/samples/C++/libcanister.h,0.41654093258
+/samples/C++/main.cpp,0.39162452758
+/samples/C++/metrics.h,0.41384059058
+/samples/C++/module.ixx,0.40133321958
+/samples/C++/octave_changer.ino,0.39678429058
+/samples/C++/program.cp,0.6056856475800001
+/samples/C++/protocol-buffer.pb.cc,0.39836702158
+/samples/C++/protocol-buffer.pb.h,0.41119289358
+/samples/C++/render_adapter.cpp,0.39181228158
+/samples/C++/runtime-compiler.cc,0.39880894958
+/samples/C++/scanner.cc,0.40863452658
+/samples/C++/scanner.h,0.41883391858
+/samples/C++/search.txx,0.39645832158
+/samples/C++/simple.re,0.40808881058
+/samples/C++/srs_app_ingest.cpp,0.39645872758
+/samples/C++/target.txx,0.39717275958
+/samples/C++/utils.h,0.41812354358
+/samples/C++/v8.cc,0.39785999058
+/samples/C++/v8.h,0.41528525958
+/samples/C++/vtkSparseArray.txx,0.40087572258
+/samples/C++/wrapper_inner.cpp,0.41697537258
+/samples/C/2D.C,0.39207351358
+/samples/C/2D.H,0.40644043058
+/samples/C/Arduino.cats,0.39355506158
+/samples/C/ArrowLeft.h,0.41383787158
+/samples/C/Field.h,0.40804827058
+/samples/C/GLKMatrix4.h,0.41815647158
+/samples/C/NWMan.h,0.40900337858
+/samples/C/Nightmare.h,0.40167514958
+/samples/C/array.c,0.39285660458
+/samples/C/array.h,0.40787825658
+/samples/C/asm.h,0.40543475158
+/samples/C/bitmap.h,0.40698544558
+/samples/C/blob.c,0.39261236258
+/samples/C/blob.h,0.40923235658
+/samples/C/bootstrap.h,0.41074439758
+/samples/C/color.h,0.41289050958
+/samples/C/commit.c,0.40076371158
+/samples/C/commit.h,0.41868881258
+/samples/C/cpuid.h,0.40565782858
+/samples/C/custom_extensions.c,0.39574567558
+/samples/C/driver.h,0.40610882058
+/samples/C/elf.h,0.40949571258
+/samples/C/exception.zep.c,0.39226823158
+/samples/C/exception.zep.h,0.40436117358
+/samples/C/filter.h,0.40815332858
+/samples/C/fudge_node.c,0.39545573258
+/samples/C/git.c,0.39699881958
+/samples/C/hello.c,0.38972859658
+/samples/C/hello.h,0.40634951258
+/samples/C/http_parser.c,0.40411226158
+/samples/C/http_parser.h,0.41419197358
+/samples/C/info.h,0.40829062758
+/samples/C/interface.h,0.40882730058
+/samples/C/ip4.h,0.40828167858
+/samples/C/jni_layer.h,0.40656722458
+/samples/C/markdown.c,0.40639147858
+/samples/C/multiboot.h,0.41140501958
+/samples/C/ntru_encrypt.h,0.41094414058
+/samples/C/portio.h,0.40735659158
+/samples/C/pqiv.h,0.41226708358
+/samples/C/process.c,0.40019169458
+/samples/C/rdiscount.c,0.39075654258
+/samples/C/readline.cats,0.39198842258
+/samples/C/redis.c,0.40784161858
+/samples/C/rf_io.c,0.40535767558
+/samples/C/rf_io.h,0.42393875358
+/samples/C/rfc_string.c,0.40667687058
+/samples/C/rfc_string.h,0.42164376558
+/samples/C/rpc.h,0.40823900858
+/samples/C/scheduler.h,0.40763106558
+/samples/C/script,0.40220972658
+/samples/C/sgd_fast.c,0.44524928958
+/samples/C/syscalldefs.h,0.40569567958
+/samples/C/syscalls.h,0.41351258558
+/samples/C/vfs.h,0.40877027758
+/samples/C/vmem.h,0.41223695258
+/samples/C/wglew.h,0.42053244258
+/samples/C/yajl.c,0.39375384058
+/samples/CAP CDS/admin-service.cds,0.39024349658
+/samples/CAP CDS/cat-service.cds,0.39056387158
+/samples/CAP CDS/common.cds,0.39215030658
+/samples/CAP CDS/schema.cds,0.39546845358
+/samples/CAP CDS/user-service.cds,0.38983831558
+/samples/CIL/certfile.cil,0.39829025758
+/samples/CIL/guix-daemon.cil,0.39640646658
+/samples/CLIPS/demo.clp,0.40130611458
+/samples/CLIPS/sudoku.clp,0.39930970958
+/samples/CMake/filenames/CMakeLists.txt,0.39011440958
+/samples/CMake/sample1.cmake,0.39589449158
+/samples/CMake/sample2.cmake,0.39604593058
+/samples/CMake/sample3.cmake,0.39323251158
+/samples/CMake/sample4.cmake,0.38963961758
+/samples/CMake/sample5.cmake,0.39514516958
+/samples/CMake/uninstall.cmake.in,0.39374862358
+/samples/COBOL/hello_world.cbl,0.40456928458
+/samples/COBOL/hello_world.ccp,0.39588530158
+/samples/COBOL/hello_world.cob,0.39384634858
+/samples/COBOL/simple.cpy,0.39483116458
+/samples/CODEOWNERS/filenames/CODEOWNERS,0.39244175158
+/samples/CSON/base.cson,0.39357402158
+/samples/CSON/config.cson,0.39317889258
+/samples/CSON/ff-sfd.cson,0.39576458458
+/samples/CSON/wercker-status.cson,0.39629211358
+/samples/CSS/bootstrap.css,0.42263099958
+/samples/CSS/bootstrap.min.css,0.40789837258
+/samples/CSV/cars.csv,0.39126477158
+/samples/CUE/github-workflow.cue,0.59630797958
+/samples/CUE/kube.cue,0.6075417325800001
+/samples/CWeb/mpmathdouble.w,0.42004672658
+/samples/CWeb/sat-life.w,0.41042240558
+/samples/Cabal Config/defaults.cabal,0.39335209658
+/samples/Cabal Config/filenames/cabal.config,0.39152012558
+/samples/Cabal Config/filenames/cabal.project,0.38864557858
+/samples/Cabal Config/line2pdf.cabal,0.39002410858
+/samples/Caddyfile/acmeserver.Caddyfile,0.39484545558
+/samples/Caddyfile/reverseproxy.caddyfile,0.39539779958
+/samples/Cadence/FlowFees.cdc,0.39815101758
+/samples/Cadence/FlowToken.cdc,0.39794115458
+/samples/Cadence/get_balance.cdc,0.39001867258
+/samples/Cadence/mint_tokens.cdc,0.39217178658
+/samples/Cadence/read_profile.cdc,0.38946418358
+/samples/Cadence/setup_account.cdc,0.39392283958
+/samples/Cairo Zero/casm.cairo,0.40827811758
+/samples/Cairo Zero/concat_arr.cairo,0.41036381958
+/samples/Cairo Zero/contract.cairo,0.42051768958
+/samples/Cairo Zero/safemath.cairo,0.40627195658
+/samples/Cairo Zero/sha256.cairo,0.41859858558
+/samples/Cairo/boolean.cairo,0.40815070858
+/samples/Cairo/cust_struct_vect.cairo,0.40998174658
+/samples/Cairo/merkle_tree_test.cairo,0.41725469158
+/samples/Cairo/pizza_factory.cairo,0.41780707558
+/samples/Cairo/rlp.cairo,0.41339208358
+/samples/CameLIGO/FA1.2.mligo,0.39676481358
+/samples/Carbon/Shapes.carbon,0.39523631958
+/samples/Carbon/main.carbon,0.39380120358
+/samples/CartoCSS/amenity-points.mss,0.40768382858
+/samples/Ceylon/Foo.ceylon,0.39558470758
+/samples/Chapel/distributions.chpl,0.39595216858
+/samples/Chapel/hello.chpl,0.39358436458
+/samples/Chapel/lulesh.chpl,0.40746033658
+/samples/Chapel/nbody.chpl,0.39734651358
+/samples/Chapel/quicksort.chpl,0.39441553058
+/samples/Charity/example.ch,0.5908866005800001
+/samples/Checksums/bsd-style.sha256,0.39291274258
+/samples/Checksums/filenames/SHA256SUMS,0.39544091258
+/samples/Checksums/filenames/SHA256SUMS.txt,0.39013933058
+/samples/Checksums/gnu-style-text.sha256,0.38979636058
+/samples/Checksums/gnu-style.sha256,0.39106670858
+/samples/Checksums/single_hash.crc32,0.39131738958
+/samples/Checksums/single_hash.md2,0.39641232958
+/samples/Checksums/single_hash.md4,0.39090990158
+/samples/Checksums/single_hash.md5,0.38971071858
+/samples/Checksums/single_hash.sha1,0.38906794958
+/samples/Checksums/single_hash.sha224,0.39083991158
+/samples/Checksums/single_hash.sha256,0.38962070858
+/samples/Checksums/single_hash.sha384,0.39567996658
+/samples/Checksums/single_hash.sha512,0.39030696658
+/samples/Checksums/single_hash_dec.crc32,0.39004536958
+/samples/Checksums/single_hash_no_trailing_newline.sha256,0.39252157758
+/samples/Checksums/zero.sha2,0.38870618858
+/samples/Checksums/zero.sha3,0.39186083658
+/samples/Circom/binsum.circom,0.39246459258
+/samples/Circom/switcher.circom,0.38906689158
+/samples/Circom/xor3.circom,0.39562593258
+/samples/Cirru/calcit.cirru,0.39838389958
+/samples/Cirru/comma.cirru,0.39363315158
+/samples/Cirru/demo.cirru,0.39233194158
+/samples/Cirru/folded-beginning.cirru,0.39532861458
+/samples/Cirru/folding.cirru,0.39324876958
+/samples/Cirru/html.cirru,0.39274566058
+/samples/Cirru/indent.cirru,0.39209652758
+/samples/Cirru/line.cirru,0.38869896358
+/samples/Cirru/parentheses.cirru,0.39057471458
+/samples/Cirru/quote.cirru,0.38975187058
+/samples/Cirru/spaces.cirru,0.38972779858
+/samples/Cirru/template.cirru,0.40224206758
+/samples/Cirru/unfolding.cirru,0.39316460158
+/samples/Cirru/webpack.config.cirru,0.39669733558
+/samples/Clarion/CStringClass.clw,0.40041574358
+/samples/Clarion/ConsoleSupport.clw,0.39193327758
+/samples/Clarion/HelloWorld.clw,0.39329699058
+/samples/Clarion/hello.clw,0.39321190658
+/samples/Clarity/bns.clar,0.40057696558
+/samples/Clarity/cost-voting.clar,0.39531019758
+/samples/Clarity/pox.clar,0.39831569858
+/samples/Classic ASP/ASPUnitRunner.asp,0.39601631858
+/samples/Classic ASP/sendingcontent-xml.asp,0.39875415658
+/samples/Clean/GenHylo.dcl,0.39237984057999997
+/samples/Clean/GenMap.dcl,0.39584322958
+/samples/Clean/GenMap.icl,0.39559200258
+/samples/Clean/fsieve.icl,0.39339569058
+/samples/Clean/sem.icl,0.39730662158
+/samples/Clean/stack.dcl,0.39510322058
+/samples/Clean/stack.icl,0.39411367758
+/samples/Clean/streams.dcl,0.39343830258
+/samples/Clean/streams.icl,0.39301311458
+/samples/Click/sr2.click,0.39072971858
+/samples/Click/thomer-nat.click,0.39290961858
+/samples/Clojure/build.boot,0.39623599458
+/samples/Clojure/for.clj,0.39650180058
+/samples/Clojure/hiccup.hic,0.39494751058
+/samples/Clojure/index.cljs.hl,0.39636888358
+/samples/Clojure/into-array.cljc,0.39456791058
+/samples/Clojure/protocol.cljs,0.40344150758
+/samples/Clojure/rand.cljscm,0.39328349258
+/samples/Clojure/svg.cljx,0.39418735158
+/samples/Clojure/unit-test.cl2,0.39366947958
+/samples/Clojure/validate-and-format.bb,0.39072122858
+/samples/Closure Templates/example.soy,0.39986532558
+/samples/Cloud Firestore Security Rules/filenames/firestore.rules,0.39629167158
+/samples/CoNLL-U/CF1.conllu,0.39887406558
+/samples/CoNLL-U/en-ud-test-abridged.conllu,0.39649991458
+/samples/CoNLL-U/ug-ud-test-abridged.conllu,0.39397180058
+/samples/CodeQL/ql-cobol-sample.ql,0.39123749558
+/samples/CodeQL/ql-sample.ql,0.39100290158
+/samples/CodeQL/qll-sample1.qll,0.39124274958
+/samples/CodeQL/qll-sample2.qll,0.39753446758
+/samples/CodeQL/qll-sample3.qll,0.39030311158
+/samples/CodeQL/tree-sitter-sample.ql,0.39375057158
+/samples/CoffeeScript/browser.coffee,0.38888303258
+/samples/CoffeeScript/build.cake,0.57947328058
+/samples/CoffeeScript/classes.coffee,0.39300904258
+/samples/CoffeeScript/coffee-script.coffee,0.40309790558
+/samples/CoffeeScript/example.cjsx,0.39360768058
+/samples/CoffeeScript/hello.coffee,0.40052627158
+/samples/CoffeeScript/intro.coffee,0.39464911958
+/samples/CoffeeScript/lexer.coffee,0.40123124758
+/samples/CoffeeScript/rack_application.coffee,0.40050682758
+/samples/CoffeeScript/xipd.coffee,0.39601476058
+/samples/ColdFusion CFC/exampleScript.cfc,0.39902586358
+/samples/ColdFusion CFC/exampleTag.cfc,0.39666486758
+/samples/ColdFusion/example.cfm,0.39811549258
+/samples/Common Lisp/array.l,0.39702532358
+/samples/Common Lisp/common.l,0.41755544358
+/samples/Common Lisp/config.sexp,0.39170395058
+/samples/Common Lisp/hello.lisp,0.40700046558
+/samples/Common Lisp/macros-advanced.cl,0.41390325658
+/samples/Common Lisp/motor-inferencia.cl,0.41271543858
+/samples/Common Lisp/rss.sexp,0.39448283558
+/samples/Common Lisp/sample.lisp,0.39896014858
+/samples/Common Lisp/sample.lsp,0.38831842358
+/samples/Common Workflow Language/trunk-peak-score.cwl,0.39470245158
+/samples/Component Pascal/Example.cp,0.6017422985800001
+/samples/Component Pascal/Example2.cps,0.39657971658
+/samples/Cool/list.cl,0.41387823358
+/samples/Cool/sample.cl,0.41377922758
+/samples/Coq/Computation.v,0.40961551958
+/samples/Coq/Imp.v,0.41251876058
+/samples/Coq/JsCorrectness.v,0.42813004058
+/samples/Coq/JsInterpreterExtraction.v,0.41288721558
+/samples/Coq/JsNumber.v,0.40806952458
+/samples/Coq/JsPrettyInterm.v,0.41347104458
+/samples/Coq/Lists.v,0.41012242658
+/samples/Coq/Main.v,0.40653947658
+/samples/Coq/Poly.v,0.41231639058
+/samples/Coq/Rel.v,0.42153328358
+/samples/Coq/Smallstep.v,0.41476745858
+/samples/Coq/Spec.v,0.40671636658
+/samples/Coq/Stlc.v,0.41190875558
+/samples/Creole/creole.creole,0.39025584358
+/samples/Crystal/const_spec.cr,0.39262937658
+/samples/Crystal/declare_var_spec.cr,0.39156187358
+/samples/Crystal/transformer.cr,0.39986081458
+/samples/Csound Document/allglass.csd,0.39467155758
+/samples/Csound Document/interp.csd,0.39233996558
+/samples/Csound Document/test.csd,0.39650077858
+/samples/Csound Score/allglass.sco,0.38979472758
+/samples/Csound Score/interp.sco,0.39213180858
+/samples/Csound Score/test.sco,0.39448595458
+/samples/Csound/allglass.orc,0.39230805558
+/samples/Csound/interp.orc,0.41682425758
+/samples/Csound/test.orc,0.39845442958
+/samples/Cuda/scalarProd_kernel.cuh,0.39527412258
+/samples/Cuda/vectorAdd.cu,0.39299447558
+/samples/Cue Sheet/sample1.cue,0.5941151385800001
+/samples/Cue Sheet/sample2.cue,0.5777908665800001
+/samples/Curry/Nat.curry,0.39170875258
+/samples/Curry/Prelude.curry,0.40658602358
+/samples/Cycript/utils.cy,0.39537034658
+/samples/Cylc/cset-include.cylc,0.39098898858
+/samples/Cylc/cset.cylc,0.39311564858
+/samples/Cylc/model.cylc,0.39223824258
+/samples/Cypher/db_export_res.cypher,0.39644620658
+/samples/Cypher/graphgems.cyp,0.39520728258
+/samples/Cypher/graphgems.cypher,0.39542645058
+/samples/Cypher/load_from_json.cypher,0.39103284558
+/samples/D/aa.d,0.41515299158
+/samples/D/arrayops.d,0.42053522658
+/samples/D/function.d,0.41120344358
+/samples/D/hello_world.d,0.40686979158
+/samples/D/mpq.d,0.41756882458
+/samples/D/template.d,0.40235922958
+/samples/D/template_function.d,0.40907011658
+/samples/D/unittest1.d,0.40384502858
+/samples/D/unittest2.d,0.40375087758
+/samples/D2/anthias-diagram-overview.d2,0.39479754658
+/samples/D2/calc_algo.d2,0.39555499358
+/samples/DIGITAL Command Language/fis_gtm_kitinstal.com,0.40033759458
+/samples/DIGITAL Command Language/ghostpdl_zlib_make_vms.com,0.40100712858
+/samples/DIGITAL Command Language/libxslt_build.com,0.39919022758
+/samples/DIGITAL Command Language/vmsbackup_build.com,0.39177861158
+/samples/DM/example.dm,0.39516070758
+/samples/DNS Zone/sample.arpa,0.39577024758
+/samples/DNS Zone/sneaky.net.zone,0.39989415458
+/samples/DTrace/counts.d,0.40258065458
+/samples/DTrace/probes.d,0.41464161658
+/samples/DTrace/trace_futexes.d,0.39639002258
+/samples/Dafny/Io.s.dfy,0.39553255458
+/samples/Dafny/Node.i.dfy,0.39211007458
+/samples/Dart/point.dart,0.38804059258
+/samples/DataWeave/customInterpolator.dwl,0.38893435658
+/samples/DataWeave/directives.dwl,0.39472219958
+/samples/DataWeave/functions.dwl,0.39381816858
+/samples/DataWeave/literals.dwl,0.38845092958
+/samples/DataWeave/match.dwl,0.39375999358
+/samples/Debian Package Control File/example1.dsc,0.57731758558
+/samples/Debian Package Control File/example2.dsc,0.58799661958
+/samples/DenizenScript/sample1.dsc,0.6023365405800001
+/samples/DenizenScript/sample2.dsc,0.5928748525800001
+/samples/Dhall/largeExpressionA.dhall,0.39238825158
+/samples/Dhall/remoteSystemsA.dhall,0.39588809158
+/samples/Diff/dude-thing-okay--001.patch,0.39056188258
+/samples/DirectX 3D File/cube.x,0.41495113358
+/samples/Dockerfile/debian-systemd.Containerfile,0.38989622158
+/samples/Dockerfile/filenames/Dockerfile,0.39456040558
+/samples/Dogescript/example.djs,0.39158057758
+/samples/Dotenv/default.env,0.39572485758
+/samples/Dotenv/filenames/.env,0.38904217858
+/samples/Dotenv/filenames/.env.ci,0.39519507958
+/samples/Dotenv/filenames/.env.dev,0.39429754258
+/samples/Dotenv/filenames/.env.development,0.38968133758
+/samples/Dotenv/filenames/.env.development.local,0.39568332658
+/samples/Dotenv/filenames/.env.example,0.39554692158
+/samples/Dotenv/filenames/.env.local,0.39419920558
+/samples/Dotenv/filenames/.env.prod,0.39167673258
+/samples/Dotenv/filenames/.env.production,0.39429791158
+/samples/Dotenv/filenames/.env.sample,0.39395331558
+/samples/Dotenv/filenames/.env.staging,0.39328545658
+/samples/Dotenv/filenames/.env.test,0.39325292858
+/samples/Dotenv/filenames/.env.testing,0.39567312158
+/samples/Dune/filenames/dune-project,0.38998201358
+/samples/E-mail/example.eml,0.39497180558
+/samples/E/Extends.E,0.41497353358
+/samples/E/Functions.E,0.41430624958
+/samples/E/Guards.E,0.40947613458
+/samples/E/IO.E,0.41801776458
+/samples/E/Promises.E,0.41041471258
+/samples/E/atomic-updates.E,0.39589787058
+/samples/E/minChat.E,0.41659220758
+/samples/EBNF/grammar.ebnf,0.39155282958
+/samples/EBNF/material.ebnf,0.39383124858
+/samples/EBNF/object.ebnf,0.39764837658
+/samples/EBNF/types.ebnf,0.39143966558
+/samples/ECL/sample.ecl,0.41586060058
+/samples/ECLiPSe/or-constraint.ecl,0.40828330258
+/samples/EJS/admin_index.jst,0.39276706358
+/samples/EJS/dash.ejs,0.38919570858
+/samples/EJS/email_template.ect,0.39732046158
+/samples/EJS/modules.ejs.t,0.40043524358
+/samples/EJS/page.ejs,0.39788559458
+/samples/EQ/HTTPServerVirtualHostListener.eq,0.39843147858
+/samples/EQ/SEButtonEntity.eq,0.39745733158
+/samples/EQ/String.eq,0.39483791058
+/samples/Eagle/Eagle.brd,0.6142588345800001
+/samples/Eagle/Eagle.sch,0.61230819658
+/samples/Earthly/filenames/Earthfile,0.39286642258
+/samples/Easybuild/bzip2-1.0.6-GCC-4.9.2.eb,0.38923400358
+/samples/Ecmarkup/spec.html,0.41723848958
+/samples/Edge/pricing.edge,0.39703273158
+/samples/EdgeQL/default.esdl,0.39322770658
+/samples/EdgeQL/migration.edgeql,0.39326932958
+/samples/EditorConfig/ASP.NET.EditorConfig,0.39276682858
+/samples/EditorConfig/IntelliJ.editorconfig,0.39221468258
+/samples/EditorConfig/filenames/.editorconfig,0.39517277158
+/samples/Edje Data Collection/mild.edc,0.40772818958
+/samples/Eiffel/app_embedded_web_execution.e,0.41282204758
+/samples/Eiffel/app_embedded_web_service.e,0.41138341758
+/samples/Eiffel/application.e,0.40741041058
+/samples/Eiffel/book_collection.e,0.41007202258
+/samples/Eiffel/desktop_app.e,0.41585931358
+/samples/Eiffel/git_checkout_command.e,0.40498532558
+/samples/Eiffel/main_window.e,0.41043519758
+/samples/Elixir/atom.ex,0.40883924558
+/samples/Elixir/filenames/mix.lock,0.38931167558
+/samples/Elixir/float.ex,0.41886144458
+/samples/Elixir/function.ex,0.40442545658
+/samples/Elixir/integer.ex,0.41310478458
+/samples/Elixir/regex.ex,0.41289126458
+/samples/Elm/Basic.elm,0.39490069658
+/samples/Elm/QuickSort.elm,0.39100798358
+/samples/Elm/Tree.elm,0.39738560258
+/samples/Elvish/epm.elv,0.40151503358
+/samples/Emacs Lisp/.emacs.desktop,0.38956045958
+/samples/Emacs Lisp/dude.el,0.39380883258
+/samples/Emacs Lisp/ess-julia.el,0.39974785458
+/samples/Emacs Lisp/filenames/.abbrev_defs,0.39406421158
+/samples/Emacs Lisp/filenames/.gnus,0.39616364558
+/samples/Emacs Lisp/filenames/.spacemacs,0.39746756558
+/samples/Emacs Lisp/filenames/.viper,0.39312715558
+/samples/Emacs Lisp/filenames/Cask,0.39303368258
+/samples/Emacs Lisp/filenames/Project.ede,0.38898123558
+/samples/Emacs Lisp/filenames/_emacs,0.39131387258
+/samples/Emacs Lisp/filenames/abbrev_defs,0.39009776658
+/samples/EmberScript/momentComponent.em,0.39489538558
+/samples/Erlang/170-os-daemons.es,0.39554636458
+/samples/Erlang/compiler.app,0.39464217958
+/samples/Erlang/elixir_parser.yrl,0.40112320358
+/samples/Erlang/factorial,0.39030286158
+/samples/Erlang/filenames/Emakefile,0.39907261958
+/samples/Erlang/filenames/rebar.config,0.40197766358
+/samples/Erlang/filenames/rebar.config.lock,0.39744519758
+/samples/Erlang/filenames/rebar.lock,0.39299758758
+/samples/Erlang/hello.escript,0.38983868258
+/samples/Erlang/kernel.app,0.40878099558
+/samples/Erlang/lfe_scan.xrl,0.39917460758
+/samples/Erlang/record_helper.erl,0.39569370758
+/samples/Erlang/record_utils.erl,0.39819458158
+/samples/Erlang/release,0.39492541458
+/samples/Erlang/sample.app.src,0.39586696358
+/samples/Erlang/single-context.es,0.39509531158
+/samples/Euphoria/allsorts.ex,0.41819470658
+/samples/Euphoria/animal.ex,0.41573001858
+/samples/Euphoria/csort.ex,0.40875310958
+/samples/Euphoria/debug.e,0.41589119058
+/samples/Euphoria/dll.e,0.41231014158
+/samples/Euphoria/hash.ex,0.41994125258
+/samples/Euphoria/math.e,0.41828044358
+/samples/Euphoria/mydata.ex,0.41279530858
+/samples/Euphoria/regex.e,0.41845461758
+/samples/Euphoria/types.e,0.42171395758
+/samples/F#/Combinators.fs,0.40689647557999997
+/samples/F#/JsonFormat.fs,0.40654331958
+/samples/F#/JsonReader.fs,0.41043550358
+/samples/F#/JsonSerializer.fs,0.41039158958
+/samples/F#/JsonWriter.fs,0.41963902058
+/samples/F#/PerformanceTesters.fs,0.41016842358
+/samples/F#/PerformanceTests.fs,0.41363905958
+/samples/F#/sample.fs,0.40572141958
+/samples/FIGlet Font/ivrit.flf,0.39872781458
+/samples/FIRRTL/LFSR.fir,0.39010312058
+/samples/FIRRTL/Memory.fir,0.39667999657999997
+/samples/FLUX/gameserver.fx,0.59086737158
+/samples/FLUX/imageserver.fx,0.5860714005800001
+/samples/FLUX/mbittorrent.fx,0.6069570185800001
+/samples/FLUX/test.fx,0.5922189545800001
+/samples/Fantom/sample1.fan,0.39249407458
+/samples/Fantom/sample2.fan,0.38883840058
+/samples/Faust/FFT.dsp,0.40516044758
+/samples/Faust/lowCut.dsp,0.41141715758
+/samples/Fennel/repl.fnl,0.40204267258
+/samples/Fennel/utils.fnl,0.39656210358
+/samples/Filebench WML/copyfiles.f,0.40762930258
+/samples/Filterscript/colormatrix.fs,0.41843267358
+/samples/Filterscript/fs_kernel.fs,0.41521283958
+/samples/Fluent/call_expressions.ftl,0.41337850258
+/samples/Fluent/callee_expressions.ftl,0.40635420058
+/samples/Fluent/gecko_strings.ftl,0.41518978558
+/samples/Fluent/select_indent.ftl,0.41322892258
+/samples/Fluent/simple.ftl,0.40412007558
+/samples/Formatted/NiAlH_jea.eam.fs,0.41528354258
+/samples/Formatted/long_seq.for,0.60397691458
+/samples/Formatted/wksst8110.for,0.61067636658
+/samples/Forth/KataDiversion.fth,0.39206950158
+/samples/Forth/asm.fr,0.41228934658
+/samples/Forth/bitmap.frt,0.39572688858
+/samples/Forth/block.fth,0.39877093458
+/samples/Forth/core-ext.fth,0.39425215558
+/samples/Forth/core.f,0.41441853558
+/samples/Forth/core.for,0.41008698058
+/samples/Forth/core.fs,0.41514499058
+/samples/Forth/core.fth,0.39322743058
+/samples/Forth/core1.F,0.41554320558
+/samples/Forth/enum.frt,0.39284112658
+/samples/Forth/hello-forth.forth,0.38975956458
+/samples/Forth/hello-forth.fth,0.38976372658
+/samples/Forth/macros.frt,0.39644681858
+/samples/Forth/tools.4TH,0.39207189358
+/samples/Forth/tools.fth,0.39114652358
+/samples/Fortran/bug-185631.f,0.40828396858
+/samples/Fortran/sample1.f,0.40945295858
+/samples/Fortran/sample1.for,0.40843715958
+/samples/Fortran/sample2.f,0.40848984658
+/samples/Fortran/sample3.F,0.41189549458
+/samples/FreeBASIC/WinGUI template.bi,0.39188849958
+/samples/FreeBASIC/array_clearobj.bas,0.40870887058
+/samples/FreeBASIC/ir.bas,0.41110787658
+/samples/FreeBASIC/makescript.bas,0.40809855758
+/samples/FreeMarker/example.ftl,0.40696451858
+/samples/FreeMarker/layout.ftl,0.40886195158
+/samples/Frege/CommandLineClock.fr,0.40762520158
+/samples/Frege/Concurrent.fr,0.41681202258
+/samples/Frege/Sudoku.fr,0.41371831258
+/samples/Frege/SwingExamples.fr,0.41912469458
+/samples/Fstar/FStar.DependentMap.fsti,0.39377708158
+/samples/Fstar/Hacl.HKDF.fst,0.39509244958
+/samples/Fstar/Hacl.Spec.Bignum.Fmul.fst,0.40106498258
+/samples/Futhark/gaussian_blur.fut,0.39588043858
+/samples/G-code/duettest.g,0.40989324358
+/samples/G-code/ghLogo.cnc,0.39604998958
+/samples/G-code/square.g,0.41002163158
+/samples/GAML/3dTutorial.gaml,0.39447729858
+/samples/GAML/bdiAgents.gaml,0.39832874358
+/samples/GAML/incrementalGIS.gaml,0.39638321858
+/samples/GAML/luneraysFlu.gaml,0.39444995858
+/samples/GAML/predatorPrey.gaml,0.40023025557999997
+/samples/GAML/roadTraffic.gaml,0.39297826258
+/samples/GAMS/transport.gms,0.39472987858
+/samples/GAP/Magic.gd,0.41742429858
+/samples/GAP/Magic.gi,0.39973637157999997
+/samples/GAP/PackageInfo.g,0.41525293858
+/samples/GAP/bugfix.tst,0.41876180658
+/samples/GAP/example.gd,0.40968502658
+/samples/GAP/example.gi,0.39602497058
+/samples/GAP/factor.tst,0.40693167858
+/samples/GAP/vspc.gd,0.41741888858
+/samples/GAP/vspc.gi,0.40017120558
+/samples/GCC Machine Description/pdp10.md,0.42689139958
+/samples/GDB/as3.gdbinit,0.39916567658
+/samples/GDB/gdb_lpc17xx_program.gdb,0.39578003858
+/samples/GDScript/example.gd,0.41049176058
+/samples/GDScript/grid.gd,0.41508183358
+/samples/GDScript/player.gd,0.41311812558
+/samples/GDScript/pong.gd,0.40894347758
+/samples/GEDCOM/Royal92.ged,0.44436285758
+/samples/GLSL/SimpleLighting.gl2.frag,0.5977853915800001
+/samples/GLSL/SyLens.glsl,0.39358692258
+/samples/GLSL/SyLens.shader,0.6022968875800001
+/samples/GLSL/blend_120.glslf,0.39423668458
+/samples/GLSL/closesthit.rchit,0.39489558858
+/samples/GLSL/extrude_normals.gs,0.40786929158
+/samples/GLSL/gbuffers_textured_lit.fsh,0.39050180658
+/samples/GLSL/gbuffers_textured_lit.vsh,0.39863163358
+/samples/GLSL/islandScene.glsl,0.39563118658
+/samples/GLSL/islandScene.shader,0.6057826005800001
+/samples/GLSL/main.vs,0.39574446658
+/samples/GLSL/miss.rmiss,0.39478051658
+/samples/GLSL/myfragment.frg,0.39538004258
+/samples/GLSL/myvertex.vrx,0.39368007558
+/samples/GLSL/pntriangles.tesc,0.39255279358
+/samples/GLSL/pntriangles.tese,0.39118627958
+/samples/GLSL/project.vs,0.39271252858
+/samples/GLSL/recurse1.frag,0.58700991158
+/samples/GLSL/recurse1.fs,0.41282623558
+/samples/GLSL/shader.fp,0.39827303258
+/samples/GN/BUILD.2.gn,0.39065763358
+/samples/GN/BUILD.3.gn,0.40113537058
+/samples/GN/BUILD.gn,0.40513743558
+/samples/GN/android-rules.gni,0.41667123058
+/samples/GN/clang.gni,0.39432512058
+/samples/GN/filenames/.gn,0.39296062058
+/samples/GN/gcc_toolchain.gni,0.40249385858
+/samples/GN/icu.gn,0.39478364358
+/samples/GN/internal_rules.gni,0.41341517158
+/samples/GN/ios-rules.gni,0.40225693658
+/samples/GN/isolate.gni,0.39599081758
+/samples/GSC/_spiderbot_ride.csc,0.39362140757999997
+/samples/GSC/array_override_common.gsc,0.40242953658
+/samples/GSC/array_override_common.gsh,0.39471818958
+/samples/GSC/math_shared.gsc,0.39649798858
+/samples/GSC/struct.gsc,0.39871540758
+/samples/GSC/zm_init.gsc,0.39888327858
+/samples/Game Maker Language/GMLmenus.gml,0.41434617358
+/samples/Game Maker Language/_piwikCacheRequest.gml,0.41508318058
+/samples/Game Maker Language/_piwikSendBasicReq.gml,0.41338548858
+/samples/Game Maker Language/_piwikSendReq.gml,0.41344290058
+/samples/Game Maker Language/characterDrawEvent.gml,0.41053895558
+/samples/Game Maker Language/characterStepEvent.gml,0.41893832458
+/samples/Game Maker Language/draw_menu.gml,0.41663516758
+/samples/Game Maker Language/faucet-http.gml,0.42298766158
+/samples/Game Maker Language/jsonion.gml,0.42105526258
+/samples/Game Maker Language/jsonion_test.gml,0.41891207458
+/samples/Game Maker Language/scrInitLevel.gml,0.41430223758
+/samples/Gemfile.lock/filenames/Gemfile.lock,0.39573748858
+/samples/Gemini/instructions.gmi,0.39680143458
+/samples/Genero 4gl/books1.4gl,0.39491908958
+/samples/Genero 4gl/webserv1.4gl,0.39561709658
+/samples/Genero 4gl/webserv1_api.4gl,0.39125083058
+/samples/Genero per/books1.per,0.39492922858
+/samples/Genie/Class.gs,0.57970079058
+/samples/Genie/Hello.gs,0.5770198805800001
+/samples/Genie/IDataLoader.gs,0.40733232558
+/samples/Genie/web.gs,0.40905975658
+/samples/Gerber Image/AGV_GPIO.gml,0.41271163158
+/samples/Gerber Image/FelinaePurr-B.Cu.gbl,0.39288775358
+/samples/Gerber Image/FelinaePurr-B.Mask.gbs,0.39035221558
+/samples/Gerber Image/FelinaePurr-B.SilkS.gbo,0.39814909358
+/samples/Gerber Image/FelinaePurr-F.Cu.gtl,0.40222587358
+/samples/Gerber Image/FelinaePurr-F.Mask.gts,0.41866139058
+/samples/Gerber Image/FelinaePurr-F.Paste.gtp,0.39105583158
+/samples/Gerber Image/FelinaePurr-F.SilkS.gto,0.40208384058
+/samples/Gerber Image/GOLMain_RevA-B.Paste.gbp,0.39431865958
+/samples/Gerber Image/LIDARLite.ncl,0.40884386558
+/samples/Gerber Image/nonaprs_contour.gko,0.39913196058
+/samples/Gerber Image/simonShield-B.Cu.gbr,0.40402403158
+/samples/Gerber Image/simonShield-B.Mask.gbr,0.40156608758
+/samples/Gerber Image/simonShield-Edge.Cuts.gbr,0.39775482258
+/samples/Gerber Image/simonShield-F.Cu.gbr,0.39554447058
+/samples/Gerber Image/simonShield-F.Mask.gbr,0.40086077158
+/samples/Gerber Image/simonShield-F.SilkS.gbr,0.40096824858
+/samples/Gerber Image/simonShield-drl_map.gbr,0.41278395058
+/samples/Gherkin/resources.story,0.39620178658
+/samples/Gherkin/tables.feature,0.39386612058
+/samples/Git Attributes/filenames/.gitattributes,0.39502215458
+/samples/Git Config/aliases.gitconfig,0.39639787858
+/samples/Git Config/filenames/.gitconfig,0.39664282358
+/samples/Git Config/filenames/.gitmodules,0.39394039358
+/samples/Git Revision List/filenames/.git-blame-ignore-revs,0.39547945958
+/samples/Gleam/contributor.gleam,0.40057238058
+/samples/Gleam/websocket.gleam,0.39690265158
+/samples/Glimmer JS/class.gjs,0.39091724258
+/samples/Glimmer JS/template-only.gjs,0.39444742158
+/samples/Glimmer TS/class.gts,0.41314057458
+/samples/Glimmer TS/template-only.gts,0.41880799758
+/samples/Glyph Bitmap Distribution Format/bitbuntu.bdf,0.40422977958
+/samples/Gnuplot/dashcolor.1.gnu,0.39074167858
+/samples/Gnuplot/defense_plotter.p,0.40971027358
+/samples/Gnuplot/defense_plotter.plt,0.5993087075800001
+/samples/Gnuplot/histograms.2.gnu,0.39335367058
+/samples/Gnuplot/rates.gp,0.39294211458
+/samples/Gnuplot/surface1.16.gnu,0.39188892558
+/samples/Gnuplot/surface1.17.gnu,0.39297346458
+/samples/Gnuplot/world2.1.gnu,0.39265484458
+/samples/Go Checksums/filenames/go.sum,0.40137471858
+/samples/Go Checksums/filenames/go.work.sum,0.39787607358
+/samples/Go Module/filenames/go.mod,0.39062810158
+/samples/Go Workspace/filenames/go.work,0.40318243257999997
+/samples/Go/api.pb.go,0.40205676358
+/samples/Go/embedded.go,0.41723599258
+/samples/Go/gen-go-linguist-thrift.go,0.39228861058
+/samples/Go/oapi-codegen.go,0.39690699158
+/samples/Godot Resource/Main.tscn,0.39368644058
+/samples/Godot Resource/Server.gdns,0.39367542958
+/samples/Godot Resource/default.tres,0.39298901958
+/samples/Godot Resource/filenames/project.godot,0.39030616758
+/samples/Godot Resource/signals_library.gdnlib,0.39430201257999997
+/samples/Golo/adapters.golo,0.39402952158
+/samples/Golo/async.golo,0.39422321558
+/samples/Golo/augmentations.golo,0.39545619558
+/samples/Golo/closures.golo,0.39160006558
+/samples/Golo/coin-change.golo,0.39409043758
+/samples/Golo/collection-literals.golo,0.39232653158
+/samples/Golo/context-decorator.golo,0.39508497058
+/samples/Golo/decorators.golo,0.39651883258
+/samples/Golo/dynamic-evaluation.golo,0.39452290458
+/samples/Golo/dynamic-object-person.golo,0.39382082158
+/samples/Golo/echo-args.golo,0.39611893257999997
+/samples/Golo/enums-thread-state.golo,0.39273259758
+/samples/Golo/fibonacci.golo,0.39609699258
+/samples/Golo/helloworld.golo,0.39550407058
+/samples/Golo/http-server.golo,0.39224701358
+/samples/Golo/logdeco.golo,0.39335259758
+/samples/Golo/matching-operator.golo,0.39450431858
+/samples/Golo/max-int.golo,0.39156968158
+/samples/Golo/memoize.golo,0.39300583758
+/samples/Golo/null-safety.golo,0.39952606558
+/samples/Golo/prepost-decorators.golo,0.39325383658
+/samples/Golo/structs.golo,0.39068668357999997
+/samples/Golo/swing-actionlistener.golo,0.39304437858
+/samples/Golo/swing-helloworld.golo,0.39211619358
+/samples/Golo/templates-chat-webapp.golo,0.39673938158
+/samples/Golo/util-containers.golo,0.39655127858
+/samples/Golo/workers.golo,0.39105274058
+/samples/Gosu/Hello.gst,0.5792147265800001
+/samples/Gosu/Hello.gsx,0.39525208558
+/samples/Gosu/Person.gs,0.40871074958
+/samples/Gosu/Ronin.gs,0.41182756358
+/samples/Gosu/hello.vark,0.39513041558
+/samples/Grace/ackerman_function.grace,0.39187000358
+/samples/Grace/grace_IDE.grace,0.40264988258
+/samples/Gradle Kotlin DSL/build.gradle.kts,0.39884239558
+/samples/Gradle/build.gradle,0.39562751858
+/samples/Gradle/builder.gradle,0.39482071058
+/samples/Grammatical Framework/Foods.gf,0.39384774458
+/samples/Grammatical Framework/FoodsAfr.gf,0.40287521358
+/samples/Grammatical Framework/FoodsAmh.gf,0.39636596758
+/samples/Grammatical Framework/FoodsBul.gf,0.39002669758
+/samples/Grammatical Framework/FoodsCat.gf,0.39182415158
+/samples/Grammatical Framework/FoodsChi.gf,0.39501344958
+/samples/Grammatical Framework/FoodsCze.gf,0.39215570758
+/samples/Grammatical Framework/FoodsDut.gf,0.38986067258
+/samples/Grammatical Framework/FoodsEng.gf,0.39796855058
+/samples/Grammatical Framework/FoodsEpo.gf,0.38919470058
+/samples/Grammatical Framework/FoodsFin.gf,0.39363453258
+/samples/Grammatical Framework/FoodsFre.gf,0.39577669058
+/samples/Grammatical Framework/FoodsGer.gf,0.39173359758
+/samples/Grammatical Framework/FoodsHeb.gf,0.40406229958
+/samples/Grammatical Framework/FoodsHin.gf,0.39354552858
+/samples/Grammatical Framework/FoodsI.gf,0.39334576258
+/samples/Grammatical Framework/FoodsIce.gf,0.39574067258
+/samples/Grammatical Framework/FoodsIta.gf,0.39266676558
+/samples/Grammatical Framework/FoodsJpn.gf,0.39555926558
+/samples/Grammatical Framework/FoodsLav.gf,0.39137487258
+/samples/Grammatical Framework/FoodsMlt.gf,0.39568081358
+/samples/Grammatical Framework/FoodsMon.gf,0.39438851358
+/samples/Grammatical Framework/FoodsNep.gf,0.39390706358
+/samples/Grammatical Framework/FoodsOri.gf,0.39253213057999997
+/samples/Grammatical Framework/FoodsPes.gf,0.39710886758
+/samples/Grammatical Framework/FoodsPor.gf,0.40097099158
+/samples/Grammatical Framework/FoodsRon.gf,0.39389973458
+/samples/Grammatical Framework/FoodsSpa.gf,0.39154936658
+/samples/Grammatical Framework/FoodsSwe.gf,0.39131246658
+/samples/Grammatical Framework/FoodsTha.gf,0.39086258758
+/samples/Grammatical Framework/FoodsTsn.gf,0.39218695858
+/samples/Grammatical Framework/FoodsTur.gf,0.39337214558
+/samples/Grammatical Framework/FoodsUrd.gf,0.39180372558
+/samples/Grammatical Framework/LexFoods.gf,0.39672670158
+/samples/Grammatical Framework/LexFoodsCat.gf,0.39544676458
+/samples/Grammatical Framework/LexFoodsFin.gf,0.39176433658
+/samples/Grammatical Framework/LexFoodsGer.gf,0.39557570158
+/samples/Grammatical Framework/LexFoodsIta.gf,0.39127101458
+/samples/Grammatical Framework/LexFoodsSwe.gf,0.39170502958
+/samples/Grammatical Framework/ResCze.gf,0.39745067458
+/samples/Grammatical Framework/transFoodsHin.gf,0.39413165458
+/samples/Graph Modeling Language/sample.gml,0.40657378058
+/samples/Graph Modeling Language/sample2.gml,0.40797525758
+/samples/Graph Modeling Language/sample3.gml,0.40684741058
+/samples/GraphQL/kitchen-sink.graphql,0.39491813658
+/samples/GraphQL/schema-kitchen-sink.graphql,0.39394389658
+/samples/GraphQL/schema-kitchen-sink.graphqls,0.39518390358
+/samples/GraphQL/schema.graphqls,0.40196183058
+/samples/Graphviz (DOT)/annoying.DOT,0.40201788958
+/samples/Graphviz (DOT)/sample.dot,0.38952673258
+/samples/Groovy Server Pages/bar.gsp,0.38976545258
+/samples/Groovy Server Pages/hello-pagedirective.gsp,0.39591426658
+/samples/Groovy Server Pages/hello-resources.gsp,0.39520368558
+/samples/Groovy Server Pages/hello-var.gsp,0.39525715158
+/samples/Groovy/build.gvy,0.39145827758
+/samples/Groovy/filenames/Jenkinsfile,0.39335719858
+/samples/Groovy/groovy,0.39808849058
+/samples/Groovy/script.gvy,0.39195222658
+/samples/Groovy/template.grt,0.39150947058
+/samples/Groovy/template.gtpl,0.39201550058
+/samples/HAProxy/haproxy.cfg,0.38905324658
+/samples/HAProxy/haproxy2.cfg,0.58767377458
+/samples/HAProxy/haproxy3.cfg,0.59047817558
+/samples/HAProxy/haproxy4.cfg,0.6054872065800001
+/samples/HCL/example.hcl,0.39010232358
+/samples/HCL/example.nomad,0.39619597958
+/samples/HCL/example.tf,0.39406027758
+/samples/HCL/main.tf,0.39990820658
+/samples/HCL/main.workflow,0.5906770235800001
+/samples/HCL/terraform.tfvars,0.39413009858
+/samples/HLSL/accelerated_surface_win.hlsl,0.39451161258
+/samples/HLSL/bloom.cginc,0.39453042258
+/samples/HLSL/corridor.fx,0.60554910658
+/samples/HLSL/jellyfish.fx,0.6046463165800001
+/samples/HLSL/noise.fx,0.58722267758
+/samples/HOCON/application.hocon,0.39205186558
+/samples/HOCON/filenames/.scalafix.conf,0.39407605558
+/samples/HOCON/filenames/.scalafmt.conf,0.39208563258
+/samples/HOCON/stream-collector.hocon,0.40143011458
+/samples/HTML+ECR/greeting.ecr,0.39690673158
+/samples/HTML+EEX/index.html.eex,0.39151597058
+/samples/HTML+EEX/live_component.html.heex,0.39927427658
+/samples/HTML+EEX/live_component.html.leex,0.39193751458
+/samples/HTML+ERB/fishbowl.html.erb.deface,0.39584415958
+/samples/HTML+ERB/index.html.erb,0.40058177358
+/samples/HTML+ERB/index.rhtml,0.39235457358
+/samples/HTML+Razor/Index.cshtml,0.39081081858
+/samples/HTML+Razor/Index.razor,0.39374356758
+/samples/HTML/Crear_logo.hta,0.39554064358
+/samples/HTML/example.xht,0.39597061258
+/samples/HTML/index.html.hl,0.39804311658
+/samples/HTML/pages.html,0.40347917858
+/samples/HTML/pkgdown.html,0.41378318858
+/samples/HTML/rpanel.inc,0.5993094895800001
+/samples/HTML/tailDel.inc,0.57582158258
+/samples/HTML/wehaveoddjobs.hta,0.38858951658
+/samples/HXML/checkstyle.hxml,0.39114390758
+/samples/HXML/vshaxe.hxml,0.39421763858
+/samples/Hack/Assert.hh,0.41215493858
+/samples/Hack/AssertRecipe.hh,0.41376090958
+/samples/Hack/Controller.hh,0.40386174058
+/samples/Hack/DBResultRecipe.hh,0.41279613158
+/samples/Hack/Documentation.hh,0.41073404658
+/samples/Hack/FakeDB.hh,0.41256671058
+/samples/Hack/GetAndPostRecipe.hh,0.41174728958
+/samples/Hack/GetController.hh,0.40952068058
+/samples/Hack/HomeController.hh,0.40527850258
+/samples/Hack/Map.hhi,0.39853899458
+/samples/Hack/MySecureRequest.hh,0.40437969258
+/samples/Hack/Nav.hh,0.41354833458
+/samples/Hack/NonStrictFile.hh,0.41142255358
+/samples/Hack/Recipe.hh,0.41352103258
+/samples/Hack/RecipeWithDemo.hh,0.41172473658
+/samples/Hack/Request.hh,0.40498195558
+/samples/Hack/StandardPage.hh,0.41249655258
+/samples/Hack/StrictFile.hh,0.41170015058
+/samples/Hack/UnescapedString.hh,0.40087958958
+/samples/Hack/UnescapedStringRecipe.hh,0.41655028058
+/samples/Hack/UserID.hh,0.40271761958
+/samples/Hack/UserIDRecipe.hh,0.41080254158
+/samples/Hack/UsingUserID.hh,0.40665551658
+/samples/Hack/error.hh,0.40888109458
+/samples/Hack/first.hack,0.39033033658
+/samples/Hack/funs.hh,0.40796894158
+/samples/Hack/funs.php,0.40853518658
+/samples/Hack/index.hh,0.40982767658
+/samples/Hack/phpfile.hh,0.41117703758
+/samples/Hack/startup.hh,0.41717818558
+/samples/Haml/buttons.html.haml.deface,0.38905060258
+/samples/Haml/hello.haml,0.39434648758
+/samples/Handlebars/basic.handlebars,0.39660195258
+/samples/Handlebars/each.hbs,0.39478526358
+/samples/Hare/contains.ha,0.39442550258
+/samples/Hare/iter.ha,0.39718381358
+/samples/Hare/types.ha,0.39986581758
+/samples/Haskell/Hello.hs,0.39674085258
+/samples/Haskell/HsColour.hs,0.39703358358
+/samples/Haskell/Main.hs,0.39405498758
+/samples/Haskell/Sudoku.hs,0.39644007258
+/samples/Haskell/maze-solving.hs,0.38951872758
+/samples/HiveQL/mi.q,0.40275079258
+/samples/HiveQL/query.hql,0.39071064158
+/samples/HolyC/GrAsm.HC,0.39702661558
+/samples/HolyC/OnceDemo.HC,0.39254735858
+/samples/HolyC/Prompt.HC,0.39460756658
+/samples/HolyC/RandDemo.HC,0.39373459458
+/samples/HolyC/Spy.HC,0.39345573458
+/samples/Hosts File/filenames/hosts,0.59197403658
+/samples/Hosts File/filenames/hosts.txt,0.39818882858
+/samples/Hy/fibonacci.hy,0.39511043158
+/samples/Hy/fizzbuzz,0.39578884958
+/samples/Hy/hello-world.hy,0.39756087058
+/samples/HyPhy/AAModelComparison.bf,0.41501989658
+/samples/HyPhy/CodonModelCompare.bf,0.41208410858
+/samples/HyPhy/MFPositiveSelection.bf,0.41269286058
+/samples/HyPhy/MatrixIndexing.bf,0.41078051858
+/samples/HyPhy/MolecularClock.bf,0.41261021658
+/samples/HyPhy/dNdSDistributionComparison.bf,0.41937081658
+/samples/HyPhy/hyphy_cmds.bf,0.44360975158
+/samples/HyPhy/profile_test.bf,0.41284936758
+/samples/IDL/amespahdbidlsuite_spectrum__define.pro,0.42661430658
+/samples/IDL/mg_acosh.pro,0.40284038858
+/samples/IDL/mg_analysis.dlm,0.39155701558
+/samples/IDL/mg_gcd.pro,0.41141152058
+/samples/IDL/mg_trunc.pro,0.41186090758
+/samples/IGOR Pro/CodeBrowser.ipf,0.39710890558
+/samples/IGOR Pro/functions.ipf,0.39912106758
+/samples/IGOR Pro/generic.ipf,0.39297050258
+/samples/INI/MouseKeyboard.pro,0.41169096858
+/samples/INI/TOVR.dof,0.39165831758
+/samples/INI/defaults.properties,0.41414697458
+/samples/INI/filenames/.buckconfig,0.39232741258
+/samples/INI/filenames/.coveragerc,0.39306174458
+/samples/INI/filenames/.flake8,0.39121305558
+/samples/INI/filenames/.pylintrc,0.38988304858
+/samples/INI/filenames/buildozer.spec,0.40258166958
+/samples/INI/filenames/hosts,0.58728259658
+/samples/INI/filenames/pylintrc,0.39414367658
+/samples/INI/filenames/vlcrc,0.40097801458
+/samples/INI/ms.cfg,0.5764950015800001
+/samples/INI/ms.properties,0.40907438558
+/samples/INI/my.cnf,0.39327346558
+/samples/INI/openssl.cnf,0.39725280458
+/samples/INI/spyder_website.lektorproject,0.39525361758
+/samples/INI/ultimate-temp-controller.pro,0.41238525158
+/samples/Idris/Chars.idr,0.39582970958
+/samples/Ignore List/Finale.gitignore,0.39618788558
+/samples/Ignore List/filenames/.atomignore,0.39100096658
+/samples/Ignore List/filenames/.babelignore,0.39519603958
+/samples/Ignore List/filenames/.bzrignore,0.39248291558
+/samples/Ignore List/filenames/.coffeelintignore,0.38760479558
+/samples/Ignore List/filenames/.cvsignore,0.39322526658
+/samples/Ignore List/filenames/.dockerignore,0.39611150158
+/samples/Ignore List/filenames/.easignore,0.38976192358
+/samples/Ignore List/filenames/.eleventyignore,0.39350741358
+/samples/Ignore List/filenames/.eslintignore,0.39459663758
+/samples/Ignore List/filenames/.gitignore,0.39067769158
+/samples/Ignore List/filenames/.ignore,0.39315743458
+/samples/Ignore List/filenames/.markdownlintignore,0.39144504958
+/samples/Ignore List/filenames/.nodemonignore,0.39317853758
+/samples/Ignore List/filenames/.npmignore,0.38988485558
+/samples/Ignore List/filenames/.prettierignore,0.39362802458
+/samples/Ignore List/filenames/.stylelintignore,0.39460583058
+/samples/Ignore List/filenames/.vercelignore,0.38853673358
+/samples/Ignore List/filenames/.vscodeignore,0.39393229458
+/samples/Ignore List/filenames/gitignore-global,0.39067041258
+/samples/Ignore List/filenames/gitignore_global,0.39128001058
+/samples/ImageJ Macro/batch of ratiometric FRET using IO settings.ijm,0.39025766858
+/samples/ImageJ Macro/simple.ijm,0.39306749858
+/samples/Imba/main.imba,0.39032009958
+/samples/Inform 7/Trivial Extension.i7x,0.39660973158
+/samples/Inform 7/story.ni,0.39627792758
+/samples/Ink/murder_scene.ink,0.39739793358
+/samples/Ink/print_number.ink,0.39444344558
+/samples/Ink/seen_this_scene.ink,0.39450761258
+/samples/Ink/string_to_list.ink,0.39465967858
+/samples/Ink/thread_in_tunnel.ink,0.39353370058
+/samples/Inno Setup/Default.isl,0.39709569258
+/samples/Inno Setup/expat.iss,0.39933863858
+/samples/Ioke/hello.ik,0.39515530358
+/samples/Isabelle ROOT/filenames/ROOT,0.41035134758
+/samples/Isabelle/HelloWorld.thy,0.39816929658
+/samples/J/hashbang,0.39648279658
+/samples/J/stwij.ijs,0.40101764758
+/samples/JAR Manifest/filenames/MANIFEST.MF,0.39153642158
+/samples/JCL/IEBCOPY.jcl,0.39358334858
+/samples/JCL/IEFBR14.jcl,0.39531114258
+/samples/JCL/IKJEFT01.jcl,0.39440160358
+/samples/JFlex/LexScan.flex,0.39710396058
+/samples/JFlex/java.jflex,0.39343321058
+/samples/JSON with Comments/AMPL.sublime-build,0.39026371758
+/samples/JSON with Comments/CLIPS.sublime-settings,0.39499568958
+/samples/JSON with Comments/Context.sublime-menu,0.39380039158
+/samples/JSON with Comments/Dart.sublime-commands,0.39284569158
+/samples/JSON with Comments/Dart.sublime-project,0.39108210458
+/samples/JSON with Comments/Default (Linux).sublime-mousemap,0.39446603658
+/samples/JSON with Comments/Default.sublime-keymap,0.39365111258
+/samples/JSON with Comments/JavaDoc Add Line.sublime-macro,0.39517750458
+/samples/JSON with Comments/Mariana.sublime-color-scheme,0.39385916158
+/samples/JSON with Comments/RunBuild.sublime-macro,0.39585069058
+/samples/JSON with Comments/SourcePawn.sublime-build,0.39665588958
+/samples/JSON with Comments/Tubnil.sublime-theme,0.40123548058
+/samples/JSON with Comments/coc.jsonc,0.39545590758
+/samples/JSON with Comments/filenames/.babelrc,0.39368433858
+/samples/JSON with Comments/filenames/.eslintrc.json,0.39381597258
+/samples/JSON with Comments/filenames/.jscsrc,0.39070477458
+/samples/JSON with Comments/filenames/.jshintrc,0.39246343158
+/samples/JSON with Comments/filenames/.jslintrc,0.39022778758
+/samples/JSON with Comments/filenames/.swcrc,0.39314865858
+/samples/JSON with Comments/filenames/devcontainer.json,0.39552918358
+/samples/JSON with Comments/filenames/jsconfig.json,0.38929924258
+/samples/JSON with Comments/filenames/language-configuration.json,0.39138606758
+/samples/JSON with Comments/filenames/tsconfig.json,0.39807919258
+/samples/JSON with Comments/filenames/tslint.json,0.39818767258
+/samples/JSON with Comments/jade.sublime-completions,0.40132094058
+/samples/JSON with Comments/plyr.code-workspace,0.39490115558
+/samples/JSON with Comments/vue.code-snippets,0.39441875758
+/samples/JSON/2ea73365-b6f1-4bd1-a454-d57a67e50684.yy,0.41358346158
+/samples/JSON/4DPopGit.4DProject,0.39097949158
+/samples/JSON/GMS2_Project.yyp,0.39497219158
+/samples/JSON/Git Commit.JSON-tmLanguage,0.39140038758
+/samples/JSON/Material_Alpha_01.gltf,0.39095811658
+/samples/JSON/VCT.yy,0.40517488358
+/samples/JSON/block-sync-counter8.ice,0.40938140958
+/samples/JSON/code-scanning.sarif,0.39920574858
+/samples/JSON/filenames/.all-contributorsrc,0.39626452958
+/samples/JSON/filenames/.arcconfig,0.38937332958
+/samples/JSON/filenames/.htmlhintrc,0.39161670258
+/samples/JSON/filenames/.imgbotconfig,0.39032100158
+/samples/JSON/filenames/.tern-config,0.39009818758
+/samples/JSON/filenames/.tern-project,0.38917575358
+/samples/JSON/filenames/.watchmanconfig,0.39164416658
+/samples/JSON/filenames/MODULE.bazel.lock,0.39547576557999997
+/samples/JSON/filenames/Pipfile.lock,0.39061300258
+/samples/JSON/filenames/composer.lock,0.39311018458
+/samples/JSON/filenames/deno.lock,0.39408701458
+/samples/JSON/filenames/flake.lock,0.39244104658
+/samples/JSON/filenames/mcmod.info,0.39149123258
+/samples/JSON/form.4DForm,0.39759658358
+/samples/JSON/geo.geojson,0.39020051158
+/samples/JSON/google-services.json.example,0.38812533458
+/samples/JSON/http_response.avsc,0.39265699258
+/samples/JSON/landing.tact,0.40691421958
+/samples/JSON/manifest.webapp,0.38981411458
+/samples/JSON/manifest.webmanifest,0.39004707758
+/samples/JSON/pack.mcmeta,0.39345245358
+/samples/JSON/person.json,0.40748771458
+/samples/JSON/product.json,0.40697785358
+/samples/JSON/recording.har,0.39011352658
+/samples/JSON/schema.json,0.40489346758
+/samples/JSON/small.tfstate,0.39186287858
+/samples/JSON/switzerland.topojson,0.39700721758
+/samples/JSON/terraform.tfstate.backup,0.39463429758
+/samples/JSON5/example.json5,0.39314991158
+/samples/JSON5/package.json5,0.39434659358
+/samples/JSONLD/sample.jsonld,0.39363363458
+/samples/JSONiq/detail.jq,0.5881822895800001
+/samples/JSONiq/query.jq,0.5777618465800001
+/samples/Janet/lazyseqs.janet,0.39630051658
+/samples/Janet/life.janet,0.39033548958
+/samples/Janet/tarray.janet,0.39042620458
+/samples/Jasmin/if1.j,0.5875846945800001
+/samples/Jasmin/if2.j,0.6099577755800001
+/samples/Jasmin/if3.j,0.6015229225800001
+/samples/Jasmin/if4.j,0.59131636458
+/samples/Jasmin/op1.j,0.5895279095800001
+/samples/Jasmin/op2.j,0.6000424345800001
+/samples/Jasmin/op3.j,0.60376247258
+/samples/Jasmin/op4.j,0.5914365545800001
+/samples/Java Properties/libraries.properties,0.41479322358
+/samples/Java Properties/sounds.properties,0.40643845658
+/samples/Java Template Engine/baseLayout.jte,0.39050557758
+/samples/Java/FieldGen.jsh,0.40673584358
+/samples/Java/GrammarKit.java,0.40150784458
+/samples/Java/HtmlDomParserContext.java,0.40199568158
+/samples/Java/Hudson.java,0.39632500958
+/samples/Java/JFlexLexer.java,0.40170708958
+/samples/Java/NokogiriService.java,0.40630253258
+/samples/Java/ProtocolBuffer.java,0.39999151558
+/samples/Java/clojure-type.java,0.40175565858
+/samples/Java/clojure-util.java,0.39923682558
+/samples/Java/gen-java-linguist-thrift.java,0.40197628058
+/samples/Java/generated-jooq-table.java,0.39681279258
+/samples/JavaScript+ERB/create.js.erb,0.40269298758
+/samples/JavaScript/axios.es,0.41112931458
+/samples/JavaScript/bootstrap-modal.js,0.39422209558
+/samples/JavaScript/ccalc-lex.js,0.40356700758
+/samples/JavaScript/ccalc-parse.js,0.40625968258
+/samples/JavaScript/chart_composers.gs,0.5916219125800001
+/samples/JavaScript/classes-old.js,0.39111699858
+/samples/JavaScript/classes.js,0.39119585658
+/samples/JavaScript/constant_fold.mjs,0.40002590258
+/samples/JavaScript/dude.js,0.39109367558
+/samples/JavaScript/entry.mjs,0.39003099858
+/samples/JavaScript/gen-js-linguist-thrift.js,0.39446898858
+/samples/JavaScript/hello.js,0.39523374058
+/samples/JavaScript/helloHanaEndpoint.xsjs,0.39035602758
+/samples/JavaScript/helloHanaMath.xsjslib,0.39228490658
+/samples/JavaScript/http.js,0.40459268258
+/samples/JavaScript/index.es,0.40747537858
+/samples/JavaScript/intro-old.js,0.39262048358
+/samples/JavaScript/intro.js,0.39081862858
+/samples/JavaScript/intro.js.frag,0.5797328685800001
+/samples/JavaScript/itau.gs,0.6024249525800001
+/samples/JavaScript/jquery-1.4.2.min.js,0.39601093558
+/samples/JavaScript/jquery-1.6.1.js,0.42282418558
+/samples/JavaScript/jquery-1.6.1.min.js,0.39878957158
+/samples/JavaScript/jquery-1.7.2.js,0.42285030158
+/samples/JavaScript/js,0.39275207058
+/samples/JavaScript/js2,0.39159178058
+/samples/JavaScript/jsbuild.jsb,0.39009225858
+/samples/JavaScript/json2_backbone.js,0.40204094558
+/samples/JavaScript/logo.jscad,0.39162914358
+/samples/JavaScript/merge.js,0.39089378758
+/samples/JavaScript/modernizr.js,0.40282807758
+/samples/JavaScript/module.mjs,0.39309701058
+/samples/JavaScript/namespace.js,0.39136650358
+/samples/JavaScript/outro.js.frag,0.5756263195800001
+/samples/JavaScript/parser.js,0.40828671758
+/samples/JavaScript/proto.js,0.39026936058
+/samples/JavaScript/run,0.39242560158
+/samples/JavaScript/sample.jsx,0.39059023857999997
+/samples/JavaScript/steelseries-min.js,0.41352731258
+/samples/JavaScript/uglify.js,0.40655147358
+/samples/Jest Snapshot/css.test.tsx.snap,0.39650074258
+/samples/JetBrains MPS/baselanguage.mpl,0.39846864158
+/samples/JetBrains MPS/model.mps,0.39610372758
+/samples/JetBrains MPS/sandbox.msd,0.39268488658
+/samples/Jinja/home.j2,0.40179575458
+/samples/Jinja/worker.jinja2,0.38857805558
+/samples/Jison Lex/classy.jisonlex,0.39295804958
+/samples/Jison Lex/lex_grammar.jisonlex,0.39719103458
+/samples/Jison/ansic.jison,0.39587251757999997
+/samples/Jison/classy.jison,0.39106591158
+/samples/Jison/lex.jison,0.39451282958
+/samples/Jolie/common.iol,0.39725065658
+/samples/Jolie/exam.ol,0.39014328058
+/samples/Jolie/examiner.ol,0.39560382258
+/samples/Jolie/hanoi.ol,0.39094948558
+/samples/Jolie/student.ol,0.39435194558
+/samples/Jsonnet/intersection.jsonnet,0.39676848858
+/samples/Julia/julia,0.39400810358
+/samples/Julia/stockcorr.jl,0.39082071058
+/samples/Jupyter Notebook/JupyterNotebook.ipynb,0.40313438958
+/samples/Just/filenames/Justfile,0.39360438358
+/samples/Just/kitchen-sink.just,0.39352831958
+/samples/KRL/helloworld.krl,0.39259567858
+/samples/Kaitai Struct/iso9660.ksy,0.39479829758
+/samples/Kaitai Struct/zip.ksy,0.39381305258
+/samples/KakouneScript/c-family.kak,0.39645460858
+/samples/KakouneScript/doc.kak,0.39589455058
+/samples/KakouneScript/filenames/kakrc,0.39239307358
+/samples/KerboScript/hoverslam.ks,0.5776898915800001
+/samples/KerboScript/launch.ks,0.58468886358
+/samples/KerboScript/lib_pid.ks,0.5979146925800001
+/samples/KiCad Layout/C_Disc_D3_P2.5.kicad_mod,0.39441708658
+/samples/KiCad Layout/Conn_Poncho_SinBorde.kicad_mod,0.39828123858
+/samples/KiCad Layout/Fiducial_1mm.kicad_mod,0.39428622058
+/samples/KiCad Layout/LED-5MM.kicad_mod,0.39186400458
+/samples/KiCad Layout/Logo_OSHWA.kicad_mod,0.39013478358
+/samples/KiCad Layout/Logo_Poncho.kicad_mod,0.39144560558
+/samples/KiCad Layout/MagneticBuzzer_ProSignal_ABT-410-RC.kicad_mod,0.39464093958
+/samples/KiCad Layout/Pin_Header_Straight_2x02.kicad_mod,0.39996821658
+/samples/KiCad Layout/Pin_Header_Straight_2x20.kicad_mod,0.39385173658
+/samples/KiCad Layout/Resistor_Horizontal_RM7mm.kicad_mod,0.40084248058
+/samples/KiCad Layout/SW_PUSH_SMALL.kicad_mod,0.39485097158
+/samples/KiCad Layout/TO-92_Molded_Narrow.kicad_mod,0.39254436658
+/samples/KiCad Layout/filenames/fp-lib-table,0.39482039058
+/samples/KiCad Layout/kivicad.kicad_wks,0.39566886958
+/samples/KiCad Layout/nrf-bga.kicad_pcb,0.39795870558
+/samples/KiCad Layout/simonShield.kicad_pcb,0.40949006358
+/samples/KiCad Legacy Layout/tc14badge.brd,0.6200280155800001
+/samples/KiCad Schematic/Volume.sch,0.5947123225800001
+/samples/KiCad Schematic/buttons.sch,0.59741754958
+/samples/KiCad Schematic/buzzer.sch,0.58867414358
+/samples/KiCad Schematic/ciaaConector.sch,0.60822866358
+/samples/KiCad Schematic/gedda-junk.sch,0.5938564635800001
+/samples/KiCad Schematic/rpi-cm4-carrier-template.kicad_sch,0.39148513258
+/samples/KiCad Schematic/ultimate-temp-controller.sch,0.5913142035800001
+/samples/Kickstart/fedora-32-live-jam-xfce-pipewire.ks,0.60111470858
+/samples/Kickstart/mysql.ks,0.6015084805800001
+/samples/Kickstart/sample_end.ks,0.60337527158
+/samples/Kit/demo.kit,0.39756958658
+/samples/Kotlin/Foo.kt,0.39131321658
+/samples/Kusto/application_consent_or_assignment.kql,0.40093323658
+/samples/Kusto/example-create-sflogs-table.csl,0.40280749158
+/samples/Kusto/examples_traces.csl,0.41796655058
+/samples/Kusto/kusto-example-queries.csl,0.41391971558
+/samples/LFE/church.lfe,0.39007544158
+/samples/LFE/gps1.lfe,0.39111890058
+/samples/LFE/mnesia_demo.lfe,0.39485852458
+/samples/LFE/object.lfe,0.39680896058
+/samples/LOLCODE/LOLTracer.lol,0.39901814158
+/samples/LSL/LSL.lsl,0.39519053958
+/samples/LSL/LSL.lslp,0.39678246858
+/samples/LTspice Symbol/random-shapes.asy,0.41458222158
+/samples/LabVIEW/Actor Framework Fundamentals.lvproj,0.39534693658
+/samples/LabVIEW/Coffee Shop.lvlib,0.39140043558
+/samples/LabVIEW/Customer.lvlib,0.39475147458
+/samples/LabVIEW/Malleable VIs - Nested Malleable VIs.lvproj,0.39955190058
+/samples/LabVIEW/Malleable VIs Basics.lvproj,0.40136424658
+/samples/LabVIEW/PL Modbus Client.lvclass,0.39913075158
+/samples/LabVIEW/Person.lvlib,0.39206603958
+/samples/LabVIEW/Temperature Monitoring.lvproj,0.39765621458
+/samples/LabVIEW/Word Finder.lvproj,0.39145212458
+/samples/LabVIEW/Work Dispatcher.lvlib,0.39180376358
+/samples/LabVIEW/Worker.lvlib,0.39565358258
+/samples/Lark/ebl_atf.lark,0.39598603558
+/samples/Lark/ebl_atf_common.lark,0.39447981358
+/samples/Lark/lark.lark,0.39517030158
+/samples/Lasso/json.lasso,0.40013731258
+/samples/Lasso/json.lasso9,0.39996249058
+/samples/Lasso/knop.las,0.42466992558
+/samples/Latte/layout.latte,0.39206352458
+/samples/Latte/template.latte,0.39862608058
+/samples/Lean 4/BirthdayProblem.lean,0.41171449758
+/samples/Lean/binary.lean,0.41215236158
+/samples/Lean/set.hlean,0.39812097958
+/samples/Less/screen.less,0.38973167858
+/samples/Lex/filenames/Lexer.x,0.39992701658
+/samples/Lex/zend_ini_scanner.l,0.41736550558
+/samples/LigoLANG/FA1.2.ligo,0.39615496658
+/samples/Limbo/cat.b,0.59162866958
+/samples/Limbo/lock.b,0.5777183035800001
+/samples/Limbo/lock.m,0.40368189058
+/samples/Linker Script/filenames/ld.script,0.39190835858
+/samples/Linker Script/inject.x,0.40821385558
+/samples/Linker Script/link.ld,0.39872837658
+/samples/Linker Script/vmlinux.lds,0.39631686958
+/samples/Linux Kernel Module/bcm4334x.mod,0.5841205315800001
+/samples/Linux Kernel Module/mbcache.mod,0.57846613958
+/samples/Linux Kernel Module/md5.mod,0.5831682265800001
+/samples/Liquid/layout.liquid,0.39581031158
+/samples/Liquid/template.liquid,0.39585988158
+/samples/Literate Agda/NatCat.lagda,0.39239357858
+/samples/Literate CoffeeScript/pixi.coffee.md,0.39147490958
+/samples/Literate CoffeeScript/scope.litcoffee,0.39376945858
+/samples/LiveCode Script/colorToRGB.livecodescript,0.39088808858
+/samples/LiveCode Script/hideFolder.livecodescript,0.39568566258
+/samples/LiveCode Script/longIdAllControls.livecodescript,0.38988540358
+/samples/LiveCode Script/minifyScript.livecodescript,0.39399430858
+/samples/LiveScript/hello.ls,0.40855844358
+/samples/Logos/NCHax.x,0.41131358858
+/samples/Logos/NoCarrier.x,0.41128804658
+/samples/Logos/Tweak.x,0.41174403458
+/samples/Logos/example.xm,0.39089035058
+/samples/Logos/string1.x,0.57852257758
+/samples/Logtalk/foo.lgt,0.40086743558
+/samples/LookML/comments.view.lookml,0.39334173658
+/samples/LookML/example.model.lkml,0.39648272058
+/samples/LookML/example.view.lkml,0.39655934458
+/samples/LoomScript/HelloWorld.ls,0.40667752058
+/samples/LoomScript/SyntaxExercise.ls,0.41363844658
+/samples/Lua/filenames/.luacheckrc,0.39346063758
+/samples/Lua/h-counter.pd_lua,0.39187777558
+/samples/Lua/luatexts-0.1.2-1.rockspec,0.39251134358
+/samples/Lua/treegen.p8,0.39560030058
+/samples/Lua/vidya-file-list-parser.pd_lua,0.39349931658
+/samples/Lua/vidya-file-modder.pd_lua,0.39492613258
+/samples/Lua/wsapi.fcgi,0.39517952758
+/samples/Luau/EnumList.luau,0.39519474258
+/samples/Luau/Option.luau,0.39834766158
+/samples/Luau/Symbol.luau,0.39508766958
+/samples/Luau/Tree.luau,0.39628506158
+/samples/Luau/ser.luau,0.41083484058
+/samples/M/Comment.m,0.40664347558
+/samples/M/GMRGPNB0.m,0.41431461458
+/samples/M/MDB.m,0.42703279658
+/samples/M/PRCAAPR.m,0.40981967558
+/samples/M/PXAI.m,0.41276823458
+/samples/M/WVBRNOT.m,0.41801258658
+/samples/M/ZDIOUT1.m,0.41002537058
+/samples/M/_zewdAPI.m,0.41884325558
+/samples/M/_zewdDemo.m,0.41614500358
+/samples/M/arrays.m,0.5776522525800001
+/samples/M/base64.m,0.40864598558
+/samples/M/digest.m,0.40829874958
+/samples/M/dynamicscoping.m,0.40675169658
+/samples/M/fibonacci.m,0.57764003058
+/samples/M/forloop.m,0.57962278058
+/samples/M/functions.m,0.40847943458
+/samples/M/helloworld.m,0.5901447525800001
+/samples/M/ifelse.m,0.58752125458
+/samples/M/indirectfunctions.m,0.59351313758
+/samples/M/md5.m,0.41555028358
+/samples/M/mileage.m,0.57929957058
+/samples/M/mumtris.m,0.41158706258
+/samples/M/nesting.m,0.5805381275800001
+/samples/M/pcre.m,0.41236154358
+/samples/M/pcreexamples.m,0.41827080258
+/samples/M/postconditional.m,0.40702977758
+/samples/M/primes.m,0.40822456558
+/samples/M/url.m,0.40719655858
+/samples/M/zmwire.m,0.42730298558
+/samples/M4/fibo.m4,0.40818034458
+/samples/M4/htmlgen.m4,0.40940712058
+/samples/M4/postscript.m4,0.41265292558
+/samples/M4/sendmail.mc,0.41674431258
+/samples/M4/translit2.m4,0.41085201758
+/samples/M4Sugar/ax_ruby_devel.m4,0.41761005458
+/samples/M4Sugar/filenames/configure.ac,0.39438254058
+/samples/M4Sugar/list.m4,0.41186738758
+/samples/MATLAB/Check_plot.m,0.57806108858
+/samples/MATLAB/FTLEH.m,0.41428356558
+/samples/MATLAB/FTLE_reg.m,0.41488616758
+/samples/MATLAB/Integrate1.m,0.41143447558
+/samples/MATLAB/Integrate2.m,0.41273029158
+/samples/MATLAB/Lagr.m,0.40336666258
+/samples/MATLAB/Lagrangian_points.m,0.41129634658
+/samples/MATLAB/Poincare.m,0.41308324958
+/samples/MATLAB/RK4.m,0.40435055058
+/samples/MATLAB/Traj.m,0.41890579758
+/samples/MATLAB/adapting_structural_model.m,0.40992458158
+/samples/MATLAB/average.m,0.40857659158
+/samples/MATLAB/bicycle_state_space.m,0.41725652958
+/samples/MATLAB/convert_variable.m,0.40962623158
+/samples/MATLAB/create_ieee_paper_plots.m,0.41375113558
+/samples/MATLAB/cross_validation.m,0.41087960158
+/samples/MATLAB/distance.m,0.40523560158
+/samples/MATLAB/double_gyre.m,0.41395549458
+/samples/MATLAB/example.m,0.40632604358
+/samples/MATLAB/fit_adapt.m,0.40834469958
+/samples/MATLAB/fit_adapt_linear.m,0.41075091358
+/samples/MATLAB/gpu_RKF45_FILE.m,0.41568110658
+/samples/MATLAB/ieee.m,0.40765713758
+/samples/MATLAB/lane_change.m,0.41585050858
+/samples/MATLAB/load_bikes.m,0.40949428058
+/samples/MATLAB/load_data.m,0.40858718758
+/samples/MATLAB/make_filter.m,0.41139554658
+/samples/MATLAB/matlab_class.m,0.58846546958
+/samples/MATLAB/matlab_function.m,0.40755549858
+/samples/MATLAB/matlab_script.m,0.40904613358
+/samples/MATLAB/matlab_script2.m,0.40887319358
+/samples/MATLAB/normalize.m,0.58411183558
+/samples/MATLAB/overwrite_settings.m,0.40740308658
+/samples/MATLAB/par_text_to_struct.m,0.40500203658
+/samples/MATLAB/plant.m,0.41396160558
+/samples/MATLAB/test_rk_par.m,0.41377248058
+/samples/MATLAB/test_system_state_space.m,0.40820029858
+/samples/MATLAB/varargin_to_structure.m,0.41163964158
+/samples/MATLAB/write_gains.m,0.41307759958
+/samples/MAXScript/macro-1.mcr,0.38941215458
+/samples/MAXScript/macro-2.mcr,0.39118710458
+/samples/MAXScript/rolloutCreator.ms,0.41088564358
+/samples/MAXScript/svg-renderer.ms,0.40833929358
+/samples/MAXScript/volume-calc.ms,0.40790456958
+/samples/MDX/sample.mdx,0.39255186058
+/samples/MLIR/const-fold.mlir,0.39528163258
+/samples/MLIR/core-ops.mlir,0.39808084058
+/samples/MLIR/executor_to_control_dialect.mlir,0.39229726558
+/samples/MLIR/sample.mlir,0.39030099058
+/samples/MQL4/header-sample.mqh,0.59985038558
+/samples/MQL4/indicator-sample.mq4,0.39659290058
+/samples/MQL4/script-sample.mq4,0.39041041458
+/samples/MQL5/Regex.mqh,0.5972855085800001
+/samples/MQL5/indicator-sample.mq5,0.39801162158
+/samples/MQL5/script-sample.mq5,0.39218493058
+/samples/MTML/categories_to_columns.mtml,0.39876156658
+/samples/MUF/39.m,0.42122005158
+/samples/MUF/cmd-say.muf,0.40320572158
+/samples/Macaulay2/FGLM.m2,0.40197721158
+/samples/Makefile/file-icons.make,0.39641452158
+/samples/Makefile/filenames/BSDmakefile,0.39083777258
+/samples/Makefile/filenames/Kbuild,0.39446480658
+/samples/Makefile/filenames/Makefile,0.38953816958
+/samples/Makefile/filenames/Makefile.boot,0.39570847758
+/samples/Makefile/filenames/Makefile.frag,0.39183443358
+/samples/Makefile/filenames/Makefile.inc,0.39398194058
+/samples/Makefile/filenames/Makefile.wat,0.39733758658
+/samples/Makefile/filenames/makefile.sco,0.39458844658
+/samples/Makefile/filenames/mkfile,0.39043019558
+/samples/Makefile/foo.o.d,0.40356874758
+/samples/Makefile/makefile,0.39023731658
+/samples/Markdown/README.mdown,0.39383246358
+/samples/Markdown/bunyan.1.ronn,0.39781315658
+/samples/Markdown/csharp6.workbook,0.40306017558
+/samples/Markdown/filenames/contents.lr,0.39942353058
+/samples/Markdown/livebook.livemd,0.39451215758
+/samples/Markdown/minimal.md,0.40661020358
+/samples/Markdown/ronn-format.7.ronn,0.39815005258
+/samples/Markdown/ronn.1.ronn,0.39905343058
+/samples/Markdown/sway.5.scd,0.41990907958
+/samples/Markdown/tender.md,0.40704320558
+/samples/Marko/counter.marko,0.39416466558
+/samples/Marko/hello.marko,0.39390815858
+/samples/Marko/rgb-sliders.marko,0.39550527358
+/samples/Mask/view.mask,0.59023166658
+/samples/Mathematica/HeyexImport.m,0.41770271258
+/samples/Mathematica/Init.m,0.40551354758
+/samples/Mathematica/MiscCalculations.nb,0.5962722945800001
+/samples/Mathematica/MiscCalculations2.nb,0.6073086425800001
+/samples/Mathematica/PacletInfo.m,0.40842232358
+/samples/Mathematica/Predicates.m,0.40966580758
+/samples/Mathematica/Predicates.wl,0.39138830858
+/samples/Mathematica/Problem12.m,0.5768172385800001
+/samples/Mathematica/TestArithmetic.mt,0.38967280458
+/samples/Mathematica/TestString.mt,0.39301429858
+/samples/Mathematica/TestSuite.mt,0.39066004658
+/samples/Mathematica/UnitTest.wlt,0.39096989758
+/samples/Maven POM/filenames/pom.xml,0.39901711658
+/samples/Max/Hello.maxhelp,0.39982211358
+/samples/Max/Hello.maxpat,0.39673448358
+/samples/Max/Hello.mxt,0.38860044358
+/samples/Mercury/code_info.m,0.41923022158
+/samples/Mercury/expr.moo,0.6017235955800001
+/samples/Mercury/hello.m,0.41520275258
+/samples/Mercury/options.m,0.42605583858
+/samples/Mercury/polymorphism.m,0.42065550458
+/samples/Mercury/rot13_concise.m,0.41187023158
+/samples/Mercury/rot13_ralph.m,0.38988016858
+/samples/Mercury/rot13_verbose.m,0.41010720958
+/samples/Mercury/store.m,0.40505031358
+/samples/Mercury/switch_detection_bug.m,0.41674028958
+/samples/Mermaid/c4c-diagram.mermaid,0.39287443358
+/samples/Mermaid/class-diagram.mermaid,0.38961323458
+/samples/Mermaid/er-diagram.mmd,0.39052225358
+/samples/Mermaid/flowchart.mmd,0.39538091058
+/samples/Mermaid/gantt.mmd,0.39558544757999997
+/samples/Mermaid/gitgraph.mmd,0.39019515058
+/samples/Mermaid/pie-chart.mermaid,0.39387567158
+/samples/Mermaid/requirement-diagram.mermaid,0.39663980058
+/samples/Mermaid/sequence-diagram.mmd,0.40299804658
+/samples/Mermaid/state-diagram.mmd,0.38808225658
+/samples/Mermaid/user-journey.mmd,0.39258195958
+/samples/Meson/filenames/meson.build,0.39891008658
+/samples/Meson/filenames/meson_options.txt,0.39314546658
+/samples/Metal/ITMVisualisationEngine.metal,0.39328505358
+/samples/Microsoft Developer Studio Project/freeglut.dsp,0.43303005158
+/samples/Microsoft Visual Studio Solution/Radiant.sln,0.40419014958
+/samples/MiniYAML/chrome.yaml,0.41046446058
+/samples/MiniYAML/cursor.yaml,0.40776646258
+/samples/MiniYAML/mainmenu.yaml,0.40410440458
+/samples/MiniYAML/metrics.yaml,0.40946159858
+/samples/MiniYAML/metrics.yml,0.40655366658
+/samples/MiniYAML/mod.yaml,0.41188787258
+/samples/MiniYAML/notifications.yaml,0.40437386558
+/samples/MiniYAML/rules.yaml,0.40978194658
+/samples/MiniYAML/tileset.yaml,0.41837247658
+/samples/Mint/ApplicationStore.mint,0.39521966858
+/samples/Mint/Comment.mint,0.39995107558
+/samples/Mint/Counter.mint,0.39503532258
+/samples/Mint/HeaderTest.mint,0.39055842758
+/samples/Mint/InlineJS.mint,0.39118706558
+/samples/Mint/TodoItem.mint,0.38905465058
+/samples/Modelica/NestedPackages.mo,0.5904166955800001
+/samples/Modelica/NewtonCooling.mo,0.5890972535800001
+/samples/Modelica/Pendulum.mo,0.58631355758
+/samples/Modelica/RLC.mo,0.5890285715800001
+/samples/Modelica/SecondOrderSystem.mo,0.59031164158
+/samples/Modelica/System.mo,0.59033932858
+/samples/Modelica/Translational.mo,0.6078172845800001
+/samples/Modelica/modelica.mo,0.59448090358
+/samples/Modelica/package.mo,0.57522807058
+/samples/Modelica/package2.mo,0.5933070365800001
+/samples/Modelica/package3.mo,0.5852312455800001
+/samples/Modelica/package4.mo,0.5867363665800001
+/samples/Modula-2/HuffChan.mod,0.41045621358
+/samples/Modula-3/DiGraph.ig,0.40185284158
+/samples/Modula-3/DiGraph.mg,0.40729216458
+/samples/Modula-3/Rd.i3,0.40102354758
+/samples/Modula-3/Rd.m3,0.39987498058
+/samples/Modula-3/RdClass.i3,0.39391080658
+/samples/Module Management System/descrip.mms,0.40127480758
+/samples/Module Management System/openvms.mmk,0.40135168358
+/samples/Module Management System/simh_descrip.mms,0.40547058158
+/samples/Module Management System/spline_descrip.mms,0.39220939358
+/samples/Module Management System/xv_makefile.mms,0.39953462258
+/samples/Mojo/Bool.mojo,0.41093110158
+/samples/Mojo/Matmul.mojo,0.41572909658
+/samples/Monkey C/VesselModel.mc,0.41280641558
+/samples/Monkey/encodeToPng.monkey2,0.39657403658
+/samples/Monkey/example.monkey,0.39516903958
+/samples/Monkey/example.monkey2,0.39687146158
+/samples/Monkey/gui.monkey2,0.39492203558
+/samples/Monkey/sorting.monkey2,0.39502736358
+/samples/Moocode/hello.moo,0.5764823855800001
+/samples/Moocode/moocode_toolkit.moo,0.60470046158
+/samples/Moocode/toy.moo,0.58417722758
+/samples/MoonBit/cfold.mbt,0.39708569258
+/samples/MoonBit/deriv.mbt,0.39169043358
+/samples/MoonBit/fft.mbt,0.39514782058
+/samples/MoonBit/nqueens.mbt,0.39449043158
+/samples/MoonBit/rbtree.mbt,0.39820910358
+/samples/MoonScript/transform.moon,0.39974364258
+/samples/Motoko/erc20.mo,0.6079442755800001
+/samples/Motoko/queue.mo,0.6016294465800001
+/samples/Motorola 68K Assembly/bls_routines.inc,0.41974161158
+/samples/Motorola 68K Assembly/cpu.s,0.41155175258
+/samples/Motorola 68K Assembly/iff_ilbm.i,0.41368743458
+/samples/Motorola 68K Assembly/lz4.X68,0.39530373258
+/samples/Motorola 68K Assembly/rom_testbench.asm,0.42199259458
+/samples/Motorola 68K Assembly/system.s,0.41185600058
+/samples/Move/Main.move,0.39615438358
+/samples/Move/Vector.move,0.39642353358
+/samples/Muse/manual.muse,0.40609713858
+/samples/Muse/usage.muse,0.39262513658
+/samples/Mustache/csvrow.mustache,0.39548885058
+/samples/Mustache/deleteuser.mustache,0.39360635158
+/samples/Mustache/pupilinfoblock.mustache,0.39513733958
+/samples/Mustache/showallusers.mustache,0.38793394958
+/samples/NASL/bugbear_b.nasl,0.39060947658
+/samples/NASL/cmsimple_guestbook_xss.nasl,0.39368803958
+/samples/NASL/cmsimple_search_xss.nasl,0.39688504958
+/samples/NASL/cubecart_xss.nasl,0.39662290458
+/samples/NASL/data_mail_xss.nasl,0.39492783758
+/samples/NASL/hacker_defender.nasl,0.39309861358
+/samples/NASL/nmap.nasl,0.39695550058
+/samples/NASL/packeteer_web_login.nasl,0.39206055558
+/samples/NASL/smtp_func.inc,0.41433355658
+/samples/NASL/tftp_func.inc,0.41691251858
+/samples/NCL/PrnOscPat_driver.ncl,0.59391483058
+/samples/NCL/WRF_static_2.ncl,0.5917832415800001
+/samples/NCL/WRF_track_1.ncl,0.5933925495800001
+/samples/NCL/cru_8.ncl,0.61031213358
+/samples/NCL/gsn_csm_xy2_time_series_inputs.ncl,0.5887042005800001
+/samples/NCL/hdf4sds_7.ncl,0.6049776735800001
+/samples/NCL/mask_12.ncl,0.60441022458
+/samples/NCL/mcsst_1.ncl,0.6056244015800001
+/samples/NCL/primero.ncl,0.57916163858
+/samples/NCL/topo_9.ncl,0.5912396175800001
+/samples/NCL/traj_3.ncl,0.5997493155800001
+/samples/NCL/tsdiagram_1.ncl,0.60487817858
+/samples/NCL/unique_9.ncl,0.6050149435800001
+/samples/NCL/viewport_4.ncl,0.59160066058
+/samples/NCL/weather_sym_6.ncl,0.6018080025800001
+/samples/NCL/xy_29.ncl,0.5950704975800001
+/samples/NEON/config.neon,0.39744419458
+/samples/NEON/example.neon,0.39726049558
+/samples/NL/assign0.nl,0.40552637058
+/samples/NL/balassign0.nl,0.41517619058
+/samples/NMODL/fornetcon.mod,0.40813935758
+/samples/NMODL/k3st.mod,0.41525038658
+/samples/NPM Config/filenames/.npmrc,0.39549140758
+/samples/NSIS/bigtest.nsi,0.39410159458
+/samples/NSIS/x64.nsh,0.38937235358
+/samples/NWScript/act_disarmkobold.nss,0.39844821058
+/samples/NWScript/act_unlockkobold.nss,0.39396454058
+/samples/NWScript/crawler_death.nss,0.39459833958
+/samples/NWScript/e2pc_plaguestack.nss,0.39126694358
+/samples/NWScript/e3pc_spidersnest.nss,0.39570689158
+/samples/NWScript/illusion_spawn.nss,0.39647946158
+/samples/Nasal/damage.nas,0.60174404558
+/samples/Nasal/kx165tso.nas,0.5940348055800001
+/samples/Nearley/nearley-language-bootstrapped.ne,0.39618077058
+/samples/Nemerle/hello.n,0.40667472858
+/samples/NetLinx+ERB/sample.axi.erb,0.39378059058
+/samples/NetLinx+ERB/sample.axs.erb,0.39547302958
+/samples/NetLinx/projector.axi,0.39539105758
+/samples/NetLinx/volume-array.axs,0.39121457658
+/samples/NetLogo/Life.nlogo,0.39942610358
+/samples/NewLisp/irc.lsp,0.39436097258
+/samples/NewLisp/log-to-database.lisp,0.41636480958
+/samples/NewLisp/queens.nl,0.39197392258
+/samples/Nextflow/blast.nf,0.39317901758
+/samples/Nextflow/callings.nf,0.39937358158
+/samples/Nextflow/filenames/nextflow.config,0.38896247058
+/samples/Nextflow/rnaseq.nf,0.39158660358
+/samples/Nginx/example.com.vhost,0.5964981075800001
+/samples/Nginx/filenames/nginx.conf,0.39611620058
+/samples/Nginx/sample.nginx,0.39264709258
+/samples/Nim/config.nims,0.40023724958
+/samples/Nim/filenames/nim.cfg,0.39690457158
+/samples/Nim/foo.nim,0.40387918758
+/samples/Nim/main.nim,0.39178883958
+/samples/Nim/nimfix.nim.cfg,0.39517181957999997
+/samples/Nim/zip.nimble,0.39371475558
+/samples/Nit/calculator.nit,0.39742147958
+/samples/Nit/callback_chimpanze.nit,0.38981482458
+/samples/Nit/callback_monkey.nit,0.39640060458
+/samples/Nit/circular_list.nit,0.39519870058
+/samples/Nit/clock.nit,0.39392829258
+/samples/Nit/clock_more.nit,0.38981696258
+/samples/Nit/curl_http.nit,0.39226828458
+/samples/Nit/curl_mail.nit,0.39030766258
+/samples/Nit/draw_operation.nit,0.39754942058
+/samples/Nit/drop_privileges.nit,0.39355515058
+/samples/Nit/extern_methods.nit,0.39219763158
+/samples/Nit/fibonacci.nit,0.39378106158
+/samples/Nit/file.nit,0.39829048858
+/samples/Nit/hello_world.nit,0.39529079958
+/samples/Nit/html_page.nit,0.39731781458
+/samples/Nit/int_stack.nit,0.39206606458
+/samples/Nit/meetup.nit,0.40358688758
+/samples/Nit/opengles2_hello_triangle.nit,0.39402540858
+/samples/Nit/print_arguments.nit,0.38895582758
+/samples/Nit/procedural_array.nit,0.38928494258
+/samples/Nit/socket_client.nit,0.39155419058
+/samples/Nit/socket_server.nit,0.39771051058
+/samples/Nit/tmpl_composer.nit,0.38972612358
+/samples/Nit/websocket_server.nit,0.39440666258
+/samples/Nix/nginx.nix,0.39077531458
+/samples/Noir/array.nr,0.41293053358
+/samples/Noir/ecrecover_lib.nr,0.41336765758
+/samples/Noir/voting.nr,0.40789104258
+/samples/Nu/RandomApp.nu,0.40767690558
+/samples/Nu/nu,0.38837347758
+/samples/Nunjucks/norris.njk,0.39593064458
+/samples/Nushell/release-pkg.nu,0.39437716858
+/samples/Nushell/this_week_in_nu.nu,0.41037817358
+/samples/OASv2-json/pixi.json,0.40757959258
+/samples/OASv2-yaml/sample.yaml,0.41536091558
+/samples/OASv2-yaml/sample.yml,0.40890894058
+/samples/OASv3-json/ghes-3.4.json,0.40884016358
+/samples/OASv3-yaml/ghes-3.4.yaml,0.41463251858
+/samples/OASv3-yaml/ghes-3.4.yml,0.40816879158
+/samples/OCaml/Foo.ml,0.41655759558
+/samples/OCaml/cmdliner.ml,0.41289452658
+/samples/OCaml/common.ml,0.5767288055800001
+/samples/OCaml/date.ml,0.59195447858
+/samples/OCaml/example.eliom,0.39338450758
+/samples/OCaml/map.ml,0.40951770758
+/samples/OCaml/mirage.ml,0.42073925758
+/samples/OCaml/reload.ml,0.41504580658
+/samples/OCaml/sigset.ml,0.5893924945800001
+/samples/OCaml/uutf.ml,0.41779828358
+/samples/Oberon/beNull.ob2,0.39687466058
+/samples/Object Data Instance Notation/openehr_ehr_1.0.3.bmm.odin,0.42662616258
+/samples/ObjectScript/Sample.Person.cls,0.41569632958
+/samples/Objective-C++/EventHandlerMac.mm,0.5998591055800001
+/samples/Objective-C++/objsql.mm,0.5988444125800001
+/samples/Objective-C/ASIHTTPRequest.h,0.41223652958
+/samples/Objective-C/ASIHTTPRequest.m,0.42550175558
+/samples/Objective-C/Foo.h,0.41483195758
+/samples/Objective-C/Foo.m,0.40638269658
+/samples/Objective-C/FooAppDelegate.h,0.40539353458
+/samples/Objective-C/FooAppDelegate.m,0.40681501858
+/samples/Objective-C/JSONKit.h,0.41612703258
+/samples/Objective-C/JSONKit.m,0.42717026058
+/samples/Objective-C/MainMenuViewController.h,0.40492234058
+/samples/Objective-C/MainMenuViewController.m,0.41143278858
+/samples/Objective-C/PlaygroundViewController.h,0.40679469558
+/samples/Objective-C/PlaygroundViewController.m,0.41101206258
+/samples/Objective-C/SBJsonParser.h,0.41581822958
+/samples/Objective-C/SBJsonParser.m,0.41011235658
+/samples/Objective-C/Siesta.h,0.40722860858
+/samples/Objective-C/StyleViewController.h,0.40512219358
+/samples/Objective-C/StyleViewController.m,0.41300663958
+/samples/Objective-C/TUITableView.h,0.41620830558
+/samples/Objective-C/TUITableView.m,0.41829728658
+/samples/Objective-C/cocoa_monitor.m,0.59908062658
+/samples/Objective-C/gen-cocoa-linguist-thrift.m,0.41081160458
+/samples/Objective-C/hello.m,0.40427446258
+/samples/Objective-J/AppController.j,0.60499358958
+/samples/Objective-J/LightsOff.j,0.6047786705800001
+/samples/Objective-J/iTunesLayout.j,0.5911741945800001
+/samples/Odin/sample.odin,0.41677786258
+/samples/Omgrofl/hello.omgrofl,0.39330785658
+/samples/Opa/hello_syntax1.opa,0.39016569858
+/samples/Opa/hello_syntax2.opa,0.38910898858
+/samples/Opal/DeepakChopra.opal,0.39174250458
+/samples/Open Policy Agent/httpapi.rego,0.38954737458
+/samples/Open Policy Agent/kafka.rego,0.39552295958
+/samples/Open Policy Agent/kubernetes_admission.rego,0.39009759058
+/samples/Open Policy Agent/ssh.rego,0.39172571558
+/samples/OpenCL/fft.cl,0.40421414358
+/samples/OpenCL/sample.cl,0.40817792258
+/samples/OpenEdge ABL/Email.cls,0.61153346058
+/samples/OpenEdge ABL/SendEmailAlgorithm.cls,0.5968546695800001
+/samples/OpenEdge ABL/SocketReader.p,0.41682827658
+/samples/OpenEdge ABL/Util.cls,0.6005341805800001
+/samples/OpenEdge ABL/openedge.p,0.41398160358
+/samples/OpenEdge ABL/test-win.w,0.42426014258
+/samples/OpenQASM/half_adder.qasm,0.38955398658
+/samples/OpenRC runscript/acpid,0.39244672458
+/samples/OpenSCAD/not_simple.scad,0.39604183258
+/samples/OpenSCAD/simple.scad,0.39474250058
+/samples/OpenStep Property List/TypewriterInfo.plist,0.41553364758
+/samples/OpenStep Property List/weathericons-regular.glyphs,0.39476481558
+/samples/Option List/filenames/.ackrc,0.38928733058
+/samples/Option List/filenames/.rspec,0.39488216758
+/samples/Option List/filenames/.yardopts,0.39300036758
+/samples/Option List/filenames/ackrc,0.39632911758
+/samples/Option List/filenames/mocha.opts,0.39463728758
+/samples/Org/org.org,0.39387803758
+/samples/Ox/IJCEmet2009.oxh,0.39630373058
+/samples/Ox/ParallelObjective.ox,0.39114751758
+/samples/Ox/particle.oxo,0.39531752458
+/samples/Oxygene/Loops.oxygene,0.39503384958
+/samples/Oz/example.oz,0.39647937358
+/samples/P4/l2.p4,0.39892642658
+/samples/P4/mirror_acl.p4,0.39177943958
+/samples/PDDL/domain_testproblem.pddl,0.38966530458
+/samples/PDDL/pathfinding.pddl,0.39251165758
+/samples/PDDL/problem_4d_5p.pddl,0.39056760658
+/samples/PEG.js/abnfp.peggy,0.39223569558
+/samples/PEG.js/rfc5988.pegjs,0.39188503558
+/samples/PHP/Application.php,0.41198537658
+/samples/PHP/Client.php,0.41651509358
+/samples/PHP/Controller.php,0.43748023858
+/samples/PHP/Form.php,0.41577321058
+/samples/PHP/Model.php,0.42716188258
+/samples/PHP/ProtobufGenerated.php,0.41159359258
+/samples/PHP/ThriftGenerated.php,0.41191733958
+/samples/PHP/drupal.php,0.41568113758
+/samples/PHP/exception.zep.php,0.40976834158
+/samples/PHP/file_display.inc,0.41408538858
+/samples/PHP/filenames/.php,0.38942931958
+/samples/PHP/filenames/.php_cs,0.39653980658
+/samples/PHP/filenames/.php_cs.dist,0.39188898058
+/samples/PHP/mail.phps,0.39533094358
+/samples/PHP/php,0.39284076858
+/samples/PHP/php-script,0.39345994157999997
+/samples/PHP/php2,0.39436885358
+/samples/PHP/prefix.fcgi,0.5794311645800001
+/samples/PHP/root.php,0.40859132758
+/samples/PLSQL/myobject.sql,0.40692765258
+/samples/PLSQL/packagebody.pkb,0.39522374458
+/samples/PLSQL/packageheader.pks,0.39414699658
+/samples/PLSQL/plsqlguide.pck,0.39732597658
+/samples/PLSQL/prime#.plsql,0.39908157058
+/samples/PLSQL/print_bool.prc,0.5848828165800001
+/samples/PLSQL/videodb.ddl,0.59823751658
+/samples/PLSQL/who_called_me.sql,0.41545459458
+/samples/PLpgSQL/plpgsql_lint-8.4.sql,0.40854291158
+/samples/PLpgSQL/plpgsql_lint-9.0.sql,0.40841802858
+/samples/PLpgSQL/plpgsql_lint-9.1.sql,0.40950088358
+/samples/PLpgSQL/plpgsql_lint-9.2.sql,0.41095975558
+/samples/PLpgSQL/plpgsql_lint-9.3.sql,0.40896528358
+/samples/PLpgSQL/procedures.sql,0.40500425058
+/samples/PLpgSQL/useraccount.pgsql,0.39191852558
+/samples/POV-Ray SDL/balcony.pov,0.40052844558
+/samples/POV-Ray SDL/bglass.inc,0.41618751858
+/samples/POV-Ray SDL/building.inc,0.41732331858
+/samples/POV-Ray SDL/chair.inc,0.42122835958
+/samples/POV-Ray SDL/cloth.inc,0.44878037858000003
+/samples/POV-Ray SDL/gamma_showcase.pov,0.39466347058
+/samples/POV-Ray SDL/sky.inc,0.41265260158
+/samples/POV-Ray SDL/table.inc,0.41378189058
+/samples/POV-Ray SDL/table_cloth.inc,0.40752865758
+/samples/POV-Ray SDL/table_stuff.inc,0.40913980158
+/samples/POV-Ray SDL/terrain.inc,0.41539941058
+/samples/POV-Ray SDL/water.inc,0.41218161758
+/samples/Pact/coin.pact,0.40083869358
+/samples/Pact/fungible-v1.pact,0.39229611658
+/samples/Pan/ceph-raid.pan,0.39403005458
+/samples/Pan/cluster-A.pan,0.39921160258
+/samples/Pan/databases.pan,0.39170911258
+/samples/Pan/functions.pan,0.39401337258
+/samples/Pan/infernalis.pan,0.39593367458
+/samples/Pan/libvirt.pan,0.39690109858
+/samples/Pan/link.pan,0.38891339258
+/samples/Pan/mysql.pan,0.39201923258
+/samples/Pan/nodes_properties.pan,0.39276078158
+/samples/Pan/onevm.pan,0.39421387258
+/samples/Pan/osd-fetch.pan,0.39348510458
+/samples/Pan/pakiti.pan,0.40371322058
+/samples/Pan/purge_fqan_accounts.pan,0.39576329858
+/samples/Pan/resources.pan,0.39739297558
+/samples/Pan/simple.pan,0.38890775658
+/samples/Pan/test.pan,0.39522302358
+/samples/Pan/types.pan,0.39616265158
+/samples/Pan/unit.pan,0.39674999758
+/samples/Papyrus/CAMTEST_OverShoulderME.psc,0.39536309158
+/samples/Papyrus/vMFX_FXPlugin.psc,0.39376835358
+/samples/Papyrus/vSCM_MetaQuestScript.psc,0.40209275758
+/samples/Parrot Assembly/hello.pasm,0.39191822658
+/samples/Parrot Internal Representation/hello.pir,0.39497787158
+/samples/Pascal/GraphicConfiguration.inc,0.40810183458
+/samples/Pascal/bulls-and-cows.pascal,0.39505925858
+/samples/Pascal/custforms.pp,0.41136825458
+/samples/Pascal/cwindirs.pp,0.41534693558
+/samples/Pascal/image_url.inc,0.40855468258
+/samples/Pascal/large.pp,0.40589034058
+/samples/Pascal/lazcomlib_1_0_tlb.pas,0.39506541358
+/samples/Pascal/lazcomunit.pas,0.39378743258
+/samples/Pascal/libc.inc,0.40801587158
+/samples/Pascal/program.dpr,0.39633915458
+/samples/Pascal/read-a-configuration-file.pascal,0.39587119058
+/samples/Pascal/tw27294.pp,0.40794124758
+/samples/Pascal/vmops_impl.inc,0.41766733658
+/samples/Pawn/Check.inc,0.60753984758
+/samples/Pawn/fixed.inc,0.60311056358
+/samples/Pawn/fixes.inc,0.6398116555800001
+/samples/Pawn/foo.sma,0.40234265358
+/samples/Pawn/mfile.inc,0.5937384765800001
+/samples/Pawn/timertest.pwn,0.39488795158
+/samples/Pawn/y_testing.inc,0.60445276258
+/samples/Pep8/div.pep,0.39597615058
+/samples/Pep8/flag.pep,0.39457168257999997
+/samples/Pep8/linked.pep,0.39960085058
+/samples/Pep8/msq.pep,0.39796903458
+/samples/Pep8/qsort.pep,0.39385630058
+/samples/Pep8/stri_buf.pep,0.39532529758
+/samples/Pep8/stristack.pep,0.39515342058
+/samples/Perl/Ack.pm,0.41883019558
+/samples/Perl/Any.pm,0.39335373058
+/samples/Perl/Request.pm,0.42076314258
+/samples/Perl/Response.pm,0.41898722258
+/samples/Perl/Schema.pm,0.41256364258
+/samples/Perl/example.cgi,0.39959194758
+/samples/Perl/exception_handler.pl,0.41710406258
+/samples/Perl/feedgnuplot,0.60058143358
+/samples/Perl/fib.pl,0.39172420758
+/samples/Perl/filenames/.latexmkrc,0.38807509358
+/samples/Perl/filenames/Makefile.PL,0.39021682458
+/samples/Perl/filenames/Rexfile,0.39297329358
+/samples/Perl/filenames/ack,0.41530862058
+/samples/Perl/filenames/cpanfile,0.39426100658
+/samples/Perl/filenames/latexmkrc,0.39294939458
+/samples/Perl/getchar.al,0.40579636758
+/samples/Perl/index.fcgi,0.39231588558
+/samples/Perl/oo1.pl,0.39382419658
+/samples/Perl/oo2.pl,0.39588478658
+/samples/Perl/oo3.pl,0.39002653458
+/samples/Perl/perl,0.57560275258
+/samples/Perl/perl-test.t,0.40691263758
+/samples/Perl/script.pl,0.38941211558
+/samples/Perl/strict.t,0.40482948658
+/samples/Perl/test-perl.pl,0.39062444958
+/samples/Perl/test-perl2.pl,0.5830269345800001
+/samples/Perl/use5.pl,0.40894277358
+/samples/Pic/dextroamphetamine.chem,0.39194008258
+/samples/Pic/graph.pic,0.38836804458
+/samples/Pic/ritalin.chem,0.39275725158
+/samples/Pickle/data.pkl,0.40776232958
+/samples/Pickle/neural-network-ce-l2reg-784-10-30.pkl,0.42396167258
+/samples/Pickle/random.pkl,0.40939034058
+/samples/Pickle/save.pkl,0.40873110758
+/samples/PicoLisp/simul.l,0.40972599158
+/samples/PigLatin/example.pig,0.39372740758
+/samples/Pike/Error.pmod,0.39425570458
+/samples/Pike/FakeFile.pike,0.39401628858
+/samples/Pike/shebang.pike,0.39334865958
+/samples/Pip Requirements/filenames/requirements-dev.txt,0.39322721158
+/samples/Pip Requirements/filenames/requirements.txt,0.39459908158
+/samples/Pkl/Parser.pkl,0.41248178258
+/samples/Pkl/SchemaGenerator.pkl,0.41091762558
+/samples/Pkl/rule.pkl,0.41275439458
+/samples/PlantUML/ProtectedMeta.iuml,0.39137943558
+/samples/PlantUML/PublicallyAccessibleReDirect.puml,0.39662549958
+/samples/PlantUML/associations.iuml,0.39289856157999997
+/samples/PlantUML/casUtilisation.puml,0.39586365758
+/samples/PlantUML/common.iuml,0.39655880858
+/samples/PlantUML/overview.puml,0.39344120258
+/samples/PlantUML/sequence-ptasks-workers_success.puml,0.39455388558
+/samples/Pod 6/S15-unicode.pod,0.41714456258
+/samples/Pod/Cookbook.pod,0.40519380858
+/samples/Pod/PSGI.pod,0.41165360758
+/samples/Pod/Sample.pod,0.40435400458
+/samples/Pod/contents.pod,0.41416646758
+/samples/PogoScript/squashy.pogo,0.39574907758
+/samples/Polar/gitcloud.polar,0.39286833658
+/samples/Polar/gitclub.polar,0.39583352258
+/samples/Pony/circle.pony,0.39522675958
+/samples/Pony/counter.pony,0.39360663358
+/samples/Pony/gups-opt.pony,0.39865851058
+/samples/Pony/hello-world.pony,0.38880406558
+/samples/Pony/mandelbrot.pony,0.39222650458
+/samples/Pony/mixed.pony,0.40522719758
+/samples/Portugol/medias.por,0.39954790658
+/samples/Portugol/potencia_raiz.por,0.39111766258
+/samples/PostCSS/sample.pcss,0.39393581458
+/samples/PostCSS/sample.postcss,0.39492009658
+/samples/PostScript/lambda.pfa,0.39344439258
+/samples/PostScript/sierpinski.ps,0.40033260858
+/samples/PostScript/xlogo.epsi,0.39590445258
+/samples/PowerBuilder/TestPBT.pbt,0.58402772958
+/samples/PowerBuilder/ginpix7.sra,0.39198874258
+/samples/PowerBuilder/myproject.pbt,0.5945010435800001
+/samples/PowerBuilder/n_cst_buttonlistbar_gradient.sru,0.39741052258
+/samples/PowerBuilder/part1.srw,0.38972787758
+/samples/PowerBuilder/w_export.srw,0.39752596058
+/samples/PowerShell/ZLocation.psd1,0.39736931058
+/samples/PowerShell/ZLocation.psm1,0.39313788158
+/samples/PowerShell/history.ps1,0.39836445358
+/samples/PowerShell/pwsh-shebang.ps1,0.38891491058
+/samples/Praat/dynamicity.praat,0.39527143258
+/samples/Praat/queryTable.praat,0.39032538558
+/samples/Praat/randomiseArticles.praat,0.38986396557999997
+/samples/Prisma/blog-minimal-schema.prisma,0.39488757958
+/samples/Prisma/blog-schema-advanced.prisma,0.39716407858
+/samples/Prisma/mcu-schema.prisma,0.39680512158
+/samples/Prisma/now-example-schema.prisma,0.39610586558
+/samples/Prisma/schema.prisma,0.39741572558
+/samples/Processing/hello.pde,0.39086473758
+/samples/Procfile/filenames/Procfile,0.39035566958
+/samples/Proguard/proguard-rules.pro,0.41399875858
+/samples/Proguard/proguard-rules2.pro,0.41447879258
+/samples/Proguard/proguard_annotations.pro,0.40486097058
+/samples/Prolog/admin.pl,0.41183561658
+/samples/Prolog/dleak-report,0.39646997458
+/samples/Prolog/ex6.pl,0.40559280558
+/samples/Prolog/format_spec.pl,0.41302449558
+/samples/Prolog/func.pl,0.41130843758
+/samples/Prolog/logic-problem.pro,0.40617827458
+/samples/Prolog/plunit_test_example.plt,0.40772620558
+/samples/Prolog/queues.yap,0.39331422858
+/samples/Prolog/test-prolog.prolog,0.39061606758
+/samples/Prolog/turing.pl,0.40285445358
+/samples/Promela/Session.pml,0.39096467858
+/samples/Promela/Supervisor.pml,0.40053130358
+/samples/Promela/TCP.pml,0.39442432158
+/samples/Promela/Thread.pml,0.39526776958
+/samples/Promela/attacker_4_FINITE.pml,0.39063542258
+/samples/Promela/bare_signals.pml,0.40380157758
+/samples/Promela/ex.1.pml,0.39827232958
+/samples/Propeller Spin/4x4 Keypad Reader.spin,0.40053524558
+/samples/Propeller Spin/Debug_Lcd.spin,0.39481272958
+/samples/Propeller Spin/Graphics.spin,0.40804191258
+/samples/Propeller Spin/Inductor.spin,0.39476443958
+/samples/Propeller Spin/Keyboard.spin,0.40011081358
+/samples/Propeller Spin/TV.spin,0.40280027058
+/samples/Propeller Spin/TV_Terminal.spin,0.39930864658
+/samples/Propeller Spin/TV_Text.spin,0.39679561458
+/samples/Propeller Spin/VGA.spin,0.39632740658
+/samples/Propeller Spin/VocalTract.spin,0.39390417558
+/samples/Protocol Buffer Text Format/ProjectSettings.pbt,0.59162375958
+/samples/Protocol Buffer Text Format/Tree.pbt,0.60117760358
+/samples/Protocol Buffer Text Format/cudnn_benchmarks.textproto,0.40079463958
+/samples/Protocol Buffer Text Format/schema.pbtxt,0.40182758858
+/samples/Protocol Buffer/addressbook.proto,0.40486649158
+/samples/Public Key/gpg_key.asc,0.41365761058
+/samples/Public Key/id.pub,0.40316791658
+/samples/Public Key/id_dsa.asc,0.40605377958
+/samples/Public Key/id_rsa.asc,0.40369353158
+/samples/Public Key/id_rsa.pub,0.39318691058
+/samples/Public Key/sshkey1.asc,0.40880665658
+/samples/Public Key/sunCert.asc,0.40652745158
+/samples/Pug/hello.jade,0.39452353158
+/samples/Pug/hello.pug,0.39257879858
+/samples/Puppet/apacheinit.pp,0.41678940958
+/samples/Puppet/expiringhost.pp,0.41274657858
+/samples/Puppet/hiera_include.pp,0.58407646558
+/samples/Puppet/stages-example.pp,0.59508971158
+/samples/Puppet/unmanaged-notify-puppet25.pp,0.41298703258
+/samples/PureBasic/Example_Sine.pb,0.39091712758
+/samples/PureBasic/Memory.pbi,0.39913942058
+/samples/PureScript/Control.Arrow.purs,0.39490528258
+/samples/PureScript/Data.Foreign.purs,0.39282253758
+/samples/PureScript/Data.Map.purs,0.39623903658
+/samples/PureScript/ReactiveJQueryTest.purs,0.39581445858
+/samples/Pyret/pyret.arr,0.39659279358
+/samples/Python/AdditiveWave.pyde,0.39393981158
+/samples/Python/Cinema4DPythonPlugin.pyp,0.39922876758
+/samples/Python/MoveEye.pyde,0.39297267458
+/samples/Python/action.cgi,0.39496598158
+/samples/Python/argparse.pyi,0.39610418158
+/samples/Python/backstage.fcgi,0.39599104358
+/samples/Python/django-models-base.py,0.40846121458
+/samples/Python/filenames/.gclient,0.39046710358
+/samples/Python/filenames/DEPS,0.39759570858
+/samples/Python/flask-view.py,0.39932488458
+/samples/Python/gen-py-linguist-thrift.py,0.39582318158
+/samples/Python/protocol_buffer_pb2.py,0.39617338458
+/samples/Python/py3.py3,0.39645091958
+/samples/Python/python,0.39431358258
+/samples/Python/python2,0.38940407958
+/samples/Python/python3,0.40063864658
+/samples/Python/simpleclient.rpy,0.41222470058
+/samples/Python/spec.linux.spec,0.59530110658
+/samples/Python/standalone.gypi,0.40805629758
+/samples/Python/toolchain.gypi,0.40346607658
+/samples/Python/tornado-httpserver.py,0.40037132458
+/samples/Q#/CustomModAdd.qs,0.41064555358
+/samples/Q#/Shor.qs,0.41638799758
+/samples/QML/common.qbs,0.39486237258
+/samples/QMake/complex.pro,0.40680128558
+/samples/QMake/functions.pri,0.39650544558
+/samples/QMake/qmake,0.39046339458
+/samples/QMake/simple.pro,0.41162555558
+/samples/Qt Script/installscript.qs,0.39413170658
+/samples/Qt Script/toolchain_installscript.qs,0.39082052458
+/samples/Quake/filenames/m3makefile,0.39076531658
+/samples/Quake/filenames/m3overrides,0.39408511158
+/samples/QuickBASIC/FGETRT.BAS,0.41243486158
+/samples/QuickBASIC/VLONG.BAS,0.41430505558
+/samples/QuickBASIC/sponge4.bas,0.40903202558
+/samples/R/2.R,0.41723816658
+/samples/R/R-qgis-extension.rsx,0.39648617258
+/samples/R/df.residual.r,0.41321516558
+/samples/R/filenames/expr-dist,0.40090180358
+/samples/R/git-punchcard,0.39459913358
+/samples/R/import.Rd,0.39387296058
+/samples/R/import.r,0.40900913558
+/samples/R/scholar.Rd,0.39545535658
+/samples/RAML/api.raml,0.39455556658
+/samples/RBS/cli.rbs,0.39822521458
+/samples/RDoc/rdoc.rdoc,0.39704299458
+/samples/REXX/BatchRemapBrushes.pprx,0.39859052658
+/samples/REXX/ShapesInfo.rexx,0.39674060258
+/samples/REXX/SkrivShape.rexx,0.39317838458
+/samples/REXX/ag2xml.rexx,0.39587668858
+/samples/RMarkdown/example.qmd,0.39809902058
+/samples/RMarkdown/example.rmd,0.39074107958
+/samples/RON/config.ron,0.39186901458
+/samples/RPC/rpc.x,0.41172479758
+/samples/RPC/rusers.x,0.41725587758
+/samples/RPC/yp.x,0.41593521758
+/samples/RPGLE/anilist.sqlrpgle,0.40216009358
+/samples/RPGLE/bfint.sqlrpgle,0.39220971058
+/samples/RPGLE/dspf.rpgle,0.39430069658
+/samples/RPGLE/fizzbuzz.rpgle,0.38972270858
+/samples/RPGLE/ifsread.rpgle,0.39608099758
+/samples/RPGLE/psds.rpgle,0.38986970758
+/samples/RPGLE/qcmdexc_ex.rpgle,0.39147740058
+/samples/RPGLE/sms.sqlrpgle,0.39398411658
+/samples/RPGLE/sms_h.rpgle,0.39588697458
+/samples/RPM Spec/apache.spec,0.6065662095800001
+/samples/RPM Spec/erlang-erlydtl.spec,0.5928237085800001
+/samples/RPM Spec/manos.spec,0.5882425035800001
+/samples/RUNOFF/VMS_ZIP.RNH,0.40646422058
+/samples/RUNOFF/contributing.rnh,0.40166691358
+/samples/RUNOFF/longlib.rno,0.43634889858
+/samples/RUNOFF/mcp_help.rnh,0.40990605858
+/samples/Racket/99-bottles-of-beer.scrbl,0.38973853458
+/samples/Racket/scribble.scrbl,0.39255019158
+/samples/Ragel/ephemeris_parser.rl,0.39325459858
+/samples/Ragel/simple_scanner.rl,0.38939998258
+/samples/Ragel/simple_tokenizer.rl,0.39257826558
+/samples/Raku/01-dash-uppercase-i.t,0.39292141458
+/samples/Raku/01-parse.t,0.39925933558
+/samples/Raku/A.pm,0.38958208358
+/samples/Raku/ANSIColor.pm,0.39698115958
+/samples/Raku/Bailador.pm,0.41377321158
+/samples/Raku/ContainsUnicode.pm,0.39895433458
+/samples/Raku/Exception.pm,0.40124179958
+/samples/Raku/List.pm,0.40291066458
+/samples/Raku/Model.pm,0.39270903658
+/samples/Raku/RoleQ.pm6,0.39102599658
+/samples/Raku/SIL.rakumod,0.39432548158
+/samples/Raku/Simple.pm,0.41216844858
+/samples/Raku/Win32.pm,0.41318346458
+/samples/Raku/advent2009-day16.t,0.40929408058
+/samples/Raku/basic-open.t,0.39203974858
+/samples/Raku/calendar.t,0.39784517658
+/samples/Raku/dynaver.raku,0.39059675858
+/samples/Raku/for.t,0.39804923958
+/samples/Raku/grammar-test.p6,0.39364222758
+/samples/Raku/hash.t,0.39132514658
+/samples/Raku/htmlify.pl,0.39637736158
+/samples/Raku/listquote-whitespace.t,0.39001180158
+/samples/Raku/man-or-boy.t,0.39368894658
+/samples/Raku/test.p6,0.39302429458
+/samples/Rascal/Analyze.rsc,0.5807846655800001
+/samples/Rascal/Compile.rsc,0.5881796505800001
+/samples/Rascal/ModuleInfo.rsc,0.61123868958
+/samples/Rascal/RascalModule.rsc,0.6030668045800001
+/samples/Rascal/Syntax.rsc,0.57667227858
+/samples/ReScript/RedBlackTree.res,0.41452242658
+/samples/Readline Config/filenames/.inputrc,0.39473265758
+/samples/Reason/JSX.re,0.41233841058
+/samples/Reason/Layout.re,0.41959196558
+/samples/Reason/Machine.re,0.41670966358
+/samples/Reason/SourceSpec.re,0.41770089658
+/samples/Reason/SuperMerlin.re,0.41908523358
+/samples/Reason/Syntax.re,0.41888619158
+/samples/ReasonLIGO/FA1.2.religo,0.39775485058
+/samples/Rebol/GCP-datatypes.r,0.41260935558
+/samples/Rebol/booters.r,0.41444978958
+/samples/Rebol/hello-world.r2,0.39721716658
+/samples/Rebol/hello-world.r3,0.39402676458
+/samples/Rebol/hello-world.reb,0.39428781858
+/samples/Rebol/hello-world.rebol,0.39291997157999997
+/samples/Record Jar/filenames/language-subtag-registry.txt,0.39596668158
+/samples/Red/example.red,0.39311476358
+/samples/Red/example.reds,0.39070917858
+/samples/Redirect Rules/filenames/_redirects,0.39187771758
+/samples/Regular Expression/modeline-emacs.regexp,0.39411666258
+/samples/Regular Expression/modeline-vim.regexp,0.39306314958
+/samples/Regular Expression/ordinal.regex,0.39523849058
+/samples/Regular Expression/url.regex,0.39866492158
+/samples/RenPy/example.rpy,0.42107689558
+/samples/RenderScript/convolve3x3.rs,0.40676354258
+/samples/RenderScript/scenegraph_objects.rsh,0.39629185458
+/samples/Rez/Rezilla_DITL.r,0.41346187158
+/samples/Rez/dialog.r,0.41238172958
+/samples/Rez/gui_mac.r,0.40539044458
+/samples/Rich Text Format/DesktopTemplateLicense.rtf,0.40590916858
+/samples/Rich Text Format/LICENSE.rtf,0.39784672558
+/samples/Ring/hello.ring,0.39371533458
+/samples/Ring/natural.ring,0.39304679558
+/samples/Ring/weblib.ring,0.38892272358
+/samples/Ring/weighthistory.ring,0.39821654157999997
+/samples/Riot/live-filtering.riot,0.39469001558
+/samples/Riot/todo.riot,0.39871645058
+/samples/RobotFramework/data_driven.robot,0.39275850858
+/samples/RobotFramework/gherkin.robot,0.38813961058
+/samples/RobotFramework/keyword_driven.robot,0.39000458358
+/samples/RobotFramework/keywords.resource,0.41491317258
+/samples/Roc/ParserString.roc,0.39943170558
+/samples/Roc/PgCmd.roc,0.39635122758
+/samples/Roc/PgProtocolBackend.roc,0.39470582658
+/samples/Roc/PgSchema.roc,0.39646703558
+/samples/Roff Manpage/URI.3pm,0.41298781558
+/samples/Roff Manpage/gather_profile_stats.man,0.40514616958
+/samples/Roff Manpage/lyxclient.1in,0.41398548958
+/samples/Roff Manpage/pgrep.3p,0.41095427158
+/samples/Roff Manpage/sched_get_priority_min.3x,0.41217328158
+/samples/Roff Manpage/sensor_attach.mdoc,0.41856680058
+/samples/Roff Manpage/sigwait.3qt,0.41143477558
+/samples/Roff Manpage/tan.3m,0.41221321058
+/samples/Roff Manpage/tls_config_ocsp_require_stapling.3in,0.41763332158
+/samples/Roff Manpage/uname.1m,0.41703039658
+/samples/Roff Manpage/zforce.1x,0.40826107758
+/samples/Roff Manpage/zip_file_add.mdoc,0.41748761158
+/samples/Roff/Tcl.n,0.41205541858
+/samples/Roff/an-ext.tmac,0.39795066758
+/samples/Roff/create_view.l,0.41165612058
+/samples/Roff/crude-hack.man,0.41284665258
+/samples/Roff/dsw.1x,0.40181450158
+/samples/Roff/foo.3p,0.40907781358
+/samples/Roff/foo.3pm,0.40995207358
+/samples/Roff/fsinterface.ms,0.42027166558
+/samples/Roff/he.mdoc,0.41031251058
+/samples/Roff/man.1m,0.41197543858
+/samples/Roff/printf.3in,0.41521187958
+/samples/Roff/qsort.3qt,0.41055384858
+/samples/Roff/refs.rno,0.40766591358
+/samples/Roff/roff.1in,0.41000894358
+/samples/Roff/roff.nr,0.41413233258
+/samples/Roff/switch.3m,0.41174072358
+/samples/Roff/trekmanual.nr,0.41770095858
+/samples/Roff/vt.3x,0.41757689758
+/samples/RouterOS Script/BackupAndUpdate.rsc,0.5957266275800001
+/samples/RouterOS Script/config.rsc,0.57983232758
+/samples/RouterOS Script/console-dump.rsc,0.6004827785800001
+/samples/RouterOS Script/vlans.rsc,0.58452018658
+/samples/Ruby/actionmailer.rbi,0.39295320058
+/samples/Ruby/address.pdf.prawn,0.39393240758
+/samples/Ruby/any.spec,0.59113851258
+/samples/Ruby/filenames/.irbrc,0.39765421258
+/samples/Ruby/filenames/.pryrc,0.38983524058
+/samples/Ruby/filenames/.simplecov,0.39358965358
+/samples/Ruby/filenames/Appraisals,0.39215093458
+/samples/Ruby/filenames/Brewfile,0.39081946658
+/samples/Ruby/filenames/Capfile,0.39536935458
+/samples/Ruby/filenames/Dangerfile,0.39187421958
+/samples/Ruby/filenames/Deliverfile,0.39454569558
+/samples/Ruby/filenames/Fastfile,0.39383640058
+/samples/Ruby/filenames/Podfile,0.39418294958
+/samples/Ruby/filenames/Rakefile,0.38953498958
+/samples/Ruby/filenames/Snapfile,0.39404745058
+/samples/Ruby/filenames/Steepfile,0.39449328258
+/samples/Ruby/foo.rb,0.39078092458
+/samples/Ruby/formula.rb,0.40361012858
+/samples/Ruby/gem_loader.rbi,0.39194127658
+/samples/Ruby/gen-rb-linguist-thrift.rb,0.39355951458
+/samples/Ruby/grit.rb,0.39328241658
+/samples/Ruby/index.json.jbuilder,0.39772903958
+/samples/Ruby/inflector.rb,0.39578574458
+/samples/Ruby/jekyll.rb,0.39085929758
+/samples/Ruby/jenkinsci.pluginspec,0.6061244005800001
+/samples/Ruby/macruby,0.38880602958
+/samples/Ruby/mdata_server.fcgi,0.39051456558
+/samples/Ruby/rabl.rabl,0.39449946458
+/samples/Ruby/racc.rb,0.39959149358
+/samples/Ruby/rails@7.0.3.1.rbi,0.39129309757999997
+/samples/Ruby/rendering.rbi,0.39662026758
+/samples/Ruby/resque.rb,0.40106619658
+/samples/Ruby/rexpl,0.39024503558
+/samples/Ruby/ruby,0.39446071058
+/samples/Ruby/ruby2,0.39386298558
+/samples/Ruby/ruby3,0.39256318957999997
+/samples/Ruby/script.rake,0.39847576957999997
+/samples/Ruby/shoes-swt,0.39478942258
+/samples/Ruby/sinatra.rb,0.40358516858
+/samples/Rust/base64url,0.39537087458
+/samples/Rust/hashmap.rs,0.42450847858
+/samples/Rust/main.rs,0.41306549658
+/samples/Rust/task.rs,0.42387715758
+/samples/SAS/data.sas,0.39197971457999997
+/samples/SAS/detect_phi.sas,0.40194703058
+/samples/SAS/proc.sas,0.39613946258
+/samples/SCSS/screen.scss,0.39469219158
+/samples/SELinux Policy/filenames/genfs_contexts,0.39705490158
+/samples/SELinux Policy/filenames/initial_sids,0.38977201858
+/samples/SELinux Policy/filenames/security_classes,0.39067096858
+/samples/SELinux Policy/fsck.te,0.39063653457999997
+/samples/SMT/bignum_lia1.smt2,0.40245409858
+/samples/SMT/list4.smt2,0.39330688958
+/samples/SMT/queen10-1.smt2,0.39153479058
+/samples/SMT/shufflevector.smt,0.40272481258
+/samples/SPARQL/foaf.sparql,0.39086251758
+/samples/SPARQL/string-matching.sparql,0.39007679258
+/samples/SQF/fn_remoteExecFnc.sqf,0.39081165458
+/samples/SQF/macros.hqf,0.39687317658
+/samples/SQL/AvailableInSearchSel.prc,0.59806576558
+/samples/SQL/create_stuff.sql,0.40628835458
+/samples/SQL/db.sql,0.41705611358
+/samples/SQL/drop_stuff.sql,0.40898434858
+/samples/SQL/dual.sql,0.40565879458
+/samples/SQL/filial.tab,0.39357529258
+/samples/SQL/hostcache_set_state.inc,0.5942053605800001
+/samples/SQL/mysql-sakila-schema.sql,0.42272058658
+/samples/SQL/object-update.udf,0.38984964758
+/samples/SQL/sqlite-sakila-schema.sql,0.42365676458
+/samples/SQL/suspendedtoday.viw,0.40175496358
+/samples/SQL/videodb.cql,0.39639456658
+/samples/SQL/videodb.ddl,0.6010405255800001
+/samples/SQL/zipcodes.uk.mysql,0.41514478558
+/samples/SQLPL/check_reorg.sql,0.40964117058
+/samples/SQLPL/comm_amount.db2,0.39076920158
+/samples/SQLPL/drop_table.db2,0.39031175558
+/samples/SQLPL/runstats.sql,0.40412658558
+/samples/SQLPL/sleep.sql,0.40440323458
+/samples/SQLPL/trigger.sql,0.40520774558
+/samples/SRecode Template/linguist.srt,0.5913484845800001
+/samples/SSH Config/filenames/ssh-config,0.39004437358
+/samples/SSH Config/filenames/ssh_config,0.39269424458
+/samples/SSH Config/filenames/sshconfig,0.38870869958
+/samples/SSH Config/filenames/sshconfig.snip,0.39394087658
+/samples/SSH Config/filenames/sshd-config,0.39247085358
+/samples/SSH Config/filenames/sshd_config,0.39257711558
+/samples/STAR/schedule.star,0.41343821358
+/samples/STAR/schedule_pipeline.star,0.41337668258
+/samples/STAR/symop.star,0.41376323758
+/samples/STON/Array.ston,0.38855756458
+/samples/STON/Dictionary.ston,0.39467423658
+/samples/STON/Rectangle.ston,0.39532817858
+/samples/STON/TestDomainObject.ston,0.39235167458
+/samples/STON/ZNResponse.ston,0.38948251258
+/samples/STON/methodProperties.ston,0.39203887458
+/samples/STON/properties.ston,0.39253483158
+/samples/SWIG/CGAL_AABB_tree.i,0.41582952258
+/samples/SWIG/dictionary.i,0.41129576758
+/samples/SWIG/gauss.i,0.42219298358
+/samples/Sage/polinomios.sagews,0.39228295058
+/samples/SaltStack/eval.sls,0.58985694458
+/samples/SaltStack/gimp.sls,0.5936527125800001
+/samples/SaltStack/gpg4win-light.sls,0.58338836258
+/samples/SaltStack/openoffice.sls,0.5850090805800001
+/samples/SaltStack/top.sls,0.58599218458
+/samples/SaltStack/truecrypt.sls,0.58599731058
+/samples/Sass/screen.sass,0.39405154258
+/samples/Scala/99-bottles-of-beer,0.39898807258
+/samples/Scala/build.sbt,0.39823390158
+/samples/Scala/car-ride.kojo,0.40133431858
+/samples/Scala/fib-tree.kojo,0.39468105158
+/samples/Scala/node11.sc,0.41695446258
+/samples/Scala/scala,0.39483284158
+/samples/Scala/turtle-controller.kojo,0.39249617958
+/samples/Scaml/hello.scaml,0.39521168557999997
+/samples/Scenic/bypassing.scenic,0.39090251058
+/samples/Scenic/composition.scenic,0.39331331658
+/samples/Scenic/driving_model.scenic,0.39723604058
+/samples/Scenic/mars.scenic,0.39220855958
+/samples/Scheme/asteroids.sps,0.39904353158
+/samples/Scheme/basic.sld,0.39028375658
+/samples/Scheme/lambdastar.sls,0.59086520058
+/samples/Scheme/sboyer.sch,0.6066858485800001
+/samples/Scilab/scilab_function.sci,0.39337917358
+/samples/Scilab/scilab_script.sce,0.39215752558
+/samples/Scilab/scilab_test.tst,0.40939429458
+/samples/ShaderLab/DepthOfField.shader,0.5931462005800001
+/samples/ShaderLab/Fog.shader,0.6039345505800001
+/samples/ShaderLab/Uber.shader,0.5931044265800001
+/samples/Shell/99-bottles-of-beer,0.39746357058
+/samples/Shell/bash,0.39038701858
+/samples/Shell/build.command,0.39910226158
+/samples/Shell/busybox.trigger,0.39034257958
+/samples/Shell/filenames/.bash_aliases,0.39436936958
+/samples/Shell/filenames/.bash_functions,0.38956055058
+/samples/Shell/filenames/.bash_logout,0.39375513558
+/samples/Shell/filenames/.bash_profile,0.39320410158
+/samples/Shell/filenames/.bashrc,0.39742264458
+/samples/Shell/filenames/.cshrc,0.39202799758
+/samples/Shell/filenames/.envrc,0.38878732058
+/samples/Shell/filenames/.flaskenv,0.39081909658
+/samples/Shell/filenames/.kshrc,0.39428080658
+/samples/Shell/filenames/.login,0.38967945558
+/samples/Shell/filenames/.profile,0.39083811358
+/samples/Shell/filenames/.tmux.conf,0.39636322858
+/samples/Shell/filenames/.zlogin,0.39155909158
+/samples/Shell/filenames/.zlogout,0.39113615358
+/samples/Shell/filenames/.zprofile,0.39522996658
+/samples/Shell/filenames/.zshenv,0.39509297658
+/samples/Shell/filenames/.zshrc,0.39268886858
+/samples/Shell/filenames/9fs,0.39048178658
+/samples/Shell/filenames/PKGBUILD,0.39329860158
+/samples/Shell/filenames/bash_aliases,0.38953735658
+/samples/Shell/filenames/bash_logout,0.39408146358
+/samples/Shell/filenames/bash_profile,0.39168280458
+/samples/Shell/filenames/bashrc,0.39324181358
+/samples/Shell/filenames/cshrc,0.39467847358
+/samples/Shell/filenames/gradlew,0.39706630857999997
+/samples/Shell/filenames/kshrc,0.39102160258
+/samples/Shell/filenames/login,0.39276424758
+/samples/Shell/filenames/man,0.39529802858
+/samples/Shell/filenames/profile,0.39461858058
+/samples/Shell/filenames/tmux.conf,0.39173211458
+/samples/Shell/filenames/zlogin,0.39546511558
+/samples/Shell/filenames/zlogout,0.39437096758
+/samples/Shell/filenames/zprofile,0.39191281258
+/samples/Shell/filenames/zshenv,0.39387534758
+/samples/Shell/filenames/zshrc,0.38925677158
+/samples/Shell/invalid-shebang.sh,0.39580040058
+/samples/Shell/php.fcgi,0.39681092957999997
+/samples/Shell/plugin,0.39534161458
+/samples/Shell/rbenv-sh-shell.sh,0.39800279458
+/samples/Shell/robbyrussell.zsh-theme,0.39230892958
+/samples/Shell/rvm.bash,0.39553537858
+/samples/Shell/sbt,0.39519200258
+/samples/Shell/script.bash,0.39355091158
+/samples/Shell/script.sh,0.38868726758
+/samples/Shell/script.zsh,0.39133790058
+/samples/Shell/settime.cgi,0.39635586558
+/samples/Shell/sh,0.38869853458
+/samples/Shell/string-chopping,0.39393909658
+/samples/Shell/udev.trigger,0.39197167858
+/samples/Shell/valid-shebang.tool,0.40071405558
+/samples/Shell/zsh,0.39005511857999997
+/samples/ShellCheck Config/filenames/.shellcheckrc,0.39427896558
+/samples/ShellSession/dollar.sh-session,0.39508816658
+/samples/ShellSession/gem-install.sh-session,0.39484097658
+/samples/ShellSession/simple.sh-session,0.39254465258
+/samples/Shen/graph.shen,0.39671485958
+/samples/Shen/html.shen,0.39327308958
+/samples/Shen/json.shen,0.38941798858
+/samples/Sieve/dovecot-archive.sieve,0.39340561758
+/samples/Sieve/dovecot-flagging.sieve,0.39179595358
+/samples/Sieve/dovecot-headers.sieve,0.39785472258
+/samples/Sieve/dovecot-plus.sieve,0.38871358558
+/samples/Sieve/dovecot-spam1.sieve,0.39657885558
+/samples/Sieve/dovecot-spam2.sieve,0.39371803558
+/samples/Sieve/dovecot-spamtest.sieve,0.39549815858
+/samples/Sieve/dovecot-subaddress.sieve,0.39200423458
+/samples/Sieve/dovecot-vacation.sieve,0.39064840658
+/samples/Sieve/dovecot-virustest.sieve,0.39297140358
+/samples/Sieve/wikipedia-example.sieve,0.39143062358
+/samples/Simple File Verification/linguist.sfv,0.38943638358
+/samples/Simple File Verification/openbsd.sfv,0.39901535958
+/samples/Singularity/filenames/Singularity,0.39784866358
+/samples/Slash/brainfuck.sl,0.39061069358
+/samples/Slice/Murmur.ice,0.41411436358
+/samples/Slice/Test.ice,0.40799492458
+/samples/Slice/testSlice01.ice,0.41593647958
+/samples/Slim/sample.slim,0.39077719758
+/samples/Slint/iot-dashboard.slint,0.40112595158
+/samples/Slint/slide_puzzle.slint,0.39967809058
+/samples/Slint/todo.slint,0.39734584058
+/samples/SmPL/atomic_as_refcounter.cocci,0.39455124658
+/samples/Smali/ActionBarDrawerToggle.smali,0.40538507358
+/samples/Smali/DoodleMobileAnaylise.smali,0.41536278058
+/samples/Smali/ModernAsyncTask.smali,0.39871086758
+/samples/Smali/PenguinSprite.smali,0.40474771558
+/samples/Smali/Subject.smali,0.40036044558
+/samples/Smali/ViewDragHelper.smali,0.40875221058
+/samples/Smali/WbxmlSerializer.smali,0.40638079058
+/samples/Smalltalk/Booleans.cs,0.41314826658
+/samples/Smalltalk/Collections.cs,0.42091923258
+/samples/Smalltalk/Dinner.st,0.41483896258
+/samples/Smalltalk/TestBasic.st,0.40905410658
+/samples/Smalltalk/baselineDependency.st,0.40712326258
+/samples/Smalltalk/categories.st,0.41108689058
+/samples/Smalltalk/renderSeasideExampleOn..st,0.40478420558
+/samples/Smalltalk/scriptWithPragma.st,0.40570136758
+/samples/Smalltalk/smallMethod.st,0.40517712658
+/samples/Smalltalk/testSimpleChainMatches.st,0.41089866458
+/samples/Smithy/weather.smithy,0.39410829458
+/samples/Snakemake/filenames/Snakefile,0.39025933658
+/samples/Snakemake/snakemake-calling.smk,0.39488411158
+/samples/Snakemake/snakemake-mapping.smk,0.39412624958
+/samples/Snakemake/template.snakefile,0.39616019858
+/samples/Soong/filenames/Android.bp,0.39356503258
+/samples/SourcePawn/bhopstats.inc,0.41393535358
+/samples/SourcePawn/foo.sp,0.40678769158
+/samples/SourcePawn/shavit.inc,0.42242853658
+/samples/Squirrel/Squirrel.nut,0.39016737858
+/samples/Stan/congress.stan,0.39565538658
+/samples/Stan/dogs.stan,0.39477986458
+/samples/Stan/schools.stan,0.38949696958
+/samples/Standard ML/Foo.ML,0.41600631058
+/samples/Standard ML/Foo.sig,0.39882132057999997
+/samples/Standard ML/Foo.sml,0.39363961458
+/samples/Standard ML/RedBlackTree.fun,0.40161142058
+/samples/Standard ML/main.fun,0.41466674958
+/samples/Starlark/closure_js_binary.bzl,0.39730280658
+/samples/Starlark/drone.star,0.41327981558
+/samples/Starlark/filenames/BUCK,0.39070065458
+/samples/Starlark/filenames/BUILD,0.39544801758
+/samples/Starlark/filenames/BUILD.bazel,0.39517915758
+/samples/Starlark/filenames/MODULE.bazel,0.39859755458
+/samples/Starlark/filenames/Tiltfile,0.39097324558
+/samples/Starlark/filenames/WORKSPACE,0.39452053358
+/samples/Starlark/filenames/WORKSPACE.bazel,0.40367895958
+/samples/Starlark/filenames/WORKSPACE.bzlmod,0.39282557358
+/samples/Starlark/release.star,0.42460739458
+/samples/Stata/common.doh,0.39235235358
+/samples/Stata/hello.ado,0.39510133558
+/samples/Stata/include.ihlp,0.39533853058
+/samples/Stata/limits.matah,0.39360422058
+/samples/Stata/odkmeta.sthlp,0.39771411958
+/samples/Stata/regress_example.do,0.39707516758
+/samples/Stata/tanh.mata,0.39470400858
+/samples/StringTemplate/ApiOverviewPage.st,0.40873894858
+/samples/Stylus/demo.styl,0.39020080958
+/samples/SubRip Text/Adding.NCL.Language.S01E01.1080p.BluRay.x264.srt,0.41159915058
+/samples/SugarSS/sample.sss,0.39146793458
+/samples/SuperCollider/WarpPreset.sc,0.40651296158
+/samples/SuperCollider/WarpTate.sc,0.40847004858
+/samples/SuperCollider/WarpTrack.sc,0.41763151858
+/samples/SuperCollider/WarpUtil.sc,0.40949402658
+/samples/SuperCollider/example.scd,0.40854607158
+/samples/Svelte/TodoMVC.svelte,0.39112216158
+/samples/Sway/arrays.sw,0.41091246458
+/samples/Sway/generic_traits.sw,0.41105219058
+/samples/Sway/struct_fns.sw,0.40972665158
+/samples/Sway/supertraits.sw,0.40890897958
+/samples/Sway/wallet.sw,0.41267712058
+/samples/Sweave/knitr-beamer.Rnw,0.39239334958
+/samples/Sweave/knitr-minimal.Rnw,0.39732886458
+/samples/Swift/section-11.swift,0.39251615458
+/samples/Swift/section-13.swift,0.39000135158
+/samples/Swift/section-15.swift,0.38887421358
+/samples/Swift/section-17.swift,0.39133079758
+/samples/Swift/section-19.swift,0.39482588858
+/samples/Swift/section-21.swift,0.39428402058
+/samples/Swift/section-23.swift,0.39541861758
+/samples/Swift/section-25.swift,0.39051066258
+/samples/Swift/section-27.swift,0.38847320058
+/samples/Swift/section-29.swift,0.39114803658
+/samples/Swift/section-3.swift,0.39449860658
+/samples/Swift/section-31.swift,0.39534409457999997
+/samples/Swift/section-33.swift,0.39064251158
+/samples/Swift/section-35.swift,0.39184655658
+/samples/Swift/section-37.swift,0.39134552858
+/samples/Swift/section-39.swift,0.39143280358
+/samples/Swift/section-41.swift,0.39524004558
+/samples/Swift/section-43.swift,0.39172435358
+/samples/Swift/section-45.swift,0.39001265258
+/samples/Swift/section-47.swift,0.39466138358
+/samples/Swift/section-49.swift,0.39345431058
+/samples/Swift/section-5.swift,0.39143982258
+/samples/Swift/section-51.swift,0.39098822458
+/samples/Swift/section-53.swift,0.39004283558
+/samples/Swift/section-55.swift,0.39007899158
+/samples/Swift/section-57.swift,0.38961893058
+/samples/Swift/section-59.swift,0.39216883458
+/samples/Swift/section-61.swift,0.39037038158
+/samples/Swift/section-63.swift,0.38966965658
+/samples/Swift/section-65.swift,0.39241246858
+/samples/Swift/section-67.swift,0.39405062358
+/samples/Swift/section-69.swift,0.39113904858
+/samples/Swift/section-7.swift,0.38876400058
+/samples/Swift/section-71.swift,0.39464950658
+/samples/Swift/section-73.swift,0.39150172058
+/samples/Swift/section-75.swift,0.39474583758
+/samples/Swift/section-77.swift,0.39043468558
+/samples/Swift/section-79.swift,0.39142801658
+/samples/Swift/section-81.swift,0.39326506358
+/samples/Swift/section-83.swift,0.39063783358
+/samples/Swift/section-85.swift,0.38984140758
+/samples/Swift/section-87.swift,0.38994314758
+/samples/Swift/section-9.swift,0.39023420258
+/samples/SystemVerilog/endpoint_phy_wrapper.svh,0.39537897358
+/samples/SystemVerilog/fifo.sv,0.39142487958
+/samples/SystemVerilog/priority_encoder.sv,0.39129626658
+/samples/SystemVerilog/util.vh,0.39475603458
+/samples/TI Program/CIRCLES.8xp,0.39454368157999997
+/samples/TI Program/CLOCK.8xp,0.40273106858
+/samples/TI Program/cowsource.8xp,0.39431744558
+/samples/TI Program/srcalpha.8xp.txt,0.39318147858
+/samples/TI Program/srcfunc.8xp.txt,0.39230024858
+/samples/TI Program/srcgui.8xp.txt,0.39809647158
+/samples/TI Program/srcsort.8xp.txt,0.39031232158
+/samples/TL-Verilog/calculator_kernel.tlv,0.39224849958
+/samples/TL-Verilog/warp-v_config.tlv,0.39068846558
+/samples/TLA/AsyncInterface.tla,0.39323132158
+/samples/TLA/fifo.tla,0.38886622058
+/samples/TOML/filenames/Cargo.lock,0.40174734858
+/samples/TOML/filenames/Cargo.toml.orig,0.39366247258
+/samples/TOML/filenames/Gopkg.lock,0.39544507958
+/samples/TOML/filenames/Pipfile,0.38940307758
+/samples/TOML/filenames/pdm.lock,0.39763671858
+/samples/TOML/filenames/poetry.lock,0.40637362558
+/samples/TOML/filenames/uv.lock,0.39577880858
+/samples/TSPLIB data/att48.tsp,0.41247305858
+/samples/TSPLIB data/dantzig42.tsp,0.41282539958
+/samples/TSQL/cursor.sql,0.40717054658
+/samples/TSQL/logical.sql,0.41409777958
+/samples/TSQL/storedprocedure.sql,0.40993513258
+/samples/TSQL/uniqueidentifier.sql,0.40525718058
+/samples/TSV/input.tsv,0.38956748658
+/samples/TSV/merged1.vcf,0.41957046158
+/samples/TSV/z.vcf,0.40945597558
+/samples/TSX/import.tsx,0.41706684258
+/samples/TSX/react-native.tsx,0.41737548758
+/samples/TSX/require.tsx,0.42262141858
+/samples/TSX/triple-slash-reference.tsx,0.41605379158
+/samples/TXL/Cal.txl,0.38995774058
+/samples/Tact/deployable_counter.tact,0.40756608658
+/samples/Tact/jetton.tact,0.41124144258
+/samples/Talon/find_and_replace.talon,0.39179787558
+/samples/Talon/line_commands.talon,0.39701957858
+/samples/Tcl/constraints.sdc,0.39513641458
+/samples/Tcl/constraints.xdc,0.39136079458
+/samples/Tcl/filenames/owh,0.39058118958
+/samples/Tcl/filenames/starfield,0.38885415858
+/samples/Tcl/init.tcl.in,0.40148545058
+/samples/Tcl/stream-0.1.tm,0.39490357058
+/samples/Tcl/xdgbasedir-0.3.tm,0.39532889058
+/samples/Tcsh/regtest_nmmnest.csh,0.40944075658
+/samples/TeX/authortitle.cbx,0.39641741958
+/samples/TeX/beispiel.toc,0.40365957258
+/samples/TeX/english.lbx,0.39775272258
+/samples/TeX/perl.toc,0.40792833058
+/samples/TeX/problemset.cls,0.41165962258
+/samples/TeX/reedthesis.cls,0.41198095458
+/samples/TeX/verbose.bbx,0.39087770958
+/samples/Tea/foo.tea,0.39429266058
+/samples/Terra/arith.t,0.5916562565800001
+/samples/Terra/arrayt.t,0.58568064858
+/samples/Terra/benchmark_nbody.t,0.5927060325800001
+/samples/Terraform Template/donors.tftpl,0.39155709258
+/samples/Terraform Template/policy.tftpl,0.38921684558
+/samples/Texinfo/protocol-spec.texi,0.39956442758
+/samples/Text/aptitude-defaults.nb,0.6002607105800001
+/samples/Text/filenames/COPYING.regex,0.39615082458
+/samples/Text/filenames/LICENSE.mysql,0.40083814658
+/samples/Text/filenames/README.me,0.39477904058
+/samples/Text/filenames/README.mysql,0.39386094358
+/samples/Text/filenames/README.nss,0.39398983358
+/samples/Text/filenames/click.me,0.39456047658
+/samples/Text/filenames/delete.me,0.39329427858
+/samples/Text/filenames/keep.me,0.39419962458
+/samples/Text/filenames/package.mask,0.39431634158
+/samples/Text/filenames/package.use.mask,0.39581717258
+/samples/Text/filenames/package.use.stable.mask,0.39314855658
+/samples/Text/filenames/read.me,0.39510768858
+/samples/Text/filenames/readme.1st,0.39552945158
+/samples/Text/filenames/test.me,0.39657135958
+/samples/Text/filenames/use.mask,0.39446124258
+/samples/Text/filenames/use.stable.mask,0.38894004558
+/samples/Text/foo.txt,0.40947130658
+/samples/Text/mac.txt,0.41833676158
+/samples/Text/messages.fr,0.41083306558
+/samples/Text/min-help.ncl,0.41297810258
+/samples/Text/readme.txt,0.40960272158
+/samples/Text/rmMonAnnCycLLT-help.ncl,0.41284280558
+/samples/Text/tutor.nb,0.60075655358
+/samples/Text/tutor.no,0.39813888458
+/samples/Text/zonalAve-help.ncl,0.41227684358
+/samples/TextGrid/part_of_speech.TextGrid,0.39616606858
+/samples/TextGrid/three_tiers.TextGrid,0.38957892058
+/samples/TextGrid/words.TextGrid,0.38953094458
+/samples/TextMate Properties/filenames/.tm_properties,0.39860654858
+/samples/Thrift/linguist.thrift,0.40115667858
+/samples/Toit/chatbot.toit,0.39630259958
+/samples/Toit/logger.toit,0.39884967658
+/samples/Toit/one_wire.toit,0.39417998458
+/samples/Turing/BlockTower.t,0.41257570958
+/samples/Turing/simplegame.t,0.41580105158
+/samples/Turing/start.t,0.41131426458
+/samples/Turing/turing.t,0.40446561758
+/samples/Turtle/gnd-record.ttl,0.39885413158
+/samples/Turtle/rdf-syntax-grammar.ttl,0.39298822258
+/samples/Type Language/builtin.tl,0.39112646758
+/samples/Type Language/scheme.tl,0.40272192058
+/samples/TypeScript/cache.ts,0.41422581558
+/samples/TypeScript/classes.ts,0.40934342558
+/samples/TypeScript/conditionParser.mts,0.39082815558
+/samples/TypeScript/hello.ts,0.40675867158
+/samples/TypeScript/promisified_cp.cts,0.39417756558
+/samples/TypeScript/proto.ts,0.41698095158
+/samples/TypeSpec/json-schema.tsp,0.41186353958
+/samples/TypeSpec/petstore.tsp,0.40800001158
+/samples/Typst/fiction.typ,0.41420798158
+/samples/Typst/letter.typ,0.41384860958
+/samples/Unity3D Asset/GapTile.mat,0.39332185758
+/samples/Unity3D Asset/Hover.anim,0.39371880758
+/samples/Unity3D Asset/Tiles.meta,0.39749669258
+/samples/Unity3D Asset/TimeManager.asset,0.39028770158
+/samples/Unity3D Asset/canvas_Fullscreen_Fader.prefab,0.39695546258
+/samples/Unity3D Asset/handFingers.mask,0.41358055758
+/samples/Unix Assembly/gemm_kernel_1x4.S,0.41624804458
+/samples/Unix Assembly/hello.ms,0.40810690658
+/samples/Unix Assembly/hello.s,0.40826518958
+/samples/Unix Assembly/support.S,0.59608009658
+/samples/Uno/PlayerPads.uno,0.39548785858
+/samples/Uno/Pong.uno,0.39149124358
+/samples/Uno/TowerBlock.uno,0.39662577958
+/samples/UnrealScript/MutU2Weapons.uc,0.40356756858
+/samples/UnrealScript/US3HelloWorld.uc,0.39307071158
+/samples/UrWeb/iso8601.ur,0.39271201258
+/samples/UrWeb/parse.urs,0.39596187958
+/samples/V/json.v,0.40790430158
+/samples/V/links_scraper.v,0.40470289658
+/samples/V/log.v,0.40389183758
+/samples/V/loop.v,0.40966105258
+/samples/V/nbody.v,0.41169679658
+/samples/V/news_fetcher.v,0.40878316758
+/samples/V/rune.v,0.41462499558
+/samples/V/spectral.v,0.41393182958
+/samples/V/terminal_control.v,0.41325887158
+/samples/VBA/ErrorHandling.bas,0.41474402858
+/samples/VBA/QuickCards.bas,0.41444321558
+/samples/VBA/WorkbookReporter.cls,0.41454395858
+/samples/VBA/WorksheetView.cls,0.41494066058
+/samples/VBA/d_WordCmds.bas,0.41670091858
+/samples/VBA/dictionary.cls,0.41381970458
+/samples/VBA/frmConvert.frm,0.41350334458
+/samples/VBA/procedures.vba,0.41424566458
+/samples/VBA/specs.bas,0.41796077958
+/samples/VBA/stdSaveHandler.frm,0.41553457358
+/samples/VBScript/v_Data_ArrayList.vbs,0.39053063458
+/samples/VCL/varnish2_default.vcl,0.39128354558
+/samples/VCL/varnish3_default.vcl,0.39970647958
+/samples/VHDL/foo.vhd,0.39007412258
+/samples/Valve Data Format/gameinfo.vdf,0.39017286058
+/samples/Velocity Template Language/Mutation.updatePic.req.vtl,0.39134794858
+/samples/Velocity Template Language/gateway-dynamo.vtl,0.39114814458
+/samples/Velocity Template Language/index.vtl,0.39624308258
+/samples/Verilog/button_debounce.v,0.41440704258
+/samples/Verilog/control.v,0.41490709658
+/samples/Verilog/hex_display.v,0.40988618358
+/samples/Verilog/mux.v,0.41020023458
+/samples/Verilog/pipeline_registers.v,0.41390685558
+/samples/Verilog/ps2_mouse.v,0.41323606958
+/samples/Verilog/ram.v,0.41860526658
+/samples/Verilog/sha-256-functions.v,0.41451292658
+/samples/Verilog/sign_extender.v,0.41391817458
+/samples/Verilog/sqrt_pipelined.v,0.41104200958
+/samples/Verilog/t_button_debounce.v,0.41387700658
+/samples/Verilog/t_div_pipelined.v,0.41435683658
+/samples/Verilog/t_sqrt_pipelined.v,0.41645572658
+/samples/Verilog/vga.v,0.41483257158
+/samples/Vim Help File/modeline.txt,0.39145882258
+/samples/Vim Script/filenames/.exrc,0.39428953758
+/samples/Vim Script/filenames/.gvimrc,0.39496418058
+/samples/Vim Script/filenames/.nvimrc,0.39530773858
+/samples/Vim Script/filenames/.vimrc,0.39331470458
+/samples/Vim Script/filenames/_vimrc,0.39184316658
+/samples/Vim Script/settings.vimrc,0.39293992458
+/samples/Vim Script/solarized.vim,0.40899956458
+/samples/Vim Script/textobj-rubyblock.vba,0.42184671058
+/samples/Vim Script/todo.vmb,0.39383664658
+/samples/Vim Snippet/vim.snip,0.39557682858
+/samples/Vim Snippet/vim.snippets,0.39363049358
+/samples/Visual Basic .NET/Index.vbhtml,0.39462659858
+/samples/Visual Basic .NET/Module1.vb,0.39618817558
+/samples/Visual Basic .NET/VBAllInOne.vb,0.40732019758
+/samples/Visual Basic 6.0/Adjustments_BlackAndWhite.frm,0.41072869358
+/samples/Visual Basic 6.0/DataReport1.Dsr,0.39943781058
+/samples/Visual Basic 6.0/Module1.bas,0.41838610958
+/samples/Visual Basic 6.0/Module2.bas,0.41857156458
+/samples/Visual Basic 6.0/UIListBox.ctl,0.39880473358
+/samples/Visual Basic 6.0/Wizard.Dsr,0.39459565458
+/samples/Visual Basic 6.0/cApplication.cls,0.41491751258
+/samples/Visual Basic 6.0/clsDataPack.cls,0.41470624458
+/samples/Visual Basic 6.0/clsMenuImage.cls,0.41286753058
+/samples/Visual Basic 6.0/frmProcMan.frm,0.41365985158
+/samples/Visual Basic 6.0/modFrm.bas,0.40766313458
+/samples/Volt/tesla.volt,0.39273616358
+/samples/Vue/basic.vue,0.39377864258
+/samples/Vue/pre-processors.vue,0.39459934458
+/samples/Vyper/ERC20.vy,0.39192574158
+/samples/Vyper/ERC721.vy,0.39430691757999997
+/samples/Vyper/ballot.vy,0.39991994758
+/samples/Vyper/crowdfund.vy,0.39490047458
+/samples/Vyper/name_registry.vy,0.39443564858
+/samples/WDL/fq.wdl,0.40189288758
+/samples/WDL/hello.wdl,0.39539156658
+/samples/WDL/ifs_in_scatters.wdl,0.39091809058
+/samples/WDL/passingfiles.wdl,0.39430553258
+/samples/WGSL/animate_shader.wgsl,0.38952103558
+/samples/Wavefront Material/dice.mtl,0.39015523058
+/samples/Wavefront Material/ripple.mtl,0.39156000058
+/samples/Wavefront Material/shapes.mtl,0.39038451258
+/samples/Wavefront Material/spline.mtl,0.39210382858
+/samples/Wavefront Object/dice.obj,0.38950785658
+/samples/Wavefront Object/random.obj,0.39664017658
+/samples/Wavefront Object/ripple.obj,0.39492142758
+/samples/Wavefront Object/shapes.obj,0.40564108358
+/samples/Wavefront Object/spline.obj,0.39665890958
+/samples/Web Ontology Language/sample.owl,0.42218803758
+/samples/WebAssembly Interface Type/wasi-io.wit,0.39614713258
+/samples/WebAssembly/add.wat,0.39969358458
+/samples/WebAssembly/fibonacci.wat,0.39098099858
+/samples/WebAssembly/imported-min.wast,0.39181656458
+/samples/WebAssembly/local-cse.wast,0.39754641758
+/samples/WebAssembly/print.wat,0.38972557758
+/samples/WebAssembly/remove-unused-brs_shrink-level=1_ignore-implicit-traps.wast,0.39609896658
+/samples/WebIDL/AnimationEvent.webidl,0.39473784658
+/samples/WebIDL/Fetch.webidl,0.39509430058
+/samples/WebVTT/Godfather-Restaurant-Scene.vtt,0.39459595258
+/samples/WebVTT/Russian-Sleep-Experiment.vtt,0.39739656557999997
+/samples/WebVTT/example.vtt,0.39145025858
+/samples/Wget Config/filenames/.wgetrc,0.39698453358
+/samples/Whiley/conway.whiley,0.39568795458
+/samples/Whiley/minesweeper.whiley,0.39027515358
+/samples/Whiley/option.whiley,0.39732429358
+/samples/Wikitext/README.wiki,0.39609320158
+/samples/Wikitext/mediawiki.mediawiki,0.39311576257999997
+/samples/Win32 Message File/logmess.mc,0.41144653158
+/samples/Windows Registry Entries/sample.reg,0.39239982858
+/samples/Witcher Script/achievement_stats.ws,0.39463652758
+/samples/Witcher Script/npc_interaction.ws,0.39169450758
+/samples/Wollok/pepita.wlk,0.40556982858
+/samples/Wollok/piratas.wlk,0.39921599858
+/samples/World of Warcraft Addon Data/addon.toc,0.41094729558
+/samples/World of Warcraft Addon Data/lingua.toc,0.40576879858
+/samples/World of Warcraft Addon Data/linguist.toc,0.41043649458
+/samples/Wren/main.wren,0.39894334558
+/samples/X BitMap/image.xbm,0.39074840058
+/samples/X Font Directory Index/filenames/encodings.dir,0.39456035958
+/samples/X Font Directory Index/filenames/fonts.alias,0.39707774558
+/samples/X Font Directory Index/filenames/fonts.dir,0.39600990458
+/samples/X Font Directory Index/filenames/fonts.scale,0.40097857258
+/samples/X PixMap/cc-public_domain_mark_white.pm,0.41761423058
+/samples/X PixMap/stick-unfocus.xpm,0.39406381458
+/samples/X10/ArraySum.x10,0.39078253458
+/samples/X10/Cancellation.x10,0.39212283658
+/samples/X10/Fibonacci.x10,0.39635675358
+/samples/X10/HeatTransfer_v0.x10,0.39687743558
+/samples/X10/HeatTransfer_v1.x10,0.39309322458
+/samples/X10/HelloWholeWorld.x10,0.39165858358
+/samples/X10/HelloWorld.x10,0.39405728458
+/samples/X10/Histogram.x10,0.39829197458
+/samples/X10/Integrate.x10,0.39157710258
+/samples/X10/KMeans.x10,0.39160673458
+/samples/X10/KMeansDist.x10,0.39049969058
+/samples/X10/KMeansDistPlh.x10,0.39883789658
+/samples/X10/KMeansSPMD.x10,0.39635803958
+/samples/X10/MontyPi.x10,0.39423080558
+/samples/X10/NQueensDist.x10,0.39398955158
+/samples/X10/NQueensPar.x10,0.39704316558
+/samples/X10/QSort.x10,0.39199548558
+/samples/X10/StructSpheres.x10,0.39791922058
+/samples/XC/main.xc,0.39235645058
+/samples/XCompose/filenames/XCompose,0.39989195758
+/samples/XML Property List/And.tmSnippet,0.39025122458
+/samples/XML Property List/Completion.tmCommand,0.39845230358
+/samples/XML Property List/Folding.tmPreferences,0.39676142358
+/samples/XML Property List/Man.tmLanguage,0.39465665358
+/samples/XML Property List/SpaceCadet.tmTheme,0.39731867458
+/samples/XML Property List/ff-man.plist,0.41012621858
+/samples/XML Property List/info.min.plist,0.40732822958
+/samples/XML Property List/info.plist,0.40522266958
+/samples/XML Property List/man.plist,0.41081941558
+/samples/XML Property List/widget.stTheme,0.39505386158
+/samples/XML/01_top.ncl,0.40606174558
+/samples/XML/Application.xib,0.39503559658
+/samples/XML/CSharpVSPackage.vstemplate,0.39460005158
+/samples/XML/Case.workflow,0.5900010585800001
+/samples/XML/Default.props,0.39207012458
+/samples/XML/Demo.sfproj,0.39345952458
+/samples/XML/Example.mdpolicy,0.39515142258
+/samples/XML/Example.mojo,0.40901450758
+/samples/XML/FXMLSample.fxml,0.38998709858
+/samples/XML/GMOculus.project.gmx,0.40185486358
+/samples/XML/HITSP_C32.sch,0.5911797695800001
+/samples/XML/JSBrowser.jsproj,0.39339861958
+/samples/XML/MDM.adml,0.39198897058
+/samples/XML/MDM.admx,0.39218785958
+/samples/XML/MainView.axaml,0.39183895558
+/samples/XML/MainView.ux,0.39638105758
+/samples/XML/MyApp.ux,0.39421907458
+/samples/XML/NDepends_Example.ndproj,0.39456571358
+/samples/XML/Storyboard.storyboard,0.39198497358
+/samples/XML/Strings.resx,0.39213523658
+/samples/XML/System.Buffers.pkgproj,0.39537637558
+/samples/XML/WebElement.rs,0.40250822058
+/samples/XML/XmlIO.pluginspec,0.58672066958
+/samples/XML/battlescribe.gst,0.5854330655800001
+/samples/XML/chrome.natvis,0.39332469758
+/samples/XML/cloudconfig.cscfg,0.39921417358
+/samples/XML/clouddef.csdef,0.39163271658
+/samples/XML/configdef.cscfg,0.38839392958
+/samples/XML/csproj-sample.csproj,0.39616227458
+/samples/XML/demo.hzp,0.40199170558
+/samples/XML/dependency-example.depproj,0.39448051258
+/samples/XML/example-sharedproj.shproj,0.39247977858
+/samples/XML/example.ccproj,0.39329685458
+/samples/XML/example.typ,0.40573096658
+/samples/XML/filenames/.cproject,0.40068902958
+/samples/XML/fsproj-sample.fsproj,0.39496172658
+/samples/XML/holobloc-sample.res,0.60062074858
+/samples/XML/intellij.iml,0.39732396558
+/samples/XML/libsomething.dll.config,0.39658534758
+/samples/XML/main.ncl,0.40692077458
+/samples/XML/module.ant,0.39092819658
+/samples/XML/module.ivy,0.39265201158
+/samples/XML/msbuild-example.proj,0.39643974458
+/samples/XML/namespace-strict.sch,0.5941639265800001
+/samples/XML/net_docfile.xml,0.40453560158
+/samples/XML/nproj-sample.nproj,0.39308298558
+/samples/XML/oasis-table.sch,0.5951135015800001
+/samples/XML/obj_control.object.gmx,0.39499092258
+/samples/XML/phpunit.xml.dist,0.39141934658
+/samples/XML/point-3.1.gml,0.40555950558
+/samples/XML/point-3.2.gml,0.40570039758
+/samples/XML/psd-data.xmp,0.38973888958
+/samples/XML/pt_BR.ts,0.40826117158
+/samples/XML/pt_BR.xml,0.39391006858
+/samples/XML/racoon.mjml,0.39665378758
+/samples/XML/real-estate.mjml,0.39994057158
+/samples/XML/receiver.ncl,0.40558870158
+/samples/XML/sample.csl,0.41749882258
+/samples/XML/sample.nuspec,0.39058268858
+/samples/XML/sample.targets,0.39012581558
+/samples/XML/some-ideas.mm,0.5929743525800001
+/samples/XML/source.extension.vsixmanifest,0.38961108958
+/samples/XML/src.builds,0.39046314558
+/samples/XML/switch-configuration-example.sw,0.40584027558
+/samples/XML/tei-odd-sample.odd,0.40618797758
+/samples/XML/translation_en3.ts,0.40944644658
+/samples/XML/vbproj-sample.vbproj,0.39528313358
+/samples/XML/vcxproj-sample.vcxproj,0.39366744057999997
+/samples/XML/vcxproj-sample.vcxproj.filters,0.39170186858
+/samples/XML/water.tsx,0.41538785358
+/samples/XML/wixdemo.wixproj,0.38999147958
+/samples/XML/xhtml-struct-1.mod,0.41451841158
+/samples/XML/xquery-tutorial.xspec,0.39156077258
+/samples/XPages/navbar.xsp-config,0.39446651558
+/samples/XPages/navbar.xsp.metadata,0.39408160258
+/samples/XProc/xproc.xpl,0.39632344458
+/samples/XQuery/xproc.xqm,0.39663094858
+/samples/XS/CommonMark.xs,0.40927213458
+/samples/XSLT/test.xslt,0.39275688958
+/samples/Xojo/App.xojo_code,0.39832850358
+/samples/Xojo/BillingReport.xojo_report,0.39201969658
+/samples/Xojo/MainMenuBar.xojo_menu,0.39318130358
+/samples/Xojo/MyToolbar.xojo_toolbar,0.38891951758
+/samples/Xojo/Window1.xojo_window,0.40070266658
+/samples/Xojo/database.xojo_script,0.38808581258
+/samples/Xonsh/rever.xsh,0.39305257658
+/samples/Xtend/BasicExpressions.xtend,0.39524745858
+/samples/Xtend/Movies.xtend,0.39150068558
+/samples/YAML/229Q.yaml,0.41458863058
+/samples/YAML/Ansible.YAML-tmLanguage,0.39477586158
+/samples/YAML/HexInspect.sublime-syntax,0.39127296058
+/samples/YAML/coredns.yaml.sed,0.39875206958
+/samples/YAML/database.yml.mysql,0.39507314458
+/samples/YAML/expected-floating-point-literal.mir,0.39744606258
+/samples/YAML/filenames/.clang-format,0.39351978758
+/samples/YAML/filenames/.clang-tidy,0.39449929158
+/samples/YAML/filenames/.clangd,0.39633923158
+/samples/YAML/filenames/.gemrc,0.39469022058
+/samples/YAML/filenames/CITATION.cff,0.39188827857999997
+/samples/YAML/filenames/glide.lock,0.39606839858
+/samples/YAML/filenames/pixi.lock,0.40004565258
+/samples/YAML/filenames/yarn.lock,0.39638380058
+/samples/YAML/source.r-console.syntax,0.39151929558
+/samples/YAML/vcr_cassette.yml,0.41190644758
+/samples/YANG/sfc-lisp-impl.yang,0.39139560558
+/samples/YARA/OfExample.yar,0.39084452458
+/samples/YARA/example.yara,0.39323484658
+/samples/YARA/true.yar,0.38961266958
+/samples/YASnippet/font-face.yasnippet,0.39320514357999997
+/samples/YASnippet/stdin.yasnippet,0.39697733958
+/samples/Yacc/calc.yy,0.41087160358
+/samples/Yul/contract.yul,0.39494728258
+/samples/Yul/erc20.yul,0.39996538358
+/samples/ZAP/planetfall.zap,0.39219138358
+/samples/ZIL/misc.zil,0.40119910658
+/samples/Zeek/example.zeek,0.39593798758
+/samples/Zeek/main.bro,0.40149785458
+/samples/Zeek/main.zeek,0.39595258158
+/samples/ZenScript/sample.zs,0.39842787958
+/samples/Zephir/Cblock.zep,0.39499421858
+/samples/Zephir/Router.zep,0.39455248358
+/samples/Zig/build.zig.zon,0.39391955458
+/samples/Zig/cat.zig,0.39562640958
+/samples/Zig/guess_number.zig,0.39092973258
+/samples/Zig/hello.zig,0.39510802458
+/samples/Zimpl/sample.zmpl,0.40069468558
+/samples/cURL Config/filenames/.curlrc,0.40224096658
+/samples/crontab/filenames/crontab,0.39465715258
+/samples/desktop/example.desktop,0.39494895858
+/samples/desktop/nebula.service,0.38829526758
+/samples/dircolors/sample.dircolors,0.39671991458
+/samples/eC/Designer.ec,0.39702828058
+/samples/edn/bigger-than-pluto.edn,0.39556346058
+/samples/fish/config.fish,0.39462349558
+/samples/fish/eval.fish,0.38962916058
+/samples/fish/funced.fish,0.39571378558
+/samples/hoon/canvas.hoon,0.40126522558
+/samples/hoon/eyre.hoon,0.41530400458
+/samples/iCalendar/2024.ics,0.39067970858
+/samples/iCalendar/todo-2.ical,0.39301935558
+/samples/jq/builtin.jq,0.6071034765800001
+/samples/jq/sample.jq,0.58599863358
+/samples/kvlang/showcase.kv,0.39504545758
+/samples/mIRC Script/AutoHostmeBot.mrc,0.40096165258
+/samples/mIRC Script/torncity-apiprofile.mrc,0.39895228858
+/samples/mIRC Script/torncity-tcbot.mrc,0.42042365158
+/samples/mIRC Script/torncity-tsspy.mrc,0.40079741958
+/samples/mcfunction/showcase.mcfunction,0.39730009358
+/samples/nanorc/filenames/.nanorc,0.40236424658
+/samples/nanorc/filenames/nanorc,0.39609250758
+/samples/nanorc/nanorc.nanorc,0.39199816858
+/samples/omnetpp-msg/GptpPacket.msg,0.41821208958
+/samples/omnetpp-msg/TcpConnection.msg,0.41164978258
+/samples/omnetpp-msg/TcpConnectionState.msg,0.41648237158
+/samples/omnetpp-ned/IWirelessInterface.ned,0.39862612658
+/samples/omnetpp-ned/Ieee80211Interface.ned,0.39787960458
+/samples/omnetpp-ned/TsnNetworkBase.ned,0.38873288858
+/samples/q/ml.q,0.41246421658
+/samples/q/tq.q,0.40686043458
+/samples/reStructuredText/HACKING.rst.txt,0.39678462658
+/samples/robots.txt/filenames/robots.txt,0.39563659258
+/samples/sed/hanoi.sed,0.39668964557999997
+/samples/templ/posts.templ,0.39158155158
+/samples/vCard/forrest-gump.vcf,0.41337738958
+/samples/vCard/vcard.vcf,0.41246506558
+/samples/wisp/intro.wisp,0.39942571758
+/samples/xBase/sample.ch,0.40691273958
+/samples/xBase/sample.prg,0.39429707058
+/samples/xBase/sample.prw,0.39426636657999997
