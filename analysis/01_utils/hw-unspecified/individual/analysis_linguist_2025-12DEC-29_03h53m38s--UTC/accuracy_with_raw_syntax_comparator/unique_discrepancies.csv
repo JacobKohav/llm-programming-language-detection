@@ -1,5 +1,0 @@
-filename,tool_configuration,language,ground-truth
-/samples/Fstar/Hacl.HKDF.fst,linguist,F*,Fstar
-/samples/RenPy/example.rpy,linguist,Ren'Py,RenPy
-/samples/omnetpp-msg/TcpConnection.msg,linguist,OMNeT++ MSG,omnetpp-msg
-/samples/omnetpp-ned/TsnNetworkBase.ned,linguist,OMNeT++ NED,omnetpp-ned
