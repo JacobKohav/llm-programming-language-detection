@@ -12,4 +12,8 @@ Queue for topics and blog
 
 - [x] Describe why, approach, technique, etc.
 - [ ] Testing procedure
-- [ ] Results and analyses of initial utilities
+- [x] Results and analyses
+- [ ] Tests with initial utilities
+- [ ] Tests with StarCoder
+- [ ] LLM tests
+- [ ] LLMs vs. utilities
